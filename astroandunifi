@@ -44,6 +44,12 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 #EXTINF:-1 tvg-id="TV6" group-title="Testing Channel" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
+#EXTINF:-1 tvg-id="AstroRaniaHD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",112 Astro Rania
+http://starshare.live:8080/live/449988/449988/5485.ts
+
+#EXTINF:-1 tvg-id="AstroAuraHD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",113 Astro Aura
+http://starshare.live:8080/live/449988/449988/5486.ts
+
 #EXTINF:-1 tvg-id="SalamHD" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",113 Salam HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MmE0YzU4OGQtYTYyZS0zYTIyLWI4NDEtMzNiMmNiN2Q5NjJi
@@ -448,13 +454,13 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6736
 
 #EXTINF:-1 tvg-id="TutorTVPT3" tvg-logo="https://i.kampung.xyz/c/f9ace6ddfb93062e.png" group-title="Education",602 Astro Tutor TV PT3
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6734
+http://starshare.live:8080/live/449988/449988/18946.ts
 
 #EXTINF:-1 tvg-id="TutorTVSPM" tvg-logo="https://i.kampung.xyz/c/450e9b4f3fca408b.png" group-title="Education",603 Astro Tutor TV SPM
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6735
+http://starshare.live:8080/live/449988/449988/18947.ts
 
 #EXTINF:-1 tvg-id="AstroTVIQ" tvg-logo="https://i.kampung.xyz/c/6fb2bb374fc7edc8.png" group-title="Education",610 Astro TVIQ
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6737
+http://starshare.live:8080/live/449988/449988/18949.ts
 
 #EXTINF:-1 tvg-id="AstroCeriaHD" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
