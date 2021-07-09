@@ -28,17 +28,16 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroCitraHD" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
 
 #EXTINF:-1 tvg-id="NauraHD" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",109 Naura
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-# https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
+# http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
 
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" tvg-logo="https://mediahomes.github.io/logos/sukan.png",111 Sukan RTM
 https://rtmSportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
 #EXTINF:-1 tvg-id="GOSHOP111" group-title="Free Channels" tvg-logo="https://i.kampung.xyz/c/20d0f2053da42ed2.png",111 Go Shop
-
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 
 #EXTINF:-1 tvg-id="TV6" group-title="Testing Channel" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
@@ -53,11 +52,6 @@ http://iptv.tvmalaysia.cc:80/624850/624850/6713
 #EXTINF:-1 tvg-id="SalamHD" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",113 Salam HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MmE0YzU4OGQtYTYyZS0zYTIyLWI4NDEtMzNiMmNiN2Q5NjJi
-http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd
-
-#EXTINF:-1 tvg-id="SalamHD" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",113 Salam HD (Backup)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YzM1MzY2ODEtNmRhMC0zMjk1LTgwMDQtNTA5YWM1Yzk4NDdj
 http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd
 
 #EXTINF:-1 tvg-id="Al-Hijrah" group-title="Free Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/TV_Alhijrah_logo.png/revision/latest?cb=20200525150012",114 TV AlHijrah HD
@@ -75,23 +69,17 @@ http://1.9.62.158/PLTV/88888888/224/3221227504/3221227504.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MmE0YzU4OGQtYTYyZS0zYTIyLWI4NDEtMzNiMmNiN2Q5NjJi
 http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd
 
-#EXTINF:-1 tvg-id="HyppSensasiHD" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png",116 Hypp Sensasi HD (Backup)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YzM1MzY2ODEtNmRhMC0zMjk1LTgwMDQtNTA5YWM1Yzk4NDdj
-http://1.9.15.104/PLTV/88888888/224/3221227598/3221227598.mpd
 
 #EXTINF:-1 tvg-id="HyppInspirasiHD" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071701239brh.png",118 Hypp Inspirasi HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MmE0YzU4OGQtYTYyZS0zYTIyLWI4NDEtMzNiMmNiN2Q5NjJi
 http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd
 
-#EXTINF:-1 tvg-id="HyppInspirasiHD" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071701239brh.png",118 Hypp Inspirasi HD (Backup)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YzM1MzY2ODEtNmRhMC0zMjk1LTgwMDQtNTA5YWM1Yzk4NDdj
-http://1.9.15.104/PLTV/88888888/224/3221227601/3221227601.mpd
-
 #EXTINF:-1 tvg-id="RUUMA" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/GO_Shop_GAAYA.png/revision/latest/scale-to-width-down/450?cb=20200527075101",118 Go Shop RUUMA
 https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
+
+#EXTINF:-1 tvg-id="GAAYA" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/GO_Shop_RUUMA.png/revision/latest?cb=20200527075126",120 Go Shop GAAYA 
+http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVS" group-title="Free Channels" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",122 TVS
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
