@@ -69,7 +69,6 @@ http://1.9.62.158/PLTV/88888888/224/3221227504/3221227504.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MmE0YzU4OGQtYTYyZS0zYTIyLWI4NDEtMzNiMmNiN2Q5NjJi
 http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd
 
-
 #EXTINF:-1 tvg-id="HyppInspirasiHD" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071701239brh.png",118 Hypp Inspirasi HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MmE0YzU4OGQtYTYyZS0zYTIyLWI4NDEtMzNiMmNiN2Q5NjJi
@@ -244,7 +243,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227538/3221227538.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd
 
 #EXTINF:-1 tvg-id="KBSWorldHD" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png", 392 KBS World HD
-http://iptv.tvmalaysia.cc:80/624850/624850/6803
+# http://iptv.tvmalaysia.cc:80/624850/624850/6803
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16363
 
 #EXTINF:-1 tvg-id="ONEHD" group-title="Korean" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",393 ONE HD 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -252,7 +252,7 @@ http://iptv.tvmalaysia.cc:80/624850/624850/6803
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTINF:-1 tvg-id="OhKHD" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png",394 Oh!K HD 
-http://iptv.tvmalaysia.cc:80/624850/624850/6726
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvNHD" group-title="Korean" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png",395 tvN HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
