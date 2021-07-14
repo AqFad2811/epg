@@ -84,7 +84,7 @@ http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
 #EXTINF:-1 tvg-id="AweseomeTV" group-title="Free Channels" tvg-logo="https://i.kampung.xyz/c/27df4005c55fe9dc.png",123 Awesome TV
-https://iptv.kampung.xyz/ch/live/awesome.m3u8
+http://51.79.208.146:61980/myplay/c_58014/index.m3u8
 
 #EXTINF:-1 tvg-id="BERITARTM" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757",123 Berita RTM
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
@@ -97,11 +97,6 @@ http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 #EXTINF:-1 tvg-id="PesonaHD" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png",141 Pesona HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MmE0YzU4OGQtYTYyZS0zYTIyLWI4NDEtMzNiMmNiN2Q5NjJi
-http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
-
-#EXTINF:-1 tvg-id="PesonaHD" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png",141 Pesona HD (Backup)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://iptv.kampung.xyz/352870fcac48e518b61ae22689642247
 http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
 
 #EXTINF:-1 tvg-id="TVOkey" group-title="Free Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",146 OKEY
@@ -243,8 +238,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227538/3221227538.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd
 
 #EXTINF:-1 tvg-id="KBSWorldHD" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png", 392 KBS World HD
-# http://iptv.tvmalaysia.cc:80/624850/624850/6803
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16363
+http://iptv.tvmalaysia.cc:80/624850/624850/6803
+# http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16363
 
 #EXTINF:-1 tvg-id="ONEHD" group-title="Korean" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",393 ONE HD 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
