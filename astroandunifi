@@ -112,7 +112,8 @@ https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd
 
 #EXTINF:-1 tvg-id="NTV7" group-title="Free Channels" tvg-logo="https://didik.tv/images/logotv2.png",147 DidikTV KPM (Backup)
-https://mediahomes.github.io/assets/my/ch_ntv7.m3u8
+# https://mediahomes.github.io/assets/my/ch_ntv7.m3u8
+https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08ryJKkkWDXh7hcwpwozDM0k)/dm/3/x7a7rxp/s/live-2.m3u8
 
 #EXTINF:-1 tvg-id="8TV" group-title="Free Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/8TV_my2018.png/revision/latest?cb=20200525120403",148 8TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
