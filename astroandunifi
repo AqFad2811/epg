@@ -1,6 +1,6 @@
 #EXTINF:-1 tvg-id="TV1HD" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",101 TV1
-https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-# https://rtmlive01.secureswiftcontent.com/rtm/live01_1080.m3u8
+# https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+https://rtmlive01.secureswiftcontent.com/rtm/live01_1080.m3u8
 
 #EXTINF:-1 tvg-id="TV2" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",102 TV2
 https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
@@ -694,3 +694,12 @@ http://iptv.tvmalaysia.cc:80/624850/624850/7174
 
 #EXTINF:-1, group-title="Online TV" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GEM" group-title="Sirius TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/200?cb=20201126072306",GEM
+http://210.210.155.35/uq2663/h/h19/index.m3u8
+
+#EXTINF:-1 tvg-id="OutdoorChannel" group-title="Sirius TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg/revision/latest?cb=20170428060035",Outdoor Channel
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TechStorm" group-title="Sirius TV" tvg-logo="https://siriusmalaysia.tv/wp-content/uploads/2021/03/techstorm-1.png",TechStorm
+http://streamku.live:8888/live/sabtugratis/empirestream/950.ts
