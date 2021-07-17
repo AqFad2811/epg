@@ -33,8 +33,9 @@ http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
 
 #EXTINF:-1 tvg-id="NauraHD" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",109 Naura
-# http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+# https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
+
 
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" tvg-logo="https://mediahomes.github.io/logos/sukan.png",111 Sukan RTM
 https://rtmSportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
@@ -137,7 +138,8 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227560/3221227560.mpd
 
 #EXTINF:-1 tvg-id="AstroVaanavilHD" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest?cb=20200531231529",201 Astro Vaanavil
-https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
+# https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
+http://iptv.tvmalaysia.cc:80/737373/737373/6738
 
 #EXTINF:-1 tvg-id="AstroVinmeenHD" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen HD
 http://iptv.tvmalaysia.cc:80/624850/624850/6739
