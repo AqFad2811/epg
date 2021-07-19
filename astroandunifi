@@ -1,6 +1,6 @@
 #EXTINF:-1 tvg-id="TV1HD" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",101 TV1
-https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-# https://rtmlive01.secureswiftcontent.com/rtm/live01_1080.m3u8
+# https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+https://rtmlive01.secureswiftcontent.com/rtm/live01_1080.m3u8
 
 #EXTINF:-1 tvg-id="TV2" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",102 TV2
 https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
@@ -256,8 +256,8 @@ http://iptv.tvmalaysia.cc:80/737373/737373/6705
 http://iptv.tvmalaysia.cc:80/737373/737373/6706
 
 #EXTINF:-1 tvg-id="KBSWorldHD" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png", 392 KBS World HD
-http://iptv.tvmalaysia.cc:80/624850/624850/6803
-# http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16363
+# http://iptv.tvmalaysia.cc:80/624850/624850/6803
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16363
 
 #EXTINF:-1 tvg-id="ONEHD" group-title="Korean" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",393 ONE HD 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -458,16 +458,16 @@ https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #EXTINF:-1 tvg-id="TutorTVSK" group-title="Education" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/TutorTVSK.png/revision/latest?cb=20210614003048",601 Astro Tutor TV SK
-http://iptv.tvmalaysia.cc:80/624850/624850/6736
+http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18948.ts
 
 #EXTINF:-1 tvg-id="TutorTVPT3" tvg-logo="https://i.kampung.xyz/c/f9ace6ddfb93062e.png" group-title="Education",602 Astro Tutor TV PT3
-http://iptv.tvmalaysia.cc:80/624850/624850/6734
+http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18946.ts
 
 #EXTINF:-1 tvg-id="TutorTVSPM" tvg-logo="https://i.kampung.xyz/c/450e9b4f3fca408b.png" group-title="Education",603 Astro Tutor TV SPM
-http://iptv.tvmalaysia.cc:80/624850/624850/6735
+http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18947.ts
 
 #EXTINF:-1 tvg-id="AstroTVIQ" tvg-logo="https://i.kampung.xyz/c/6fb2bb374fc7edc8.png" group-title="Education",610 Astro TVIQ
-http://iptv.tvmalaysia.cc:80/624850/624850/6737
+http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18949.ts
 
 #EXTINF:-1 tvg-id="AstroCeriaHD" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
@@ -698,7 +698,7 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-id="GEM" group-title="Sirius TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/200?cb=20201126072306",GEM
 http://210.210.155.35/uq2663/h/h19/index.m3u8
 
-#EXTINF:-1 tvg-id="OutdoorChannel" group-title="Sirius TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest/scale-to-width-down/185?cb=20170428060444",Outdoor Channel
+#EXTINF:-1 tvg-id="OutdoorChannel" group-title="Sirius TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg/revision/latest/scale-to-width-down/250?cb=20170428060035",Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TechStorm" group-title="Sirius TV" tvg-logo="https://siriusmalaysia.tv/wp-content/uploads/2021/03/techstorm-1.png",TechStorm
