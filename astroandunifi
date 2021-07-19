@@ -459,17 +459,17 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #EXTINF:-1 tvg-id="TutorTVSK" group-title="Education" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/TutorTVSK.png/revision/latest?cb=20210614003048",601 Astro Tutor TV SK
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://starshare.live:8080/get.php?username=jSaVwHqR5j&password=VGBLMlyAQY&type=m3u_plus&output=ts
+#KODIPROP:inputstream.adaptive.license_key=http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC
 http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18948.ts
 
 #EXTINF:-1 tvg-id="TutorTVPT3" tvg-logo="https://i.kampung.xyz/c/f9ace6ddfb93062e.png" group-title="Education",602 Astro Tutor TV PT3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://starshare.live:8080/get.php?username=jSaVwHqR5j&password=VGBLMlyAQY&type=m3u_plus&output=ts
+#KODIPROP:inputstream.adaptive.license_key=http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC
 http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18946.ts
 
 #EXTINF:-1 tvg-id="TutorTVSPM" tvg-logo="https://i.kampung.xyz/c/450e9b4f3fca408b.png" group-title="Education",603 Astro Tutor TV SPM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://starshare.live:8080/get.php?username=jSaVwHqR5j&password=VGBLMlyAQY&type=m3u_plus&output=ts
+#KODIPROP:inputstream.adaptive.license_key=http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC
 http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18947.ts
 
 #EXTINF:-1 tvg-id="AstroTVIQ" tvg-logo="https://i.kampung.xyz/c/6fb2bb374fc7edc8.png" group-title="Education",610 Astro TVIQ
@@ -642,6 +642,8 @@ http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Astro SuperSport Plus HD 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC
 http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18934.ts
 
 #EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",811 Astro SuperSport HD 
