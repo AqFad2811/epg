@@ -458,23 +458,15 @@ https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #EXTINF:-1 tvg-id="TutorTVSK" group-title="Education" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/TutorTVSK.png/revision/latest?cb=20210614003048",601 Astro Tutor TV SK
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC
-http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18948
+https://nonton.site:8843/provision/pp/37395
 
 #EXTINF:-1 tvg-id="TutorTVPT3" tvg-logo="https://i.kampung.xyz/c/f9ace6ddfb93062e.png" group-title="Education",602 Astro Tutor TV PT3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC
 http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18946
 
 #EXTINF:-1 tvg-id="TutorTVSPM" tvg-logo="https://i.kampung.xyz/c/450e9b4f3fca408b.png" group-title="Education",603 Astro Tutor TV SPM
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC
 http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18947
 
 #EXTINF:-1 tvg-id="AstroTVIQ" tvg-logo="https://i.kampung.xyz/c/6fb2bb374fc7edc8.png" group-title="Education",610 Astro TVIQ
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://starshare.live:8080/get.php?username=jSaVwHqR5j&password=VGBLMlyAQY&type=m3u_plus&output=ts
 http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18949
 
 #EXTINF:-1 tvg-id="AstroCeriaHD" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria
@@ -538,20 +530,60 @@ http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=M2NkMmRiY2QtNzExOS0zMmJkLThmNDAtZTBkYTU1ZDc4MjBm
 http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
 
-#EXTINF:-1 tvg-id="unifiSports3" group-title="Sports" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200219/20200219034638064fgd.png",unifi Sports 3
+#EXTINF:-1 tvg-id="unifiSports3" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Unifi-Sports-3.png/revision/latest?cb=20210712113331",unifi Sports 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=M2NkMmRiY2QtNzExOS0zMmJkLThmNDAtZTBkYTU1ZDc4MjBm
 http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
 
-#EXTINF:-1 tvg-id="unifiSports4" group-title="Sports" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200219/20200219034705029kh8.png",unifi Sports 4
+#EXTINF:-1 tvg-id="unifiSports4" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Unifi-Sports-4.png/revision/latest?cb=20210712113617",unifi Sports 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=M2NkMmRiY2QtNzExOS0zMmJkLThmNDAtZTBkYTU1ZDc4MjBm
 http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
 
-#EXTINF:-1 tvg-id="unifiSports5" group-title="Sports" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200223/20200223031129462i1k.png",unifi Sports 5
+#EXTINF:-1 tvg-id="unifiSports5" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Unifi-Sports-5.png/revision/latest?cb=20210712113706",unifi Sports 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=M2NkMmRiY2QtNzExOS0zMmJkLThmNDAtZTBkYTU1ZDc4MjBm
 http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
+
+#EXTINF:-1 tvg-id="unifiSports6" group-title="Sports" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/NpUkSL3T",unifi Sports 6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=M2NkMmRiY2QtNzExOS0zMmJkLThmNDAtZTBkYTU1ZDc4MjBm
+https://web.hypp.tv:443/PLTV/88888888/224/3221227795/3221227795.mpd
+
+#EXTINF:-1 tvg-id="unifiSports7" group-title="Sports" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/1gQKtrxB",unifi Sports 7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=M2NkMmRiY2QtNzExOS0zMmJkLThmNDAtZTBkYTU1ZDc4MjBm
+https://web.hypp.tv:443/PLTV/88888888/224/3221227787/3221227787.mpd
+
+#EXTINF:-1 tvg-id="unifiSports8" group-title="Sports" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/VrUDHzHa",unifi Sports 8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=M2NkMmRiY2QtNzExOS0zMmJkLThmNDAtZTBkYTU1ZDc4MjBm
+https://web.hypp.tv:443/PLTV/88888888/224/3221227798/3221227798.mpd
+
+#EXTINF:-1 tvg-id="unifiSports9" group-title="Sports" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/8rs5tKy8",unifi Sports 9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=M2NkMmRiY2QtNzExOS0zMmJkLThmNDAtZTBkYTU1ZDc4MjBm
+https://web.hypp.tv:443/PLTV/88888888/224/3221227793/3221227793.mpd
+
+#EXTINF:-1 tvg-id="unifiSports10" group-title="Sports" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/8Y9dZUSI",unifi Sports 10
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=M2NkMmRiY2QtNzExOS0zMmJkLThmNDAtZTBkYTU1ZDc4MjBm
+https://web.hypp.tv:443/PLTV/88888888/224/3221227830/3221227830.mpd
+
+#EXTINF:-1 tvg-id="unifiSports11" group-title="Sports" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/pC41J1AK",unifi Sports 11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=M2NkMmRiY2QtNzExOS0zMmJkLThmNDAtZTBkYTU1ZDc4MjBm
+https://web.hypp.tv:443/PLTV/88888888/224/3221227833/3221227833.mpd
+
+#EXTINF:-1 tvg-id="unifiSports12" group-title="Sports" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/cL0ged2e",unifi Sports 12
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=M2NkMmRiY2QtNzExOS0zMmJkLThmNDAtZTBkYTU1ZDc4MjBm
+https://web.hypp.tv:443/PLTV/88888888/224/3221227799/3221227799.mpd
+
+#EXTINF:-1 tvg-id="unifiSports13" group-title="Sports" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/wuC3Kw9b",unifi Sports 13
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=M2NkMmRiY2QtNzExOS0zMmJkLThmNDAtZTBkYTU1ZDc4MjBm
+https://web.hypp.tv:443/PLTV/88888888/224/3221227802/3221227802.mpd
 
 #EXTINF:-1 tvg-id="AXNHD" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",701 AXN HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -642,8 +674,6 @@ http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Astro SuperSport Plus HD 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC
 http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18934
 
 #EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",811 Astro SuperSport HD 
