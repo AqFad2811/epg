@@ -1,9 +1,10 @@
 #EXTINF:-1 tvg-id="TV1HD" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",101 TV1
 # https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-https://rtmlive01.secureswiftcontent.com/rtm/live01_1080.m3u8
+https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="TV2" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",102 TV2
-https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+# https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="TV3" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",103 TV3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -37,11 +38,11 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 # https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
 
-
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" tvg-logo="https://mediahomes.github.io/logos/sukan.png",111 Sukan RTM
-https://rtmSportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+# https://rtmSportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 tvg-id="GOSHOP111" group-title="Free Channels" tvg-logo="https://i.kampung.xyz/c/20d0f2053da42ed2.png",111 Go Shop
+#EXTINF:-1 tvg-id="GOSHOP111" group-title="Astro" tvg-logo="https://i.kampung.xyz/c/20d0f2053da42ed2.png",111 Go Shop
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 
 #EXTINF:-1 tvg-id="TV6" group-title="Testing Channel" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
@@ -84,6 +85,9 @@ https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
 #EXTINF:-1 tvg-id="GAAYA" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/GO_Shop_RUUMA.png/revision/latest?cb=20200527075126",120 Go Shop GAAYA 
 http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="GOShopMYTV" group-title="Free Channels" tvg-logo="https://i.kampung.xyz/c/20d0f2053da42ed2.png",120 Go Shop  
+https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
+
 #EXTINF:-1 tvg-id="TVS" group-title="Free Channels" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",122 TVS
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
@@ -104,7 +108,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
 
 #EXTINF:-1 tvg-id="TVOkey" group-title="Free Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",146 OKEY
-https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+# https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtmlive03.secureswiftcontent.com/rtmchannel/03_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="NTV7" group-title="Free Channels" tvg-logo="https://didik.tv/images/logotv2.png",147 DidikTV KPM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -367,7 +372,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd
 #EXTINF:-1 tvg-id="BERNAMA" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",502 BERNAMA 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzY4ZjY0YzYtNGQzZC0zMTY0LWJmMDUtYjJkMWYzNDY5ZjI5
-http://1.9.58.102/PLTV/88888888/224/3221227511/3221227511.mpd
+# http://1.9.58.102/PLTV/88888888/224/3221227511/3221227511.mpd
+https://github.com/weareblahs/bernama_fvhls/raw/main/youtube.m3u
 
 #EXTINF:-1 tvg-id="LoveNatureHD" group-title="Documentary" tvg-logo="https://poster.starhubgo.com/Linear_channels2/416_1920x1080_HTV.png",Love Nature HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
