@@ -373,7 +373,9 @@ http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzY4ZjY0YzYtNGQzZC0zMTY0LWJmMDUtYjJkMWYzNDY5ZjI5
 # http://1.9.58.102/PLTV/88888888/224/3221227511/3221227511.mpd
-https://github.com/weareblahs/bernama_fvhls/raw/main/youtube.m3u
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626880567/ei/1uX3YO2WOvCJ2_gPkbiR6AQ/ip/20.97.50.27/id/NE68VNYPNYE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgE3ZjMSLC4W2pPkkGBrsDYczH_I-51VNjPCRDcr1wZ-gCIDgmOZb4_7w9mWsjStWRSMLyuiVUKUMzTlB0xsLX4Kpa/file/index.m3u8
 
 #EXTINF:-1 tvg-id="LoveNatureHD" group-title="Documentary" tvg-logo="https://poster.starhubgo.com/Linear_channels2/416_1920x1080_HTV.png",Love Nature HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
