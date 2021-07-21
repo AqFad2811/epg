@@ -520,12 +520,12 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 # https://mediahomes.github.io/assets/yt/france24.m3u8|# Referer=https://www.youtube.com
 
-#EXTINF:-1 tvg-id="unifiSports1" group-title="Sports" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200219/20200219034140282its.png",unifi Sports 1
+#EXTINF:-1 tvg-id="unifiSports1" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzY4ZjY0YzYtNGQzZC0zMTY0LWJmMDUtYjJkMWYzNDY5ZjI5
 http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd
 
-#EXTINF:-1 tvg-id="unifiSports2" group-title="Sports" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200223/20200223030942343uz5.png",unifi Sports 2
+#EXTINF:-1 tvg-id="unifiSports2" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest?cb=20210712113109",unifi Sports 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzY4ZjY0YzYtNGQzZC0zMTY0LWJmMDUtYjJkMWYzNDY5ZjI5
 http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
