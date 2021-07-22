@@ -680,19 +680,23 @@ http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Astro SuperSport Plus HD 
-http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18934
+# http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18934
 
 #EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",811 Astro SuperSport HD 
-http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+# http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
 
 #EXTINF:-1 tvg-id="AstroSuperSport2HD" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/812.png/revision/latest?cb=20200520222551",812 Astro SuperSport 2 HD
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+# http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
 
 #EXTINF:-1 tvg-id="AstroSuperSport3HD" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png/revision/latest?cb=20180622075715",813 Astro SuperSport 3 HD
-http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+# http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
 
 #EXTINF:-1 tvg-id="AstroSuperSport4HD" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Astro_Supersport_4_2015.png/revision/latest?cb=20180622080127",814 Astro SuperSport 4 HD 
-http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+# http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
 
 #EXTINF:-1 tvg-id="FOXSportsHD" group-title="Sports" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png",815 FOX Sports HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
