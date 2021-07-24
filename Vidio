@@ -22,6 +22,15 @@ https://etslive-2-vidio-com.akamaized.net/exp=1627164002~acl=/hls-p/ingest_6166_
 #EXTINF:-1 tvg-id="AjwaTVHD" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Ajwa_TV.png/revision/latest/scale-to-width-down/250?cb=20201110025441",Ajwa TV HD
 https://etslive-2-vidio-com.akamaized.net/exp=1627159612~acl=/hls-p/ingest_7464_*/*~hmac=8ddc5d7a0257436bb62352c311a8a6f7118df410ee0da568d258cea4e1d6a81e/hls-p/ingest_7464_480p/index.m3u8
 
+#EXTINF:-1 tvg-id="tvN" group-title="HD" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png",tvN HD
+https://etslive-2-vidio-com.akamaized.net/exp=1627159253~acl=/hls-p/ingest_6362_*/*~hmac=25991d58c7dc249671fe00fc302c28ab294b679e6c1a8b7d7e8626a9b3992ac1/hls-p/ingest_6362_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBioskop" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835",Zee Bioskop
+https://etslive-2-vidio-com.akamaized.net/exp=1627159163~acl=/hls-p/ingest_6399_*/*~hmac=5615aea95086e97d45b52fedd4bab33282c4d499344cc7967704778706996740/hls-p/ingest_6399_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="CitraBioskop" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Citra_Bioskop_Logo.png/revision/latest?cb=20191014052144",Citra Bioskop
+https://etslive-2-vidio-com.akamaized.net/exp=1627159422~acl=/hls-p/ingest_6684_*/*~hmac=f6520c9339f33352ad273e673ad19ad301df766b640e4b7dd7c8cd0ee75dcd01/hls-p/ingest_6684_480p/index.m3u8
+
 #EXTINF:-1 tvg-id="ChannelNewsAsia" group-title="HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
