@@ -825,6 +825,24 @@ https://astro1.rastream.com/amp-arena.web.hls/playlist.m3u8?listeningSessionID=5
 #EXTINF:-1 group-title="Radio Stations" tvg-id="NasionalFM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIONASIONALLOGO170X96.jpg",Nasional FM
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
 
+#EXTINF:-1 group-title="Radio Stations" tvg-id="ERASabah" tvg-logo="https://assets.radioactive.sg/org-astro/f57c7814-176b-4721-aee1-ef76cb335c1c-astro-336x160-era-sabah.png",ERA Sabah
+https://astro2.rastream.com/amp-era-kk.web.hls/playlist.m3u8?listeningSessionID=5fec0256fb09261c_17840137_g3gQEZcI_MTAzLjIxLjgxLjM6ODA!_000000yetYz&downloadSessionID=0&awparams=companionads%3Atrue%3B%3Bstationid%3Aamp-era-kk&playerid=ERA%20(Sabah)_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxNDI3NDcsImV4cCI6MTYyNzIyOTE0N30.2m7jUcM5DWQ_iFHtIRxatS8sy8f_6nXc-UV8SPvUVQE&lan=%5B%22ms%22%5D&setLanguage=true
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="ERASarawak" tvg-logo="https://assets.radioactive.sg/org-astro/07c5cb62-80ee-4a74-8cda-5473f1804e04-astro-336x160-era-sarawak.png",ERA Sarawak
+https://astro2.rastream.com/amp-era-kch.web.hls/playlist.m3u8?awparams=companionads%3Atrue%3B%3Bstationid%3Aamp-era-kch&playerid=ERA%20(Sarawak)_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxNDI5MDUsImV4cCI6MTYyNzIyOTMwNX0.xURS072b8mmYK5bm58yy33XsVfb7-yzR9wu4-HkgFUc&lan=%5B%22ms%22%5D&setLanguage=true
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="HITZSabah" tvg-logo="https://assets.radioactive.sg/org-astro/127b6ea9-171b-4548-b82b-8f82205b3269-astro-336x160-hitz-sabah.png",HITZ Sabah
+https://astro1.rastream.com/amp-hitz-kk.web.hls/playlist.m3u8?listeningSessionID=5fec0256fb09261c_17840393_yI0ReHpY_MTAzLjIxLjgxLjM6ODA!_000000yevzw&downloadSessionID=0&awparams=companionads%3Atrue%3B%3Bstationid%3Aamp-hitz-kk&playerid=HITZ%20(Sabah)_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxNDMwMDEsImV4cCI6MTYyNzIyOTQwMX0.HkAlFyaY6dd5o1LYe3sonXE2gXdMTCoGB0No1JCPmVg&lan=%5B%22en%22%5D&setLanguage=true
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="HITZSarawak" tvg-logo="https://assets.radioactive.sg/org-astro/be44a30b-ebc1-47e4-9d9b-acc0cb0a3388-astro-336x160-hitz-sarawak.png",HITZ Sarawak
+https://astro1.rastream.com/amp-hitz-kch.web.hls/playlist.m3u8?listeningSessionID=5f9ebd11f7c31651_22904497_dRbnFDMn_MTAzLjIxLjgxLjk6ODA!_000000L6WKj&downloadSessionID=0&awparams=companionads%3Atrue%3B%3Bstationid%3Aamp-hitz-kch&playerid=HITZ%20(Sarawak)_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxNDMxMDksImV4cCI6MTYyNzIyOTUwOX0.D50Wol0Ixqpy5kO-0gd99SX-PDeEPm0moYZNJobays4&lan=%5B%22en%22%5D&setLanguage=true
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="MYSabah" tvg-logo="https://assets.radioactive.sg/org-astro/1e17c6bb-0238-45c7-a1fd-3a2cd58a0c8e-astro-336x160-my-sabah.png",MY Sabah
+https://astro1.rastream.com/amp-myfm-kk.web.hls/playlist.m3u8?listeningSessionID=5fec0256fb09261c_17840571_dirg5jHj_MTAzLjIxLjgxLjM6ODA!_000000yewF9&downloadSessionID=0&awparams=companionads%3Atrue%3B%3Bstationid%3Aamp-myfm-kk&playerid=MY%20(Sabah)_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxNDMxNzksImV4cCI6MTYyNzIyOTU3OX0.ThBJppNfH0RbVwYBtwXs3WJtTyFkA5k8ObZp4AVwFgQ&lan=%5B%22zh%22%5D&setLanguage=true
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="MYSarawak" tvg-logo="https://assets.radioactive.sg/org-astro/49f986c1-6234-4d0c-a97e-96ea9c34517e-astro-336x160-my-sarawak.png",MY Sarawak
+https://astro1.rastream.com/amp-myfm-kch.web.hls/playlist.m3u8?awparams=companionads%3Atrue%3B%3Bstationid%3Aamp-myfm-kch&playerid=MY%20(Sarawak)_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxNDMyNDQsImV4cCI6MTYyNzIyOTY0NH0.sZYzYNc3QU83Z_2tk3ideMz8c6HYCJ24LsoY6XEhUD0&lan=%5B%22zh%22%5D&setLanguage=true
+
 #EXTINF:-1, group-title="Online TV" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
