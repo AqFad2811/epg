@@ -1,0 +1,179 @@
+#EXTINF:-1 tvg-id="SCTVHD" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SCTV_Logo.svg/revision/latest/scale-to-width-down/250?cb=20200917125607",SCTV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1627158545~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=3cb5689241290573e58cf501498a580d47c9bb85171a9b5b0df8fca13bbe1588/vp9/204_stream.mpd
+
+#EXTINF:-1 tvg-id="IndosiarHD" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Indosiar_2015.svg/revision/latest/scale-to-width-down/200?cb=20180321155318",Indosiar HD
+https://kmklive-lh.akamaihd.net/i/indosiar_live@577566/master.m3u8
+
+#EXTINF:-1 tvg-id="OChannel" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/O_Channel.svg/revision/latest/scale-to-width-down/300?cb=20210615130503",O Channel
+https://etslive-2-vidio-com.akamaized.net/exp=1627159032~acl=/hls-p/ingest_206_*/*~hmac=e17db9d51e493dab9c7221d1bae6be54861a99265fc29882b69fca2f5623c1fe/hls-p/ingest_206_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="JAKTV" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Jaktv_logo.png/revision/latest/scale-to-width-down/250?cb=20180131051655",JAKTV
+https://etslive-2-vidio-com.akamaized.net/exp=1627159153~acl=/hls-p/ingest_5415_*/*~hmac=0098fe5a8ddadbc92841ddca2a845080f4efc7171a3dc31ef0681c41a3f8d803/hls-p/ingest_5415_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="NETHD" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/NET..svg/revision/latest/scale-to-width-down/350?cb=20171216081721",NET HD
+https://etslive-2-vidio-com.akamaized.net/exp=1627159296~acl=/vp9/875_stream.mpd!/vp9/875/*~hmac=21accb9cdf19c80d455c7229c6496f2ae2a09cf5aac209488de5e31287c492b1/vp9/875_stream.mpd
+
+#EXTINF:-1 tvg-id="OShop" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/O-shop-logo.png/revision/latest/scale-to-width-down/250?cb=20180705160844",O Shop
+https://etslive-2-vidio-com.akamaized.net/exp=1627159528~acl=/hls-p/ingest_6166_*/*~hmac=e5d336f857e689e3f096653108712b467
+
+#EXTINF:-1 tvg-id="AjwaTVHD" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Ajwa_TV.png/revision/latest/scale-to-width-down/250?cb=20201110025441",Ajwa TV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1627159612~acl=/hls-p/ingest_7464_*/*~hmac=8ddc5d7a0257436bb62352c311a8a6f7118df410ee0da568d258cea4e1d6a81e/hls-p/ingest_7464_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="CitraBioskop" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Citra_Bioskop_Logo.png/revision/latest/scale-to-width-down/300?cb=20191014052144",Citra Bioskop
+https://etslive-2-vidio-com.akamaized.net/exp=1627145627~acl=/hls-p/ingest_6684_*/*~hmac=93a3bf42046bd6f1992c1c68d007f0b6072665527923adc815e0bd2087a28973/hls-p/ingest_6684_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="ChannelNewsAsia" group-title="HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+# https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+http://1.9.62.158/PLTV/88888888/224/3221227543/3221227543.mpd
+
+#EXTINF:-1 tvg-id="Prambors" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/XfhT9Z7ZV72kgkCMhzv0Kt57zY4=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7004/prambors-on-air-b3cb5a.jpg",Prambors
+https://etslive-2-vidio-com.akamaized.net/exp=1627159880~acl=/hls-p/ingest_7004_*/*~hmac=facd97c0b8703cf3c4bd263abb9decfee53dbf768eae5996625a1ffb0e4a07c1/hls-p/ingest_7004_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="Ardan" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zSK-HAq8ohRx_q1tnDGj9YhL6vE=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7184/ardan-radio-db4b07.jpg",Ardan
+https://etslive-2-vidio-com.akamaized.net/exp=1627159956~acl=/hls-p/ingest_7184_*/*~hmac=71f334f3c9c4c2bb1c8d95f9246e863739248c8afa0c68ea76a992cd8151fc59/hls-p/ingest_7184_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="TransTV" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Trans_TV_2013.svg/revision/latest/scale-to-width-down/300?cb=20201220001110",Trans TV
+https://etslive-2-vidio-com.akamaized.net/exp=1627160024~acl=/vp9/733_stream.mpd!/vp9/733/*~hmac=38712ea7506178ff1ded2d5e6f6a9cb03f662b158de71dc5f1ad8ab3c9af1375/vp9/733_stream.mpd
+
+#EXTINF:-1 tvg-id="MGTRADIO" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/z9HyZO7g2vSG3UhWRZ2yVl42doE=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7188/mgtradio-3f010f.jpg",MGTRADIO
+https://etslive-2-vidio-com.akamaized.net/exp=1627160115~acl=/hls-p/ingest_7188_*/*~hmac=91db9311c5ae48a455ad6d3b36011adb9d0c96cf47593e1bdf42af6cbc079cc2/hls-p/ingest_7188_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="Trans7" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Trans_7_2013.svg/revision/latest/scale-to-width-down/250?cb=20160314100735",Trans7
+https://etslive-2-vidio-com.akamaized.net/exp=1627160183~acl=/vp9/734_stream.mpd!/vp9/734/*~hmac=428364f80491503ad19c27bf17524b726f1cab734b04047957817890352c284b/vp9/734_stream.mpd
+
+#EXTINF:-1 tvg-id="Elshinta" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/FY1gBVxYvs3PWpIV_rJ54g07AWY=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7166/elshinta-90-fm-502fc0.jpg",Elshinta
+https://etslive-2-vidio-com.akamaized.net/exp=1627160249~acl=/hls-p/ingest_7166_*/*~hmac=93dec2691a55ea166f21b1b88e7ce01bbc33ab5ff3ab8dcc2a0eb74f016308f5/hls-p/ingest_7166_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="GTV" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/GTV_%282017%29.svg/revision/latest/scale-to-width-down/200?cb=20180321091517",GTV
+https://etslive-2-vidio-com.akamaized.net/exp=1627160309~acl=/vp9/778_stream.mpd!/vp9/778/*~hmac=b86d9eda976c0820cae6f768244f86d3dbb93145723eca3f3e90d3e54cb62659/vp9/778_stream.mpd
+
+#EXTINF:-1 tvg-id="RCTI" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/RCTI_2015.svg/revision/latest/scale-to-width-down/250?cb=20160314110324",RCTI
+https://etslive-2-vidio-com.akamaized.net/exp=1627160374~acl=/vp9/665_stream.mpd!/vp9/665/*~hmac=f4a4abe5415c18dcc7fe77f2f87e7737bd8346ce23a90eafdd65ada5072ddfe5/vp9/665_stream.mpd
+
+#EXTINF:-1 tvg-id="MNCTV" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/MNCTV_logo_2015.svg/revision/latest/scale-to-width-down/250?cb=20180316082632",MNCTV
+https://etslive-2-vidio-com.akamaized.net/exp=1627160447~acl=/vp9/870_stream.mpd!/vp9/870/*~hmac=1047bc52e54e22900545b27384487d1fcd3c35700594b5eb90f5063154cc84c2/vp9/870_stream.mpd
+
+#EXTINF:-1 tvg-id="MetroTV" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest/scale-to-width-down/300?cb=20201127145437",Metro TV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1627160556~acl=/vp9/777_stream.mpd!/vp9/777/*~hmac=75b1cf1341013463b75d283818105c81735af1126924bd6b874e71c8569700ef/vp9/777_stream.mpd
+
+#EXTINF:-1 tvg-id="TVRI" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29.svg/revision/latest/scale-to-width-down/240?cb=20210109093524",TVRI
+https://etslive-2-vidio-com.akamaized.net/exp=1627160668~acl=/vp9/6441_stream.mpd!/vp9/6441/*~hmac=8786241fbd37c9a1c6edef72d7b721ad27e5498c1a669f533679f8606866adb8/vp9/6441_stream.mpd
+
+#EXTINF:-1 tvg-id="BeritaSatu" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/BeritaSatu.svg/revision/latest/scale-to-width-down/300?cb=20181125093843",BeritaSatu
+https://etslive-2-vidio-com.akamaized.net/exp=1627160766~acl=/hls-p/ingest_6165_*/*~hmac=7164ba2f6cf88b3a905f7e01009b3d9483a57316fb9f020d627af0809bb3f613/hls-p/ingest_6165_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="iRadio" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/mAd4VLPia6UnFAgjDMhdP_oY060=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7057/iradio-fm-5ae133.jpg",iRadio
+https://etslive-2-vidio-com.akamaized.net/exp=1627160826~acl=/hls-p/ingest_7057_*/*~hmac=69bae022a4eddc1f8652a25a5581c6ec9ede01815b132ea7a35f4b4534adc2af/hls-p/ingest_7057_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="TraxFM" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9acQo91RuK6mnCl8XTBOBMKKxXQ=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7055/trax-radio-fm-f696e0.jpg",Trax FM
+https://etslive-2-vidio-com.akamaized.net/exp=1627160904~acl=/hls-p/ingest_7055_*/*~hmac=95a488e8b347c191bd990375e49a2825c50f46b654433ed21371a07ae5d0a3fc/hls-p/ingest_7055_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="CosmopolitanFM" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/PJqdHMxuMCq-EosTEs2opcR5FdQ=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7056/cosmopolitan-df0bea.jpg",Cosmopolitan FM
+https://etslive-2-vidio-com.akamaized.net/exp=1627161019~acl=/hls-p/ingest_7056_*/*~hmac=d60c72e14ec4f1e5f542ec134408cda5cc0f3f52747dde1ef4a843a28f74c617/hls-p/ingest_7056_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="BravaRadio" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/AfffvXiUoJlo-IMNYE2s9LfulfA=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7054/brava-audio-98ab26.jpg",Brava Radio
+https://etslive-2-vidio-com.akamaized.net/exp=1627161078~acl=/hls-p/ingest_7054_*/*~hmac=cb8f2a81b59453d92b467d41ee8c1906a23141bfe21c0cd2c59d48a9b81cad87/hls-p/ingest_7054_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/KOMPAS_TV_%282017%29.svg/revision/latest/scale-to-width-down/300?cb=20181111102441",Kompas TV
+https://etslive-2-vidio-com.akamaized.net/exp=1627161159~acl=/vp9/874_stream.mpd!/vp9/874/*~hmac=f9fff88a844d079e7a820bf4ae9343f7bdc8bbd8f734ffee3fade2006ef43277/vp9/874_stream.mpd
+
+#EXTINF:-1 tvg-id="iNews" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/INews.svg/revision/latest/scale-to-width-down/250?cb=20210101143629",iNews
+https://etslive-2-vidio-com.akamaized.net/exp=1627161243~acl=/hls-p/ingest_5409_*/*~hmac=9973f1720aeee011a728719171265fddfcf6283da96cd62c81b105b1ae0c203f/hls-p/ingest_5409_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="DAAITV" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/DAAITV.png/revision/latest/scale-to-width-down/250?cb=20180920095200",DAAI TV
+https://etslive-2-vidio-com.akamaized.net/exp=1627161321~acl=/hls-p/ingest_6482_*/*~hmac=ed24527a8f878fab3c0f14492314e17b173e313855c424c7436fd50ce89cbe6b/hls-p/ingest_6482_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="myTV" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/MyTV_Logo.svg/revision/latest/scale-to-width-down/240?cb=20190124094842",myTV
+https://etslive-2-vidio-com.akamaized.net/exp=1627161396~acl=/hls-p/ingest_6711_*/*~hmac=3c34914d3cf7a3a59c573132ae035a60b4db89e804b5832a85f542aa49fe5d8e/hls-p/ingest_6711_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="DW" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/250?cb=20120227170040",DW
+https://etslive-2-vidio-com.akamaized.net/exp=1627161469~acl=/hls-p/ingest_5075_*/*~hmac=b8128565bafdab9820e664ce405e71503c010c369003ea355b428951d030930f/hls-p/ingest_5075_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="MolaTV" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Mola_logo_%282021%29.png/revision/latest/scale-to-width-down/300?cb=20210603035347",Mola TV
+https://etslive-2-vidio-com.akamaized.net/exp=1627161545~acl=/hls-p/ingest_6840_*/*~hmac=5a7eecb6493e35d53444a6b9b969f78a8cfa7f7a0936bc7ed836fb110339d550/hls-p/ingest_6840_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="TVEdukasi" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/TV_Edukasi_2011.png/revision/latest/scale-to-width-down/300?cb=20180920093440",TV Edukasi
+https://etslive-2-vidio-com.akamaized.net/exp=1627161638~acl=/hls-p/ingest_6838_*/*~hmac=6963e6d75eded769745529e0831f131b3e81cfa68f0237ed167d1c61473fd405/hls-p/ingest_6838_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="Reformed21" group-title="HD" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/lqlmqU-yWHG_7ftdaUPs-qmzy7M=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6853/reformed-21-tv-b1db6d.jpg",Reformed 21 HD
+https://etslive-2-vidio-com.akamaized.net/exp=1627161719~acl=/hls-p/ingest_6853_*/*~hmac=dbbea70ef1a74a7e084bea7314302d76f9ca203c316afa8234899a5977bbe60c/hls-p/ingest_6853_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV" group-title="HD" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/X2ISm5LSjgKupMtdZkqTb-FNGhE=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg",Al Quran Al Kareem TV
+https://etslive-2-vidio-com.akamaized.net/exp=1627161805~acl=/hls-p/ingest_6852_*/*~hmac=6f18af5fb098d71cc6bba51c0489f77dcdc6a7082f7099e0a0752755c7eb30f0/hls-p/ingest_6852_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="Paramuda FM" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/APRp1M2d1YuDsQEqXoZCTJeW0_8=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7685/paramuda-fm-5a8478.jpg",Paramuda FM
+https://etslive-2-vidio-com.akamaized.net/exp=1627161891~acl=/hls-p/ingest_7685_*/*~hmac=510e093e9636a4a5b4754ec9a33d43bc7e887ae332e7d48da15a7aa3c311869f/hls-p/ingest_7685_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="UChannel" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/U_Channel.png/revision/latest/scale-to-width-down/270?cb=20180925101905",U Channel
+https://etslive-2-vidio-com.akamaized.net/exp=1627161947~acl=/hls-p/ingest_6898_*/*~hmac=1c212124b643029daea49e29a80ef0a0692cf2b4eebaa1e7ffc486f695ad38d9/hls-p/ingest_6898_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="HardRockFM" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/VtaRVpxrr_VDuVamg4otvJ-Gfy0=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7053/hardrock-725b7c.jpg",Hard Rock FM
+https://etslive-2-vidio-com.akamaized.net/exp=1627162037~acl=/hls-p/ingest_7053_*/*~hmac=ebeaf3de2d2f0a207a57f61493ca8af1405d3e9f404ad7a700d83799cd51dd39/hls-p/ingest_7053_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="FemaleFM" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/CDsrsVY8IW7UIytNSq4gdxqnCFg=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7130/female-fm-6085d4.jpg",Female FM
+https://etslive-2-vidio-com.akamaized.net/exp=1627162122~acl=/hls-p/ingest_7130_*/*~hmac=5c15c2ffc5ecc792f7d427a2a8ce7db594dd3a290da53a91e6a5f374a89c27ae/hls-p/ingest_7130_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="DeltaFM" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/NDM3cfpSt9Ny78MnXcZnfofPIj8=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7092/delta-fm-8a4ed5.jpg",Delta FM
+https://etslive-2-vidio-com.akamaized.net/exp=1627162174~acl=/hls-p/ingest_7092_*/*~hmac=e041615ffd6a287d6bbe8ee0e6bf5c47755ec598b755d0e4477425ff635d1290/hls-p/ingest_7092_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="BahanaFM" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/FAfVI3BayYAjq_fQYwt9V2eT6MQ=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7091/bahana-fm-a72d38.jpg",Bahana FM
+https://etslive-2-vidio-com.akamaized.net/exp=1627162222~acl=/hls-p/ingest_7091_*/*~hmac=0a855685c0273412ad4d8f88f8fc410cd5c30262681fad78919c8d9af3770fef/hls-p/ingest_7091_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="Geronimo" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/hdQkOJBYCV9kgSQuU1P-5u90RtU=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7216/test-geronimo-428e77.jpg",Geronimo
+https://etslive-2-vidio-com.akamaized.net/exp=1627162303~acl=/hls-p/ingest_7216_*/*~hmac=fc060c24bda7e929126a0f613399dae204a01e72d74bca824d95415d6fb684fa/hls-p/ingest_7216_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="Elgangga" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ci9byId-t9t_IXuEvIvkeYUb56U=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7169/test-elgangga-241624.jpg",Elgangga
+https://etslive-2-vidio-com.akamaized.net/exp=1627162410~acl=/hls-p/ingest_7169_*/*~hmac=49d88ba34eeef66fc87a9a7073429e2a1f9a32a17fb02e0e44fb2d3e297e91e0/hls-p/ingest_7169_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="MagnaChannel" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png/revision/latest/scale-to-width-down/200?cb=20200805135934",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w479829770_b1128000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="SwaragamaFM" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vvGXXRCcRzjGCVwke_mhBB0N6Ao=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7248/swaragama-fm-jogja-69421e.jpg",Swaragama FM
+https://etslive-2-vidio-com.akamaized.net/exp=1627162601~acl=/hls-p/ingest_7248_*/*~hmac=8e8679af4735b8fa2b47728f62fecefca67c12dd506dbb1f9292d24e8106296c/hls-p/ingest_7248_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="DahliaFM" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wHwtY-Csalx0X6Lait3L2hR66rE=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7242/dahlia-fm-045618.jpg",Dahlia FM
+https://etslive-2-vidio-com.akamaized.net/exp=1627162680~acl=/hls-p/ingest_7242_*/*~hmac=17faaba626ead9956201b32711193c6149f828878d94684ad0dbf29290e840d3/hls-p/ingest_7242_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="ImeldaFM" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xEEQ_6Dc-54jIFdevAOwxZPAddU=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7281/imelda-fm-62c9f4.jpg",Imelda FM
+https://etslive-2-vidio-com.akamaized.net/exp=1627162731~acl=/hls-p/ingest_7281_*/*~hmac=e15bbb9633bf3b6b9611bd5338d7349ebdb8fbb7a7dc93476d6a5db382cd78c2/hls-p/ingest_7281_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="SwaraSemarangFM" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/MgG2tcaUeba1yh00nN8s_Y_ajXQ=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7283/swara-semarang-579dc0.jpg",Swara Semarang FM
+https://etslive-2-vidio-com.akamaized.net/exp=1627162793~acl=/hls-p/ingest_7283_*/*~hmac=67cf39ea1abfb004775eb90aab05b46a533cd9aec3ee1d39995b636f58ecbfa2/hls-p/ingest_7283_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="GajahmadaFMSemarang" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jD8vmYL9Omck6rAz8pFMYkQp8DA=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7284/gajahmada-b307da.jpg",Gajahmada FM Semarang
+https://etslive-2-vidio-com.akamaized.net/exp=1627162873~acl=/hls-p/ingest_7284_*/*~hmac=4a7e0ce90acfa0521d2534e53af3e7f5173475cfdd26dafdbdc82674823a7059/hls-p/ingest_7284_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="Cakra" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7ncfyTeT-oPkepAev1IRFnzXPwQ=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7297/test-radio-cakra-41a97a.jpg",Cakra
+https://etslive-2-vidio-com.akamaized.net/exp=1627162931~acl=/hls-p/ingest_7297_*/*~hmac=79bc110e96fb58557bf58b99560ff200224dc4598f3bc6371a438fc1c65c666c/hls-p/ingest_7297_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="GenFMSurabaya" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/dGU06kx8_LhiThk19y52Lwd7SKg=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7446/gen-fm-surabaya-1cafa7.jpg",Gen FM Surabaya
+https://etslive-2-vidio-com.akamaized.net/exp=1627162981~acl=/hls-p/ingest_7446_*/*~hmac=eea2861bd64d017edee0b16e64e724015728d24fab9a6a8223516363dbb03e81/hls-p/ingest_7446_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="GenFMJakarta" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/-3UxxyV3VLxIb-6vN3lifWLBWGQ=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7443/gen-fm-jakarta-dc9ca6.jpg",Gen FM Jakarta
+https://etslive-2-vidio-com.akamaized.net/exp=1627163096~acl=/hls-p/ingest_7443_*/*~hmac=7ef291f195969c7d3805bf8b45a7687db7914fb83166f32581b5e786d229b036/hls-p/ingest_7443_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="KisFM" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2xXRwQ4QGdrn6GeYiSZ2OJs1-HA=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7445/kis-fm-421d0d.jpg",Kis FM
+https://etslive-2-vidio-com.akamaized.net/exp=1627163086~acl=/hls-p/ingest_7445_*/*~hmac=d36bde4694548765c3753062cbfb17cd5ee8b2fc4e5409988a68eaf8dce6d60f/hls-p/ingest_7445_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="MustangFM" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/BS0SxqFJVSrtmeBTZe1rO6lTGN8=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7447/test-radio-mustang-fm-cca93a.jpg",Mustang FM
+https://etslive-2-vidio-com.akamaized.net/exp=1627163163~acl=/hls-p/ingest_7447_*/*~hmac=80c39648f21d01e1094fd225867c4639e27686ee66f21524d05c13c84ad27360/hls-p/ingest_7447_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="HotFM" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9Z_rUWpMqMGH_0DFRLhSLXIcGIg=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7448/hot-fm-778737.jpg",Hot FM
+https://etslive-2-vidio-com.akamaized.net/exp=1627163266~acl=/hls-p/ingest_7448_*/*~hmac=fe9540a9721f886263a475847fa9e34ab7663c9eaa1d421c5e681d3d183c81dc/hls-p/ingest_7448_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="JAKFM" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/05MIhlRcr6lVdwo87H04qHzxwIA=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7449/jak-fm-b210a4.jpg" Jak FM
+https://etslive-2-vidio-com.akamaized.net/exp=1627163342~acl=/hls-p/ingest_7449_*/*~hmac=ba3e8daafc7bd3d28ee2e472bdc5fb7e02782496a596e855539935c1fa7b9708/hls-p/ingest_7449_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="MostFM" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0EggK6c7QP5Tjx3gBpe4iICyldM=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7450/most-fm-6fe9b9.jpg",Most FM
+https://etslive-2-vidio-com.akamaized.net/exp=1627163392~acl=/hls-p/ingest_7450_*/*~hmac=3d3e45cef9dafd315003a66bc60f8547893f138ce2de3d645baa42bfe232077b/hls-p/ingest_7450_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="NusantaraTV" group-title="SD" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/A-5zhoi1I0aGUHlDM9cBkWcMtKw=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-6e9626.jpg",Nusantara TV
+https://etslive-2-vidio-com.akamaized.net/exp=1627163502~acl=/hls-p/ingest_7432_*/*~hmac=e45d676509f0ae3113f542f0736c1e85eaa40fe80af95b812a862c0830487ee7/hls-p/ingest_7432_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="RamaFM" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/On0LbU_V3_gD9Klq0C0DUJrCOR4=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7684/rama-bandung-4d3e5a.jpg",Rama FM
+https://etslive-2-vidio-com.akamaized.net/exp=1627163579~acl=/hls-p/ingest_7684_*/*~hmac=218c3996f08efee2e4d2e63323dd0e1db205f739c68662f356d5eae1d8357863/hls-p/ingest_7684_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="JizFM" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/SQFNQXY7NWaIL51_R_qUvTEUB1g=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7792/jiz-fm-ded2a5.jpg",Jiz FM
+https://etslive-2-vidio-com.akamaized.net/exp=1627163632~acl=/hls-p/ingest_7792_*/*~hmac=e43f5cc40eef7d58a077cd60938f7ff813e5f0b9d898d2b5b9d1f96265c06228/hls-p/ingest_7792_480p/index.m3u8
