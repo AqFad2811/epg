@@ -13,6 +13,9 @@ https://etslive-2-vidio-com.akamaized.net/exp=1627159153~acl=/hls-p/ingest_5415_
 #EXTINF:-1 tvg-id="NETHD" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/NET..svg/revision/latest/scale-to-width-down/350?cb=20171216081721",NET HD
 https://etslive-2-vidio-com.akamaized.net/exp=1627159296~acl=/vp9/875_stream.mpd!/vp9/875/*~hmac=21accb9cdf19c80d455c7229c6496f2ae2a09cf5aac209488de5e31287c492b1/vp9/875_stream.mpd
 
+#EXTINF:-1 tvg-id="RTV" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Rajawali_Televisi_logo.svg/revision/latest/scale-to-width-down/250?cb=20200922073436",RTV
+https://etslive-2-vidio-com.akamaized.net/exp=1627173121~acl=/hls-p/ingest_1561_*/*~hmac=f13c0d28280ef266b1f6a93162f5f9fd8a8c89b82256d3d9e5d37d2b8ca6b52d/hls-p/ingest_1561_480p/index.m3u8
+
 #EXTINF:-1 tvg-id="OShop" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/O-shop-logo.png/revision/latest/scale-to-width-down/250?cb=20180705160844",O Shop
 https://etslive-2-vidio-com.akamaized.net/exp=1627164002~acl=/hls-p/ingest_6166_*/*~hmac=cffef1ea4766cd663e9010d699fc0a5d75d54731b07aceec626bf9f3a4064f4f/hls-p/ingest_6166_360p/index.m3u8
 
