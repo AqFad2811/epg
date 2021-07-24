@@ -762,17 +762,65 @@ https://mediaprima.rastream.com/mediaprima-flyfm
 #EXTINF:-1 group-title="Radio Stations" ch-number="724" tvg-chno="724" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
 https://mediaprima.rastream.com/mediaprima-onefm
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="ERA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA
-http://iptv.tvmalaysia.cc:80/624850/624850/7169
-
 #EXTINF:-1 group-title="Radio Stations" tvg-id="HITZ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ
-http://iptv.tvmalaysia.cc:80/624850/624850/7171
+https://astro1.rastream.com/hitz.web.hls/playlist.m3u8?listeningSessionID=5fec0256fb09261c_17826634_KHyA7iEn_MTAzLjIxLjgxLjM6ODA!_000000yd1El&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Ahitz&playerid=Hitz%20Web%20Player_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxMjkxNjQsImV4cCI6MTYyNzIxNTU2NH0.bBOItVnOAAvaz0VNb5QAVpxrPstHqJQoT9ERjJSGeCM&lan=%5B%22en%22%5D&setLanguage=true&listenerid=af7e1ea71d4711826a68875ba402d124
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png", MY
+https://astro1.rastream.com/myfm.web.hls/playlist.m3u8?listeningSessionID=5fec0256fb09261c_17826988_k9MjkJ3q_MTAzLjIxLjgxLjM6ODA!_000000yd3se&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Amyfm&playerid=MY%20Web%20Player_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxMjk1NTksImV4cCI6MTYyNzIxNTk1OX0.eSqQh3rGckOQQHIDECt26T4B19JsIO53lH8d9J-nzQE&lan=%5B%22zh%22%5D&setLanguage=true&listenerid=af7e1ea71d4711826a68875ba402d124
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="LITE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png",LITE
+https://astro1.rastream.com/lite.web.hls/playlist.m3u8?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Alite&playerid=Listen%20to%20LITE%20on%20SYOK_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxMjkzNzYsImV4cCI6MTYyNzIxNTc3Nn0.37TY83Tjqw4RdoBtI7wHGz6XPDBO0zCRSGqMjCXT9hs&lan=%5B%22en%22%5D&setLanguage=true&listenerid=af7e1ea71d4711826a68875ba402d124
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="MIX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",mix
+https://astro2.rastream.com/mix.web.hls/playlist.m3u8?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Amix&playerid=MIX%20Web%20Player_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxMjk2ODEsImV4cCI6MTYyNzIxNjA4MX0.gAiC-t9f5lLi7orL0R0PH8CPqbKH7Uly-dsY7nwwXyM&lan=%5B%22en%22%5D&setLanguage=true&listenerid=af7e1ea71d4711826a68875ba402d124
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="ERA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA
+https://astro2.rastream.com/era.web.hls/playlist.m3u8?listeningSessionID=5fec0256fb09261c_17826484_0zBlvOcV_MTAzLjIxLjgxLjM6ODA!_000000yd0Sj&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Aera&playerid=ERA%20Web%20Player_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxMjkwMTEsImV4cCI6MTYyNzIxNTQxMX0.6ZdDdDoqDhWirQLHID-96ibDx41RSCCfFOSa9g9n1rE&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=af7e1ea71d4711826a68875ba402d124
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="SINAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR
-http://iptv.tvmalaysia.cc:80/624850/624850/7172
+https://astro2.rastream.com/sinar.web.hls/playlist.m3u8?listeningSessionID=5fec0256fb09261c_17826696_glSZFHR9_MTAzLjIxLjgxLjM6ODA!_000000yd1WM&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Asinar&playerid=SINAR%20Web%20Player_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxMjkxOTQsImV4cCI6MTYyNzIxNTU5NH0.AgQKoJheEmjeOrMKEQZPzwLyPf6qljboWw2AjnNPV1Y&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=af7e1ea71d4711826a68875ba402d124
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="MELODY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY
+https://astro3.rastream.com/melody.web.hls/playlist.m3u8?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Aamp-melody&playerid=MELODY%20Web%20Player_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxMjk3NDIsImV4cCI6MTYyNzIxNjE0Mn0.TwqR8PItPhAg-jFM38gLKzIy-THIa9U_F769Z4fvqQI&lan=%5B%22zh%22%5D&setLanguage=true&listenerid=af7e1ea71d4711826a68875ba402d124
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="RAAGA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png",RAAGA
+https://astro3.rastream.com/raaga.web.hls/playlist.m3u8?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Araaga&lon=101.0711&lat=4.6470&playerid=Listen%20to%20RAAGA%20on%20SYOK_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxMjk4MDMsImV4cCI6MTYyNzIxNjIwM30.ZdaVRtiyk_qzUvo_CGk3ZalM8ZJ9wVuVx43bQmkHtDg&lan=%5B%22ta%22%5D&setLanguage=true&listenerid=af7e1ea71d4711826a68875ba402d124
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="ClassicRock" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png",SYOK Classic Rock
+https://astro4.rastream.com/rock.web.hls/playlist.m3u8?listeningSessionID=5f9ebd11f7c31651_22891405_5OjzM7y2_MTAzLjIxLjgxLjk6ODA!_000000L5rFC&downloadSessionID=0&awparams=companionads%3Atrue%3B%3Bstationid%3Advr_rock&playerid=Classic%20Rock_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxMzAwMDYsImV4cCI6MTYyNzIxNjQwNn0.Pcr1kQG3asU6h5Q1_RGRmXRas15jiCcmgI537nBtN4Y&lan=%5B%22en%22%5D&setLanguage=true&listenerid=af7e1ea71d4711826a68875ba402d124
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="Gold" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png",SYOK Gold
+https://astro4.rastream.com/gold.web.hls/playlist.m3u8?listeningSessionID=5f9ebd11f7c31651_22891730_epWKYqDQ_MTAzLjIxLjgxLjk6ODA!_000000L5toC&downloadSessionID=0&awparams=companionads%3Atrue%3B%3Bstationid%3Advr_gold&playerid=Gold_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxMzAzNDEsImV4cCI6MTYyNzIxNjc0MX0.7e2g6vaS782qgBOG2QN11TB-no5ZOksWhUmOUsNUx4g&lan=%5B%22en%22%5D&setLanguage=true&listenerid=af7e1ea71d4711826a68875ba402d124
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="Opus" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/16_144.png",SYOK Opus
+https://astro4.rastream.com/opus.web.hls/playlist.m3u8?listeningSessionID=5f9ebd11f7c31651_22891796_rrZhrrUH_MTAzLjIxLjgxLjk6ODA!_000000L5tMr&downloadSessionID=0&awparams=companionads%3Atrue%3B%3Bstationid%3Advr_opus&lon=100.4794&lat=5.1138&playerid=Opus_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxMzA0MDksImV4cCI6MTYyNzIxNjgwOX0.mznSvqtDm0Xx1dIHEzcM1uGTyImkLgdPTpr78TK1xeU&lan=%5B%22en%22%5D&setLanguage=true&listenerid=af7e1ea71d4711826a68875ba402d124
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="GEGAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR
-http://iptv.tvmalaysia.cc:80/624850/624850/7174
+https://astro3.rastream.com/gegar.web.hls/playlist.m3u8?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Agegar&lon=100.4793&lat=5.1134&playerid=GEGAR%20Web%20Player_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxMjkzMTUsImV4cCI6MTYyNzIxNTcxNX0.gnfgnD2Mvfv97gcbqmmCdBlsnAIfd7HyMQuxHuPz7f4&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=af7e1ea71d4711826a68875ba402d124
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="India Beat" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png",SYOK India Beat
+https://astro4.rastream.com/india.web.hls/playlist.m3u8?listeningSessionID=5f9ebd11f7c31651_22891895_ZCKo2Vbg_MTAzLjIxLjgxLjk6ODA!_000000L5ukP&downloadSessionID=0&awparams=companionads%3Atrue%3B%3Bstationid%3Advr_india&lon=100.4794&lat=5.1138&playerid=India%20Beat_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxMzA1MDcsImV4cCI6MTYyNzIxNjkwN30.9fzQScXBNIg5KlPuIVCRJACu5tohw54P8SsjqqThhD4&lan=%5B%22ta%22%5D&setLanguage=true&listenerid=af7e1ea71d4711826a68875ba402d124
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="Jazz" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/24_144.png",SYOK Jazz
+https://astro4.rastream.com/jazz.web.hls/playlist.m3u8?listeningSessionID=5f9ebd11f7c31651_22891961_29PAXBer_MTAzLjIxLjgxLjk6ODA!_000000L5uIk&downloadSessionID=0&awparams=companionads%3Atrue%3B%3Bstationid%3Advr_jazz&lon=100.4794&lat=5.1138&playerid=Jazz_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxMzA1NzMsImV4cCI6MTYyNzIxNjk3M30.uCRF_SXsEuSbBXqcxkHfNWVf669kxyvMHhqQFSrMC2o&lan=%5B%22en%22%5D&setLanguage=true&listenerid=af7e1ea71d4711826a68875ba402d124
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="Osai" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/27_144.png",SYOK Osai
+https://astro4.rastream.com/osai.web.hls/playlist.m3u8?listeningSessionID=5fec0256fb09261c_17828060_iXKTkYq8_MTAzLjIxLjgxLjM6ODA!_000000yd9Tr&downloadSessionID=0&awparams=companionads%3Atrue%3B%3Bstationid%3Advr_osai&lon=100.4794&lat=5.1138&playerid=Osai_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxMzA2NjcsImV4cCI6MTYyNzIxNzA2N30.QeQpZzls9NZpm6o9svHtGIkA4J8OlYcKjt6Xg-1GpG4&lan=%5B%22ta%22%5D&setLanguage=true&listenerid=af7e1ea71d4711826a68875ba402d124
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="Bayu" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png",SYOK Bayu
+https://astro4.rastream.com/bayu.web.hls/playlist.m3u8?listeningSessionID=5f9ebd11f7c31651_22892128_hURzdA04_MTAzLjIxLjgxLjk6ODA!_000000L5vGF&downloadSessionID=0&awparams=companionads%3Atrue%3B%3Bstationid%3Advr_bayu&lon=100.4794&lat=5.1138&playerid=Bayu_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxMzA3NDAsImV4cCI6MTYyNzIxNzE0MH0.EJ9y9draQ3nPPJ0RhoF7XklIThH7j7YwxGBGReezMtM&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=af7e1ea71d4711826a68875ba402d124
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="Kenyalang" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/32_144.png",SYOK Kenyalang
+https://astro4.rastream.com/kenyalang.web.hls/playlist.m3u8?listeningSessionID=5f9ebd11f7c31651_22892216_Oa4bvE8V_MTAzLjIxLjgxLjk6ODA!_000000L5weZ&downloadSessionID=0&awparams=companionads%3Atrue%3B%3Bstationid%3Advr_kenyalang&lon=100.4793&lat=5.1134&playerid=Kenyalang_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxMzA4MjgsImV4cCI6MTYyNzIxNzIyOH0.I-wvYuXgRySGkERdmLepb1dcIyfNsuPQh9pkGV6rtcg&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=af7e1ea71d4711826a68875ba402d124
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="ZAYAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png",ZAYAN
+https://astro3.rastream.com/astro-zayan.web.hls/playlist.m3u8?listeningSessionID=5fec0256fb09261c_17826776_FonaIySM_MTAzLjIxLjgxLjM6ODA!_000000yd2oy&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Azayan&playerid=ZAYAN_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxMjkzNzYsImV4cCI6MTYyNzIxNTc3Nn0.37TY83Tjqw4RdoBtI7wHGz6XPDBO0zCRSGqMjCXT9hs&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=af7e1ea71d4711826a68875ba402d124
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="GOXUAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png",GOXUAN
+https://astro3.rastream.com/astro-goxuan.web.hls/playlist.m3u8?listeningSessionID=5fec0256fb09261c_17828259_siULI4VQ_MTAzLjIxLjgxLjM6ODA!_000000ydb6e&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Agoxuan&playerid=GOXUAN%20Web%20Player_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxMzA4MzksImV4cCI6MTYyNzIxNzIzOX0._rZjAV6A1KVZrgdYDQeVn2fqzXlynYDuWVi4dVKk3IU&lan=%5B%22zh%22%5D&setLanguage=true&listenerid=af7e1ea71d4711826a68875ba402d124
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="ArenaRadio" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/304_144.png",Arena Radio
+https://astro1.rastream.com/amp-arena.web.hls/playlist.m3u8?listeningSessionID=5f9ebd11f7c31651_22892334_sScb7obs_MTAzLjIxLjgxLjk6ODA!_000000L5wUn&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Aamp-arena&playerid=Arena%20FM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MjcxMzA4MzksImV4cCI6MTYyNzIxNzIzOX0._rZjAV6A1KVZrgdYDQeVn2fqzXlynYDuWVi4dVKk3IU&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=af7e1ea71d4711826a68875ba402d124
 
 #EXTINF:-1, group-title="Online TV" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
