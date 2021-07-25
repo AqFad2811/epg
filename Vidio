@@ -26,7 +26,7 @@ https://conversant.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-id="OShop" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/O-shop-logo.png/revision/latest/scale-to-width-down/250?cb=20180705160844",O Shop
-https://etslive-2-vidio-com.akamaized.net/exp=1627164002~acl=/hls-p/ingest_6166_*/*~hmac=cffef1ea4766cd663e9010d699fc0a5d75d54731b07aceec626bf9f3a4064f4f/hls-p/ingest_6166_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1627187415~acl=/hls-p/ingest_6166_*/*~hmac=36229679bcc1906d7a37ae608458ba37c556b2a1c877adf90da0eb902f6539fc/hls-p/ingest_6166_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="AjwaTVHD" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Ajwa_TV.png/revision/latest/scale-to-width-down/250?cb=20201110025441",Ajwa TV HD
 https://etslive-2-vidio-com.akamaized.net/exp=1627176525~acl=/hls-p/ingest_7464_*/*~hmac=e2048e538c3d48078ab8438ee9f483e77167dd69441579ef6be58a8ee0e73ff2/hls-p/ingest_7464_480p/index.m3u8
@@ -78,12 +78,12 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#EXTINF:-1 tvg-id="Ent" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/ENT.png/revision/latest/scale-to-width-down/200?cb=20210109124512",ENT
+#EXTINF:-1 tvg-id="Ent" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/ENT.png/revision/latest/scale-to-width-down/200?cb=20210109124512",ENT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
-#EXTINF:-1 tvg-id="OKTV" group-title="HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Ok_TV_%282020%29.png",OKTV
+#EXTINF:-1 tvg-id="OKTV" group-title="SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Ok_TV_%282020%29.png",OKTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
