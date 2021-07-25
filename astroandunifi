@@ -11,7 +11,7 @@ https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8|Referer=https:/
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd
 
-#EXTINF:-1 tvg-id="TV3" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 (Backup)
+#EXTINF:-1 tvg-id="TV3" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 (Backup) (VPN NEEDED)
 # https://mediahomes.github.io/assets/my/ch_tv3.m3u8
 http://iptv.tvmalaysia.cc:80/737373/737373/8750
 
@@ -31,7 +31,7 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroWarnaHD" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroCitraHD" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
+#EXTINF:-1 tvg-id="AstroCitraHD" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra (VPN NEEDED)
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
 
 #EXTINF:-1 tvg-id="NauraHD" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",109 Naura
@@ -68,10 +68,10 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 #EXTINF:-1 tvg-id="TV6" group-title="Testing Channel" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
-#EXTINF:-1 tvg-id="AstroRaniaHD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",112 Astro Rania
+#EXTINF:-1 tvg-id="AstroRaniaHD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",112 Astro Rania (VPN NEEDED)
 http://iptv.tvmalaysia.cc:80/624850/624850/6729
 
-#EXTINF:-1 tvg-id="AstroAuraHD" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astro Aura
+#EXTINF:-1 tvg-id="AstroAuraHD" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astro Aura (VPN NEEDED)
 http://iptv.tvmalaysia.cc:80/624850/624850/6713
 
 #EXTINF:-1 tvg-id="SalamHD" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",113 Salam HD
@@ -165,11 +165,11 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227560/3221227560.mpd
 
-#EXTINF:-1 tvg-id="AstroVaanavilHD" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest?cb=20200531231529",201 Astro Vaanavil
+#EXTINF:-1 tvg-id="AstroVaanavilHD" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest?cb=20200531231529",201 Astro Vaanavil (VPN NEEDED)
 # https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 http://iptv.tvmalaysia.cc:80/737373/737373/6738
 
-#EXTINF:-1 tvg-id="AstroVinmeenHD" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen HD
+#EXTINF:-1 tvg-id="AstroVinmeenHD" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen HD (VPN NEEDED)
 http://iptv.tvmalaysia.cc:80/624850/624850/6739
 
 #EXTINF:-1 tvg-id="ColorsTamilHD" group-title="Indian" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160723588691kg.png",222 Colors Tamil HD
@@ -197,7 +197,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227559/3221227559.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227529/3221227529.mpd
 
-#EXTINF:-1 tvg-id="BollyoneHD" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",251 Bollyone HD
+#EXTINF:-1 tvg-id="BollyoneHD" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",251 Bollyone HD (VPN NEEDED)
 http://iptv.tvmalaysia.cc:80/624850/624850/6754
 
 #EXTINF:-1 tvg-id="IQIYIHD" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",300 IQIYI HD
@@ -269,16 +269,16 @@ http://1.9.62.158/PLTV/88888888/224/3221227538/3221227538.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd
 
-#EXTINF:-1 tvg-id="AODHD" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 352 Astro AOD
+#EXTINF:-1 tvg-id="AODHD" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 352 Astro AOD (VPN NEEDED)
 http://iptv.tvmalaysia.cc:80/737373/737373/6703
 
-#EXTINF:-1 tvg-id="AODHD" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 353 Astro AOD
+#EXTINF:-1 tvg-id="AODHD" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 353 Astro AOD (VPN NEEDED)
 http://iptv.tvmalaysia.cc:80/737373/737373/6704
 
-#EXTINF:-1 tvg-id="AODHD" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 354 Astro AOD
+#EXTINF:-1 tvg-id="AODHD" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 354 Astro AOD (VPN NEEDED)
 http://iptv.tvmalaysia.cc:80/737373/737373/6705
 
-#EXTINF:-1 tvg-id="AODHD" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 355 Astro AOD
+#EXTINF:-1 tvg-id="AODHD" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 355 Astro AOD (VPN NEEDED)
 http://iptv.tvmalaysia.cc:80/737373/737373/6706
 
 #EXTINF:-1 tvg-id="KBSWorldHD" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png", 392 KBS World HD
@@ -487,13 +487,13 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 https://nonton.site:8843/provision/pp/37395
 
 #EXTINF:-1 tvg-id="TutorTVPT3" tvg-logo="https://i.kampung.xyz/c/f9ace6ddfb93062e.png" group-title="Education",602 Astro Tutor TV PT3
-http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18946
+http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18946.ts
 
 #EXTINF:-1 tvg-id="TutorTVSPM" tvg-logo="https://i.kampung.xyz/c/450e9b4f3fca408b.png" group-title="Education",603 Astro Tutor TV SPM
-http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18947
+http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18947.ts
 
 #EXTINF:-1 tvg-id="AstroTVIQ" tvg-logo="https://i.kampung.xyz/c/6fb2bb374fc7edc8.png" group-title="Education",610 Astro TVIQ
-http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18949
+http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18949.ts
 
 #EXTINF:-1 tvg-id="AstroCeriaHD" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
@@ -702,19 +702,19 @@ http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Astro SuperSport Plus HD 
 # http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18934
 
-#EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",811 Astro SuperSport HD 
+#EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",811 Astro SuperSport HD (VPN NEEDED) 
 # http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
 
-#EXTINF:-1 tvg-id="AstroSuperSport2HD" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/812.png/revision/latest?cb=20200520222551",812 Astro SuperSport 2 HD
+#EXTINF:-1 tvg-id="AstroSuperSport2HD" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/812.png/revision/latest?cb=20200520222551",812 Astro SuperSport 2 HD (VPN NEEDED)
 # http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
 
-#EXTINF:-1 tvg-id="AstroSuperSport3HD" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png/revision/latest?cb=20180622075715",813 Astro SuperSport 3 HD
+#EXTINF:-1 tvg-id="AstroSuperSport3HD" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png/revision/latest?cb=20180622075715",813 Astro SuperSport 3 HD (VPN NEEDED)
 # http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
 
-#EXTINF:-1 tvg-id="AstroSuperSport4HD" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Astro_Supersport_4_2015.png/revision/latest?cb=20180622080127",814 Astro SuperSport 4 HD 
+#EXTINF:-1 tvg-id="AstroSuperSport4HD" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Astro_Supersport_4_2015.png/revision/latest?cb=20180622080127",814 Astro SuperSport 4 HD (VPN NEEDED)
 # http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
 
@@ -750,7 +750,7 @@ http://22283.live.streamtheworld.com/988_FMAAC.aac
 #EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" tvg-chno="958" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",Suria FM
 https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="HotFM" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/8/8b/Hotfmlogo.svg/200px-Hotfmlogo.svg.png", Hot FM
+#EXTINF:-1 group-title="Radio Stations" tvg-id="HotFM" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/8/8b/Hotfmlogo.svg/200px-Hotfmlogo.svg.png", Hot FM (VPN NEEDED)
 http://iptv.tvmalaysia.cc:80/624850/624850/7170
 
 #EXTINF:-1 group-title="Radio Stations" ch-number="722" tvg-chno="722" tvg-logo="https://i.ibb.co/YckpG8w/image.png",Kool FM
@@ -864,6 +864,3 @@ https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mp
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_dash_vmx/DisneyJunior.mpd
-
-#EXTINF:-1 tvg-id="Test" group-title="VOD",Test
-file:///E:/Users/User/Videos/MOVIE/Phineas%20and%20Ferb%20the%20Movie_%20Across%20the%202nd%20Dimension(2011)..mp4
