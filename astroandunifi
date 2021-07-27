@@ -63,17 +63,19 @@ https://rtm-olympic04.secureswiftcontent.com/rtm/olympic04_1080.m3u8|Referer=htt
 https://rtm-olympic05.secureswiftcontent.com/rtm/olympic05_manifest.mpd
 https://rtm-olympic05.secureswiftcontent.com/rtm/olympic05_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 tvg-id="GOSHOP111" group-title="Astro" tvg-logo="https://i.kampung.xyz/c/20d0f2053da42ed2.png",111 Go Shop
+#EXTINF:-1 tvg-id="BAARU" group-title="Astro" tvg-logo="https://i.kampung.xyz/c/20d0f2053da42ed2.png",111 Go Shop BAARU
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 
 #EXTINF:-1 tvg-id="TV6" group-title="Testing Channel" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
-#EXTINF:-1 tvg-id="AstroRaniaHD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",112 Astro Rania (VPN NEEDED)
-http://iptv.tvmalaysia.cc:80/624850/624850/6729
+#EXTINF:-1 tvg-id="AstroRaniaHD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",112 Astro Rania
+# http://iptv.tvmalaysia.cc:80/624850/624850/6729
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
 
-#EXTINF:-1 tvg-id="AstroAuraHD" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astro Aura (VPN NEEDED)
-http://iptv.tvmalaysia.cc:80/624850/624850/6713
+#EXTINF:-1 tvg-id="AstroAuraHD" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astro Aura
+# http://iptv.tvmalaysia.cc:80/624850/624850/6713
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
 
 #EXTINF:-1 tvg-id="SalamHD" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",113 Salam HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -292,7 +294,8 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16363
 #EXTINF:-1 tvg-id="ONEHD" group-title="Korean" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",393 ONE HD 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+# https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+http://185.180.221.194:8278/streams/d/SetOne/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OhKHD" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png",394 Oh!K HD 
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
@@ -706,21 +709,25 @@ http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Astro SuperSport Plus HD 
 # http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18934
 
-#EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",811 Astro SuperSport HD (VPN NEEDED) 
+#EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",811 Astro SuperSport HD 
 # http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
+# http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroSuperSport2HD" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/812.png/revision/latest?cb=20200520222551",812 Astro SuperSport 2 HD (VPN NEEDED)
+#EXTINF:-1 tvg-id="AstroSuperSport2HD" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/812.png/revision/latest?cb=20200520222551",812 Astro SuperSport 2 HD
 # http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
+# http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
+http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroSuperSport3HD" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png/revision/latest?cb=20180622075715",813 Astro SuperSport 3 HD (VPN NEEDED)
+#EXTINF:-1 tvg-id="AstroSuperSport3HD" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png/revision/latest?cb=20180622075715",813 Astro SuperSport 3 HD
 # http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
+# http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
+http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroSuperSport4HD" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Astro_Supersport_4_2015.png/revision/latest?cb=20180622080127",814 Astro SuperSport 4 HD (VPN NEEDED)
+#EXTINF:-1 tvg-id="AstroSuperSport4HD" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Astro_Supersport_4_2015.png/revision/latest?cb=20180622080127",814 Astro SuperSport 4 HD
 # http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
+# http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
+http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FOXSportsHD" group-title="Sports" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png",815 FOX Sports HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
