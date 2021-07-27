@@ -1,10 +1,10 @@
 #EXTINF:-1 tvg-id="TV1HD" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",101 TV1
-# https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+# https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="TV2" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",102 TV2
-# https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+# https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="TV3" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",103 TV3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
