@@ -62,7 +62,7 @@ https://rtm-olympic04.secureswiftcontent.com/rtm/olympic04_1080.m3u8|Referer=htt
 https://rtm-olympic05.secureswiftcontent.com/rtm/olympic05_manifest.mpd
 https://rtm-olympic05.secureswiftcontent.com/rtm/olympic05_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 tvg-id="BAARU" group-title="Astro" tvg-logo="https://i.kampung.xyz/c/20d0f2053da42ed2.png",111 Go Shop BAARU
+#EXTINF:-1 tvg-id="GOSHOP111" group-title="Astro" tvg-logo="https://i.kampung.xyz/c/20d0f2053da42ed2.png",111 Go Shop
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 
 #EXTINF:-1 tvg-id="TV6" group-title="Testing Channel" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
@@ -150,7 +150,8 @@ https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQFfVgCDmLKqyOgdid
 http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
 
 #EXTINF:-1 tvg-id="8TV" group-title="Free Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/8TV_my2018.png/revision/latest?cb=20200525120403",148 8TV (Backup)
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+# http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSJiwz4XFd0UTRWMSBg7-8U)/dm/3/x6qud17/s/live-2.m3u8
 
 #EXTINF:-1 tvg-id="TV9" group-title="Free Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest?cb=20170819074656",149 TV9
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -160,7 +161,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
 
 #EXTINF: -1 tvg-id="TV9" group-title="Free Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest?cb=20170819074656",149 TV9 (Backup)
 # http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHd6oejuqK2ml3ERCNjZSgUM)/dm/3/x6qqja6/s/live-4.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZT-qazr02s_pxi19oRfkio)/dm/3/x6qqja6/s/live-2.m3u8
 
 #EXTINF:-1 tvg-id="LAKUmall" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png",151 LAKU Mall 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
