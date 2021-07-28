@@ -1,3 +1,5 @@
+#EXTM3U x-tvg-url=https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml
+
 #EXTINF:-1 tvg-id="101" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",101 TV1
 # https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8
