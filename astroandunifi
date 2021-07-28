@@ -43,27 +43,27 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/36
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 # https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
 
-#EXTINF:-1 tvg-id="TVSUKAN"  tvg-logo="https://mediahomes.github.io/logos/sukan.png",111 Sukan RTM
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" tvg-logo="https://mediahomes.github.io/logos/sukan.png",111 Sukan RTM
 # https://rtmSportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8
 
-#EXTINF:-1  ch-number="1001" tvg-id="1001" tvg-chno="1001" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch1.png",RTM Tokyo 2020 Channel 1 (HD)
+#EXTINF:-1  ch-number="1001" group-title="Sports" tvg-id="1001" tvg-chno="1001" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch1.png",RTM Tokyo 2020 Channel 1 (HD)
 https://rtm-Special Event Sports HD 001.secureswiftcontent.com/rtm/Special Event Sports HD 001_manifest.mpd
 https://rtm-Special Event Sports HD 001.secureswiftcontent.com/rtm/Special Event Sports HD 001_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1  ch-number="1002" tvg-id="1002" tvg-chno="1002" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch2.png",RTM Tokyo 2020 Channel 2 (HD)
+#EXTINF:-1  ch-number="1002" group-title="Sports" tvg-id="1002" tvg-chno="1002" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch2.png",RTM Tokyo 2020 Channel 2 (HD)
 https://rtm-Special Event Sports HD 002.secureswiftcontent.com/rtm/Special Event Sports HD 002_manifest.mpd
 https://rtm-Special Event Sports HD 002.secureswiftcontent.com/rtm/Special Event Sports HD 002_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1  ch-number="1003" tvg-id="1003" tvg-chno="1003" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch3.png",RTM Tokyo 2020 Channel 3 (HD)
+#EXTINF:-1  ch-number="1003" group-title="Sports" tvg-id="1003" tvg-chno="1003" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch3.png",RTM Tokyo 2020 Channel 3 (HD)
 https://rtm-Special Event Sports HD 003.secureswiftcontent.com/rtm/Special Event Sports HD 003_manifest.mpd
 https://rtm-Special Event Sports HD 003.secureswiftcontent.com/rtm/Special Event Sports HD 003_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1  ch-number="1004" tvg-id="1004" tvg-chno="1004" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch4.png",RTM Tokyo 2020 Channel 4 (HD)
+#EXTINF:-1  ch-number="1004" group-title="Sports" tvg-id="1004" tvg-chno="1004" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch4.png",RTM Tokyo 2020 Channel 4 (HD)
 https://rtm-Special Event Sports HD 004.secureswiftcontent.com/rtm/Special Event Sports HD 004_manifest.mpd
 https://rtm-Special Event Sports HD 004.secureswiftcontent.com/rtm/Special Event Sports HD 004_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1  ch-number="1005" tvg-id="1005" tvg-chno="1005" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch5.png",RTM Tokyo 2020 Channel 5 (HD)
+#EXTINF:-1  ch-number="1005" group-title="Sports" tvg-id="1005" tvg-chno="1005" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch5.png",RTM Tokyo 2020 Channel 5 (HD)
 https://rtm-Special Event Sports HD 005.secureswiftcontent.com/rtm/Special Event Sports HD 005_manifest.mpd
 https://rtm-Special Event Sports HD 005.secureswiftcontent.com/rtm/Special Event Sports HD 005_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
@@ -566,67 +566,67 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 # https://mediahomes.github.io/assets/yt/france24.m3u8|# Referer=https://www.youtube.com
 
-#EXTINF:-1 tvg-id="unifiSports1"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1
+#EXTINF:-1 tvg-id="unifiSports1" group-title="Sports"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd
 
-#EXTINF:-1 tvg-id="unifiSports2"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest?cb=20210712113109",unifi Sports 2
+#EXTINF:-1 tvg-id="unifiSports2" group-title="Sports"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest?cb=20210712113109",unifi Sports 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
 
-#EXTINF:-1 tvg-id="unifiSports3"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Unifi-Sports-3.png/revision/latest?cb=20210712113331",unifi Sports 3
+#EXTINF:-1 tvg-id="unifiSports3" group-title="Sports"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Unifi-Sports-3.png/revision/latest?cb=20210712113331",unifi Sports 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
 
-#EXTINF:-1 tvg-id="unifiSports4"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Unifi-Sports-4.png/revision/latest?cb=20210712113617",unifi Sports 4
+#EXTINF:-1 tvg-id="unifiSports4" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Unifi-Sports-4.png/revision/latest?cb=20210712113617",unifi Sports 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
 
-#EXTINF:-1 tvg-id="unifiSports5"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Unifi-Sports-5.png/revision/latest?cb=20210712113706",unifi Sports 5
+#EXTINF:-1 tvg-id="unifiSports5" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Unifi-Sports-5.png/revision/latest?cb=20210712113706",unifi Sports 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
 
-#EXTINF:-1 tvg-id="unifiSports6"  tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/NpUkSL3T",unifi Sports 6
+#EXTINF:-1 tvg-id="unifiSports6" group-title="Sports"  tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/NpUkSL3T",unifi Sports 6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 https://web.hypp.tv:443/PLTV/88888888/224/3221227795/3221227795.mpd
 
-#EXTINF:-1 tvg-id="unifiSports7"  tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/1gQKtrxB",unifi Sports 7
+#EXTINF:-1 tvg-id="unifiSports7" group-title="Sports"  tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/1gQKtrxB",unifi Sports 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 https://web.hypp.tv:443/PLTV/88888888/224/3221227787/3221227787.mpd
 
-#EXTINF:-1 tvg-id="unifiSports8"  tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/VrUDHzHa",unifi Sports 8
+#EXTINF:-1 tvg-id="unifiSports8" group-title="Sports" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/VrUDHzHa",unifi Sports 8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 https://web.hypp.tv:443/PLTV/88888888/224/3221227798/3221227798.mpd
 
-#EXTINF:-1 tvg-id="unifiSports9"  tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/8rs5tKy8",unifi Sports 9
+#EXTINF:-1 tvg-id="unifiSports9" group-title="Sports" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/8rs5tKy8",unifi Sports 9
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 https://web.hypp.tv:443/PLTV/88888888/224/3221227793/3221227793.mpd
 
-#EXTINF:-1 tvg-id="unifiSports10"  tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/8Y9dZUSI",unifi Sports 10
+#EXTINF:-1 tvg-id="unifiSports10" group-title="Sports" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/8Y9dZUSI",unifi Sports 10
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 https://web.hypp.tv:443/PLTV/88888888/224/3221227830/3221227830.mpd
 
-#EXTINF:-1 tvg-id="unifiSports11"  tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/pC41J1AK",unifi Sports 11
+#EXTINF:-1 tvg-id="unifiSports11" group-title="Sports" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/pC41J1AK",unifi Sports 11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 https://web.hypp.tv:443/PLTV/88888888/224/3221227833/3221227833.mpd
 
-#EXTINF:-1 tvg-id="unifiSports12"  tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/cL0ged2e",unifi Sports 12
+#EXTINF:-1 tvg-id="unifiSports12" group-title="Sports" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/cL0ged2e",unifi Sports 12
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 https://web.hypp.tv:443/PLTV/88888888/224/3221227799/3221227799.mpd
 
-#EXTINF:-1 tvg-id="unifiSports13"  tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/wuC3Kw9b",unifi Sports 13
+#EXTINF:-1 tvg-id="unifiSports13" group-title="Sports" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/wuC3Kw9b",unifi Sports 13
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 https://web.hypp.tv:443/PLTV/88888888/224/3221227802/3221227802.mpd
@@ -713,95 +713,92 @@ http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 tvg-id="785" tvg-name="SpecialEventSportsHD01"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 01
+#EXTINF:-1 tvg-id="785" tvg-name="SpecialEventSportsHD01" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 01
 https://link.zozotv.xyz:443/Freemium1/unlimited99/318
 
-#EXTINF:-1 tvg-id="786" tvg-name="SpecialEventSportsHD02"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 02
+#EXTINF:-1 tvg-id="786" tvg-name="SpecialEventSportsHD02" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 02
 https://link.zozotv.xyz:443/Freemium1/unlimited99/319
 
-#EXTINF:-1 tvg-id="787" tvg-name="SpecialEventSportsHD03"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 03
+#EXTINF:-1 tvg-id="787" tvg-name="SpecialEventSportsHD03" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 03
 https://link.zozotv.xyz:443/Freemium1/unlimited99/320
 
-#EXTINF:-1 tvg-id="788" tvg-name="SpecialEventSportsHD04"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 04
+#EXTINF:-1 tvg-id="788" tvg-name="SpecialEventSportsHD04" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 04
 https://link.zozotv.xyz:443/Freemium1/unlimited99/321
 
-#EXTINF:-1 tvg-id="789" tvg-name="SpecialEventSportsHD05"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 05
+#EXTINF:-1 tvg-id="789" tvg-name="SpecialEventSportsHD05" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 05
 https://link.zozotv.xyz:443/Freemium1/unlimited99/322
 
-#EXTINF:-1 tvg-id="790" tvg-name="SpecialEventSportsHD06"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 06
+#EXTINF:-1 tvg-id="790" tvg-name="SpecialEventSportsHD06" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 06
 https://link.zozotv.xyz:443/Freemium1/unlimited99/323
 
-#EXTINF:-1 tvg-id="791" tvg-name="SpecialEventSportsHD07"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 07
+#EXTINF:-1 tvg-id="791" tvg-name="SpecialEventSportsHD07" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 07
 https://link.zozotv.xyz:443/Freemium1/unlimited99/324
 
-#EXTINF:-1 tvg-id="792" tvg-name="SpecialEventSportsHD08"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 08
+#EXTINF:-1 tvg-id="792" tvg-name="SpecialEventSportsHD08" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 08
 https://link.zozotv.xyz:443/Freemium1/unlimited99/325
 
-#EXTINF:-1 tvg-id="793" tvg-name="SpecialEventSportsHD09"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 09
+#EXTINF:-1 tvg-id="793" tvg-name="SpecialEventSportsHD09" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 09
 https://link.zozotv.xyz:443/Freemium1/unlimited99/326
 
-#EXTINF:-1 tvg-id="794" tvg-name="SpecialEventSportsHD10"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 10
+#EXTINF:-1 tvg-id="794" tvg-name="SpecialEventSportsHD10" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 10
 https://link.zozotv.xyz:443/Freemium1/unlimited99/327
 
-#EXTINF:-1 tvg-id="795" tvg-name="SpecialEventSportsHD11"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 11
+#EXTINF:-1 tvg-id="795" tvg-name="SpecialEventSportsHD11" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 11
 https://link.zozotv.xyz:443/Freemium1/unlimited99/336
 
-#EXTINF:-1 tvg-id="796" tvg-name="SpecialEventSportsHD12"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 12
+#EXTINF:-1 tvg-id="796" tvg-name="SpecialEventSportsHD12" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 12
 https://link.zozotv.xyz:443/Freemium1/unlimited99/337
 
-#EXTINF:-1 tvg-id="800"  tvg-logo="https://i.kampung.xyz/c/5a8c2149409e6e47.png",800 eGG Network HD
+#EXTINF:-1 tvg-id="800" group-title="Sports" tvg-logo="https://i.kampung.xyz/c/5a8c2149409e6e47.png",800 eGG Network HD
 http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
 
-#EXTINF: -1 tvg-id="801"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Astro_Arena.png/revision/latest?cb=20180622080600",801 Astro Arena
+#EXTINF: -1 tvg-id="801" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Astro_Arena.png/revision/latest?cb=20180622080600",801 Astro Arena
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroSuperSportHD"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Astro SuperSport Plus HD 
-# http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18934
-
-#EXTINF:-1 tvg-id="811"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",811 Astro SuperSport HD 
+#EXTINF:-1 tvg-id="811" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",811 Astro SuperSport HD 
 # http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 # http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="812"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/812.png/revision/latest?cb=20200520222551",812 Astro SuperSport 2 HD
+#EXTINF:-1 tvg-id="812" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/812.png/revision/latest?cb=20200520222551",812 Astro SuperSport 2 HD
 # http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 # http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
 http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="813"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png/revision/latest?cb=20180622075715",813 Astro SuperSport 3 HD
+#EXTINF:-1 tvg-id="813" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png/revision/latest?cb=20180622075715",813 Astro SuperSport 3 HD
 # http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 # http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="814"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Astro_Supersport_4_2015.png/revision/latest?cb=20180622080127",814 Astro SuperSport 4 HD
+#EXTINF:-1 tvg-id="814" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Astro_Supersport_4_2015.png/revision/latest?cb=20180622080127",814 Astro SuperSport 4 HD
 # http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 # http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="815"  tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png",815 FOX Sports HD
+#EXTINF:-1 tvg-id="815" group-title="Sports" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png",815 FOX Sports HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 # https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd
 
-#EXTINF:-1 tvg-id="816"  tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png",816 FOX Sports 2 HD
+#EXTINF:-1 tvg-id="816" group-title="Sports" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png",816 FOX Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 # https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd
 
-#EXTINF:-1 tvg-id="817"  tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png",817 FOX Sports 3 HD
+#EXTINF:-1 tvg-id="817" group-title="Sports" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png",817 FOX Sports 3 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 # https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd
 
-#EXTINF:-1 tvg-id="beINSports1"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/BeINSports1.png/revision/latest?cb=20170103003645",beIN Sports 1
+#EXTINF:-1 tvg-id="beINSports1" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/BeINSports1.png/revision/latest?cb=20170103003645",beIN Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 
-#EXTINF:-1 tvg-id="819"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest?cb=20190319023656",819 BeIN Sports MAX HD
+#EXTINF:-1 tvg-id="819" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest?cb=20190319023656",819 BeIN Sports MAX HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" tvg-chno="956" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/z7NxkSb6",988
