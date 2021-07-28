@@ -426,7 +426,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227586/3221227586.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227531/3221227531.mpd
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglishHD" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png",513 Al Jazeera English HD
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+https://stream-03.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_SbVGItAvdjKuMQRAeoEnlI)/dm/3/x6rsa3u/s/live-4.m3u8
+# https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 #EXTINF:-1 tvg-id="SkyNewsHD" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png",514 Sky News
 https://skyNews2-plutolive-vo.akamaized.net/cdhlsskyNewsamericas/1013/latest.m3u8
