@@ -44,8 +44,9 @@ http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 # https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
 
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" tvg-logo="https://mediahomes.github.io/logos/sukan.png",111 Sukan RTM
+https://link.zozotv.xyz:443/Freemium1/unlimited99/154
 # https://rtmSportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8
+# https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8
 
 #EXTINF:-1  ch-number="1001" group-title="Sports" tvg-id="1001" tvg-chno="1001" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch1.png",RTM Tokyo 2020 Channel 1 (HD)
 https://rtm-Special Event Sports HD 001.secureswiftcontent.com/rtm/Special Event Sports HD 001_manifest.mpd
@@ -754,7 +755,8 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/337
 http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
 
 #EXTINF: -1 tvg-id="801" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Astro_Arena.png/revision/latest?cb=20180622080600",801 Astro Arena
-http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+# http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="811" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",811 Astro SuperSport HD 
 # http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
