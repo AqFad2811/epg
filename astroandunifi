@@ -658,7 +658,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227802/3221227802.mpd
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #EXTINF:-1 tvg-id="702" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",702 Hello HD
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 
 #EXTINF:-1 tvg-id="703" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073811029jld.png",703 FOXlife HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
