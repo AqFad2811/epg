@@ -265,7 +265,9 @@ http://1.9.62.158/PLTV/88888888/224/3221227551/3221227551.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227516/3221227516.mpd
 
 #EXTINF:-1 tvg-id="321" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",321 CCM
-https://link.zozotv.xyz:443/Freemium1/unlimited99/65
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #EXTINF:-1 tvg-id="SonyMax" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070246131li6.png",331 Sony Max
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -303,9 +305,10 @@ http://iptv.tvmalaysia.cc:80/737373/737373/6705
 http://iptv.tvmalaysia.cc:80/737373/737373/6706
 
 #EXTINF:-1 tvg-id="392" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png", 392 KBS World HD
-https://link.zozotv.xyz:443/Freemium1/unlimited99/78
+# https://link.zozotv.xyz:443/Freemium1/unlimited99/78
 # http://iptv.tvmalaysia.cc:80/624850/624850/6803
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16363
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="393" group-title="Korean" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",393 ONE HD 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -323,7 +326,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
 
 #EXTINF:-1 tvg-id="396" group-title="GO Exclusive" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png",KPlus HD
 # http://iptv.tvmalaysia.cc:80/624850/624850/6805
-https://link.zozotv.xyz:443/Freemium1/unlimited99/80
+http://210.210.155.35/uq2663/h/h08/01.m3u8
 
 #EXTINF:-1 tvg-id="401" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",401 Hits Movies 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -718,42 +721,6 @@ http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 tvg-id="785" tvg-name="SpecialEventSportsHD01" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 01
-https://link.zozotv.xyz:443/Freemium1/unlimited99/318
-
-#EXTINF:-1 tvg-id="786" tvg-name="SpecialEventSportsHD02" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 02
-https://link.zozotv.xyz:443/Freemium1/unlimited99/319
-
-#EXTINF:-1 tvg-id="787" tvg-name="SpecialEventSportsHD03" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 03
-https://link.zozotv.xyz:443/Freemium1/unlimited99/320
-
-#EXTINF:-1 tvg-id="788" tvg-name="SpecialEventSportsHD04" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 04
-https://link.zozotv.xyz:443/Freemium1/unlimited99/321
-
-#EXTINF:-1 tvg-id="789" tvg-name="SpecialEventSportsHD05" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 05
-https://link.zozotv.xyz:443/Freemium1/unlimited99/322
-
-#EXTINF:-1 tvg-id="790" tvg-name="SpecialEventSportsHD06" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 06
-https://link.zozotv.xyz:443/Freemium1/unlimited99/323
-
-#EXTINF:-1 tvg-id="791" tvg-name="SpecialEventSportsHD07" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 07
-https://link.zozotv.xyz:443/Freemium1/unlimited99/324
-
-#EXTINF:-1 tvg-id="792" tvg-name="SpecialEventSportsHD08" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 08
-https://link.zozotv.xyz:443/Freemium1/unlimited99/325
-
-#EXTINF:-1 tvg-id="793" tvg-name="SpecialEventSportsHD09" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 09
-https://link.zozotv.xyz:443/Freemium1/unlimited99/326
-
-#EXTINF:-1 tvg-id="794" tvg-name="SpecialEventSportsHD10" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 10
-https://link.zozotv.xyz:443/Freemium1/unlimited99/327
-
-#EXTINF:-1 tvg-id="795" tvg-name="SpecialEventSportsHD11" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 11
-https://link.zozotv.xyz:443/Freemium1/unlimited99/336
-
-#EXTINF:-1 tvg-id="796" tvg-name="SpecialEventSportsHD12" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 12
-https://link.zozotv.xyz:443/Freemium1/unlimited99/337
-
 #EXTINF:-1 tvg-id="800" group-title="Sports" tvg-logo="https://i.kampung.xyz/c/5a8c2149409e6e47.png",800 eGG Network HD
 http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
 
@@ -911,7 +878,7 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GEM" group-title="Sirius TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/200?cb=20201126072306",GEM
 # http://210.210.155.35/uq2663/h/h19/index.m3u8
-https://link.zozotv.xyz:443/Freemium1/unlimited99/72
+http://210.210.155.35/uq2663/h/h19/01.m3u8
 
 #EXTINF:-1 tvg-id="OutdoorChannel" group-title="Sirius TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg/revision/latest/scale-to-width-down/250?cb=20170428060035",Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
