@@ -184,7 +184,11 @@ http://1.9.62.158/PLTV/88888888/224/3221227560/3221227560.mpd
 http://iptv.tvmalaysia.cc:80/737373/737373/6738
 
 #EXTINF:-1 tvg-id="202" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen HD (VPN NEEDED)
-http://iptv.tvmalaysia.cc:80/624850/624850/6739
+# http://iptv.tvmalaysia.cc:80/624850/624850/6739
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400751.m3u8
+
+#EXTINF:-1 tvg-id="202" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",203 Astro Vellithirai
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400566.m3u8
 
 #EXTINF:-1 tvg-id="221" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",221 Star Vijay HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6732
