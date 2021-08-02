@@ -144,7 +144,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
 
 #EXTINF:-1 tvg-id="146" group-title="Free Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",146 OKEY
 # https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+# /ngrp:RTM2/chunklist_b1064000.m3u8
+https://rtmokey.secureswiftcontent.com/Origin02|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="147" group-title="Free Channels" tvg-logo="https://didik.tv/images/logotv2.png",147 DidikTV KPM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
