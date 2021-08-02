@@ -306,7 +306,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd
 
 #EXTINF:-1 tvg-id="333" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021",333 Astro Hua Hee Dai
-http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+# http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891792
 
 #EXTINF:-1 tvg-id="SonySAB" group-title="Indian" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072708856rq9.png",342 Sony SAB
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
