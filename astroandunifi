@@ -540,16 +540,16 @@ https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #EXTINF:-1 tvg-id="601" group-title="Education" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/TutorTVSK.png/revision/latest?cb=20210614003048",601 Astro Tutor TV SK
-https://nonton.site:8843/provision/pp/37395
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/74870.ts
 
 #EXTINF:-1 tvg-id="602" tvg-logo="https://i.kampung.xyz/c/f9ace6ddfb93062e.png" group-title="Education",602 Astro Tutor TV PT3
-http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18946.ts
+http://iptvfree1.com:7899/live/OT78WmXg5V/yceV9VoIfl/110225.m3u8
 
 #EXTINF:-1 tvg-id="603" tvg-logo="https://i.kampung.xyz/c/450e9b4f3fca408b.png" group-title="Education",603 Astro Tutor TV SPM
-http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18947.ts
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/74869.ts
 
 #EXTINF:-1 tvg-id="610" tvg-logo="https://i.kampung.xyz/c/6fb2bb374fc7edc8.png" group-title="Education",610 Astro TVIQ
-http://starshare.live:8080/live/XfZ2gZhjWj/7rtrCae4KC/18949.ts
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/74868.ts
 
 #EXTINF:-1 tvg-id="611" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
@@ -911,10 +911,10 @@ https://astro4.rastream.com/bayu
 https://astro4.rastream.com/kenyalang
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="876" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png",ZAYAN
-https://chunks.rastream.com/astro-zayan
+https://astro3.rastream.com/astro-zayan
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="877" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png",GOXUAN
-https://chunks.rastream.com/astro-goxuan
+https://astro3.rastream.com/astro-goxuan
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="882" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/304_144.png",Arena Radio
 https://astro1.rastream.com/amp-arena
@@ -958,3 +958,8 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
+
+#EXTINF:-1 tvg-id="DisneyJunior" group-title="Available Until 1 October 2021" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428084_ico.png", Disney Junior
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_dash_vmx/DisneyJunior.mpd
