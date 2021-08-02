@@ -35,7 +35,8 @@ https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0lpIzHwhBxNJLpeOLb
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
 #EXTINF:-1 tvg-id="107" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
-http://50.7.161.82:8278/streams/d/Warna/playlist.m3u8
+# http://50.7.161.82:8278/streams/d/Warna/playlist.m3u8
+https://link.zozotv.xyz:443/Freemium4/unlimited99/272
 
 #EXTINF:-1 tvg-id="108" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 # http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
@@ -956,8 +957,3 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
-
-#EXTINF:-1 tvg-id="DisneyJunior" group-title="Available Until 1 October 2021" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428084_ico.png", Disney Junior
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_dash_vmx/DisneyJunior.mpd
