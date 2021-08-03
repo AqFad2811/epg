@@ -853,9 +853,11 @@ http://22283.live.streamtheworld.com/988_FMAAC.aac
 #EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" tvg-chno="958" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",Suria FM
 https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
 
-
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 #EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" tvg-chno="958" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",Suria FM (YouTube Live Version) 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1627939196/ei/HA0IYfC-JsG3z7sPzr-ogA0/ip/2001%3Ae68%3A5405%3Ac0ab%3A89a5%3Adf84%3A9087%3A63fd/id/mha_k1Po4ts.1/source/yt_live_broadcast/requiressl/yes/tx/24027690/txs/24027687%2C24027688%2C24027689%2C24027690/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPwTqI-H4Z8pYwC7bHpy-H9NhsNQVsvwKdt_amgPTIhAAiEAj0lzm7Tg_FECowSDPb7RLUCjzmxbP-fB4VXHnSP8E2A%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1627987780/ei/5MoIYYXyKJml3LUPiqW_6Ak/ip/2001%3Ae68%3A5405%3Ac0ab%3A89a5%3Adf84%3A9087%3A63fd/id/mha_k1Po4ts.1/source/yt_live_broadcast/requiressl/yes/tx/24027690/txs/24027687%2C24027688%2C24027689%2C24027690/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgUNVlImtacXzmgYommfTq2qmVL7JrmjBF1vNo871YmTgCIQDdUIQZSZQS8DcRG0VWF0YsxZ40mfWoIllGtB0ckobS6A%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="HotFM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/HotFM2021.png/revision/latest/scale-to-width-down/250?cb=20210801171400", Hot FM 
 https://mediaprima.rastream.com/mediaprima-hotfm
