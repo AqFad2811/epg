@@ -238,8 +238,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227529/3221227529.mpd
 https://link.zozotv.xyz:443/Freemium4/unlimited99/302
 
 #EXTINF:-1 tvg-id="300" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",300 IQIYI HD
-# http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
-https://link.zozotv.xyz:443/Freemium4/unlimited99/63
+http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="YuppThiraiHD" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200709/20200709194934030p1r.png",301 Yupp Thirai HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -341,8 +340,7 @@ https://link.zozotv.xyz:443/Freemium4/unlimited99/78
 #EXTINF:-1 tvg-id="393" group-title="Korean" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",393 ONE HD 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-# https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-http://185.180.221.194:8278/streams/d/SetOne/playlist.m3u8
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTINF:-1 tvg-id="394" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png",394 Oh!K HD 
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
@@ -792,7 +790,8 @@ https://link.zozotv.xyz:443/Freemium4/unlimited99/336
 https://link.zozotv.xyz:443/Freemium4/unlimited99/337
 
 #EXTINF:-1 tvg-id="800" group-title="Sports" tvg-logo="https://i.kampung.xyz/c/5a8c2149409e6e47.png",800 eGG Network HD
-http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
+# http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
+http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
 
 #EXTINF: -1 tvg-id="801" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Astro_Arena.png/revision/latest?cb=20180622080600",801 Astro Arena
 # http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
