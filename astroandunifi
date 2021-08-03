@@ -446,11 +446,11 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd
 
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 #EXTINF:-1 tvg-id="502" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",502 BERNAMA 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-# http://1.9.58.102/PLTV/88888888/224/3221227511/3221227511.mpd
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1627937343/ei/3wUIYdy0NPP94-EP1emLuAI/ip/2001%3Ae68%3A5405%3Ac0ab%3A89a5%3Adf84%3A9087%3A63fd/id/7rLP1wQEx0U.1/source/yt_live_broadcast/requiressl/yes/tx/24027690/txs/24027687%2C24027688%2C24027689%2C24027690/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgMMH6CIfG8OhbehOnb4gnu6zq7S5AogScfoOKOM5qiiYCIQDRXAqFiKbizJTFVw9ZtimrLvyNiZIjoOCzai6_ITKr1Q%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1627985972/ei/1MMIYaakAoWP8QOr7oLIBQ/ip/2001%3Ae68%3A5405%3Ac0ab%3A89a5%3Adf84%3A9087%3A63fd/id/7rLP1wQEx0U.1/source/yt_live_broadcast/requiressl/yes/tx/24027690/txs/24027687%2C24027688%2C24027689%2C24027690/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALQ4RkYhIwTLaOisVzTY6UUscCccP04tI0hU-b-XGuQ2AiAfkFoUfCw1JabkgCuk6Zb5EdbzgseIceB39_MVT4L0oA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="LoveNatureHD" group-title="Documentary" tvg-logo="https://poster.starhubgo.com/Linear_channels2/416_1920x1080_HTV.png",Love Nature HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -475,19 +475,20 @@ http://1.9.62.158/PLTV/88888888/224/3221227586/3221227586.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227531/3221227531.mpd
 
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 #EXTINF:-1 tvg-id="513" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png",513 Al Jazeera English HD
-https://stream-03.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_SbVGItAvdjKuMQRAeoEnlI)/dm/3/x6rsa3u/s/live-4.m3u8
-# https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1627985812/ei/M8MIYdu2OK7j3LUP04C84AU/ip/2001%3Ae68%3A5405%3Ac0ab%3A89a5%3Adf84%3A9087%3A63fd/id/-upyPouRrB8.1/source/yt_live_broadcast/requiressl/yes/tx/24027690/txs/24027687%2C24027688%2C24027689%2C24027690/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgUorAgilDpv-RPAYOLEI9lQj9zpJ9JRGrtZEk38a9T5YCIQDuqSbeZia9rUwHo51aSRAHK_6mn22bRyozp9KC6Eo1uw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="514" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png",514 Sky News
 https://skyNews2-plutolive-vo.akamaized.net/cdhlsskyNewsamericas/1013/latest.m3u8
 
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 #EXTINF:-1 tvg-id="515" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",515 CNA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-# https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-# http://1.9.62.158/PLTV/88888888/224/3221227543/3221227543.mpd
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1627937613/ei/7QYIYd2BK4SGmgeI94jgCw/ip/2001%3Ae68%3A5405%3Ac0ab%3A89a5%3Adf84%3A9087%3A63fd/id/XWq5kBlakcQ.3/source/yt_live_broadcast/requiressl/yes/tx/24027690/txs/24027687%2C24027688%2C24027689%2C24027690/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJNX_gbD629GRo3lQ0hWjAwoAIrv7z9vfgZSxguKDoT9AiEAsA7lwtKrm08HrztaUp-gKxUTgkbhX5wxqt2NlSxTmAA%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1627985895/ei/h8MIYabnFZmu3LUP7IOfkAs/ip/2001%3Ae68%3A5405%3Ac0ab%3A89a5%3Adf84%3A9087%3A63fd/id/XWq5kBlakcQ.3/source/yt_live_broadcast/requiressl/yes/tx/24027690/txs/24027687%2C24027688%2C24027689%2C24027690/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgBuvqv59_3pKGCjqC7xCwinNL2bUgLSyGkjdQUAL7Sr0CIBR0X73aWQHhZcXJe3czAWxpl0Ce6d6nbuZd1f-VrRPO/file/index.m3u8
 
 #EXTINF:-1 tvg-id="BloombergHD" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",517 Bloomberg 
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
@@ -601,9 +602,11 @@ http://1.9.62.158/PLTV/88888888/224/3221227595/3221227595.mpd
 #EXTINF:-1 tvg-id="NHKWorldHD" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png",643 NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 #EXTINF:-1 tvg-id="France24English" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/FRANCE_24_logo.svg/240px-FRANCE_24_logo.svg.png",652 France 24
-http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-# https://mediahomes.github.io/assets/yt/france24.m3u8|# Referer=https://www.youtube.com
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1627985694/ei/vsIIYZ2XCY-I4t4PouqM6Aw/ip/2001%3Ae68%3A5405%3Ac0ab%3A89a5%3Adf84%3A9087%3A63fd/id/aHh8rA0hks8.2/source/yt_live_broadcast/requiressl/yes/tx/24027690/txs/24027687%2C24027688%2C24027689%2C24027690/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMsDgzEYRqV8z3KFrQg-1jZzvayVET_ciPH1zUnmwgxQAiAjWtmeOrHl5qnS86E7TrQ5-ACnTWQmxgQUokooV7hmlQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="unifiSports1" group-title="Sports"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -857,26 +860,38 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1627939196/ei/H
 #EXTINF:-1 group-title="Radio Stations" tvg-id="HotFM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/HotFM2021.png/revision/latest/scale-to-width-down/250?cb=20210801171400", Hot FM 
 https://mediaprima.rastream.com/mediaprima-hotfm
 
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 #EXTINF:-1 group-title="Radio Stations" tvg-id="HotFM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/HotFM2021.png/revision/latest/scale-to-width-down/250?cb=20210801171400", Hot FM (YouTube Live Version)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1627936675/ei/QwMIYZi3M5vojuMPxrKIkAo/ip/2001%3Ae68%3A5405%3Ac0ab%3A89a5%3Adf84%3A9087%3A63fd/id/MbJHXTx1zD4.1/source/yt_live_broadcast/requiressl/yes/tx/24027690/txs/24027687%2C24027688%2C24027689%2C24027690/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALvDr_beiAhM7YKF9mcquG7yqV1WlBkf_FDjIMuZODspAiEAyiQpJDWmRGJG_aKS0qqvPmKA2ZAXQvF69Rm9VRnUs2E%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1627985463/ei/18EIYeCdN9PX3LUPibOq-AU/ip/2001%3Ae68%3A5405%3Ac0ab%3A89a5%3Adf84%3A9087%3A63fd/id/MbJHXTx1zD4.1/source/yt_live_broadcast/requiressl/yes/tx/24027690/txs/24027687%2C24027688%2C24027689%2C24027690/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgfUcUn5w5EstARnf184-shD274fMcr8VbDHmfa5eG4qECIQCdXKtdrSMAmIdLInG44lPRc02VcYzNLbj0PsKDy5Y5HA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Radio Stations" ch-number="722" tvg-chno="722" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BuletinFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801172624",Buletin FM
 https://mediaprima.rastream.com/mediaprima-koolfm
 
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 #EXTINF:-1 group-title="Radio Stations" ch-number="722" tvg-chno="722" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BuletinFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801172624",Buletin FM (YouTube Live Version)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1627936484/ei/hAIIYfPSKvGh3LUP1rOW8AQ/ip/2001%3Ae68%3A5405%3Ac0ab%3A89a5%3Adf84%3A9087%3A63fd/id/wd_d_lzve8A.1/source/yt_live_broadcast/requiressl/yes/tx/24027690/txs/24027687%2C24027688%2C24027689%2C24027690/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgQvL2ypML_eT2KNe3LoYY2mD-q6sJ2v8437WbF6OiPeYCIGHhMMV0Udl2-H58uqqOfDwmCvT6N1hYa27t-cwHSs2c/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1627985528/ei/GMIIYZSkBume3LUP1uOTqAE/ip/2001%3Ae68%3A5405%3Ac0ab%3A89a5%3Adf84%3A9087%3A63fd/id/wd_d_lzve8A.1/source/yt_live_broadcast/requiressl/yes/tx/24027690/txs/24027687%2C24027688%2C24027689%2C24027690/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgIpcW5DE4cEpfIskqbeOtfuaGjpkXtS_GWiwpC6Qi9U0CIEXN4eZVUPQEJwxwGO2rlibusfEM-O2AnnXW4jahB5iS/file/index.m3u8
 
 #EXTINF:-1 group-title="Radio Stations" ch-number="724" tvg-chno="723" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FlyFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801171738",Fly FM
 https://mediaprima.rastream.com/mediaprima-flyfm
 
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 #EXTINF:-1 group-title="Radio Stations" ch-number="724" tvg-chno="723" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FlyFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801171738",Fly FM (YouTube Live Version)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1627936755/ei/kwMIYZW0FsqRjuMPzYWh4AM/ip/2001%3Ae68%3A5405%3Ac0ab%3A89a5%3Adf84%3A9087%3A63fd/id/Iqv91A32QU0.1/source/yt_live_broadcast/requiressl/yes/tx/24027690/txs/24027687%2C24027688%2C24027689%2C24027690/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIxiyvkJ6jcYJskE1pmn5P8Nv83F3i54RMU4HJyoUrrIAiEA_xJdL0cdiil1eh--oWDRIeOqxh1qD7X0Bp7t_Z5j0qY%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1627985569/ei/QcIIYfqDNvKm3LUPsdOgmA4/ip/2001%3Ae68%3A5405%3Ac0ab%3A89a5%3Adf84%3A9087%3A63fd/id/Iqv91A32QU0.1/source/yt_live_broadcast/requiressl/yes/tx/24027690/txs/24027687%2C24027688%2C24027689%2C24027690/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIE_QLaM_E6XnUNSkdw_DqiQfVHw-x3z3o7jTH5CwPzjAiEA0xOCkjscP_SmaQF0EPjOr-9iNTZJ6NXK7SKAzGL1mQc%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Radio Stations" ch-number="724" tvg-chno="724" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png/revision/latest/scale-to-width-down/200?cb=20210801172242",8FM
 https://mediaprima.rastream.com/mediaprima-onefm
 
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 #EXTINF:-1 group-title="Radio Stations" ch-number="724" tvg-chno="724" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png/revision/latest/scale-to-width-down/200?cb=20210801172242",8FM (YouTube Live Version)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1627936830/ei/3gMIYbHwDJP94-EPqviamAI/ip/2001%3Ae68%3A5405%3Ac0ab%3A89a5%3Adf84%3A9087%3A63fd/id/jVvVJ5_z5FA.1/source/yt_live_broadcast/requiressl/yes/tx/24027690/txs/24027687%2C24027688%2C24027689%2C24027690/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALbCxwFx1nGj5eDp9dRe-hWQsDqSrGPJxprLKPPs-webAiByzdzzwOs2hezaHFhBchJXpgMtR-wOEFWOMWMM2j0A1w%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1627985631/ei/f8IIYaGBF8aH3LUPis2IgAU/ip/2001%3Ae68%3A5405%3Ac0ab%3A89a5%3Adf84%3A9087%3A63fd/id/ALXz9rEPxC0.1/source/yt_live_broadcast/requiressl/yes/tx/24027690/txs/24027687%2C24027688%2C24027689%2C24027690/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgEIoPLDmNBL_jTvL87ryNbZC-ZLPhlIMdaa_IMw3Z8_cCIQCGo1MbEKYW7_t6a8KPVPGNh_MDvi-TVeQKJPgSWdU84Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="852" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ
 https://astro1.rastream.com/hitz
