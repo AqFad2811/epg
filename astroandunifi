@@ -439,6 +439,12 @@ http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd
 #EXTINF:-1 tvg-id="501" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest?cb=20200520200333",501 Astro Awani 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+#EXTINF:-1 tvg-id="501" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest?cb=20200520200333",501 Astro Awani (YouTube Live Version)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628008873/ei/SR0JYcS6Bpzm3LUP5Yig6A8/ip/2001%3Ae68%3A5405%3Ac0ab%3Ac925%3Aec3b%3A2e54%3A5e89/id/uMXj0kubGdY.1/source/yt_live_broadcast/requiressl/yes/tx/24027690/txs/24027687%2C24027688%2C24027689%2C24027690/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYA6aQMfKXm5Hnelu-w7rK_DkCF_T3yDfDoARKLtGyL4CIQCwdlexJwLJjYfemFkGjrR8ogAXwpl89UQfB4AAz3laxg%3D%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-id="BBCEarthHD" group-title="Documentary" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png",BBC Earth HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
