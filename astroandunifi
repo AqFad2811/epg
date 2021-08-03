@@ -924,6 +924,12 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1627986150/ei/h
 #EXTINF:-1 group-title="Radio Stations" tvg-id="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR
 https://astro2.rastream.com/sinar
 
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+#EXTINF:-1 group-title="Radio Stations" tvg-id="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR (YouTube Live Version)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628002583/ei/twQJYcKpIeOU3LUPpYikyAs/ip/2001%3Ae68%3A5405%3Ac0ab%3Ac925%3Aec3b%3A2e54%3A5e89/id/PYoXAvCEN4A.1/source/yt_live_broadcast/requiressl/yes/tx/24027690/txs/24027687%2C24027688%2C24027689%2C24027690/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMTsEQOaa5MlKjeud8w7lXJCR7pgwwvvyaObkjAkJMxSAiBp5DNT3U-IE-obyXBoAf6sqvsq0SNUdtZZN4lGKUJ6zQ%3D%3D/file/index.m3u8
+
 #EXTINF:-1 group-title="Radio Stations" tvg-id="858" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY
 https://astro3.rastream.com/melody
 
