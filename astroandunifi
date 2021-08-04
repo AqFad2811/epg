@@ -3,8 +3,7 @@
 #EXTINF:-1 tvg-id="101" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",101 TV1
 # https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 # https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="102" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",102 TV2
 # https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
@@ -219,7 +218,7 @@ http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400751.m3u8
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400566.m3u8
 
 #EXTINF:-1 tvg-id="221" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",221 Star Vijay HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6732
+https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884959
 
 #EXTINF:-1 tvg-id="222" group-title="Indian" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160723588691kg.png",222 Colors Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -227,7 +226,8 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6732
 http://1.9.62.158/PLTV/88888888/224/3221227562/3221227562.mpd
 
 #EXTINF:-1 tvg-id="223" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",223 Zee Tamil HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6742
+# http://iptv.tvmalaysia.cc:80/penang172/penang172/6742
+https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884962
 
 #EXTINF:-1 tvg-id="SCMLegendHD" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071259102dr2.png",226 SCM Legend HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -559,13 +559,13 @@ https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #EXTINF:-1 tvg-id="601" group-title="Education" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/TutorTVSK.png/revision/latest?cb=20210614003048",601 Astro Tutor TV SK
-http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/74870.ts
+https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884965
 
 #EXTINF:-1 tvg-id="602" tvg-logo="https://i.kampung.xyz/c/f9ace6ddfb93062e.png" group-title="Education",602 Astro Tutor TV PT3
-http://iptvfree1.com:7899/live/OT78WmXg5V/yceV9VoIfl/110225.m3u8
+https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884963
 
 #EXTINF:-1 tvg-id="603" tvg-logo="https://i.kampung.xyz/c/450e9b4f3fca408b.png" group-title="Education",603 Astro Tutor TV SPM
-http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/74869.ts
+https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884964
 
 #EXTINF:-1 tvg-id="610" tvg-logo="https://i.kampung.xyz/c/6fb2bb374fc7edc8.png" group-title="Education",610 Astro TVIQ
 http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/74868.ts
