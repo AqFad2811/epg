@@ -472,7 +472,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 #EXTINF:-1 tvg-id="502" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",502 BERNAMA 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628071539/ei/ExIKYc-cHomQz7sP4eGpqA4/ip/2001%3Ae68%3A5405%3Ac0ab%3A6835%3A65a0%3Af9e5%3A9554/id/7rLP1wQEx0U.1/source/yt_live_broadcast/requiressl/yes/tx/24027690/txs/24027687%2C24027688%2C24027689%2C24027690/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANhqfZa4BzXq3eRjqE_6C5hULIEB5XM56qBEmZqcWbdnAiBI-_TOmjdVYAGXv0jTvc4op4T0OnlLzOdwPleuZI-QTw%3D%3D/file/index.m3u8
+https://r5---sn-30a7ynee.googlevideo.com/videoplayback?expire=1628104811&ei=C5QKYbWoBpGowgOop4LABw&ip=2001%3Ae68%3A5405%3Ac0ab%3Adcf5%3A5bcf%3A7403%3Ad1b1&id=7rLP1wQEx0U.1&itag=299&aitags=133%2C134%2C135%2C136%2C160%2C298%2C299&source=yt_live_broadcast&requiressl=yes&mh=LR&mm=44%2C29&mn=sn-uh-2xok%2Csn-30a7ynee&ms=lva%2Crdu&mv=m&mvi=1&pl=51&initcwndbps=1323750&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=KF7RoWZ1xwjbyNUaMRKzCLQG&gir=yes&mt=1628082999&fvip=5&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=rDQ-d1OT1ZF-ng&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgVK-9D_oC9mX5V8HRY9UY1fFIj_6ZeHu6Ys57WsKEQQACIQDzWWsTuvbfigtL3FUi0B3zx_Y5hNbxdDU0CZ4jnlcKKw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAOtar4y8JrjO4S82hGnhkFYUsIgcdncT0wC6ES1hEZuuAiEAgfHKHq-spKrz8eXYUZQI-1FlWuCKyUqqJ6hl88CMLBI%3D&alr=yes&cpn=x9VOzbGryskMUSiw&cver=1.20210801.0.0&fallback_count=1&sq=229156&rn=17&rbuf=25270
 
 #EXTINF:-1 tvg-id="LoveNatureHD" group-title="Documentary" tvg-logo="https://poster.starhubgo.com/Linear_channels2/416_1920x1080_HTV.png",Love Nature HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -480,7 +480,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628071539/ei/E
 http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd
 
 #EXTINF:-1 tvg-id="503" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",503 CGTN HD
-https://live.cgtn.com/1000/prog_index.m3u8
+# https://live.cgtn.com/1000/prog_index.m3u8
+https://playback2.akamaized.net/streams/7082210_9385979_lsihkslnleu765n1dcu_1/exp=1628169554~acl=%2f*~data=hdntl~hmac=7cc43ff17d53f717632aab3166e020d491c88026030889e5e715598d7b11e7fb/segments/7082210_9385979_lsihkslnleu765n1dcu_1@2756000p/media-uo3q89dzs_5901.ts?z=p
 
 #EXTINF:-1 tvg-id="511" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png",511 CNN HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -501,7 +502,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227531/3221227531.mpd
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 #EXTINF:-1 tvg-id="513" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png",513 Al Jazeera English HD
-https://stream-02.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_ZKanX1zBlrEHReX6nmJt4I)/dm/3/x6rsa3u/s/live-4.m3u8
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-id="514" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png",514 Sky News
 https://skyNews2-plutolive-vo.akamaized.net/cdhlsskyNewsamericas/1013/latest.m3u8
@@ -510,7 +511,7 @@ https://skyNews2-plutolive-vo.akamaized.net/cdhlsskyNewsamericas/1013/latest.m3u
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 #EXTINF:-1 tvg-id="515" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",515 CNA
-https://stream-05.sg1.dailymotion.com/sec(7zHXJsrpGnW1sC_CkKIaltp2gxshxZHY_QWmuljRLag)/dm/3/x7ptegr/s/live-4.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
 #EXTINF:-1 tvg-id="BloombergHD" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",517 Bloomberg 
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
@@ -995,3 +996,4 @@ https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mp
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 #EXTINF:-1 tvg-id="EVENT" group-title="Live Event" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png", New Live Event Soon
 # https://i.imgur.com/3aQ7TyJ.mp4
+
