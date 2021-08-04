@@ -130,7 +130,7 @@ https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
 # https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 
-#EXTINF:-1 tvg-id="AweseomeTV" group-title="Free Channels" tvg-logo="https://i.kampung.xyz/c/27df4005c55fe9dc.png",123 Awesome TV
+#EXTINF:-1 tvg-id="123" group-title="Free Channels" tvg-logo="https://i.kampung.xyz/c/27df4005c55fe9dc.png",123 Awesome TV
 http://cdn.lemmovie.com/live/d17a6947-8181-4b1b-a960-445a0e148673.m3u8
 
 #EXTINF:-1 tvg-id="BERITARTM" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757",123 Berita RTM
