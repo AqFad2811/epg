@@ -23,7 +23,8 @@ https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUsNsPndSjOGjnX48_
 
 #EXTINF:-1 tvg-id="104" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest?cb=20180623060717",104 Astro Ria
 # http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-http://iptv.tvmalaysia.cc:80/737373/737373/6730
+# http://iptv.tvmalaysia.cc:80/737373/737373/6730
+http://ts.lemmovie.com/bc962a07-578a-4bd9-993d-893f0a3eb24d/master.m3u8
 
 #EXTINF:-1 tvg-id="105" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
@@ -130,6 +131,22 @@ https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
 # https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1591
+#EXT-X-TARGETDURATION:6
+#EXTINF:4.400,
+3a14acd9c6e935be179fb858f04561adc26981312c23ede41c7fa0d4439514037c2234f8a3ac0ecec5097a0118056c4d3f083812500308b650b237c1c63a7b69fe63df0345b159f6f8452640abedd7f80ae6e2af5fdbeb7685181d4d5d700c5a744a3ee1baeecede7034ebfbf5a303f3
+#EXTINF:6.000,
+7d099af5499fb524e253ce6e0d8f689aa7d86e822cc51be52332bff6f81e01b9af802a55d7a2a2ea116014023c6c3d867dcd3398d7fecae0815ead7f5dfd484a6f784dd3673da039c9b516b745950bcd2f7903de68b17e3fdfbfd2b28c7db8ea846fef04b09438646e555ad79465b629
+#EXTINF:4.000,
+f8cbcc205f281b6e18f7e5ef5c9a3ea1efc71e1010ab894fc81d7964deafd7619c6e130d4e774927efd5ab90d1180c5113e1d4104056ce26523e712463297aea9a02f1866a40351d2263883656a6dab70858f43b553b243f7040090fce70ec83efa9ced36b30d2378f66248664520408
+#EXTINF:6.000,
+c11c89bae90c49eb0a5c5498baf5a3a05919452b313e36ef7516a32b3a9c50ee71448ffcadabe266c5040390b1e97dd5211fdb40f96bf7321d3ee1c22e601d465b287fa37e2c288c04863ff6ad9c0e7aba579c3f98b130be9d34feb503d981565b3b6795c63c3d2b7a15bdb48a395e45
+#EXTINF:4.000,
+54112cf114fc965391b3e11eeee21af1c749fbbf837103c4eabb0c170e61d67cffcf27ab65a785f7489212131d230bb244660b701baf8860390126fb643d23659a4d1e04a67ba88b65259359512cf12a4b41ef79c9a4d92009a61b4c5a6545214b7b5400422554dcdccb226053f9836d
+#EXTINF:6.000,
+5142fc132bae8a547771545128d69c47f41af23cf3573fb10e571ca1624cdac3f3d39d371460abca27bfdb2d17d70b2483ec712b8c52af91c7b9d5574bc9bfe11b96ff18134a724b9eb61a5876b74ba5cbda24a7010bd282e3de2b7218519ae33257c5432350971538a31c1755733f64
 #EXTINF:-1 tvg-id="123" group-title="Free Channels" tvg-logo="https://i.kampung.xyz/c/27df4005c55fe9dc.png",123 Awesome TV
 http://cdn.lemmovie.com/live/d17a6947-8181-4b1b-a960-445a0e148673.m3u8
 
