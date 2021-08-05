@@ -256,7 +256,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227529/3221227529.mpd
 https://link.zozotv.xyz:443/Freemium5/unlimited99/302
 
 #EXTINF:-1 tvg-id="300" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",300 IQIYI HD
-http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+# http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/737373/737373/6723
 
 #EXTINF:-1 tvg-id="YuppThiraiHD" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200709/20200709194934030p1r.png",301 Yupp Thirai HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -357,8 +358,7 @@ https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884946
 # https://link.zozotv.xyz:443/Freemium5/unlimited99/78
 # http://iptv.tvmalaysia.cc:80/624850/624850/6803
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16363
-# https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-https://link.zozotv.xyz:443/Freemium5/unlimited99/78
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="393" group-title="Korean" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",393 ONE HD 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -375,8 +375,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
 
 #EXTINF:-1 tvg-id="396" group-title="GO Exclusive" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png",KPlus HD
 # http://iptv.tvmalaysia.cc:80/624850/624850/6805
-# http://210.210.155.35/uq2663/h/h08/01.m3u8
-https://link.zozotv.xyz:443/Freemium5/unlimited99/80
+http://210.210.155.35/uq2663/h/h08/01.m3u8
+# https://link.zozotv.xyz:443/Freemium5/unlimited99/80
 
 #EXTINF:-1 tvg-id="401" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",401 Hits Movies 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -979,8 +979,8 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GEM" group-title="Sirius TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/200?cb=20201126072306",GEM
 # http://210.210.155.35/uq2663/h/h19/index.m3u8
-# http://210.210.155.35/uq2663/h/h19/01.m3u8
-https://link.zozotv.xyz:443/Freemium5/unlimited99/72
+http://210.210.155.35/uq2663/h/h19/01.m3u8
+# https://link.zozotv.xyz:443/Freemium5/unlimited99/72
 
 #EXTINF:-1 tvg-id="OutdoorChannel" group-title="Sirius TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg/revision/latest/scale-to-width-down/250?cb=20170428060035",Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
