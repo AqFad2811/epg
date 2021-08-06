@@ -51,9 +51,10 @@ http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" tvg-logo="https://mediahomes.github.io/logos/sukan.png",111 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8
-https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8|Referer=https://myklik.rtm.gov.my
+# https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8|Referer=https://myklik.rtm.gov.my
 # https://rtmSportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 # https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 
 #EXTINF:-1  ch-number="1001" group-title="Sports" tvg-id="1001" tvg-chno="1001" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch1.png",RTM Tokyo 2020 Channel 1 (HD)
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
