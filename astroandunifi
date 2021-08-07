@@ -85,13 +85,15 @@ https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
 #EXTINF:-1 tvg-id="112" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",112 Astro Rania
 # http://iptv.tvmalaysia.cc:80/624850/624850/6729
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
+# http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
 # https://link.zozotv.xyz:443/Freemium5/unlimited99/39
+http://194.233.68.128:5080/LiveApp/streams/514803051254911543469456_0p0001.ts
 
 #EXTINF:-1 tvg-id="113" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astro Aura
 # http://iptv.tvmalaysia.cc:80/624850/624850/6713
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
+# http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
 # https://link.zozotv.xyz:443/Freemium5/unlimited99/38
+http://194.233.68.128:5080/LiveApp/streams/418700544789576229675633_0p0001.ts
 
 #EXTINF:-1 tvg-id="SalamHD" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",113 Salam HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -136,6 +138,7 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXT-X-VERSION:3
 #EXTINF:-1 tvg-id="123" group-title="Free Channels" tvg-logo="https://i.kampung.xyz/c/27df4005c55fe9dc.png",123 Awesome TV
 http://l365.in/manal/manal/400200777
+# http://196.19.125.208/manal/manal/400200777?token=aXVmMkFVMVRJcm1WVEFP
 
 #EXTINF:-1 tvg-id="BERITARTM" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757",123 Berita RTM
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
