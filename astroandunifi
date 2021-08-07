@@ -462,7 +462,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd
 #EXTINF:-1 tvg-id="502" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",502 BERNAMA 
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628105032/ei/6JQKYczUL5Cr3LUPg7S_qAE/ip/2001%3Ae68%3A5405%3Ac0ab%3Adcf5%3A5bcf%3A7403%3Ad1b1/id/7rLP1wQEx0U.1/source/yt_live_broadcast/requiressl/yes/tx/24027690/txs/24027687%2C24027688%2C24027689%2C24027690/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKrR1MrS12RAjd2VW27J9TTHgfMWWjLv-kk4eLWeXGmGAiAGsebKiJ1wbZZMXo7F43-EHWksHkBCvqR8VVZJfWqziw%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="LoveNatureHD" group-title="Documentary" tvg-logo="https://poster.starhubgo.com/Linear_channels2/416_1920x1080_HTV.png",Love Nature HD
+#EXTINF:-1 tvg-id="LoveNatureHD" group-title="Documentary" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202107/20210724/20210724151935567nih.png",Love Nature HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd
