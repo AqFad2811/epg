@@ -623,11 +623,6 @@ http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
 
-#EXTINF:-1 tvg-id="unifiSports7" group-title="Sports"  tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/1gQKtrxB",unifi Sports 7
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-https://web.hypp.tv:443/PLTV/88888888/224/3221227787/3221227787.mpd
-
 #EXTINF:-1 tvg-id="701" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",701 AXN HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
