@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url=https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-id="101" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",101 TV1
+#EXTINF:-1 tvg-id="101" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 # https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8
 # http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="102" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",102 TV2
+#EXTINF:-1 tvg-id="102" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",102 TV2
 # https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 # https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8
@@ -147,13 +147,13 @@ http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd
 # https://mediahomes.github.io/assets/my/ch_ntv7.m3u8
 https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQZ7rMAuIgMVGb5gTNV2L_E)/dm/3/x6qp6ou/s/live-4.m3u8
 
-#EXTINF:-1 tvg-id="148" group-title="Free Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/8TV_my2018.png/revision/latest?cb=20200525120403",148 8TV
+#EXTINF:-1 tvg-id="148" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",148 8TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 # https://mediahomes.github.io/assets/my/ch_8tv.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
 
-#EXTINF:-1 tvg-id="148" group-title="Free Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/8TV_my2018.png/revision/latest?cb=20200525120403",148 8TV (HD)
+#EXTINF:-1 tvg-id="148" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",148 8TV (HD)
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcZxdLaY6nFjquyUo7s7wV4)/dm/3/x6qud17/s/live-3.m3u8
 # http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
