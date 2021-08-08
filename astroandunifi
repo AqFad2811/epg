@@ -56,27 +56,6 @@ http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 # https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 
-#EXTINF:-1  ch-number="1001" group-title="Sports" tvg-id="1001" tvg-chno="1001" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch1.png",RTM Tokyo 2020 Channel 1 (HD)
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtm-olympic01.secureswiftcontent.com/rtm/olympic01_1080.m3u8
-
-#EXTINF:-1  ch-number="1002" group-title="Sports" tvg-id="1002" tvg-chno="1002" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch2.png",RTM Tokyo 2020 Channel 2 (HD)
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtm-olympic02.secureswiftcontent.com/rtm/olympic02_1080.m3u8
-
-#EXTINF:-1  ch-number="1003" group-title="Sports" tvg-id="1003" tvg-chno="1003" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch3.png",RTM Tokyo 2020 Channel 3 (HD)
-2020 Channel 3 (HD)
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtm-olympic03.secureswiftcontent.com/rtm/olympic03_1080.m3u8
-
-#EXTINF:-1  ch-number="1004" group-title="Sports" tvg-id="1004" tvg-chno="1004" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch4.png",RTM Tokyo 2020 Channel 4 (HD)
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtm-olympic04.secureswiftcontent.com/rtm/olympic04_1080.m3u8
-
-#EXTINF:-1  ch-number="1005" group-title="Sports" tvg-id="1005" tvg-chno="1005" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch5.png",RTM Tokyo 2020 Channel 5 (HD)
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtm-olympic05.secureswiftcontent.com/rtm/olympic05_1080.m3u8
-
 #EXTINF:-1 tvg-id="111" group-title="Astro" tvg-logo="https://i.kampung.xyz/c/20d0f2053da42ed2.png",111 Go Shop BAARU
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 
@@ -644,45 +623,10 @@ http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
 
-#EXTINF:-1 tvg-id="unifiSports6" group-title="Sports"  tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/NpUkSL3T",unifi Sports 6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-https://web.hypp.tv:443/PLTV/88888888/224/3221227795/3221227795.mpd
-
 #EXTINF:-1 tvg-id="unifiSports7" group-title="Sports"  tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/1gQKtrxB",unifi Sports 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 https://web.hypp.tv:443/PLTV/88888888/224/3221227787/3221227787.mpd
-
-#EXTINF:-1 tvg-id="unifiSports8" group-title="Sports" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/VrUDHzHa",unifi Sports 8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-https://web.hypp.tv:443/PLTV/88888888/224/3221227798/3221227798.mpd
-
-#EXTINF:-1 tvg-id="unifiSports9" group-title="Sports" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/8rs5tKy8",unifi Sports 9
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-https://web.hypp.tv:443/PLTV/88888888/224/3221227793/3221227793.mpd
-
-#EXTINF:-1 tvg-id="unifiSports10" group-title="Sports" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/8Y9dZUSI",unifi Sports 10
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-https://web.hypp.tv:443/PLTV/88888888/224/3221227830/3221227830.mpd
-
-#EXTINF:-1 tvg-id="unifiSports11" group-title="Sports" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/pC41J1AK",unifi Sports 11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-https://web.hypp.tv:443/PLTV/88888888/224/3221227833/3221227833.mpd
-
-#EXTINF:-1 tvg-id="unifiSports12" group-title="Sports" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/cL0ged2e",unifi Sports 12
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-https://web.hypp.tv:443/PLTV/88888888/224/3221227799/3221227799.mpd
-
-#EXTINF:-1 tvg-id="unifiSports13" group-title="Sports" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/wuC3Kw9b",unifi Sports 13
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-https://web.hypp.tv:443/PLTV/88888888/224/3221227802/3221227802.mpd
 
 #EXTINF:-1 tvg-id="701" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",701 AXN HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -765,42 +709,6 @@ http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-
-#EXTINF:-1 tvg-id="785" tvg-name="SpecialEventSportsHD01" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 01
-https://link.zozotv.xyz:443/Freemium5/unlimited99/318
-
-#EXTINF:-1 tvg-id="786" tvg-name="SpecialEventSportsHD02" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 02
-https://link.zozotv.xyz:443/Freemium5/unlimited99/319
-
-#EXTINF:-1 tvg-id="787" tvg-name="SpecialEventSportsHD03" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 03
-https://link.zozotv.xyz:443/Freemium5/unlimited99/320
-
-#EXTINF:-1 tvg-id="788" tvg-name="SpecialEventSportsHD04" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 04
-https://link.zozotv.xyz:443/Freemium5/unlimited99/321
-
-#EXTINF:-1 tvg-id="789" tvg-name="SpecialEventSportsHD05" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 05
-https://link.zozotv.xyz:443/Freemium5/unlimited99/322
-
-#EXTINF:-1 tvg-id="790" tvg-name="SpecialEventSportsHD06" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 06
-https://link.zozotv.xyz:443/Freemium5/unlimited99/323
-
-#EXTINF:-1 tvg-id="791" tvg-name="SpecialEventSportsHD07" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 07
-https://link.zozotv.xyz:443/Freemium5/unlimited99/324
-
-#EXTINF:-1 tvg-id="792" tvg-name="SpecialEventSportsHD08" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 08
-https://link.zozotv.xyz:443/Freemium5/unlimited99/325
-
-#EXTINF:-1 tvg-id="793" tvg-name="SpecialEventSportsHD09" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 09
-https://link.zozotv.xyz:443/Freemium5/unlimited99/326
-
-#EXTINF:-1 tvg-id="794" tvg-name="SpecialEventSportsHD10" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 10
-https://link.zozotv.xyz:443/Freemium5/unlimited99/327
-
-#EXTINF:-1 tvg-id="795" tvg-name="SpecialEventSportsHD11" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 11
-https://link.zozotv.xyz:443/Freemium5/unlimited99/336
-
-#EXTINF:-1 tvg-id="796" tvg-name="SpecialEventSportsHD12" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 12
-https://link.zozotv.xyz:443/Freemium5/unlimited99/337
 
 #EXTINF:-1 tvg-id="800" group-title="Sports" tvg-logo="https://i.kampung.xyz/c/5a8c2149409e6e47.png",800 eGG Network HD
 # http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
