@@ -7,8 +7,10 @@ https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
 #EXTINF:-1 tvg-id="102" group-title="Free Channels" tvg-logo="https://user-images.githubusercontent.com/85995579/128629320-aa17976c-d274-4cdc-b675-7b3664ba464c.png",102 TV2
 # https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+# http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 # https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive01.secureswiftcontent.com/rtmchannel/01_720.m3u8
 
 #EXTINF:-1 tvg-id="103" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",103 TV3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
