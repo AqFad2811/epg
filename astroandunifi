@@ -77,7 +77,7 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd
 
-#EXTINF:-1 tvg-id="114" group-title="Free Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/TV_Alhijrah_logo.png/revision/latest?cb=20200525150012",114 TV AlHijrah HD
+#EXTINF:-1 tvg-id="114" group-title="Free Channels" tvg-logo="https://user-images.githubusercontent.com/85995579/128817434-40ef33c1-c920-4bc1-ac0f-11925b360514.png",114 TV AlHijrah HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd
@@ -113,7 +113,7 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF:-1 tvg-id="123" group-title="Free Channels" tvg-logo="https://i.kampung.xyz/c/27df4005c55fe9dc.png",123 Awesome TV
+#EXTINF:-1 tvg-id="123" group-title="Free Channels" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",123 Awesome TV
 http://l365.in/manal/manal/400200777
 # http://196.19.125.208/manal/manal/400200777?token=aXVmMkFVMVRJcm1WVEFP
 
@@ -251,7 +251,7 @@ http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
-#EXTINF:-1 tvg-id="310" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png",310 TVB Jade HD
+#EXTINF:-1 tvg-id="310" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/128817892-b603cb72-c58e-4863-9c6a-51d5625a7814.png",310 TVB Jade HD
 http://iptv.tvmalaysia.cc:80/624850/624850/6841
 
 #EXTINF:-1 tvg-id="311" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 311 Astro AOD HD
@@ -275,7 +275,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227516/3221227516.mpd
 #EXTINF:-1 tvg-id="319" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",319 TVB Xing He
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
-#EXTINF:-1 tvg-id="321" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",321 CCM
+#EXTINF:-1 tvg-id="321" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/128818156-e17cbad5-9785-4c08-a1ea-01463da35257.png",321 CCM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
@@ -355,7 +355,7 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremiu
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-#EXTINF:-1 tvg-id="404" group-title="Movies" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png",404 Boo HD
+#EXTINF:-1 tvg-id="404" group-title="Movies" tvg-logo="(https://user-images.githubusercontent.com/85995579/128818337-b3527995-40a2-4b2a-b481-ee1c8242bcf2.png",404 Boo HD
 # http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
 https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884930
 
@@ -583,7 +583,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd
 
-#EXTINF:-1 tvg-id="ParlimenMalaysia" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/RTM_Parlimen_2021.png/revision/latest?cb=20210413101314",633 Parlimen Malaysia
+#EXTINF:-1 tvg-id="ParlimenMalaysia" group-title="News" tvg-logo="https://user-images.githubusercontent.com/85995579/128818506-4bb5802b-298b-4c6a-aaa7-cf30f7e60402.png",633 Parlimen Malaysia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.58.102/PLTV/88888888/224/3221227546/3221227546.mpd
