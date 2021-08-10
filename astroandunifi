@@ -135,7 +135,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
 # https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 # https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtmlive03.secureswiftcontent.com/rtmchannel/03_1080.m3u8
+https://rtmlive03.secureswiftcontent.com/rtmchannel/03_720.m3u8
 
 #EXTINF:-1 tvg-id="147" group-title="Free Channels" tvg-logo="https://didik.tv/images/logotv2.png",147 DidikTV KPM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -357,7 +357,8 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #EXTINF:-1 tvg-id="404" group-title="Movies" tvg-logo="https://user-images.githubusercontent.com/85995579/128818337-b3527995-40a2-4b2a-b481-ee1c8242bcf2.png",404 Boo HD
 # http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
-https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884930
+# https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884930
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Thrill" group-title="Movies" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
