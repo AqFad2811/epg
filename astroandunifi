@@ -345,6 +345,11 @@ http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
 http://210.210.155.35/uq2663/h/h08/01.m3u8
 # https://link.zozotv.xyz:443/Freemium5/unlimited99/80
 
+#EXTINF:-1 tvg-id="398" group-title="Japanese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/428_144.png",NHK World Premium HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
+https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx//NHKWorldPremium.mpd
+
 #EXTINF:-1 tvg-id="401" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",401 Hits Movies 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
@@ -592,11 +597,10 @@ http://1.9.62.158/PLTV/88888888/224/3221227595/3221227595.mpd
 #EXTINF:-1 tvg-id="NHKWorldHD" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png",643 NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-#EXTINF:-1 tvg-id="France24English" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/FRANCE_24_logo.svg/240px-FRANCE_24_logo.svg.png",652 France 24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628017306/ei/Oj4JYajjBcO1z7sPm66bqAo/ip/2001%3Ae68%3A5405%3Ac0ab%3Ac925%3Aec3b%3A2e54%3A5e89/id/aHh8rA0hks8.2/source/yt_live_broadcast/requiressl/yes/tx/24027690/txs/24027687%2C24027688%2C24027689%2C24027690/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgXdPxp97PQRRNUEM7tr52TFTaaSKHXjvTfUoJHmeWkT8CIQDmbuMrUCT_6C_-SzkeS5wKrszGDS__c7DpvH9AL8mBJQ%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="522" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/FRANCE_24_logo.svg/240px-FRANCE_24_logo.svg.png",652 France 24
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
+https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
 #EXTINF:-1 tvg-id="unifiSports1" group-title="Sports"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
