@@ -1,14 +1,10 @@
 #EXTM3U x-tvg-url=https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-id="101" group-title="myFreeview" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-# https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8
-# http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="102" group-title="myFreeview" tvg-logo="https://user-images.githubusercontent.com/85995579/128629320-aa17976c-d274-4cdc-b675-7b3664ba464c.png",102 TV2
-# https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
-# http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-# https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtm5hd.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b4064000.m3u8
 
@@ -53,7 +49,7 @@ http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" tvg-logo="https://mediahomes.github.io/logos/sukan.png",111 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtm6hd.secureswiftcontent.com/Origin2/ngrp:RTM2/chunklist_b4064000.m3u8
+https://rtm6hd.secureswiftcontent.com/Origin2/ngrp:RTM2/1080_manifest.mpd
 
 #EXTINF:-1 tvg-id="111" group-title="Shopping" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png",111 Go Shop BAARU
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
@@ -131,10 +127,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
 
 #EXTINF:-1 tvg-id="146" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",146 OKEY
-# https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-# https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtm2hd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8
+https://rtm2hd.secureswiftcontent.com/Origin02/ngrp:RTM2/1080_manifest.mpd
 
 #EXTINF:-1 tvg-id="147" group-title="myFreeview" tvg-logo="https://didik.tv/images/logotv2.png",147 DidikTV KPM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
