@@ -439,7 +439,9 @@ http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 #EXTINF:-1 tvg-id="502" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",502 BERNAMA 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628610853/ei/xUwSYcbSB7qU3LUPl5mi0AI/ip/2001%3Ae68%3A5405%3A31fe%3Ac519%3Af897%3A9feb%3A99e8/id/7rLP1wQEx0U.1/source/yt_live_broadcast/requiressl/yes/tx/24027690/txs/24027687%2C24027688%2C24027689%2C24027690/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAP6IvvFLE1nghBF_v-bzwmG6T4VkHa7FE-QvsxZMzqg4AiEAtnUZhVr-NpjTDzmAVeCUi-gXE0Wo7HMB90MnK2ifrwU%3D/file/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjlmNjE3MDktNWRjMC0zMWUyLWE3OWMtZWU5YjE3MDBkNjJm
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227511/3221227511.mpd?icpid=88888888&from=5&ocs=2_1.9.62.188_80&hms_devid=1687&mag_hms=1687,1796&mount=1000002&targetdev=1687
 
 #EXTINF:-1 tvg-id="LoveNatureHD" group-title="Documentary" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202107/20210724/20210724151935567nih.png",Love Nature HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
