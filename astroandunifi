@@ -6,7 +6,7 @@ https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
 #EXTINF:-1 tvg-id="102" group-title="myFreeview" tvg-logo="https://user-images.githubusercontent.com/85995579/128629320-aa17976c-d274-4cdc-b675-7b3664ba464c.png",102 TV2
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtm5hd.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b4064000.m3u8
+https://rtm5hd.secureswiftcontent.com/Origin1/ngrp:RTM1/1080_manifest.mpd
 
 #EXTINF:-1 tvg-id="103" group-title="myFreeview" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",103 TV3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
