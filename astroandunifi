@@ -25,7 +25,8 @@ https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRA2un1UceorGo2CQV
 #EXTINF:-1 tvg-id="104" group-title="Astro" tvg-logo="https://user-images.githubusercontent.com/85995579/128629391-bf27732d-34b4-4693-98d4-cb57507344ec.png",104 Astro Ria
 # http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 # http://iptv.tvmalaysia.cc:80/737373/737373/6730
-https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884929
+# https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884929
+http://198.16.106.62:8278/streams/d/Ria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="105" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
@@ -137,7 +138,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
 # https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 # https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtmlive03.secureswiftcontent.com/rtmchannel/03_720.m3u8
+https://rtm2hd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8
 
 #EXTINF:-1 tvg-id="147" group-title="myFreeview" tvg-logo="https://didik.tv/images/logotv2.png",147 DidikTV KPM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
