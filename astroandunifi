@@ -888,3 +888,6 @@ https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mp
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 #EXTINF:-1 tvg-id="EVENT" group-title="Live Event" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png", New Live Event Soon
 # https://i.imgur.com/3aQ7TyJ.mp4
+
+#EXTINF:-1 tvg-id="EVENT" group-title="TEST", TEST
+https://www.youtube.com/watch?v=MbJHXTx1zD4
