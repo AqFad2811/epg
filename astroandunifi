@@ -135,18 +135,15 @@ https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd
 
 #EXTINF:-1 tvg-id="147" group-title="myFreeview" tvg-logo="https://didik.tv/images/logotv2.png",147 DidikTV KPM (HD)
-# https://mediahomes.github.io/assets/my/ch_ntv7.m3u8
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYJ7EmKNrAW8MHQX5f-2T9s)/dm/3/x6qp6ou/s/live-4.m3u8
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYPSTsIs8eXAi9ztAG7lxws)/dm/3/x6qp6ou/s/live-4.m3u8
 
 #EXTINF:-1 tvg-id="148" group-title="myFreeview" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",148 8TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjlmNjE3MDktNWRjMC0zMWUyLWE3OWMtZWU5YjE3MDBkNjJm
-# https://mediahomes.github.io/assets/my/ch_8tv.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
 
 #EXTINF:-1 tvg-id="148" group-title="myFreeview" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",148 8TV (HD)
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcZxdLaY6nFjquyUo7s7wV4)/dm/3/x6qud17/s/live-3.m3u8
-# http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXrLSGj2MrXnMz1tNu8Emfw)/dm/3/x6qud17/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="149" group-title="myFreeview" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest?cb=20170819074656",149 TV9
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -155,8 +152,7 @@ https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcZxdLaY6nFjquyUo7
 http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
 
 #EXTINF: -1 tvg-id="149" group-title="myFreeview" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest?cb=20170819074656",149 TV9 (HD)
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHds7xf3P2e3sQS6pQxvpt50)/dm/3/x6qqja6/s/live-4.m3u8
-# http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRjCSmmyVrdgHmzMXcog7Vs)/dm/3/x6qqja6/s/live-4.m3u8
 
 #EXTINF:-1 tvg-id="LAKUmall" group-title="Shopping" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png",151 LAKU Mall 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
