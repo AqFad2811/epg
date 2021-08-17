@@ -156,7 +156,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
 #EXTINF: -1 tvg-id="149" group-title="myFreeview" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest?cb=20170819074656",149 TV9 (HD)
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRjCSmmyVrdgHmzMXcog7Vs)/dm/3/x6qqja6/s/live-4.m3u8
 
-#EXTINF:-1 tvg-id="LAKUmall" group-title="Shopping" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png",151 LAKU Mall 
+#EXTINF:-1 tvg-id="LAKUMall" group-title="Shopping" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png",151 LAKU Mall 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NDczZGQ3N2MtMmM0YS0zYzViLWFlY2UtYTFjOTE4MDcyMTUx
 http://1.9.62.158/PLTV/88888888/224/3221227560/3221227560.mpd
