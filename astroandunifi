@@ -46,7 +46,7 @@ http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 # https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
 
-#EXTINF:-1 tvg-id="CHN" group-title="Sports" tvg-logo="https://mediahomes.github.io/logos/sukan.png",111 Sukan RTM
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" tvg-logo="https://mediahomes.github.io/logos/sukan.png",111 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
