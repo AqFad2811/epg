@@ -579,7 +579,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
 http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd
 
-#EXTINF:-1 tvg-id="CHN" group-title="News" tvg-logo="https://user-images.githubusercontent.com/85995579/128818506-4bb5802b-298b-4c6a-aaa7-cf30f7e60402.png",633 Parlimen Malaysia
+#EXTINF:-1 tvg-id="ParlimenMalaysia" group-title="News" tvg-logo="https://user-images.githubusercontent.com/85995579/128818506-4bb5802b-298b-4c6a-aaa7-cf30f7e60402.png",633 Parlimen Malaysia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
 http://1.9.58.102/PLTV/88888888/224/3221227546/3221227546.mpd
