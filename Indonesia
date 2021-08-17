@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url=https://iptv-org.github.io/epg/guides/vidio.com.guide.xml refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-id="SCTV.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SCTV_Logo.svg/revision/latest/scale-to-width-down/250?cb=20200917125607",SCTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -152,9 +151,6 @@ https://etslive-2-vidio-com.akamaized.net/exp=1627161719~acl=/hls-p/ingest_6853_
 
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV" group-title="HD" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/X2ISm5LSjgKupMtdZkqTb-FNGhE=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg",Al Quran Al Kareem TV
 https://etslive-2-vidio-com.akamaized.net/exp=1627161805~acl=/hls-p/ingest_6852_*/*~hmac=6f18af5fb098d71cc6bba51c0489f77dcdc6a7082f7099e0a0752755c7eb30f0/hls-p/ingest_6852_480p/index.m3u8
-
-#EXTINF:-1 tvg-id="Paramuda FM" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/APRp1M2d1YuDsQEqXoZCTJeW0_8=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7685/paramuda-fm-5a8478.jpg",Paramuda FM
-https://etslive-2-vidio-com.akamaized.net/exp=1627161891~acl=/hls-p/ingest_7685_*/*~hmac=510e093e9636a4a5b4754ec9a33d43bc7e887ae332e7d48da15a7aa3c311869f/hls-p/ingest_7685_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="UChannel" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/U_Channel.png/revision/latest/scale-to-width-down/270?cb=20180925101905",U Channel
 https://etslive-2-vidio-com.akamaized.net/exp=1627161947~acl=/hls-p/ingest_6898_*/*~hmac=1c212124b643029daea49e29a80ef0a0692cf2b4eebaa1e7ffc486f695ad38d9/hls-p/ingest_6898_480p/index.m3u8
