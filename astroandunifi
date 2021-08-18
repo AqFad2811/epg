@@ -57,12 +57,14 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 # http://iptv.tvmalaysia.cc:80/624850/624850/6729
 # http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
 # https://link.zozotv.xyz:443/Freemium5/unlimited99/39
-http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/6.m3u8
+# http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/6.m3u8
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/53.m3u8
 
 #EXTINF:-1 tvg-id="113" group-title="Indonesian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astro Aura
 # http://iptv.tvmalaysia.cc:80/624850/624850/6713
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
+# http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
 # https://link.zozotv.xyz:443/Freemium5/unlimited99/38
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/52.m3u8
 
 #EXTINF:-1 tvg-id="CHN" group-title="myFreeview" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
@@ -176,7 +178,7 @@ http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400751.m3u8
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400566.m3u8
 
 #EXTINF:-1 tvg-id="221" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",221 Star Vijay HD
-https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884959
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/72.m3u8
 
 #EXTINF:-1 tvg-id="222" group-title="Indian" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160723588691kg.png",222 Colors Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -322,6 +324,9 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
+#EXTINF:-1 tvg-id="393" group-title="Korean" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",393 ONE HD (Astro Feed)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/28.m3u8
+
 #EXTINF:-1 tvg-id="394" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png",394 Oh!K HD 
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
@@ -334,14 +339,15 @@ http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
 # http://iptv.tvmalaysia.cc:80/624850/624850/6805
 # http://210.210.155.35/uq2663/h/h08/01.m3u8
 # https://link.zozotv.xyz:443/Freemium5/unlimited99/80
-http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
+# http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/71.m3u8
 
 #EXTINF:-1 tvg-id="398" group-title="Japanese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/428_144.png",NHK World Premium HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
-#EXTINF:-1 tvg-id="400" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/200_144.png",FAM Movies
+#EXTINF:-1 tvg-id="400" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/200_144.png",400 FAM Movies
 http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/90.m3u8
 
 #EXTINF:-1 tvg-id="401" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",401 Hits Movies 
@@ -522,6 +528,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+
+#EXTINF:-1 tvg-id="553" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/136_144.png",552 Discovery Asia
 
 #EXTINF:-1 tvg-id="CBeebies" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/303_1920x1080_HTV.png",553 CBeebies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
