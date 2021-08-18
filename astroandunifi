@@ -530,6 +530,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #EXTINF:-1 tvg-id="553" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/136_144.png",552 Discovery Asia
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/82.m3u8
 
 #EXTINF:-1 tvg-id="CBeebies" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/303_1920x1080_HTV.png",553 CBeebies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
