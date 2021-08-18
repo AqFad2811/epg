@@ -14,7 +14,7 @@ https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd
 
 #EXTINF:-1 tvg-id="103" group-title="myFreeview" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",103 TV3 (Backup)
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUDQfMsnCicDG7vXOw4keTo)/dm/3/x6qp375/d/live-3.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRsv3NXqOeRbGmHotsbOSSA)/dm/3/x6qp375/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="104" group-title="Astro" tvg-logo="https://user-images.githubusercontent.com/85995579/128629391-bf27732d-34b4-4693-98d4-cb57507344ec.png",104 Astro Ria
 # http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
@@ -137,7 +137,7 @@ https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd
 
 #EXTINF:-1 tvg-id="147" group-title="myFreeview" tvg-logo="https://didik.tv/images/logotv2.png",147 DidikTV KPM (HD)
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYPSTsIs8eXAi9ztAG7lxws)/dm/3/x6qp6ou/s/live-4.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbBaiAfnaRnRLWGwNosm1Ks)/dm/3/x6qp6ou/s/live-4.m3u8
 
 #EXTINF:-1 tvg-id="148" group-title="myFreeview" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",148 8TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
