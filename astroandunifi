@@ -562,10 +562,10 @@ http://line.megacdn.live:80/730916902422744/CBRsGhUf8j/191997
 http://line.megacdn.live:80/730916902422744/CBRsGhUf8j/192008
 
 #EXTINF:-1 tvg-id="611" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria
-# http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 # http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/7.m3u8
 # http://iptv.tvmalaysia.cc:80/737373/737373/6715
-http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/50.m3u8
+# http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/50.m3u8
 
 #EXTINF:-1 tvg-id="CHN" group-title="News" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073656571ojy.png",612 EuroNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
