@@ -111,8 +111,8 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 tvg-id="123" group-title="myFreeview" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",123 Awesome TV
 # http://l365.in/manal/manal/400200777
 # http://196.19.125.208/manal/manal/400200777?token=aXVmMkFVMVRJcm1WVEFP
-http://iptv.tvmalaysia.cc:80/live/jalan8/jalan8/9016.m3u8
-# http://iptv.tvmalaysia.cc:80/live/penang172/penang172/9016.ts
+# http://iptv.tvmalaysia.cc:80/live/jalan8/jalan8/9016.m3u8
+http://iptv.tvmalaysia.cc:80/live/penang172/penang172/9016.ts
 
 #EXTINF:-1 tvg-id="BERITARTM" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757",123 Berita RTM
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
