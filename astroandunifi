@@ -541,7 +541,8 @@ https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #EXTINF:-1 tvg-id="601" group-title="Education" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/TutorTVSK.png/revision/latest?cb=20210614003048",601 Astro Tutor TV SK
-https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884965
+# https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884965
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6736
 
 #EXTINF:-1 tvg-id="602" tvg-logo="https://i.kampung.xyz/c/f9ace6ddfb93062e.png" group-title="Education",602 Astro Tutor TV PT3
 https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884963
