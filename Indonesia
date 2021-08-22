@@ -66,10 +66,11 @@ https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 
 #EXTINF:-1 tvg-id="MNCTV.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/MNCTV_logo_2015.svg/revision/latest/scale-to-width-down/250?cb=20180316082632",MNCTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-# https://etslive-2-vidio-com.akamaized.net/exp=1627176700~acl=/vp9/870_stream.mpd!/vp9/870/*~hmac=6844df96495ca68f55a0db6e426f98ad3990c0d4c74d588e832b9b081c41d1ad/vp9/870_stream.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
+#EXTINF:-1 group-title="Test" tvg-id="" tvg-chno="" tvg-logo="",MNCTV-HD
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
 
 #EXTINF:-1 tvg-id="VisionPrime" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Vision_Prime_2020.svg/revision/latest/scale-to-width-down/300?cb=20201208044004",Vision Prime
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
