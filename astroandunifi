@@ -419,11 +419,17 @@ http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd
 # https://livecdn.fptplay.net/hda/blueantent_hls.smil/playlist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd
 
+#EXTINF:-1 tvg-id="BlueAntEntertainment" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png",473 Blue Ant Entertainment (DensTV Feed)
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+
 #EXTINF:-1 tvg-id="BlueAntExtreme" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png",474 Blue Ant Extreme
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
 # https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd
+
+#EXTINF:-1 tvg-id="BlueAntExtreme" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png",474 Blue Ant Extreme (DensTV Feed) 
+http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-id="501" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest?cb=20200520200333",501 Astro Awani 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
@@ -898,6 +904,9 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
+
+#EXTINF:-1 tvg-id="CHN" group-title="Available Until 1 October 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png",Disney Channel (Vietnam Feed)
+http://115.77.252.172:8080/live/disney/index.m3u8?token=vIS_Euqz2RMtuAvXb3lE-Q&e=1629796227
 
 #EXTM3U
 #EXT-X-VERSION:3
