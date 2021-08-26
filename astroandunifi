@@ -267,6 +267,9 @@ https://m3u-editor.com/serve/22111c99-66-11eb-b22c-6f670e934a5b/343954919
 #EXTINF:-1 tvg-id="319" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",319 TVB Xing He
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
+#EXTINF:-1 tvg-id="320" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png",TVBS Asia HD
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37361
+
 #EXTINF:-1 tvg-id="321" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/128818156-e17cbad5-9785-4c08-a1ea-01463da35257.png",321 CCM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
