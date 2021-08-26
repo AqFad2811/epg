@@ -488,8 +488,9 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227511/32
 http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd
 
 #EXTINF:-1 tvg-id="503" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",503 CGTN HD
-https://live.cgtn.com/1000/prog_index.m3u8
+# https://live.cgtn.com/1000/prog_index.m3u8
 # https://playback2.akamaized.net/streams/7082210_9385979_lsihkslnleu765n1dcu_1/exp=1628169554~acl=%2f*~data=hdntl~hmac=7cc43ff17d53f717632aab3166e020d491c88026030889e5e715598d7b11e7fb/segments/7082210_9385979_lsihkslnleu765n1dcu_1@2756000p/media-uo3q89dzs_5901.ts?z=p
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 #EXTINF:-1 tvg-id="511" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png",511 CNN HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
