@@ -287,6 +287,9 @@ http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd
 # https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884958
 https://m3u-editor.com/serve/22111c99-66-11eb-b22c-6f670e934a5b/343954907
 
+#EXTINF:-1 tvg-id="335" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/130944092-ce1ac88b-08ed-4a79-b8c1-4e3b0b6af688.png",CCTV4 HD
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37364
+
 #EXTINF:-1 tvg-id="SonySAB" group-title="Indian" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072708856rq9.png",342 Sony SAB
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
@@ -297,23 +300,28 @@ http://1.9.62.158/PLTV/88888888/224/3221227538/3221227538.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
 http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd
 
-#EXTINF:-1 tvg-id="352" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 352 Astro AOD (VPN NEEDED)
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6703
+#EXTINF:-1 tvg-id="352" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 352 Astro AOD
+# http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6703
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37365
 
-#EXTINF:-1 tvg-id="353" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 353 Astro AOD (VPN NEEDED)
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6704
+#EXTINF:-1 tvg-id="353" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 353 Astro AOD
+# http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6704
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37366
 
-#EXTINF:-1 tvg-id="354" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 354 Astro AOD (VPN NEEDED)
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6705
+#EXTINF:-1 tvg-id="354" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 354 Astro AOD
+# http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6705
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37367
 
-#EXTINF:-1 tvg-id="355" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 355 Astro AOD (VPN NEEDED)
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6706
+#EXTINF:-1 tvg-id="355" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 355 Astro AOD
+# http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6706
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37368
 
 #EXTINF:-1 tvg-id="392" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png", 392 KBS World HD
 # https://link.zozotv.xyz:443/Freemium5/unlimited99/78
 # http://iptv.tvmalaysia.cc:80/624850/624850/6803
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16363
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+# https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37369
 
 #EXTINF:-1 tvg-id="393" group-title="Korean" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",393 ONE HD 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -537,6 +545,9 @@ https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 #EXTINF:-1 tvg-id="553" group-title="Documentary" tvg-logo="https://user-images.githubusercontent.com/85995579/130942415-16993653-9ed9-4c56-97fd-d92dc328b31f.png",553 Discovery Asia
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8856
 
+#EXTINF:-1 tvg-id="554" group-title="Documentary" tvg-logo="https://user-images.githubusercontent.com/85995579/130943042-a0911193-dc2b-4815-a38f-95a214c96139.png",554 Discovery Science HD
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37392
+
 #EXTINF:-1 tvg-id="CBeebies" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/303_1920x1080_HTV.png",553 CBeebies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
@@ -545,7 +556,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd
 #EXTINF:-1 tvg-id="555" group-title="Documentary" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png",555 History HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
-https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+# https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37393
 
 #EXTINF:-1 tvg-id="556" group-title="Documentary" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4",556 Animal Planet HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
