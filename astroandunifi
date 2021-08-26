@@ -408,7 +408,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 # http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="411" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",411 HBO (Malay Sub)
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+# http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+https://m3u-editor.com/serve/22111c99-66-11eb-b22c-6f670e934a5b/343954959
 
 #EXTINF:-1 tvg-id="412" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",412 Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
