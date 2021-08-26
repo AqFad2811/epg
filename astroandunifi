@@ -211,7 +211,7 @@ http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6754
 
 #EXTINF:-1 tvg-id="300" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",300 IQIYI HD
 # http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
-http://iptv.tvmalaysia.cc:80/737373/737373/6723
+https://m3u-editor.com/serve/22111c99-66-11eb-b22c-6f670e934a5b/343954910
 
 #EXTINF:-1 tvg-id="YuppThiraiHD" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200709/20200709194934030p1r.png",301 Yupp Thirai HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -231,7 +231,8 @@ http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6701
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
 #EXTINF:-1 tvg-id="308" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/308_300.png/revision/latest?cb=20200122111044",308 Astro Quan Jia HD
-http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
+# http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
+https://m3u-editor.com/serve/22111c99-66-11eb-b22c-6f670e934a5b/343954912
 
 #EXTINF:-1 tvg-id="309" group-title="Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",309 Celestial Movies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -317,7 +318,8 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTINF:-1 tvg-id="393" group-title="Korean" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",393 ONE HD (Astro Feed)
 # http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/28.m3u8
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6817
+# http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6817
+https://m3u-editor.com/serve/22111c99-66-11eb-b22c-6f670e934a5b/343954973
 
 #EXTINF:-1 tvg-id="394" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png",394 Oh!K HD 
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
@@ -736,23 +738,27 @@ http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="811" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest/scale-to-width-down/200?cb=20210802132424",811 Astro SuperSport HD 
 # http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6708
+# http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6708
 # http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+https://m3u-editor.com/serve/22111c99-66-11eb-b22c-6f670e934a5b/343954940
 
 #EXTINF:-1 tvg-id="812" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/812.png/revision/latest?cb=20200520222551",812 Astro SuperSport 2 HD
 # http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6710
+# http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6710
 # http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+https://m3u-editor.com/serve/22111c99-66-11eb-b22c-6f670e934a5b/343954941
 
 #EXTINF:-1 tvg-id="813" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png/revision/latest?cb=20180622075715",813 Astro SuperSport 3 HD
 # http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6711
+# http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6711
 # http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+https://m3u-editor.com/serve/22111c99-66-11eb-b22c-6f670e934a5b/343954942
 
 #EXTINF:-1 tvg-id="814" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Astro_Supersport_4_2015.png/revision/latest?cb=20180622080127",814 Astro SuperSport 4 HD
 # http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6712
+# http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6712
 # http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+https://m3u-editor.com/serve/22111c99-66-11eb-b22c-6f670e934a5b/343954943
 
 #EXTINF:-1 tvg-id="815" group-title="Sports" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png",815 FOX Sports HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
