@@ -21,7 +21,9 @@ http://gpc.my.id/vidio/sctv.m3u8
 http://gpc.my.id/vidio/mnc.m3u8
 
 #EXTINF:-1 tvg-id="MNC TV HD" tvg-name="MNC TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/MNCTV_logo_2015.svg/revision/latest/scale-to-width-down/250?cb=20180316082632" group-title="Indonesia",MNC TV HD
-https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Antv_logo_%282017%29.svg/revision/latest/scale-to-width-down/200?cb=20180407053038" group-title="Indonesia",ANTV
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/31
@@ -59,8 +61,8 @@ http://gpc.my.id/vidio/gtv.m3u8
 #EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/GTV_%282017%29.svg/revision/latest/scale-to-width-down/200?cb=20180321091517" group-title="Indonesia",GTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-# https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+# https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
 
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/131089939-bf168d76-b6c6-451d-ad9b-69f9b9541aaf.png" tvg-id="JossStream" tvg-name="Tv-One" group-title="News",TvOne
 http://gpc.my.id/ytlive/tvone.m3u8
