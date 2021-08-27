@@ -227,10 +227,10 @@ http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd
 # https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd
 
-#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png" tvg-id="JossStream" tvg-name="tvn" group-title="Korean",tvN (Vidio Feed)
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png" tvg-id="395" tvg-name="tvn" group-title="Korean",tvN (Vidio Feed)
 http://gpc.my.id/vidio/tvn.m3u8
 
-#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png" tvg-id="JossStream" tvg-name="tvn" group-title="Korean",tvN (Unifi TV Feed)
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png" tvg-id="395" tvg-name="tvn" group-title="Korean",tvN (Unifi TV Feed)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
 http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
@@ -241,18 +241,18 @@ http://gpc.my.id/vidio/zee-bioskop.m3u8
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/131082880-9ff5fb5d-6673-4ced-978e-56ea96701793.png" tvg-id="JossStream" tvg-name="citra-bioskop" group-title="Movies",Citra Bioskop 
 http://gpc.my.id/vidio/citra-bioskop.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_citradrama_small.png?v=2.0.0.15" tvg-id="JossStream" tvg-name="citra-drama" group-title="Alternatif",citra-drama
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/131083722-2044596a-0892-41ac-93bc-74ae43197eb4.png" tvg-id="JossStream" tvg-name="citra-drama" group-title="Indonesia",Citra Drama
 http://gpc.my.id/vidio/citra-drama.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_citradangdut_small.png" tvg-id="JossStream" tvg-name="citra-dangdut" group-title="Alternatif",citra-dangdut
+
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/131083944-3bb29182-a680-4d2e-8448-8bae65872daa.png" tvg-id="JossStream" tvg-name="citra-dangdut" group-title="Indonesia",Citra Dangdut
 http://gpc.my.id/vidio/citra-dangdut.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20191014052642" tvg-id="JossStream" tvg-name="citra-Alternatif" group-title="Alternatif",citra-Alternatif
-http://gpc.my.id/vidio/citra-Alternatif.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="JossStream" tvg-name="zing" group-title="Alternatif",zing
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Zing_300x300.png/revision/latest/scale-to-width-down/250?cb=20171014201547" tvg-id="JossStream" tvg-name="zing" group-title="Music",Zing
 http://gpc.my.id/vidio/zing.m3u8
-#EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/magnatv/livetv/magnatvlive/com.magnatv.livetv.magnatvlive_1.png" tvg-id="JossStream" tvg-name="magna-tv" group-title="Alternatif",magna-tv
-http://gpc.my.id/vidio/magna-tv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_pramborstv_small1.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="pramborstv_USEE" group-title="Alternatif",pramborstv_USEE
+
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/131084286-6e45c075-834d-4fdf-bff1-f8b5d89ea74f.png" tvg-id="JossStream" tvg-name="pramborstv_USEE" group-title="Music",Prambors TV
 http://gpc.my.id/usee/pramborstv.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gXNuLktfPgu7dlF062qXKKGSH2M=/filters:quality(90)/vidio-web-prod-channel/uploads/channel/image/426/musica-s-studio-60dbb5.jpg" tvg-id="JossStream" tvg-name="musica" group-title="Alternatif",musica
 http://gpc.my.id/vidio/musica.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_small.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="chinesedrama_USEE" group-title="Alternatif",chinesedrama_USEE
