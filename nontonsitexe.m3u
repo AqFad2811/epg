@@ -198,20 +198,23 @@ http://gpc.my.id/vidio/champion-tv-2.m3u8
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/131081458-16196cc6-131f-45df-a8ff-523ec63c0049.png" tvg-id="JossStream" tvg-name="champion-tv-3" group-title="Alternatif",Champions TV 3
 http://gpc.my.id/vidio/champion-tv-3.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgmove.com//public/img/temp_img_web/Lre19gF109xOe02uXfr2.png" tvg-id="JossStream" tvg-name="ZQ-Alternatif" group-title="Alternatif",ZQ-Alternatif
-https://stream.zqprem.com/zqsport-sec/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgmove.com//public/img/temp_img_web/Lre19gF109xOe02uXfr2.png" tvg-id="JossStream" tvg-name="ZQ-Sport2" group-title="Alternatif",ZQ-Sport2
-https://stream.zqprem.com/zqdrama-sec/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/viasat-Alternatif-1432658408.jpg" tvg-id="JossStream" tvg-name="Viasat-Alternatif" group-title="Alternatif",Viasat-Alternatif
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Viasat_Sport_2008.png/revision/latest/scale-to-width-down/270?cb=20100122152914" tvg-id="JossStream" tvg-name="Viasat-Alternatif" group-title="Sports",Viasat Sport
 http://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="Bein1" group-title="Alternatif",Bein1
-http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein2_small1.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="Bein2" group-title="Alternatif",Bein2
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/BeINSports1.png/revision/latest?cb=20170103003645" tvg-id="JossStream" tvg-name="Bein1" group-title="Sports",Bein Sports 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
+https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Beinsports2_2017.jpg/revision/latest/scale-to-width-down/220?cb=20170302102814" tvg-id="JossStream" tvg-name="Bein2" group-title="Alternatif",Bein Sports 2
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports1_small.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="FoxSport1" group-title="Alternatif",FoxSport1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports2_small.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="FoxSport2" group-title="Alternatif",FoxSport2
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports3_small.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="FoxSport3" group-title="Alternatif",FoxSport3
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
