@@ -71,6 +71,9 @@ http://gpc.my.id/vidio/inews.m3u8
 #EXTINF:-1 tvg-id="ABC.au" tvg-name="Rajawali TV" tvg-logo="https://user-images.githubusercontent.com/85995579/131073838-902d8883-4c84-4531-bd22-7bfb3266a211.png" group-title="Indonesia",RTV
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37
 
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/131073838-902d8883-4c84-4531-bd22-7bfb3266a211.png" tvg-id="JossStream" tvg-name="rtv" group-title="Indonesia",RTV (Backup)
+http://gpc.my.id/vidio/rtv.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/KOMPAS_TV_%282017%29.svg/revision/latest/scale-to-width-down/300?cb=20181111102441" tvg-id="JossStream" tvg-name="kompas-tv" group-title="News",Kompas TV
 http://gpc.my.id/vidio/kompas-tv.m3u8
 
@@ -120,6 +123,9 @@ http://gpc.my.id/usee/jtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="U Channel" tvg-logo="https://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png" group-title="Indonesia",U Channel
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/1208
 
+#EXTINF:-1 tvg-logo="https://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png" tvg-id="JossStream" tvg-name="uchannel_USEE" group-title="Indonesia",U Channel (UseeTV Feed)
+http://gpc.my.id/usee/uchannel.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Antara TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Lembaga_Kantor_Berita_Nasional_Antara.png/revision/latest/scale-to-width-down/300?cb=20190923120740" group-title="News",Antara TV
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/32586
 
@@ -163,10 +169,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1741399868_b
 http://gpc.my.id/usee/tawaftv.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_uchannel_small1.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="uchannel_USEE" group-title="Alternatif",uchannel_USEE
-http://gpc.my.id/usee/uchannel.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rtv_small1.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="rtv" group-title="Alternatif",rtv
-http://gpc.my.id/vidio/rtv.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_small1.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="rodjatv_USEE" group-title="Alternatif",rodjatv_USEE
 http://gpc.my.id/usee/rodjatv.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/tKzO5NAoTVDSmg_f4ECrJvkS-Y2dXlHWmYAGvh1qd-UK_XTd_EUV_EjfANk9AnbsLjCuKpzBenL-o99SLSJo-IKYLdYLy1HBstNAyWif4XZO6B-hXmoK3ajiS99c_tChbpayuYS6SWhh_Q" tvg-id="JossStream" tvg-name="ajwa-tv" group-title="Alternatif",ajwa-tv
