@@ -152,6 +152,9 @@ https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/30183
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/131074332-49e70fa5-d9c8-45f9-bebe-bd8936f8a118.png" tvg-id="JossStream" tvg-name="useeinfo_USEE" group-title="UseeTV",Ruang Trampil
 http://gpc.my.id/usee/useeinfo.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Ruang Terampil" tvg-logo="https://user-images.githubusercontent.com/85995579/131074332-49e70fa5-d9c8-45f9-bebe-bd8936f8a118.png" group-title="UseeTV",Ruang Terampil
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/36731
+
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/131074478-218e248d-9186-4877-91d8-0c67c06bce20.png" tvg-id="JossStream" tvg-name="useephoto_USEE" group-title="UseeTV",Usee Photo
 http://gpc.my.id/usee/useephoto.m3u8
 
@@ -338,8 +341,14 @@ http://gpc.my.id/usee/mykids.m3u8
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/131093285-5fab42e6-daab-4f3e-a754-9f24d1482ce7.png" tvg-id="JossStream" tvg-name="smithsonian" group-title="Documentary",Smithsonian Channel
 http://gpc.my.id/vidio/smithsonian.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://user-images.githubusercontent.com/85995579/131093285-5fab42e6-daab-4f3e-a754-9f24d1482ce7.png" group-title="Documentary",Smithsonian Channel (Backuo)
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/35998
+
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/131093467-6d51c948-da4f-4e92-8bdb-f01c53be506e.png" tvg-id="JossStream" tvg-name="tv-edukasi" group-title="Education",TV Edukasi
 http://gpc.my.id/vidio/tv-edukasi.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Edukasi" tvg-logo="https://user-images.githubusercontent.com/85995579/131093467-6d51c948-da4f-4e92-8bdb-f01c53be506e.png" group-title="Knowledge",TV Edukasi (Backup)
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/36732
 
 #EXTINF:-1 tvg-id="LoveNatureHD" group-title="Documentary" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202107/20210724/20210724151935567nih.png",Love Nature HD (Vidio Feed)
 http://gpc.my.id/vidio/love-nature.m3u8
@@ -543,75 +552,96 @@ http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Animal Planet HD" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" group-title="Documentary",Animal Planet HD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/358
 
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Knowledge",BBC Earth
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/385
 
-#EXTINF:-1 tvg-id="CrimeInvestigation.id" tvg-name="Crime Investigation" tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="Knowledge",Crime Investigation
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/332
+#EXTINF:-1 tvg-id="CrimeInvestigation.id" tvg-name="Crime Investigation" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png" group-title="Knowledge",Crime & Investigation
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37415
+
 #EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning" tvg-logo="" group-title="Knowledge",Da Vinci Learning
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/36729
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Knowledge",Discovery Asia
+# https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/36729
+
+#EXTINF:-1 tvg-id="DiscoveryAsia.my" tvg-name="Discovery Asia" tvg-logo="https://user-images.githubusercontent.com/85995579/130942415-16993653-9ed9-4c56-97fd-d92dc328b31f.png" group-title="Documentary",Discovery Asia
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/779
-#EXTINF:-1 tvg-id="DiscoveryAsia.my" tvg-name="Discovery Channel HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="Knowledge",Discovery Channel HD
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://api.discovery.com/v1/images/5ca22512d1b3ee5361260d00?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" group-title="Documentary",Discovery Channel HD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/165
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/200px-Discovery_Science_2017_Logo.svg.png" group-title="India",Discovery Science HD
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/408
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="https://user-images.githubusercontent.com/85995579/130943042-a0911193-dc2b-4815-a38f-95a214c96139.png" group-title="Documentary",Discovery Science HD
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37392
+
 #EXTINF:-1 tvg-id="DiscoveryShed.uk" tvg-name="Discovery Shed" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Discovery_Shed.png/150px-Discovery_Shed.png" group-title="Knowledge",Discovery Shed
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/333
-#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="Knowledge",Discovery Turbo
+# https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/333
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="Documentary",Discovery Turbo
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/462
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="History FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="Knowledge",History FHD
+
+#EXTINF:-1 tvg-id="ABC.au" tvg-name="History FHD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png" group-title="Documentary",History FHD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/8131
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="History HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="Knowledge",History HD
+
+#EXTINF:-1 tvg-id="ABC.au" tvg-name="History HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png" group-title="Documentary",History HD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/718
+
 #EXTINF:-1 tvg-id="" tvg-name="Lingua Channel" tvg-logo="https://www.klikwarta.com/sites/default/files/inline-images/image003.png" group-title="Knowledge",Lingua Channel
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/14944
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="Knowledge",Love Nature 4K
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/36767
-#EXTINF:-1 tvg-id="nationalgeographicchannelhd.id" tvg-name="Nat Geo HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="Knowledge",Nat Geo HD
+
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.id" tvg-name="Nat Geo HD" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065651397ki2.png" group-title="Documentary",National Geographic HD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/96
-#EXTINF:-1 tvg-id="NatGeoPeople.id" tvg-name="Nat Geo People HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="Knowledge",Nat Geo People HD
+
+#EXTINF:-1 tvg-id="NatGeoPeople.id" tvg-name="Nat Geo People HD" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065806236c1s.png" group-title="Documentary",Nat Geo People HD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/455
-#EXTINF:-1 tvg-id="NatGeoWild.id" tvg-name="Nat Geo Wild HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="Knowledge",Nat Geo Wild HD
+
+#EXTINF:-1 tvg-id="NatGeoWild.id" tvg-name="Nat Geo Wild HD" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202009/20200907/20200907034018802dtj.PNG" group-title="Documentary",National Geographic Wild HD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/97
-#EXTINF:-1 tvg-id="" tvg-name="Ruang Terampil" tvg-logo="" group-title="Knowledge",Ruang Terampil
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/36731
-#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Smithsonian_Channel.png/220px-Smithsonian_Channel.png" group-title="Knowledge",Smithsonian Channel
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/35998
-#EXTINF:-1 tvg-id="" tvg-name="TV Edukasi" tvg-logo="" group-title="Knowledge",TV Edukasi
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/36732
-#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Kids",Animax
+
+#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png" group-title="Anime",Animax
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/3
-#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="Kids",Aniplus
+
+#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://user-images.githubusercontent.com/85995579/131109650-bc170ecf-2f90-4103-92a9-b9485374c28e.png" group-title="Anime",Aniplus
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/2
-#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids",Baby First
+
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Bftvlogo2019.png/revision/latest/scale-to-width-down/250?cb=20210515091511" group-title="Kids",Baby First
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/1204
+
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://mncvision.id/userfiles/image/channel/baby_tv.png" group-title="Kids",Baby TV
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/296
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids",Boomerang ID
+
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang ID" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070341348vur.png" group-title="Kids",Boomerang ID
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/305
+
 #EXTINF:-1 tvg-id="cartoonnetwork.id" tvg-name="Cartoon Network ID HD" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Kids",Cartoon Network ID HD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/680
-#EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="Kids",CBeebies
+
+#EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/303_1920x1080_HTV.png" group-title="Kids",CBeebies
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/491
-#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel
+
+#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png" group-title="Kids",Disney Channel
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/306
-#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel ID" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel ID
+
+#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png" group-title="Kids",Disney Channel ID
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/3479
+
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney Junior" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Kids",Disney Junior
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/213
-#EXTINF:-1 tvg-id="" tvg-name="Disney UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="Kids",Disney UK
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png" group-title="Kids",Disney Channel US
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/2336
+
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/320px-Disney_XD_-_2015.svg.png" group-title="Kids",Disney XD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/104
-#EXTINF:-1 tvg-id="" tvg-name="Dream Works HD" tvg-logo="" group-title="Kids",Dream Works HD
+
+#EXTINF:-1 tvg-id="" tvg-name="Dream Works HD" tvg-logo="http://www.dreamworks-asia.com/images/dwalogo.png" group-title="Kids",DreamWorks HD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/32529
+
 #EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="Kids",Duck TV
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/1854
+
 #EXTINF:-1 tvg-id="" tvg-name="Dunia Anak" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="Kids",Dunia Anak
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/907
+
 #EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="Kids",Horee
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/14106
+
 #EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="" group-title="Kids",My Kidz
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/1483
 #EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nick_Jr._2_logo.png/320px-Nick_Jr._2_logo.png" group-title="Kids",Nick Jr 2
