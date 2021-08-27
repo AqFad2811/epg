@@ -286,27 +286,26 @@ http://gpc.my.id/usee/arirang.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng2GNUq-GJ2urgtHfvIxV8o1w7JwgPHlLSKhyJKzg=s88-c-k-c0x00ffffff-no-rj" tvg-id="JossStream" tvg-name="The K-POP" group-title="Music",The K-POP
 http://gpc.my.id/ytlive/the-kpop.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_metrotv_small1.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="metro-tv" group-title="Alternatif",metro-tv
-http://gpc.my.id/vidio/metro-tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_kompastv_small.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="kompas-tv" group-title="Alternatif",kompas-tv
-http://gpc.my.id/vidio/kompas-tv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_idx_small.png" tvg-id="JossStream" tvg-name="idx_USEE" group-title="Alternatif",idx_USEE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/IDX_Channel.png/revision/latest/scale-to-width-down/150?cb=20180701122513" tvg-id="JossStream" tvg-name="idx_USEE" group-title="News",IDX Channel
 http://gpc.my.id/usee/idx.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_seatoday_small.png?v=1" tvg-id="JossStream" tvg-name="sea-today" group-title="Alternatif",sea-today
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SEA_Today_Indonesia.png/revision/latest/scale-to-width-down/250?cb=20201101201915" tvg-id="JossStream" tvg-name="sea-today" group-title="News",SEA Today
 http://gpc.my.id/vidio/sea-today.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_inews_small.png" tvg-id="JossStream" tvg-name="inews" group-title="Alternatif",inews
-http://gpc.my.id/vidio/inews.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cnnindonesia_small1.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="CNN-Indonesia" group-title="Alternatif",CNN-Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w987255908_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cnbcid_small.png" tvg-id="JossStream" tvg-name="CNBC-Indonesia" group-title="Alternatif",CNBC-Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1741399868_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_small.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="dw-english" group-title="Alternatif",dw-english
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/287_144.png3" tvg-id="JossStream" tvg-name="dw-english" group-title="News",DW English
 http://gpc.my.id/vidio/dw-english.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_beritasatu_small1.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="beritasatu" group-title="Alternatif",beritasatu
-http://gpc.my.id/vidio/beritasatu.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_abcaustralia_small.png" tvg-id="JossStream" tvg-name="abcaustralia_USEE" group-title="Alternatif",abcaustralia_USEE
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073533638c35.png" tvg-id="518" tvg-name="abcaustralia_USEE" group-title="News",ABC Australia (UseeTV Feed)
 http://gpc.my.id/usee/abcaustralia.m3u8
+
+#EXTINF:-1 tvg-id="518" group-title="News" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073533638c35.png",ABC Australia (Unifi TV Feed)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
+http://1.9.62.158/PLTV/88888888/224/3221227811/3221227811.mpd
+
+#EXTINF:-1 tvg-id="518" group-title="News" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073533638c35.png",ABC Australia (Astro Feed)
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37387
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_small.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="dwtv_USEE" group-title="Alternatif",dwtv_USEE
 http://gpc.my.id/usee/dwtv.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_trtworld_small.png" tvg-id="JossStream" tvg-name="trtworld_USEE" group-title="Alternatif",trtworld_USEE
@@ -809,8 +808,6 @@ https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37384
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37385
 #EXTINF:-1 tvg-id="" tvg-name="MY - BLOOMBERG TV" tvg-logo="" group-title="Astro",MY - BLOOMBERG TV
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37386
-#EXTINF:-1 tvg-id="" tvg-name="MY - ABC AUSTRALIA" tvg-logo="" group-title="Astro",MY - ABC AUSTRALIA
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37387
 #EXTINF:-1 tvg-id="" tvg-name="MY - NGW HD" tvg-logo="" group-title="Astro",MY - NGW HD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37388
 #EXTINF:-1 tvg-id="" tvg-name="MY - NAT GEO HD" tvg-logo="" group-title="Astro",MY - NAT GEO HD
