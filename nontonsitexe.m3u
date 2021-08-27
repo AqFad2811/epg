@@ -385,6 +385,12 @@ https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/9
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://user-images.githubusercontent.com/85995579/131095271-d59ad9c6-0c96-4dc7-a99a-cadb83fa5e66.png" group-title="Movie",Bioskop Indonesia
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/908
 
+#EXTINF:-1 tvg-id="BlueAntEntertainment" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png",Blue Ant Entertainment HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
+# https://livecdn.fptplay.net/hda/blueantent_hls.smil/playlist.m3u8
+http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme HD" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png" group-title="Entertainment",Blue Ant Extreme HD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/811
 
@@ -396,65 +402,113 @@ http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd
 #EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="https://user-images.githubusercontent.com/85995579/128818156-e17cbad5-9785-4c08-a1ea-01463da35257.png" group-title="Movie",CCM
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/2118
 
-#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movie",Celestial Movies
+#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png" group-title="Movie",Celestial Movies
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/5
 
-#EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Movie",Cinema World
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/1194
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movie",Cinemax FHD
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/30185
-#EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="Movie",Cinemax ID
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/2156
+#EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065916134bcf.png" group-title="Movie",Cinema World
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
+# https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
+http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax SD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movie",Cinemax SD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/26599
-#EXTINF:-1 tvg-id="" tvg-name="FLIK HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" group-title="Movie",FLIK HD
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movie",Cinemax FHD
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/30185
+
+#EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax ID" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movie",Cinemax ID
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/2156
+
+#EXTINF:-1 tvg-id="" tvg-name="FLIK HD" tvg-logo="https://user-images.githubusercontent.com/85995579/131098803-5b0077dc-6b03-4ed9-bdae-066d2751c4d5.png" group-title="Movie",FLIK HD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/29592
-#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Movie",FOX Action Movies FHD
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/1478
-#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Movie",FOX Action Movies HD
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/99
-#EXTINF:-1 tvg-id="FOXCrime.id" tvg-name="FOX Crime HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="Movie",FOX Crime HD
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/763
-#EXTINF:-1 tvg-id="" tvg-name="FOX Family Movies ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png" group-title="Movie",FOX Family Movies ID
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/14994
-#EXTINF:-1 tvg-id="FOX.id" tvg-name="FOX HD" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" group-title="Movie",FOX HD
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/95
-#EXTINF:-1 tvg-id="FoxLife.id" tvg-name="FOX Life HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="Movie",FOX Life HD
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/94
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="FOX Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" group-title="Movie",FOX Movies HD
+
+#EXTINF:-1 tvg-id="413" tvg-name="FOX Movies HD" tvg-logo="https://www.foxMoviesasia.com/images/fm.png" group-title="Movie",FOX Movies HD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/98
+
+#EXTINF:-1 tvg-id="413" group-title="Movies" tvg-logo="https://www.foxMoviesasia.com/images/fm.png",FOX Movies HD (Unifi TV Feed)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
+# https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
+
+#EXTINF:-1 tvg-id="414" tvg-name="FOX Family Movies ID" tvg-logo="https://foxfamilyMovies.foxMoviesasia.com/images/ffm.png" group-title="Movie",FOX Family Movies (Indonesian Dub)
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/14994
+
+#EXTINF:-1 tvg-id="414" group-title="Movies" tvg-logo="https://foxfamilyMovies.foxMoviesasia.com/images/ffm.png",FOX Family Movies HD (Unifi TV Feed)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
+http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
+
+#EXTINF:-1 tvg-id="415" tvg-name="FOX Action Movies FHD" tvg-logo="https://foxactionMovies.foxMoviesasia.com/images/fam.png" group-title="Movie",FOX Action Movies FHD
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/1478
+
+#EXTINF:-1 tvg-id="415" tvg-name="FOX Action Movies HD" tvg-logo="https://foxactionMovies.foxMoviesasia.com/images/fam.png" group-title="Movie",FOX Action Movies HD
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/99
+
+#EXTINF:-1 tvg-id="415" group-title="Movies" tvg-logo="https://foxactionMovies.foxMoviesasia.com/images/fam.png",FOX Action Movies HD (Unifi TV Feed)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
+http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
+
+#EXTINF:-1 tvg-id="FOXCrime.id" tvg-name="FOX Crime HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="Entertainment",FOX Crime HD
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/763
+
+#EXTINF:-1 tvg-id="FOX.id" tvg-name="FOX HD" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073643920hhv.png" group-title="Entertainment",FOX HD
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/95
+
+#EXTINF:-1 tvg-id="FoxLife.id" tvg-name="FOX Life HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="Entertainment",FOX Life HD
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/94
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="Movie",Galaxy Premium SD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/29603
+
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy SD" tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" group-title="Movie",Galaxy SD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/29604
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="Movie",HBO Family FHD
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122" group-title="Movie",HBO Family FHD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/30184
-#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movie",HBO Family HD
+
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family HD" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122" group-title="Movie",HBO Family HD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/592
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="Movie",HBO Family SD
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family SD" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122" group-title="Movie",HBO Family SD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/26598
-#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" group-title="Movie",HBO FHD
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="Movie",HBO FHD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/1496
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="Movie",HBO HD
+
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="Movie",HBO HD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/210
-#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="Movie",HBO Hits FHD
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/11492
-#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie",HBO Hits HD
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/591
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="Movie",HBO Hits SD
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/26596
-#EXTINF:-1 tvg-id="" tvg-name="HBO SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="Movie",HBO SD
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO SD" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="Movie",HBO SD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/26595
+
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits FHD" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122" group-title="Movie",HBO Hits FHD
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/11492
+
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits HD" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122" group-title="Movie",HBO Hits HD
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/591
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits SD" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122" group-title="Movie",HBO Hits SD
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/26596
+
 #EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movie",HBO Signature FHD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/1498
+
 #EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movie",HBO Signature HD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/873
+
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movie",HBO Signature SD
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/26597
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/2659
+7
 #EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS HD" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits.png" group-title="Movie",HITS HD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/1195
-#EXTINF:-1 tvg-id="" tvg-name="Hits Movie SD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" group-title="Movie",Hits Movie SD
+
+#EXTINF:-1 tvg-id="" tvg-name="Hits Movie SD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" group-title="Movie",Hits Movies SD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/957
+
 #EXTINF:-1 tvg-id="" tvg-name="IMC SD" tvg-logo="" group-title="Movie",IMC SD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/35484
 #EXTINF:-1 tvg-id="" tvg-name="IN: & Picture" tvg-logo="" group-title="Movie",IN: & Picture
