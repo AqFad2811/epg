@@ -92,6 +92,9 @@ https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/1210
 #EXTINF:-1 tvg-id="" tvg-name="Jak TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Jaktv_logo.png/revision/latest/scale-to-width-down/250?cb=20180131051655" group-title="Indonesia",Jak TV (Vidio Feed)
 http://gpc.my.id/vidio/jaktv.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/O_Channel.svg/revision/latest/scale-to-width-down/300?cb=20210615130503" tvg-id="JossStream" tvg-name="ochannel" group-title="Indonesia",O Channel
+http://gpc.my.id/vidio/ochannel.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/BaliTV_2014.png/revision/latest/scale-to-width-down/250?cb=20201011002818" group-title="Indonesia",Bali TV
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/889
 
@@ -153,14 +156,13 @@ http://gpc.my.id/vidio/beritasatu.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/CNN_Indonesia.svg/revision/latest/scale-to-width-down/250?cb=20160314101559" tvg-id="JossStream" tvg-name="CNN-Indonesia" group-title="News",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w987255908_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/CNBC_Indonesia.png/revision/latest/scale-to-width-down/190?cb=20180920102831" tvg-id="JossStream" tvg-name="CNBC-Indonesia" group-title="News",CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/131078252-88a03241-6554-43f0-abd2-cc290af2fd10.png" tvg-id="JossStream" tvg-name="CNBC-Indonesia" group-title="News",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1741399868_b384000_sleng.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tawaftv_small.png" tvg-id="JossStream" tvg-name="tawaftv_USEE" group-title="Alternatif",tawaftv_USEE
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/131078993-d93fac94-b0a4-464e-8ddd-b918dfffed18.png" tvg-id="JossStream" tvg-name="tawaftv_USEE" group-title="Indonesia",Tawaf TV
 http://gpc.my.id/usee/tawaftv.m3u8
-#EXTINF:-1 tvg-logo="https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6045a3372f9c6a0001d0d8c9/picture" tvg-id="JossStream" tvg-name="ochannel" group-title="Alternatif",ochannel
-http://gpc.my.id/vidio/ochannel.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_uchannel_small1.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="uchannel_USEE" group-title="Alternatif",uchannel_USEE
 http://gpc.my.id/usee/uchannel.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rtv_small1.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="rtv" group-title="Alternatif",rtv
