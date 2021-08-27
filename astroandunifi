@@ -1,10 +1,7 @@
 #EXTM3U x-tvg-url=https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-id="READ" group-title="INFO" tvg-logo="https://user-images.githubusercontent.com/85995579/131154009-988ff23c-34cb-49f2-a262-d533e8560a90.png",READ THIS
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://i.imgur.com/CJt0HDd.mp4
+https://raw.githubusercontent.com/AqFad2811/myiptv/main/moving.m3u8
 
 #EXTINF:-1 tvg-id="101" group-title="myFreeview" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
