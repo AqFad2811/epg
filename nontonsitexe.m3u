@@ -171,8 +171,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1741399868_b
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/131078993-d93fac94-b0a4-464e-8ddd-b918dfffed18.png" tvg-id="JossStream" tvg-name="tawaftv_USEE" group-title="Indonesia",Tawaf TV
 http://gpc.my.id/usee/tawaftv.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Rodja_TV.png/revision/latest/scale-to-width-down/250?cb=20180922034039" tvg-id="JossStream" tvg-name="rodjatv_USEE" group-title="Indonesia",Rodja TV
 http://gpc.my.id/usee/rodjatv.m3u8
 
@@ -182,11 +180,12 @@ http://gpc.my.id/vidio/ajwa-tv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" tvg-id="JossStream" tvg-name="nusantara-tv" group-title="Alternatif",Nusantara TV
 http://gpc.my.id/vidio/nusantara-tv.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvmui_small.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="muitv_USEE" group-title="Alternatif",muitv_USEE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0d/TV_MUI.png/200px-TV_MUI.png" tvg-id="JossStream" tvg-name="muitv_USEE" group-title="Alternatif",TV MUI
 http://gpc.my.id/usee/muitv.m3u8
-#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/fatwatv.png" tvg-id="JossStream" tvg-name="Fatwa TV" group-title="Alternatif",Fatwa TV
-http://gpc.my.id/ytlive/fatwa-tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/131080741-95a58e0e-6e72-41a4-81ce-7dd2fbbba019.png" tvg-id="JossStream" tvg-name="Fatwa TV" group-title="Alternatif",Fatwa TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1630066358/ei/VoIoYeWSFLvN4-EPgZayyAo/ip/2001%3Ae68%3A5405%3A4972%3Ae488%3A6428%3A538c%3A48fe/id/NL-YHmQ8Fig.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPvkXCGfVLRaGlaQTliCXBGCp7q6VTP2qYhoj50-h_-_AiEAlupkHxUmKosyjCnEB4HAdDPCEnFil743op2oCfXONjo%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/TVRISportHD.png" tvg-id="JossStream" tvg-name="TVRI-Alternatif" group-title="Alternatif",TVRI-Alternatif
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ1_small.png?v=2" tvg-id="JossStream" tvg-name="champion-tv-1" group-title="Alternatif",champion-tv-1
