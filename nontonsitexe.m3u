@@ -14,14 +14,14 @@ https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/32
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SCTV_Logo.svg/revision/latest/scale-to-width-down/250?cb=20200917125607" group-title="Indonesia",SCTV HD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/931
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SCTV_Logo.svg/revision/latest/scale-to-width-down/250?cb=20200917125607" tvg-id="JossStream" tvg-name="sctv" group-title="Indonesia",SCTV HD (Backup)
+http://gpc.my.id/vidio/sctv.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/MNCTV_logo_2015.svg/revision/latest/scale-to-width-down/250?cb=20180316082632" tvg-id="JossStream" tvg-name="mnc" group-title="Indonesia",MNC TV
 http://gpc.my.id/vidio/mnc.m3u8
 
 #EXTINF:-1 tvg-id="MNC TV HD" tvg-name="MNC TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/MNCTV_logo_2015.svg/revision/latest/scale-to-width-down/250?cb=20180316082632" group-title="Indonesia",MNC TV HD
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SCTV_Logo.svg/revision/latest/scale-to-width-down/250?cb=20200917125607" tvg-id="JossStream" tvg-name="sctv" group-title="Indonesia",SCTV HD (Backup)
-http://gpc.my.id/vidio/sctv.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Antv_logo_%282017%29.svg/revision/latest/scale-to-width-down/200?cb=20180407053038" group-title="Indonesia",ANTV
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/31
@@ -29,7 +29,7 @@ https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/31
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Indosiar_2015.svg/revision/latest/scale-to-width-down/200?cb=20180321155318" group-title="Indonesia",Indosiar
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/1845
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Indosiar_2015.svg/revision/latest/scale-to-width-down/200?cb=20180321155318" tvg-id="JossStream" tvg-name="indosiar" group-title="Indonesia",Indosiar (Backup)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Indosiar_2015.svg/revision/latest/scale-to-width-down/200?cb=20180321155318" tvg-id="JossStream" tvg-name="indosiar" group-title="Indonesia",Indosiar HD
 http://gpc.my.id/vidio/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest/scale-to-width-down/300?cb=20201127145437" tvg-id="JossStream" tvg-name="metro-tv" group-title="News",Metro TV
