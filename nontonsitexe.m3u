@@ -135,6 +135,9 @@ http://gpc.my.id/usee/antara.m3u8
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="DAAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/DAAI_TV_Jakarta.png/220px-DAAI_TV_Jakarta.png" group-title="Indonesia",DAAI TV
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/21
 
+#EXTINF:-1 tvg-logo="ttps://upload.wikimedia.org/wikipedia/id/thumb/e/e3/DAAI_TV_Jakarta.png/220px-DAAI_TV_Jakarta.png" tvg-id="JossStream" tvg-name="daai-tv" group-title="Indonesia",DAAI TV (Vidio Feed)
+http://gpc.my.id/vidio/daai-tv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png" group-title="Indonesia",Dunia Lain
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/910
 
@@ -170,15 +173,16 @@ http://gpc.my.id/usee/tawaftv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_small1.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="rodjatv_USEE" group-title="Alternatif",rodjatv_USEE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Rodja_TV.png/revision/latest/scale-to-width-down/250?cb=20180922034039" tvg-id="JossStream" tvg-name="rodjatv_USEE" group-title="Indonesia",Rodja TV
 http://gpc.my.id/usee/rodjatv.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/tKzO5NAoTVDSmg_f4ECrJvkS-Y2dXlHWmYAGvh1qd-UK_XTd_EUV_EjfANk9AnbsLjCuKpzBenL-o99SLSJo-IKYLdYLy1HBstNAyWif4XZO6B-hXmoK3ajiS99c_tChbpayuYS6SWhh_Q" tvg-id="JossStream" tvg-name="ajwa-tv" group-title="Alternatif",ajwa-tv
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Ajwa_TV.png/revision/latest/scale-to-width-down/250?cb=20201110025441" tvg-id="JossStream" tvg-name="ajwa-tv" group-title="Indonesia",Ajwa TV
 http://gpc.my.id/vidio/ajwa-tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nusantaratv_small.png?v=1.1" tvg-id="JossStream" tvg-name="nusantara-tv" group-title="Alternatif",nusantara-tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" tvg-id="JossStream" tvg-name="nusantara-tv" group-title="Alternatif",Nusantara TV
 http://gpc.my.id/vidio/nusantara-tv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_daaitv_small1.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="daai-tv" group-title="Alternatif",daai-tv
-http://gpc.my.id/vidio/daai-tv.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvmui_small.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="muitv_USEE" group-title="Alternatif",muitv_USEE
 http://gpc.my.id/usee/muitv.m3u8
 #EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/fatwatv.png" tvg-id="JossStream" tvg-name="Fatwa TV" group-title="Alternatif",Fatwa TV
@@ -207,16 +211,10 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports3_small.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="FoxSport3" group-title="Alternatif",FoxSport3
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://img.Alternatif-tv-guide.live/images/tv-station-astro-supersport-1-253.png" tvg-id="JossStream" tvg-name="AstroSuperSport1" group-title="Alternatif",AstroSuperSport1
-http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.Alternatif-tv-guide.live/images/tv-station-astro-supersport-2-254.png" tvg-id="JossStream" tvg-name="AstroSuperSport2" group-title="Alternatif",AstroSuperSport2
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.Alternatif-tv-guide.live/images/tv-station-astro-supersport-3-255.png" tvg-id="JossStream" tvg-name="AstroSuperSport3" group-title="Alternatif",AstroSuperSport3
-http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.Alternatif-tv-guide.live/images/tv-station-astro-supersport-4-256.png" tvg-id="JossStream" tvg-name="AstroSuperSport4" group-title="Alternatif",AstroSuperSport4
-http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvn_small.png" tvg-id="JossStream" tvg-name="tvn" group-title="Alternatif",tvn
 http://gpc.my.id/vidio/tvn.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_zbioskop_small1.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="zee-bioskop" group-title="Alternatif",zee-bioskop
 http://gpc.my.id/vidio/zee-bioskop.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Citra_Bioskop_Logo.png/revision/latest?cb=20191014052144" tvg-id="JossStream" tvg-name="citra-bioskop" group-title="Alternatif",citra-bioskop
