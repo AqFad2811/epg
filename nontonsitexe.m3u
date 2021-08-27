@@ -315,15 +315,18 @@ http://gpc.my.id/usee/trtworld.m3u8
 #EXTINF:-1 tvg-id="522" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/FRANCE_24_logo.svg/240px-FRANCE_24_logo.svg.png",France 24 English
 http://gpc.my.id/usee/france24.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_seatoday_small.png?v=1" tvg-id="JossStream" tvg-name="seatoday_USEE" group-title="Alternatif",seatoday_USEE
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJMig9F2Yzq61QiF_kBSvLgopXKe14g-lkRiAT88AYnIwQy3iEOrXTTxxpieLKh798Ig&usqp=CAU" tvg-id="JossStream" tvg-name="hip-hip-horee" group-title="Alternatif",hip-hip-horee
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/131088848-c6e7294d-76ca-4f03-af2a-19fc192a7f19.png" tvg-id="JossStream" tvg-name="hip-hip-horee" group-title="Kids",Hip Hip Horee
 http://gpc.my.id/vidio/hip-hip-horee.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Zoomoo_logo.png/revision/latest?cb=20200703225249" tvg-id="JossStream" tvg-name="zoomoo" group-title="Alternatif",zoomoo
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/ZooMoo_logo_.svg/revision/latest/scale-to-width-down/240?cb=20210516215335" tvg-id="JossStream" tvg-name="zoomoo" group-title="Kids",ZooMoo
 http://gpc.my.id/vidio/zoomoo.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_davinci_small1.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="da-vinci" group-title="Alternatif",da-vinci
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Da_Vinci.svg/revision/latest/scale-to-width-down/300?cb=20191208233628" tvg-id="JossStream" tvg-name="da-vinci" group-title="Kids",Da Vinci
 http://gpc.my.id/vidio/da-vinci.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_horee_small.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="horee" group-title="Alternatif",horee
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest/scale-to-width-down/250?cb=20180705160440" tvg-id="JossStream" tvg-name="horee" group-title="Kids",Horee
 http://gpc.my.id/vidio/horee.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" tvg-id="JossStream" tvg-name="Biznet Kids" group-title="Alternatif",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_small.png" tvg-id="JossStream" tvg-name="mykids_USEE" group-title="Alternatif",mykids_USEE
