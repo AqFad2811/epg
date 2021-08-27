@@ -253,10 +253,12 @@ http://gpc.my.id/vidio/zing.m3u8
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/131084286-6e45c075-834d-4fdf-bff1-f8b5d89ea74f.png" tvg-id="JossStream" tvg-name="pramborstv_USEE" group-title="Music",Prambors TV
 http://gpc.my.id/usee/pramborstv.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gXNuLktfPgu7dlF062qXKKGSH2M=/filters:quality(90)/vidio-web-prod-channel/uploads/channel/image/426/musica-s-studio-60dbb5.jpg" tvg-id="JossStream" tvg-name="musica" group-title="Alternatif",musica
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gXNuLktfPgu7dlF062qXKKGSH2M=/filters:quality(90)/vidio-web-prod-channel/uploads/channel/image/426/musica-s-studio-60dbb5.jpg" tvg-id="JossStream" tvg-name="musica" group-title="Music",MUSICA
 http://gpc.my.id/vidio/musica.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_small.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="chinesedrama_USEE" group-title="Alternatif",chinesedrama_USEE
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Chinese_Drama_Logo.png/revision/latest/scale-to-width-down/200?cb=20190921115414" tvg-id="JossStream" tvg-name="chinesedrama_USEE" group-title="Alternatif",Chinese Drama
 http://gpc.my.id/usee/chinesedrama.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/molafree.png" tvg-id="JossStream" tvg-name="mola-tv-free" group-title="Alternatif",mola-tv-free
 http://gpc.my.id/vidio/mola-tv-free.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cctv4_small1.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="cctv4_USEE" group-title="Alternatif",cctv4_USEE
