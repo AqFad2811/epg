@@ -394,7 +394,10 @@ https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/9
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://user-images.githubusercontent.com/85995579/131095271-d59ad9c6-0c96-4dc7-a99a-cadb83fa5e66.png" group-title="Movies",Bioskop Indonesia
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/908
 
-#EXTINF:-1 tvg-id="BlueAntEntertainment" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png",Blue Ant Entertainment HD
+#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Entertainment",Blue Ant Entertainment HD
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/1506
+
+#EXTINF:-1 tvg-id="BlueAntEntertainment" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png",Blue Ant Entertainment HD (Unifi TV Feed)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
 # https://livecdn.fptplay.net/hda/blueantent_hls.smil/playlist.m3u8
@@ -644,28 +647,37 @@ https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/14106
 
 #EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="" group-title="Kids",My Kidz
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/1483
+
 #EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nick_Jr._2_logo.png/320px-Nick_Jr._2_logo.png" group-title="Kids",Nick Jr 2
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/341
+
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids",Nick Jr ID
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/522
+
 #EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nick Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/320px-Nicktoons_Network_logo_2009.svg.png" group-title="Kids",Nick Toons
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/335
+
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Kids",Nickelodeon ID
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/962
+
 #EXTINF:-1 tvg-id="" tvg-name="Toonmax" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="Kids",Toonmax
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/1116
+
 #EXTINF:-1 tvg-id="" tvg-name="XingXong" tvg-logo="" group-title="Kids",XingXong
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/36764
+
 #EXTINF:-1 tvg-id="" tvg-name="Zoo Moo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/286px-ZooMoo_logo.svg.png" group-title="Kids",Zoo Moo HD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/14104
+
 #EXTINF:-1 tvg-id="" tvg-name=".idku" tvg-logo="" group-title="Variety",.idku
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/36730
+
 #EXTINF:-1 tvg-id="AsianFoodNetwork.my" tvg-name="AFN HD" tvg-logo="" group-title="Variety",AFN HD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/807
+
 #EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle HD" tvg-logo="https://www.bbcasia.com/brand/assets/images/channel-assets/bbc-lifestyle/about-logo-bbc-lifestyle.png" group-title="Variety",BBC Lifestyle HD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/36766
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Variety",Blue Ant Entertainment HD
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/1506
+
 #EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="" group-title="Variety",Citra Drama
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/905
 #EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk6inbOH58fazeEgCQdAtua7ejGdoLdJWbPO_hHLNuO2qYZ4sx" group-title="Variety",DMAX
