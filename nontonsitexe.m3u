@@ -292,8 +292,11 @@ http://gpc.my.id/usee/idx.m3u8
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/131087621-bdf1c8a2-e559-4176-b476-215e5d86743e.png" tvg-id="JossStream" tvg-name="sea-today" group-title="News",SEA Today
 http://gpc.my.id/vidio/sea-today.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/287_144.png" tvg-id="JossStream" tvg-name="dw-english" group-title="News",DW English
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/287_144.png" tvg-id="JossStream" tvg-name="dw-english" group-title="News",DW English (Vidio Feed)
 http://gpc.my.id/vidio/dw-english.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/287_144.png" tvg-id="JossStream" tvg-name="dw-english" group-title="News",DW English (UseeTV Feed)
+http://gpc.my.id/usee/dwtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073533638c35.png" tvg-id="518" tvg-name="abcaustralia_USEE" group-title="News",ABC Australia (UseeTV Feed)
 http://gpc.my.id/usee/abcaustralia.m3u8
@@ -306,12 +309,12 @@ http://1.9.62.158/PLTV/88888888/224/3221227811/3221227811.mpd
 #EXTINF:-1 tvg-id="518" group-title="News" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073533638c35.png",ABC Australia (Astro Feed)
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37387
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_small.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="dwtv_USEE" group-title="Alternatif",dwtv_USEE
-http://gpc.my.id/usee/dwtv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_trtworld_small.png" tvg-id="JossStream" tvg-name="trtworld_USEE" group-title="Alternatif",trtworld_USEE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/TRT_World.png/revision/latest/scale-to-width-down/300?cb=20151105004712" tvg-id="JossStream" tvg-name="trtworld_USEE" group-title="News",TRT World
 http://gpc.my.id/usee/trtworld.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_france24_small.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="france24_USEE" group-title="Alternatif",france24_USEE
+
+#EXTINF:-1 tvg-id="522" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/FRANCE_24_logo.svg/240px-FRANCE_24_logo.svg.png",France 24 English
 http://gpc.my.id/usee/france24.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_seatoday_small.png?v=1" tvg-id="JossStream" tvg-name="seatoday_USEE" group-title="Alternatif",seatoday_USEE
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJMig9F2Yzq61QiF_kBSvLgopXKe14g-lkRiAT88AYnIwQy3iEOrXTTxxpieLKh798Ig&usqp=CAU" tvg-id="JossStream" tvg-name="hip-hip-horee" group-title="Alternatif",hip-hip-horee
 http://gpc.my.id/vidio/hip-hip-horee.m3u8
