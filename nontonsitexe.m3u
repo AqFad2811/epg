@@ -89,6 +89,9 @@ http://gpc.my.id/vidio/mytv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jak TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Jaktv_logo.png/revision/latest/scale-to-width-down/250?cb=20180131051655" group-title="Indonesia",Jak TV
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/1210
 
+#EXTINF:-1 tvg-id="" tvg-name="Jak TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Jaktv_logo.png/revision/latest/scale-to-width-down/250?cb=20180131051655" group-title="Indonesia",Jak TV (Vidio Feed)
+http://gpc.my.id/vidio/jaktv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/BaliTV_2014.png/revision/latest/scale-to-width-down/250?cb=20201011002818" group-title="Indonesia",Bali TV
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/889
 
@@ -105,9 +108,11 @@ https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 
-
 #EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/JTV_%282012%29.png/revision/latest/scale-to-width-down/250?cb=20131029115140" group-title="Indonesia",JTV
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/135
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/JTV_%282012%29.png/revision/latest/scale-to-width-down/250?cb=20131029115140" tvg-id="JossStream" tvg-name="jtv_USEE" group-title="Alternatif",JTV (UseeTV Feed)
+http://gpc.my.id/usee/jtv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="U Channel" tvg-logo="https://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png" group-title="Indonesia",U Channel
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/1208
@@ -139,26 +144,19 @@ http://gpc.my.id/usee/useeprime.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29.svg/revision/latest/scale-to-width-down/240?cb=20210109093524" tvg-id="JossStream" tvg-name="tvri" group-title="Indonesia",TVRI 
 http://gpc.my.id/vidio/tvri.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/RRI_NET.png/revision/latest/scale-to-width-down/290?cb=20180925092234" tvg-id="JossStream" tvg-name="rrinet_USEE" group-title="Alternatif",RRI NET
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/RRI_NET.png/revision/latest/scale-to-width-down/290?cb=20180925092234" tvg-id="JossStream" tvg-name="rrinet_USEE" group-title="Indonesia",RRI NET
 http://gpc.my.id/usee/rrinet.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_beritasatu_small1.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="beritasatu" group-title="Alternatif",beritasatu
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/BeritaSatu.svg/revision/latest/scale-to-width-down/300?cb=20181125093843" tvg-id="JossStream" tvg-name="beritasatu" group-title="News",BeritaSatu
 http://gpc.my.id/vidio/beritasatu.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cnnindonesia_small1.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="CNN-Indonesia" group-title="Alternatif",CNN-Indonesia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/CNN_Indonesia.svg/revision/latest/scale-to-width-down/250?cb=20160314101559" tvg-id="JossStream" tvg-name="CNN-Indonesia" group-title="News",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w987255908_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cnbcid_small.png" tvg-id="JossStream" tvg-name="CNBC-Indonesia" group-title="Alternatif",CNBC-Indonesia
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/CNBC_Indonesia.png/revision/latest/scale-to-width-down/190?cb=20180920102831" tvg-id="JossStream" tvg-name="CNBC-Indonesia" group-title="News",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1741399868_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jtv_small1.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="jtv_USEE" group-title="Alternatif",jtv_USEE
-http://gpc.my.id/usee/jtv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jaktv_small1.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="jaktv" group-title="Alternatif",jaktv
-http://gpc.my.id/vidio/jaktv.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tawaftv_small.png" tvg-id="JossStream" tvg-name="tawaftv_USEE" group-title="Alternatif",tawaftv_USEE
 http://gpc.my.id/usee/tawaftv.m3u8
 #EXTINF:-1 tvg-logo="https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6045a3372f9c6a0001d0d8c9/picture" tvg-id="JossStream" tvg-name="ochannel" group-title="Alternatif",ochannel
