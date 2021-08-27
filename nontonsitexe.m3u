@@ -235,6 +235,9 @@ http://gpc.my.id/vidio/tvn.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
 http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
 
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png" tvg-id="395" tvg-name="tvn" group-title="Korean",tvN (Astro Feed)
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37372
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835" tvg-id="JossStream" tvg-name="zee-bioskop" group-title="Movies",Zee Bioskop
 http://gpc.my.id/vidio/zee-bioskop.m3u8
 
@@ -256,15 +259,18 @@ http://gpc.my.id/usee/pramborstv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gXNuLktfPgu7dlF062qXKKGSH2M=/filters:quality(90)/vidio-web-prod-channel/uploads/channel/image/426/musica-s-studio-60dbb5.jpg" tvg-id="JossStream" tvg-name="musica" group-title="Music",MUSICA
 http://gpc.my.id/vidio/musica.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Chinese_Drama_Logo.png/revision/latest/scale-to-width-down/200?cb=20190921115414" tvg-id="JossStream" tvg-name="chinesedrama_USEE" group-title="Alternatif",Chinese Drama
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Chinese_Drama_Logo.png/revision/latest/scale-to-width-down/200?cb=20190921115414" tvg-id="JossStream" tvg-name="chinesedrama_USEE" group-title="Chinese",Chinese Drama
 http://gpc.my.id/usee/chinesedrama.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/molafree.png" tvg-id="JossStream" tvg-name="mola-tv-free" group-title="Alternatif",mola-tv-free
-http://gpc.my.id/vidio/mola-tv-free.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cctv4_small1.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="cctv4_USEE" group-title="Alternatif",cctv4_USEE
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/130944092-ce1ac88b-08ed-4a79-b8c1-4e3b0b6af688.png" tvg-id="335" tvg-name="cctv4_USEE" group-title="Chinese",CCTV4 (UseeTV Feed)
 http://gpc.my.id/usee/cctv4.m3u8
+
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/130944092-ce1ac88b-08ed-4a79-b8c1-4e3b0b6af688.png" tvg-id="335" tvg-name="cctv4_USEE" group-title="Chinese",CCTV4 (Astro Feed)
+https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37364
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_outdoor_small.png?v=1.1" tvg-id="JossStream" tvg-name="outdoor_USEE" group-title="Alternatif",outdoor_USEE
 http://gpc.my.id/usee/outdoor.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nhkworld_small.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="nhkworld_USEE" group-title="Alternatif",nhkworld_USEE
 http://gpc.my.id/usee/nhkworld.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_eljhon_small.png?v=1.1" tvg-id="JossStream" tvg-name="eljohn_USEE" group-title="Alternatif",eljohn_USEE
@@ -754,8 +760,6 @@ https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37361
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37362
 #EXTINF:-1 tvg-id="" tvg-name="MY - HUA HEE DAI HD" tvg-logo="" group-title="Astro",MY - HUA HEE DAI HD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37363
-#EXTINF:-1 tvg-id="" tvg-name="MY - CCTV4 HD" tvg-logo="" group-title="Astro",MY - CCTV4 HD
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37364
 #EXTINF:-1 tvg-id="" tvg-name="MY - AOD 352 HD" tvg-logo="" group-title="Astro",MY - AOD 352 HD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37365
 #EXTINF:-1 tvg-id="" tvg-name="MY - AOD 353 HD" tvg-logo="" group-title="Astro",MY - AOD 353 HD
@@ -770,8 +774,7 @@ https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37369
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37370
 #EXTINF:-1 tvg-id="" tvg-name="MY - Oh!K HD" tvg-logo="" group-title="Astro",MY - Oh!K HD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37371
-#EXTINF:-1 tvg-id="" tvg-name="MY - tvN HD" tvg-logo="" group-title="Astro",MY - tvN HD
-https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37372
+
 #EXTINF:-1 tvg-id="" tvg-name="MY - HITS MOVIES HD" tvg-logo="" group-title="Astro",MY - HITS MOVIES HD
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37373
 #EXTINF:-1 tvg-id="" tvg-name="MY - HBO HD" tvg-logo="" group-title="Astro",MY - HBO HD
