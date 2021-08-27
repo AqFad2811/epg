@@ -109,6 +109,9 @@ http://gpc.my.id/usee/balitv.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/MNC_News_2018.svg/revision/latest/scale-to-width-down/300?cb=20210408033403" tvg-id="JossStream" tvg-name="mncnews_USEE" group-title="Alternatif",MNC NEWS (UseeTV Feed)
+http://gpc.my.id/usee/mncnews.m3u8
+
 #EXTINF:-1 tvg-id="Life" tvg-name="Life" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_91.png" group-title="Indonesia",Life
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
@@ -268,21 +271,24 @@ http://gpc.my.id/usee/cctv4.m3u8
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/130944092-ce1ac88b-08ed-4a79-b8c1-4e3b0b6af688.png" tvg-id="335" tvg-name="cctv4_USEE" group-title="Chinese",CCTV4 (Astro Feed)
 https://nonton.site:8443/IGRKg9OA4w/jhvajhfvkvkyvcalvc/37364
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_outdoor_small.png?v=1.1" tvg-id="JossStream" tvg-name="outdoor_USEE" group-title="Alternatif",outdoor_USEE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest/scale-to-width-down/185?cb=20170428060444" tvg-id="JossStream" tvg-name="outdoor_USEE" group-title="Documentary",Outdoor Channel
 http://gpc.my.id/usee/outdoor.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nhkworld_small.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="nhkworld_USEE" group-title="Alternatif",nhkworld_USEE
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png" tvg-id="JossStream" tvg-name="nhkworld_USEE" group-title="Documentary",NHK World Japan
 http://gpc.my.id/usee/nhkworld.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_eljhon_small.png?v=1.1" tvg-id="JossStream" tvg-name="eljohn_USEE" group-title="Alternatif",eljohn_USEE
-http://gpc.my.id/usee/eljohn.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_arirang_small.png" tvg-id="JossStream" tvg-name="arirang_USEE" group-title="Alternatif",arirang_USEE
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_eljhon_small.png?v=1.1" tvg-id="JossStream" tvg-name="eljohn_USEE" group-title="Alternatif",Eljohn
+# http://gpc.my.id/usee/eljohn.m3u8
+
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png" tvg-id="JossStream" tvg-name="arirang_USEE" group-title="Korean",Arirang
 http://gpc.my.id/usee/arirang.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng2GNUq-GJ2urgtHfvIxV8o1w7JwgPHlLSKhyJKzg=s88-c-k-c0x00ffffff-no-rj" tvg-id="JossStream" tvg-name="The K-POP" group-title="Alternatif",The K-POP
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng2GNUq-GJ2urgtHfvIxV8o1w7JwgPHlLSKhyJKzg=s88-c-k-c0x00ffffff-no-rj" tvg-id="JossStream" tvg-name="The K-POP" group-title="Music",The K-POP
 http://gpc.my.id/ytlive/the-kpop.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_metrotv_small1.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="metro-tv" group-title="Alternatif",metro-tv
 http://gpc.my.id/vidio/metro-tv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mncnews_small.png" tvg-id="JossStream" tvg-name="mncnews_USEE" group-title="Alternatif",mncnews_USEE
-http://gpc.my.id/usee/mncnews.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_kompastv_small.png?v=2.0.0.13" tvg-id="JossStream" tvg-name="kompas-tv" group-title="Alternatif",kompas-tv
 http://gpc.my.id/vidio/kompas-tv.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_idx_small.png" tvg-id="JossStream" tvg-name="idx_USEE" group-title="Alternatif",idx_USEE
