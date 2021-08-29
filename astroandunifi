@@ -79,10 +79,6 @@ http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
 http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd
 
-#EXTINF:-1 tvg-id="Colors" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png",Colors
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
-http://1.9.62.158/PLTV/88888888/224/3221227504/3221227504.mpd
 
 #EXTINF:-1 tvg-id="116_1" group-title="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png",116 Colors HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6769
@@ -323,6 +319,11 @@ https://nonton.site:8443/rootproject87/rootproject87/37363
 
 #EXTINF:-1 tvg-id="335" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/130944092-ce1ac88b-08ed-4a79-b8c1-4e3b0b6af688.png",335 CCTV4 HD
 https://nonton.site:8443/rootproject87/rootproject87/37364
+
+#EXTINF:-1 tvg-id="341" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png",Colors
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
+http://1.9.62.158/PLTV/88888888/224/3221227504/3221227504.mpd
 
 #EXTINF:-1 tvg-id="SonySAB" group-title="Indian" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072708856rq9.png",342 Sony SAB
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
