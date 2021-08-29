@@ -117,12 +117,12 @@ http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9016
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 # https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 tvg-id="DuniaSinemaHD" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",128 Dunia Sinema HD
+#EXTINF:-1 tvg-id="128" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",128 Dunia Sinema HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
 http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 
-#EXTINF:-1 tvg-id="PesonaHD" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png",141 Pesona HD
+#EXTINF:-1 tvg-id="141" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png",141 Pesona HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
 http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
@@ -157,7 +157,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
 #EXTINF: -1 tvg-id="149" group-title="myFreeview" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest?cb=20170819074656",149 TV9 (HD)
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQmRukD9gt7Qq2renBt4siA)/dm/3/x6qqja6/s/live-4.m3u8
 
-#EXTINF:-1 tvg-id="LAKUMall" group-title="Shopping" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png",151 LAKU Mall 
+#EXTINF:-1 tvg-id="151" group-title="Shopping" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png",151 LAKU Mall 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
 http://1.9.62.158/PLTV/88888888/224/3221227560/3221227560.mpd
