@@ -550,10 +550,21 @@ https://d1xy5gfz8tdshw.cloudfront.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APT
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
 http://1.9.62.158/PLTV/88888888/224/3221227811/3221227811.mpd
 
+#EXTINF:-1 tvg-id="521_1" group-title="News" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png",642 DW
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
+# https://livecdn.fptplay.net/world/dwenglish_hls.smil/playlist.m3u8
+http://1.9.62.158/PLTV/88888888/224/3221227595/3221227595.mpd
+
 #EXTINF:-1 tvg-id="521" group-title="Documentary" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716073823792x3y.png",521 Travel Channel HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
 http://1.9.62.158/PLTV/88888888/224/3221227593/3221227593.mpd
+
+#EXTINF:-1 tvg-id="522" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/FRANCE_24_logo.svg/240px-FRANCE_24_logo.svg.png",652 France 24
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
+https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
 #EXTINF:-1 tvg-id="529" group-title="Documentary" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190708/20190708075136521klp.png",529 Luxe.TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -580,16 +591,16 @@ http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
-#EXTINF:-1 tvg-id="553" group-title="Documentary" tvg-logo="https://user-images.githubusercontent.com/85995579/130942415-16993653-9ed9-4c56-97fd-d92dc328b31f.png",553 Discovery Asia
+#EXTINF:-1 tvg-id="553_1" group-title="Documentary" tvg-logo="https://user-images.githubusercontent.com/85995579/130942415-16993653-9ed9-4c56-97fd-d92dc328b31f.png",553 Discovery Asia
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8856
 
-#EXTINF:-1 tvg-id="554" group-title="Documentary" tvg-logo="https://user-images.githubusercontent.com/85995579/130943042-a0911193-dc2b-4815-a38f-95a214c96139.png",554 Discovery Science HD
-https://nonton.site:8443/rootproject87/rootproject87/37392
-
-#EXTINF:-1 tvg-id="CBeebies" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/303_1920x1080_HTV.png",553 CBeebies HD
+#EXTINF:-1 tvg-id="553" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/303_1920x1080_HTV.png",553 CBeebies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
 http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd
+
+#EXTINF:-1 tvg-id="554" group-title="Documentary" tvg-logo="https://user-images.githubusercontent.com/85995579/130943042-a0911193-dc2b-4815-a38f-95a214c96139.png",554 Discovery Science HD
+https://nonton.site:8443/rootproject87/rootproject87/37392
 
 #EXTINF:-1 tvg-id="555" group-title="Documentary" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png",555 History HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -628,7 +639,7 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-id="611" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria (Malay Dub)
 # http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/50.m3u8
 
-#EXTINF:-1 tvg-id="CHN" group-title="News" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073656571ojy.png",612 EuroNews
+#EXTINF:-1 tvg-id="612" group-title="News" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073656571ojy.png",612 EuroNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
 http://1.9.62.158/PLTV/88888888/224/3221227486/3221227486.mpd
@@ -663,19 +674,9 @@ http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
 http://1.9.58.102/PLTV/88888888/224/3221227546/3221227546.mpd
 
-#EXTINF:-1 tvg-id="DW" group-title="News" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png",642 DW
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
-# https://livecdn.fptplay.net/world/dwenglish_hls.smil/playlist.m3u8
-http://1.9.62.158/PLTV/88888888/224/3221227595/3221227595.mpd
 
 #EXTINF:-1 tvg-id="CHN" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png",643 NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-
-#EXTINF:-1 tvg-id="522" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/FRANCE_24_logo.svg/240px-FRANCE_24_logo.svg.png",652 France 24
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
-https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
 #EXTINF:-1 tvg-id="UnifiSports1" group-title="Sports"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
