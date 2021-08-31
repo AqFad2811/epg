@@ -83,12 +83,12 @@ https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-id="VisionPrime" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Vision_Prime_2020.svg/revision/latest/scale-to-width-down/300?cb=20201208044004",Vision Prime
+#EXTINF:-1 tvg-id="" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Vision_Prime_2020.svg/revision/latest/scale-to-width-down/300?cb=20201208044004",Vision Prime
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#EXTINF:-1 tvg-id="Ent" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/ENT.png/revision/latest/scale-to-width-down/200?cb=20210109124512",ENT
+#EXTINF:-1 tvg-id="Entertainment.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/ENT.png/revision/latest/scale-to-width-down/200?cb=20210109124512",ENT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
@@ -107,18 +107,18 @@ https://etslive-2-vidio-com.akamaized.net/exp=1627176731~acl=/vp9/777_stream.mpd
 # https://etslive-2-vidio-com.akamaized.net/exp=1627160668~acl=/vp9/6441_stream.mpd!/vp9/6441/*~hmac=8786241fbd37c9a1c6edef72d7b721ad27e5498c1a669f533679f8606866adb8/vp9/6441_stream.mpd
 https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-#EXTINF:-1 tvg-id="BeritaSatu" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/BeritaSatu.svg/revision/latest/scale-to-width-down/300?cb=20181125093843",BeritaSatu
+#EXTINF:-1 tvg-id="BeritaSatu.id" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/BeritaSatu.svg/revision/latest/scale-to-width-down/300?cb=20181125093843",BeritaSatu
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-# https://etslive-2-vidio-com.akamaized.net/exp=1627160766~acl=/hls-p/ingest_6165_*/*~hmac=7164ba2f6cf88b3a905f7e01009b3d9483a57316fb9f020d627af0809bb3f613/hls-p/ingest_6165_480p/index.m3u8
-https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+http://gpc.my.id/vidio/beritasatu.m3u8
+# https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
-#EXTINF:-1 tvg-id="MNCNews" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/MNC_News_2018.svg/revision/latest/scale-to-width-down/300?cb=20210408033403",MNC News
+#EXTINF:-1 tvg-id="MNCNews" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/MNC_News_2018.svg/revision/latest/scale-to-width-down/300?cb=20210408033403",MNC News
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd
 
-#EXTINF:-1 tvg-id="MusicTV" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/New_mnc_music_logo_2020.png/revision/latest/scale-to-width-down/300?cb=20200119023024",Music TV
+#EXTINF:-1 tvg-id="MusicTV.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/New_mnc_music_logo_2020.png/revision/latest/scale-to-width-down/300?cb=20200119023024",Music TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
@@ -150,14 +150,14 @@ https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/21
 #EXTINF:-1 tvg-id="MyTV.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/MyTV_Logo.svg/revision/latest/scale-to-width-down/240?cb=20190124094842",myTV
 http://gpc.my.id/vidio/mytv.m3u8
 
-#EXTINF:-1 tvg-id="DW" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/250?cb=20120227170040",DW
-https://etslive-2-vidio-com.akamaized.net/exp=1627161469~acl=/hls-p/ingest_5075_*/*~hmac=b8128565bafdab9820e664ce405e71503c010c369003ea355b428951d030930f/hls-p/ingest_5075_480p/index.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/250?cb=20120227170040",DW
+http://gpc.my.id/vidio/dw-english.m3u8
 
 #EXTINF:-1 tvg-id="MolaTV" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Mola_logo_%282021%29.png/revision/latest/scale-to-width-down/300?cb=20210603035347",Mola TV
-https://etslive-2-vidio-com.akamaized.net/exp=1627161545~acl=/hls-p/ingest_6840_*/*~hmac=5a7eecb6493e35d53444a6b9b969f78a8cfa7f7a0936bc7ed836fb110339d550/hls-p/ingest_6840_480p/index.m3u8
+http://gpc.my.id/vidio/mola-tv-free.m3u8
 
-#EXTINF:-1 tvg-id="TVEdukasi" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/TV_Edukasi_2011.png/revision/latest/scale-to-width-down/300?cb=20180920093440",TV Edukasi
-https://etslive-2-vidio-com.akamaized.net/exp=1627161638~acl=/hls-p/ingest_6838_*/*~hmac=6963e6d75eded769745529e0831f131b3e81cfa68f0237ed167d1c61473fd405/hls-p/ingest_6838_480p/index.m3u8
+#EXTINF:-1 tvg-id="TVEdukasi.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/TV_Edukasi_2011.png/revision/latest/scale-to-width-down/300?cb=20180920093440",TV Edukasi
+http://gpc.my.id/vidio/tv-edukasi.m3u8
 
 #EXTINF:-1 tvg-id="Reformed21" group-title="HD" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/lqlmqU-yWHG_7ftdaUPs-qmzy7M=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6853/reformed-21-tv-b1db6d.jpg",Reformed 21 HD
 https://etslive-2-vidio-com.akamaized.net/exp=1627161719~acl=/hls-p/ingest_6853_*/*~hmac=dbbea70ef1a74a7e084bea7314302d76f9ca203c316afa8234899a5977bbe60c/hls-p/ingest_6853_480p/index.m3u8
@@ -169,7 +169,7 @@ a
 https://etslive-2-vidio-com.akamaized.net/exp=1627161947~acl=/hls-p/ingest_6898_*/*~hmac=1c212124b643029daea49e29a80ef0a0692cf2b4eebaa1e7ffc486f695ad38d9/hls-p/ingest_6898_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="MagnaChannel" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png/revision/latest/scale-to-width-down/200?cb=20200805135934",Magna Channel
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w479829770_b1128000_sleng.m3u8
+http://gpc.my.id/vidio/magna-tv.m3u8
 
-#EXTINF:-1 tvg-id="NusantaraTV" group-title="SD" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/A-5zhoi1I0aGUHlDM9cBkWcMtKw=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-6e9626.jpg",Nusantara TV
-https://etslive-2-vidio-com.akamaized.net/exp=1627163502~acl=/hls-p/ingest_7432_*/*~hmac=e45d676509f0ae3113f542f0736c1e85eaa40fe80af95b812a862c0830487ee7/hls-p/ingest_7432_480p/index.m3u8
+#EXTINF:-1 tvg-id="NusantaraTV" group-title="SD" tvg-logo="https://postimg.cc/Yj6WHTCd",Nusantara TV
+http://gpc.my.id/vidio/nusantara-tv.m3u8
