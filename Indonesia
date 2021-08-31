@@ -18,7 +18,7 @@ https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 http://gpc.my.id/vidio/indosiar.m3u8
 
 #EXTINF:-1 tvg-id="OChannel.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/O_Channel.svg/revision/latest/scale-to-width-down/300?cb=20210615130503",O Channel
-https://etslive-2-vidio-com.akamaized.net/exp=1627176013~acl=/hls-p/ingest_206_*/*~hmac=a09440d178da8c2343fa1808e35648495365c9414d705f393c4b152ab57bf520/hls-p/ingest_206_480p/index.m3u8
+http://gpc.my.id/vidio/ochannel.m3u8
 
 #EXTINF:-1 tvg-id="JAKTV.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Jaktv_logo.png/revision/latest/scale-to-width-down/250?cb=20180131051655",JAKTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -26,7 +26,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1627176013~acl=/hls-p/ingest_206_*
 # https://etslive-2-vidio-com.akamaized.net/exp=1627176068~acl=/hls-p/ingest_5415_*/*~hmac=d23fc4371e45ad6583e4a54a8ac667deb6d279ab8ad7b332c21521928ab289c0/hls-p/ingest_5415_480p/index.m3u8
 https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
-#EXTINF:-1 tvg-id="NetTV.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/NET..svg/revision/latest/scale-to-width-down/350?cb=20171216081721",NET HD
+#EXTINF:-1 tvg-id="NetTV.id" group-title="HD" tvg-logo="https://user-images.githubusercontent.com/85995579/131073645-136bf6a5-99e9-4d09-b617-33bbb08b4f71.png",NET HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 # https://etslive-2-vidio-com.akamaized.net/exp=1627159296~acl=/vp9/875_stream.mpd!/vp9/875/*~hmac=21accb9cdf19c80d455c7229c6496f2ae2a09cf5aac209488de5e31287c492b1/vp9/875_stream.mpd
@@ -42,7 +42,7 @@ https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 https://etslive-2-vidio-com.akamaized.net/exp=1627187415~acl=/hls-p/ingest_6166_*/*~hmac=36229679bcc1906d7a37ae608458ba37c556b2a1c877adf90da0eb902f6539fc/hls-p/ingest_6166_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="AjwaTV.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Ajwa_TV.png/revision/latest/scale-to-width-down/250?cb=20201110025441",Ajwa TV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1627176525~acl=/hls-p/ingest_7464_*/*~hmac=e2048e538c3d48078ab8438ee9f483e77167dd69441579ef6be58a8ee0e73ff2/hls-p/ingest_7464_480p/index.m3u8
+http://gpc.my.id/vidio/ajwa-tv.m3u8
 
 #EXTINF:-1 tvg-id="CNA.sg" group-title="HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -55,10 +55,16 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 
+#EXTINF:-1 tvg-id="TransTV.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Trans_TV_2013.svg/revision/latest/scale-to-width-down/300?cb=20201220001110",Trans TV (HD)
+https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/929
+
 #EXTINF:-1 tvg-id="Trans7.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Trans_7_2013.svg/revision/latest/scale-to-width-down/250?cb=20160314100735",Trans7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
+
+#EXTINF:-1 tvg-id="Trans7.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Trans_7_2013.svg/revision/latest/scale-to-width-down/250?cb=20160314100735",Trans7 (HD)
+https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/930
 
 #EXTINF:-1 tvg-id="GTV.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/GTV_%282017%29.svg/revision/latest/scale-to-width-down/200?cb=20180321091517",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
