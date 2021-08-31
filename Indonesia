@@ -44,6 +44,12 @@ https://etslive-2-vidio-com.akamaized.net/exp=1627187415~acl=/hls-p/ingest_6166_
 #EXTINF:-1 tvg-id="AjwaTV.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Ajwa_TV.png/revision/latest/scale-to-width-down/250?cb=20201110025441",Ajwa TV HD
 http://gpc.my.id/vidio/ajwa-tv.m3u8
 
+#EXTINF:-1 tvg-id="tvN.id" group-title="Korean" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png",tvN
+http://gpc.my.id/vidio/tvn.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBioskop.id" group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835",Zee Bioskop
+http://gpc.my.id/vidio/zee-bioskop.m3u8
+
 #EXTINF:-1 tvg-id="CNA.sg" group-title="HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
