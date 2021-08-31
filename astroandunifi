@@ -467,23 +467,23 @@ http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2
 http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd
 
-#EXTINF:-1 tvg-id="473" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png",473 Blue Ant Entertainment
+#EXTINF:-1 tvg-id="473" group-title="Entertainment" tvg-logo="https://aqfad2811.s-ul.eu/Egq0Y0WS",473 Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2
 # https://livecdn.fptplay.net/hda/blueantent_hls.smil/playlist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd
 
-#EXTINF:-1 tvg-id="473" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png",473 Blue Ant Entertainment (Indonesian Feed)
+#EXTINF:-1 tvg-id="473" group-title="Entertainment" tvg-logo="https://aqfad2811.s-ul.eu/Egq0Y0WS",473 Rock Entertainment (Indonesian Feed)
 # http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
 https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/1506
 
-#EXTINF:-1 tvg-id="474" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png",474 Blue Ant Extreme
+#EXTINF:-1 tvg-id="474" group-title="Entertainment" tvg-logo="https://aqfad2811.s-ul.eu/HOOv9fG9",474 Rock Extreme
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2
 # https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd
 
-#EXTINF:-1 tvg-id="474" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png",474 Blue Ant Extreme (Indonesian Feed) 
+#EXTINF:-1 tvg-id="474" group-title="Entertainment" tvg-logo="https://aqfad2811.s-ul.eu/HOOv9fG9",474 Rock Extreme (Indonesian Feed) 
 # http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
 https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/811
 
