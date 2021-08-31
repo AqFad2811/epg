@@ -124,16 +124,16 @@ https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #EXTINF:-1 tvg-id="iRadio" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/mAd4VLPia6UnFAgjDMhdP_oY060=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7057/iradio-fm-5ae133.jpg",iRadio
-https://etslive-2-vidio-com.akamaized.net/exp=1627160826~acl=/hls-p/ingest_7057_*/*~hmac=69bae022a4eddc1f8652a25a5581c6ec9ede01815b132ea7a35f4b4534adc2af/hls-p/ingest_7057_480p/index.m3u8
+# https://etslive-2-vidio-com.akamaized.net/exp=1627160826~acl=/hls-p/ingest_7057_*/*~hmac=69bae022a4eddc1f8652a25a5581c6ec9ede01815b132ea7a35f4b4534adc2af/hls-p/ingest_7057_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="TraxFM" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9acQo91RuK6mnCl8XTBOBMKKxXQ=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7055/trax-radio-fm-f696e0.jpg",Trax FM
-https://etslive-2-vidio-com.akamaized.net/exp=1627160904~acl=/hls-p/ingest_7055_*/*~hmac=95a488e8b347c191bd990375e49a2825c50f46b654433ed21371a07ae5d0a3fc/hls-p/ingest_7055_480p/index.m3u8
+# https://etslive-2-vidio-com.akamaized.net/exp=1627160904~acl=/hls-p/ingest_7055_*/*~hmac=95a488e8b347c191bd990375e49a2825c50f46b654433ed21371a07ae5d0a3fc/hls-p/ingest_7055_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="CosmopolitanFM" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/PJqdHMxuMCq-EosTEs2opcR5FdQ=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7056/cosmopolitan-df0bea.jpg",Cosmopolitan FM
-https://etslive-2-vidio-com.akamaized.net/exp=1627161019~acl=/hls-p/ingest_7056_*/*~hmac=d60c72e14ec4f1e5f542ec134408cda5cc0f3f52747dde1ef4a843a28f74c617/hls-p/ingest_7056_480p/index.m3u8
+# https://etslive-2-vidio-com.akamaized.net/exp=1627161019~acl=/hls-p/ingest_7056_*/*~hmac=d60c72e14ec4f1e5f542ec134408cda5cc0f3f52747dde1ef4a843a28f74c617/hls-p/ingest_7056_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="BravaRadio" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/AfffvXiUoJlo-IMNYE2s9LfulfA=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7054/brava-audio-98ab26.jpg",Brava Radio
-https://etslive-2-vidio-com.akamaized.net/exp=1627161078~acl=/hls-p/ingest_7054_*/*~hmac=cb8f2a81b59453d92b467d41ee8c1906a23141bfe21c0cd2c59d48a9b81cad87/hls-p/ingest_7054_480p/index.m3u8
+# https://etslive-2-vidio-com.akamaized.net/exp=1627161078~acl=/hls-p/ingest_7054_*/*~hmac=cb8f2a81b59453d92b467d41ee8c1906a23141bfe21c0cd2c59d48a9b81cad87/hls-p/ingest_7054_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="KompasTV" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/KOMPAS_TV_%282017%29.svg/revision/latest/scale-to-width-down/300?cb=20181111102441",Kompas TV
 https://etslive-2-vidio-com.akamaized.net/exp=1627161159~acl=/vp9/874_stream.mpd!/vp9/874/*~hmac=f9fff88a844d079e7a820bf4ae9343f7bdc8bbd8f734ffee3fade2006ef43277/vp9/874_stream.mpd
@@ -154,22 +154,23 @@ http://gpc.my.id/vidio/mytv.m3u8
 http://gpc.my.id/vidio/dw-english.m3u8
 
 #EXTINF:-1 tvg-id="MolaTV" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Mola_logo_%282021%29.png/revision/latest/scale-to-width-down/300?cb=20210603035347",Mola TV
-http://gpc.my.id/vidio/mola-tv-free.m3u8
+# http://gpc.my.id/vidio/mola-tv-free.m3u8
+https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8
 
 #EXTINF:-1 tvg-id="TVEdukasi.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/TV_Edukasi_2011.png/revision/latest/scale-to-width-down/300?cb=20180920093440",TV Edukasi
 http://gpc.my.id/vidio/tv-edukasi.m3u8
 
 #EXTINF:-1 tvg-id="Reformed21" group-title="HD" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/lqlmqU-yWHG_7ftdaUPs-qmzy7M=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6853/reformed-21-tv-b1db6d.jpg",Reformed 21 HD
-https://etslive-2-vidio-com.akamaized.net/exp=1627161719~acl=/hls-p/ingest_6853_*/*~hmac=dbbea70ef1a74a7e084bea7314302d76f9ca203c316afa8234899a5977bbe60c/hls-p/ingest_6853_480p/index.m3u8
+https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/26632
 
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV" group-title="HD" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/X2ISm5LSjgKupMtdZkqTb-FNGhE=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg",Al Quran Al Kareem TV
-https://etslive-2-vidio-com.akamaized.net/exp=1627161805~acl=/hls-p/ingest_6852_*/*~hmac=6f18af5fb098d71cc6bba51c0489f77dcdc6a7082f7099e0a0752755c7eb30f0/hls-p/ingest_6852_480p/index.m3u8
-a
+https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/297
+
 #EXTINF:-1 tvg-id="UChannel" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/U_Channel.png/revision/latest/scale-to-width-down/270?cb=20180925101905",U Channel
 https://etslive-2-vidio-com.akamaized.net/exp=1627161947~acl=/hls-p/ingest_6898_*/*~hmac=1c212124b643029daea49e29a80ef0a0692cf2b4eebaa1e7ffc486f695ad38d9/hls-p/ingest_6898_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="MagnaChannel" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png/revision/latest/scale-to-width-down/200?cb=20200805135934",Magna Channel
-http://gpc.my.id/vidio/magna-tv.m3u8
+https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8
 
 #EXTINF:-1 tvg-id="NusantaraTV" group-title="SD" tvg-logo="https://postimg.cc/Yj6WHTCd",Nusantara TV
 http://gpc.my.id/vidio/nusantara-tv.m3u8
