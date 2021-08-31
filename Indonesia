@@ -5,11 +5,17 @@
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://conversant.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 
+#EXTINF:-1 tvg-id="SCTV.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SCTV_Logo.svg/revision/latest/scale-to-width-down/250?cb=20200917125607",SCTV (HD)
+https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/931
+
 #EXTINF:-1 tvg-id="Indosiar.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Indosiar_2015.svg/revision/latest/scale-to-width-down/200?cb=20180321155318",Indosiar
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-# https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
+https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 # https://etslive-2-vidio-com.akamaized.net/exp=1629375409~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=f053ee1b92c50f4b205a7505649f4f79cc5658d3c9106ed4ac829e914233b685/vp9/205_stream.mpd
+
+#EXTINF:-1 tvg-id="Indosiar.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Indosiar_2015.svg/revision/latest/scale-to-width-down/200?cb=20180321155318",Indosiar (HD)
+http://gpc.my.id/vidio/indosiar.m3u8
 
 #EXTINF:-1 tvg-id="OChannel.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/O_Channel.svg/revision/latest/scale-to-width-down/300?cb=20210615130503",O Channel
 https://etslive-2-vidio-com.akamaized.net/exp=1627176013~acl=/hls-p/ingest_206_*/*~hmac=a09440d178da8c2343fa1808e35648495365c9414d705f393c4b152ab57bf520/hls-p/ingest_206_480p/index.m3u8
