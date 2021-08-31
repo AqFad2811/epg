@@ -50,6 +50,15 @@ http://gpc.my.id/vidio/tvn.m3u8
 #EXTINF:-1 tvg-id="ZeeBioskop.id" group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835",Zee Bioskop
 http://gpc.my.id/vidio/zee-bioskop.m3u8
 
+#EXTINF:-1 tvg-id="CitraDrama.id" group-title="HD" tvg-logo="https://user-images.githubusercontent.com/85995579/131083722-2044596a-0892-41ac-93bc-74ae43197eb4.png",Citra Drama
+http://gpc.my.id/vidio/citra-drama.m3u8
+
+#EXTINF:-1  tvg-id="CitraDangdut.id" group-title="HD" tvg-logo="https://user-images.githubusercontent.com/85995579/131083944-3bb29182-a680-4d2e-8448-8bae65872daa.png",Citra Dangdut
+http://gpc.my.id/vidio/citra-dangdut.m3u8
+
+#EXTINF:-1  tvg-id="CitraBioskop.id" group-title="Movies "tvg-logo="https://user-images.githubusercontent.com/85995579/131082880-9ff5fb5d-6673-4ced-978e-56ea96701793.png",Citra Bioskop 
+http://gpc.my.id/vidio/citra-bioskop.m3u8
+
 #EXTINF:-1 tvg-id="CNA.sg" group-title="HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
@@ -178,5 +187,5 @@ https://etslive-2-vidio-com.akamaized.net/exp=1627161947~acl=/hls-p/ingest_6898_
 #EXTINF:-1 tvg-id="MagnaChannel" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png/revision/latest/scale-to-width-down/200?cb=20200805135934",Magna Channel
 https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8
 
-#EXTINF:-1 tvg-id="NusantaraTV" group-title="SD" tvg-logo="https://postimg.cc/Yj6WHTCd",Nusantara TV
+#EXTINF:-1 tvg-id="NusantaraTV" group-title="SD" tvg-logo="https://i.postimg.cc/wxPchp8Y/Nusantara-TVId.png",Nusantara TV
 http://gpc.my.id/vidio/nusantara-tv.m3u8
