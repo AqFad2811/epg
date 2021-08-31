@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://stavol.my.id/epg/epg.xml" url-tvg="https://stavol.my.id/epg/epg.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-id="SCTV.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SCTV_Logo.svg/revision/latest/scale-to-width-down/250?cb=20200917125607",SCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -19,7 +20,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1627176013~acl=/hls-p/ingest_206_*
 # https://etslive-2-vidio-com.akamaized.net/exp=1627176068~acl=/hls-p/ingest_5415_*/*~hmac=d23fc4371e45ad6583e4a54a8ac667deb6d279ab8ad7b332c21521928ab289c0/hls-p/ingest_5415_480p/index.m3u8
 https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
-#EXTINF:-1 tvg-id="NET.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/NET..svg/revision/latest/scale-to-width-down/350?cb=20171216081721",NET HD
+#EXTINF:-1 tvg-id="NetTV.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/NET..svg/revision/latest/scale-to-width-down/350?cb=20171216081721",NET HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 # https://etslive-2-vidio-com.akamaized.net/exp=1627159296~acl=/vp9/875_stream.mpd!/vp9/875/*~hmac=21accb9cdf19c80d455c7229c6496f2ae2a09cf5aac209488de5e31287c492b1/vp9/875_stream.mpd
@@ -43,12 +44,12 @@ https://etslive-2-vidio-com.akamaized.net/exp=1627176525~acl=/hls-p/ingest_7464_
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 # http://1.9.62.158/PLTV/88888888/224/3221227543/3221227543.mpd
 
-#EXTINF:-1 tvg-id="TRANSTVHD.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Trans_TV_2013.svg/revision/latest/scale-to-width-down/300?cb=20201220001110",Trans TV
+#EXTINF:-1 tvg-id="TransTV.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Trans_TV_2013.svg/revision/latest/scale-to-width-down/300?cb=20201220001110",Trans TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 
-#EXTINF:-1 tvg-id="TRANS7HD.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Trans_7_2013.svg/revision/latest/scale-to-width-down/250?cb=20160314100735",Trans7
+#EXTINF:-1 tvg-id="Trans7.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Trans_7_2013.svg/revision/latest/scale-to-width-down/250?cb=20160314100735",Trans7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
@@ -69,7 +70,6 @@ https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
 
 #EXTINF:-1 tvg-id="VisionPrime" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Vision_Prime_2020.svg/revision/latest/scale-to-width-down/300?cb=20201208044004",Vision Prime
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -132,11 +132,11 @@ https://etslive-2-vidio-com.akamaized.net/exp=1627161159~acl=/vp9/874_stream.mpd
 # https://etslive-2-vidio-com.akamaized.net/exp=1627161243~acl=/hls-p/ingest_5409_*/*~hmac=9973f1720aeee011a728719171265fddfcf6283da96cd62c81b105b1ae0c203f/hls-p/ingest_5409_480p/index.m3u8
 https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
 
-#EXTINF:-1 tvg-id="DAAITV" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/DAAITV.png/revision/latest/scale-to-width-down/250?cb=20180920095200",DAAI TV
-https://etslive-2-vidio-com.akamaized.net/exp=1627161321~acl=/hls-p/ingest_6482_*/*~hmac=ed24527a8f878fab3c0f14492314e17b173e313855c424c7436fd50ce89cbe6b/hls-p/ingest_6482_480p/index.m3u8
+#EXTINF:-1 tvg-id="DaaiTV.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/DAAITV.png/revision/latest/scale-to-width-down/250?cb=20180920095200",DAAI TV
+https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/21
 
-#EXTINF:-1 tvg-id="myTV" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/MyTV_Logo.svg/revision/latest/scale-to-width-down/240?cb=20190124094842",myTV
-https://etslive-2-vidio-com.akamaized.net/exp=1627161396~acl=/hls-p/ingest_6711_*/*~hmac=3c34914d3cf7a3a59c573132ae035a60b4db89e804b5832a85f542aa49fe5d8e/hls-p/ingest_6711_480p/index.m3u8
+#EXTINF:-1 tvg-id="MyTV.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/MyTV_Logo.svg/revision/latest/scale-to-width-down/240?cb=20190124094842",myTV
+http://gpc.my.id/vidio/mytv.m3u8
 
 #EXTINF:-1 tvg-id="DW" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/250?cb=20120227170040",DW
 https://etslive-2-vidio-com.akamaized.net/exp=1627161469~acl=/hls-p/ingest_5075_*/*~hmac=b8128565bafdab9820e664ce405e71503c010c369003ea355b428951d030930f/hls-p/ingest_5075_480p/index.m3u8
