@@ -58,7 +58,7 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
 # https://link.zozotv.xyz:443/Freemium5/unlimited99/39
 
-#EXTINF:-1 tvg-id="113" group-title="Indonesian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astro Aura
+#EXTINF:-1 tvg-id="113_1" group-title="Indonesian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astro Aura
 # http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6713
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
 # https://link.zozotv.xyz:443/Freemium5/unlimited99/38
@@ -66,7 +66,7 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
 #EXTINF:-1 tvg-id="TV6" group-title="myFreeview" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
-#EXTINF:-1 tvg-id="SalamHD" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",113 Salam HD
+#EXTINF:-1 tvg-id="113" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",113 Salam HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
@@ -78,32 +78,32 @@ http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd?icpid=88888888&fro
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="116" group-title="Indian" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072453864m2m.png",116 Colors
+#EXTINF:-1 tvg-id="116_1" group-title="Indian" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072453864m2m.png",116 Colors
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 # http://1.9.62.158/PLTV/88888888/224/3221227504/3221227504.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6769
 
-#EXTINF:-1 tvg-id="HyppSensasiHD" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png",116 Hypp Sensasi HD
+#EXTINF:-1 tvg-id="116" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png",116 Hypp Sensasi HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="HyppInspirasiHD" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071701239brh.png",118 Hypp Inspirasi HD
+#EXTINF:-1 tvg-id="118" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071701239brh.png",118 Hypp Inspirasi HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="118" group-title="Shopping" tvg-logo="https://user-images.githubusercontent.com/85995579/128457984-94be67a9-e944-4fcd-a083-7c01d5a922b7.png",118 Go Shop RUUMA
+#EXTINF:-1 tvg-id="118_1" group-title="Shopping" tvg-logo="https://user-images.githubusercontent.com/85995579/128457984-94be67a9-e944-4fcd-a083-7c01d5a922b7.png",118 Go Shop RUUMA
 https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
 
 #EXTINF:-1 tvg-id="120" group-title="Shopping" tvg-logo="https://user-images.githubusercontent.com/85995579/128458098-5b4bb7bc-5cab-423f-b4d7-ae4376f43590.png",120 Go Shop GAAYA 
 https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8
 
-#EXTINF:-1 tvg-id="GOShopMYTV" group-title="myFreeview" tvg-logo="https://i.kampung.xyz/c/20d0f2053da42ed2.png",120 Go Shop  
+#EXTINF:-1 tvg-id="120" group-title="myFreeview" tvg-logo="https://i.kampung.xyz/c/20d0f2053da42ed2.png",120 Go Shop  
 https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
 
 #EXTINF:-1 tvg-id="122" group-title="myFreeview" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122 TVS
@@ -120,13 +120,13 @@ https://m3u-editor.com/serve/5a9d6b60-0270-11ec-8530-cbb324853ece/361125831
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 # https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 tvg-id="DuniaSinemaHD" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",128 Dunia Sinema HD
+#EXTINF:-1 tvg-id="128" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",128 Dunia Sinema HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="PesonaHD" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png",141 Pesona HD
+#EXTINF:-1 tvg-id="141" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png",141 Pesona HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
@@ -163,7 +163,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd?icpid=88888888&fro
 #EXTINF: -1 tvg-id="149" group-title="myFreeview" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest?cb=20170819074656",149 TV9 (HD)
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHe70l5OEMAreoTs80Np2boY)/dm/3/x6qqja6/s/live-4.m3u8
 
-#EXTINF:-1 tvg-id="LAKUMall" group-title="Shopping" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png",151 LAKU Mall 
+#EXTINF:-1 tvg-id="151" group-title="Shopping" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png",151 LAKU Mall 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
@@ -195,25 +195,25 @@ http://1.9.62.158/PLTV/88888888/224/3221227562/3221227562.mpd?icpid=88888888&fro
 # http://iptv.tvmalaysia.cc:80/penang172/penang172/6742
 https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884962
 
-#EXTINF:-1 tvg-id="SCMLegendHD" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071259102dr2.png",226 SCM Legend HD
+#EXTINF:-1 tvg-id="226" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071259102dr2.png",226 SCM Legend HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227566/3221227566.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="SCMHD" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064916067nrf.png",228 SCM HD
+#EXTINF:-1 tvg-id="228" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064916067nrf.png",228 SCM HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227606/3221227606.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="NowJelliHD" group-title="Chinese" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160641140646da.png",233 Now Jelli HD
+#EXTINF:-1 tvg-id="233" group-title="Chinese" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160641140646da.png",233 Now Jelli HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227559/3221227559.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="SETI" group-title="Chinese" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190708/20190708073838956juy.png",239 SETI
+#EXTINF:-1 tvg-id="209" group-title="Chinese" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190708/20190708073838956juy.png",239 SETI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
@@ -228,7 +228,7 @@ https://link.zozotv.xyz:443/Freemium5/unlimited99/302
 # http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/737373/737373/6723
 
-#EXTINF:-1 tvg-id="YuppThiraiHD" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200709/20200709194934030p1r.png",301 Yupp Thirai HD
+#EXTINF:-1 tvg-id="301" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200709/20200709194934030p1r.png",301 Yupp Thirai HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
@@ -249,7 +249,7 @@ http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1 tvg-id="308" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/308_300.png/revision/latest?cb=20200122111044",308 Astro Quan Jia HD
 http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="309" group-title="Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",309 Celestial Movies HD
+#EXTINF:-1 tvg-id="309_1" group-title="Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",309 Celestial Movies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
@@ -260,13 +260,13 @@ http://iptv.tvmalaysia.cc:80/624850/624850/6841
 #EXTINF:-1 tvg-id="311" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 311 Astro AOD HD
 http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Polimer" group-title="Indian" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607250947892o.png",312 Polimer
+#EXTINF:-1 tvg-id="312" group-title="Indian" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607250947892o.png",312 Polimer
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227532/3221227532.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="JayaMax" group-title="Indian" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070131156wkh.png",313 Jaya Max
+#EXTINF:-1 tvg-id="313" group-title="Indian" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070131156wkh.png",313 Jaya Max
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
@@ -286,30 +286,30 @@ http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:-1 tvg-id="SonyMax" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070246131li6.png",331 Sony Max
+#EXTINF:-1 tvg-id="331" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070246131li6.png",331 Sony Max
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="ColorsCineplex" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png",333 Colors Cineplex
+#EXTINF:-1 tvg-id="333" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png",333 Colors Cineplex
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="333" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021",333 Astro Hua Hee Dai
+#EXTINF:-1 tvg-id="333_1" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021",333 Astro Hua Hee Dai
 # http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 # http://iptv.tvmalaysia.cc:80/737373/737373/6722
 https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884958
 
-#EXTINF:-1 tvg-id="SonySAB" group-title="Indian" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072708856rq9.png",342 Sony SAB
+#EXTINF:-1 tvg-id="342" group-title="Indian" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072708856rq9.png",342 Sony SAB
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227538/3221227538.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="SonySET" group-title="Indian" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072803934rws.png",343 Sony SET
+#EXTINF:-1 tvg-id="343" group-title="Indian" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072803934rws.png",343 Sony SET
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
@@ -373,30 +373,30 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 # https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884930
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Thrill" group-title="Movies" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill
+#EXTINF:-1 tvg-id="Thrill.id" group-title="Movies" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
-#EXTINF:-1 tvg-id="ParamountNetwork" group-title="Entertainment" tvg-logo="https://th.bing.com/th/id/R3bfca344418333ee12de39c3f50fb2d3?rik=oE0ztn2yvOcdwQ&pid=ImgRaw",408 Paramount Network
+#EXTINF:-1 tvg-id="408" group-title="Entertainment" tvg-logo="https://th.bing.com/th/id/R3bfca344418333ee12de39c3f50fb2d3?rik=oE0ztn2yvOcdwQ&pid=ImgRaw",408 Paramount Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="CinemaWorldHD" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065916134bcf.png",411 CinemaWorld HD
+#EXTINF:-1 tvg-id="411" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065916134bcf.png",411 CinemaWorld HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 # https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="411" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",411 HBO
+#EXTINF:-1 tvg-id="411_1" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",411 HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 # https://mediahomes.github.io/assets/hbogo/hbo.m3u8
 # http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="411" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",411 HBO (Malay Sub)
+#EXTINF:-1 tvg-id="411_1" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",411 HBO (Malay Sub)
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="412" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",412 Cinemax
@@ -440,24 +440,24 @@ http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd?icpid=88888888&fro
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="BlueAntEntertainment" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png",473 Blue Ant Entertainment
+#EXTINF:-1 tvg-id="474" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png",473 Blue Ant Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 # https://livecdn.fptplay.net/hda/blueantent_hls.smil/playlist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="BlueAntExtreme" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png",474 Blue Ant Extreme
+#EXTINF:-1 tvg-id="475" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png",474 Blue Ant Extreme
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 # https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="501" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest?cb=20200520200333",501 Astro Awani 
+#EXTINF:-1 tvg-id="501_1" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest?cb=20200520200333",501 Astro Awani 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-#EXTINF:-1 tvg-id="BBCEarthHD" group-title="Documentary" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png",BBC Earth HD
+#EXTINF:-1 tvg-id="501" group-title="Documentary" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png",BBC Earth HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
@@ -466,13 +466,13 @@ http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd?icpid=88888888&fro
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-#EXTINF:-1 tvg-id="502" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",502 BERNAMA 
+#EXTINF:-1 tvg-id="502_1" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",502 BERNAMA 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227511/3221227511.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="LoveNatureHD" group-title="Documentary" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202107/20210724/20210724151935567nih.png",Love Nature HD
+#EXTINF:-1 tvg-id="502" group-title="Documentary" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202107/20210724/20210724151935567nih.png",Love Nature HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
