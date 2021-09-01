@@ -440,14 +440,14 @@ http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd?icpid=88888888&fro
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="474" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png",473 Blue Ant Entertainment
+#EXTINF:-1 tvg-id="473" group-title="Entertainment" tvg-logo="hhttps://aqfad2811.s-ul.eu/9mIAiqQ2",473 Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 # https://livecdn.fptplay.net/hda/blueantent_hls.smil/playlist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="475" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png",474 Blue Ant Extreme
+#EXTINF:-1 tvg-id="474" group-title="Entertainment" tvg-logo="https://aqfad2811.s-ul.eu/y49rW8yg",474 Rock Extreme
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
