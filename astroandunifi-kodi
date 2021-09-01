@@ -575,16 +575,21 @@ https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #EXTINF:-1 tvg-id="601" group-title="Education" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/TutorTVSK.png/revision/latest?cb=20210614003048",601 Astro Tutor TV SK
-https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884965
+# https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884965
+# https://nonton.site:8443/provision/pp/37395
+https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/37395
 
 #EXTINF:-1 tvg-id="602" tvg-logo="https://i.kampung.xyz/c/f9ace6ddfb93062e.png" group-title="Education",602 Astro Tutor TV PT3
-http://50.7.218.154:8080/test-e78555/cf00/247431?token=ShUNAEFcElxEXQNRClgBXwJQBANZDwVcU1JTUVVUUQcEDlYCAAdUUFQaGEZKTREDAFhpWAUVDwsCBldRBk5DFkJSFz5bUBJcRAEMUAEIQUpDQV9cBBUPCAADW1IPUFBUBRtHEVtQElxEDAFQCRtPRARNQlQTWVRVaVUGFF4BBEELWRANXhgSCQhnUAFUWA0CQw8UAUMbF1BFQUFYWRcNDx0VBwhGRlESAxoORggJW1ZDGRRSDkJbTURIQVgVKy9BHRUAGUZRXhUPV1pGAxsXFUMZFFgSaEdcRUURB1YPBBETDUdREBgSCwdAawdWVw0DAkFfXg9EFwMUAEFOFQ8ODVhDChNtRFkCRAIWVQ4OUldDSA==
+# https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884963
+https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/37396
 
 #EXTINF:-1 tvg-id="603" tvg-logo="https://i.kampung.xyz/c/450e9b4f3fca408b.png" group-title="Education",603 Astro Tutor TV SPM
-https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884964
+# https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/37397
+https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/37397
 
 #EXTINF:-1 tvg-id="610" tvg-logo="https://i.kampung.xyz/c/6fb2bb374fc7edc8.png" group-title="Education",610 Astro TVIQ
-http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/74868.ts
+# https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/37398
+https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/37398
 
 #EXTINF:-1 tvg-id="611" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
@@ -645,57 +650,57 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
-#EXTINF:-1 tvg-id="unifiSports1" group-title="Sports"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1
+#EXTINF:-1 tvg-id="701" group-title="Sports"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="unifiSports2" group-title="Sports"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest?cb=20210712113109",unifi Sports 2
+#EXTINF:-1 tvg-id="702" group-title="Sports"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest?cb=20210712113109",unifi Sports 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="unifiSports3" group-title="Sports"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Unifi-Sports-3.png/revision/latest?cb=20210712113331",unifi Sports 3
+#EXTINF:-1 tvg-id="703" group-title="Sports"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Unifi-Sports-3.png/revision/latest?cb=20210712113331",unifi Sports 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="unifiSports4" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Unifi-Sports-4.png/revision/latest?cb=20210712113617",unifi Sports 4
+#EXTINF:-1 tvg-id="704" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Unifi-Sports-4.png/revision/latest?cb=20210712113617",unifi Sports 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="unifiSports5" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Unifi-Sports-5.png/revision/latest?cb=20210712113706",unifi Sports 5
+#EXTINF:-1 tvg-id="705" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Unifi-Sports-5.png/revision/latest?cb=20210712113706",unifi Sports 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="701" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",701 AXN HD
+#EXTINF:-1 tvg-id="701_1" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",701 AXN HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
-#EXTINF:-1 tvg-id="702" group-title="Entertainment" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",702 Hello HD
+#EXTINF:-1 tvg-id="702_1" group-title="Entertainment" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",702 Hello HD
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 
-#EXTINF:-1 tvg-id="703" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073811029jld.png",703 FOXlife HD
+#EXTINF:-1 tvg-id="703_1" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073811029jld.png",703 FOXlife HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|#EXTVLCOPT:http-user-agent=DmpPlayer/|
 # https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="704" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073643920hhv.png",704 FOX HD
+#EXTINF:-1 tvg-id="704_1" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073643920hhv.png",704 FOX HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZDA3YTk1ZmItMWIzMS0zZjhjLTg2NGUtZTIwMzRkODRhZWQ2||R{SSM}|#EXTVLCOPT:http-user-agent=DmpPlayer/|
 # https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227578/3221227578.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="705" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png",705 KIX HD 
+#EXTINF:-1 tvg-id="705_1" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png",705 KIX HD 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
@@ -758,8 +763,9 @@ http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd?icpid=88888888&fro
 
 #EXTINF:-1 tvg-id="719" group-title="Anime" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",719 Animax HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
-https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk||R{SSM}|
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
 #EXTINF:-1 tvg-id="800" group-title="Sports" tvg-logo="https://i.kampung.xyz/c/5a8c2149409e6e47.png",800 eGG Network HD
 # http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
