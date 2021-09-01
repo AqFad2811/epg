@@ -812,16 +812,23 @@ http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd?icpid=88888888&fro
 # https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="beINSports1" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/BeINSports1.png/revision/latest?cb=20170103003645",beIN Sports 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
-https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
-
 #EXTINF:-1 tvg-id="819" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest?cb=20190319023656",819 BeIN Sports MAX HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6748
+
+#EXTINF:-1 tvg-id="820" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",820 Eurosport HD
+https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/37434
+
+#EXTINF:-1 tvg-id="821" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png",821 WWE Network HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6849
+
+#EXTINF:-1 tvg-id="822" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",822 Golf Channel HD
+https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/561
+
+#EXTINF:-1 tvg-id="823" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png",823 Rugby Pass TV HD
+https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/37437
 
 #EXTINF:-1 tvg-id="824" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",824 Astro Cricket
-https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891949
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6717
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" tvg-chno="956" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/z7NxkSb6",988
 http://22283.live.streamtheworld.com/988_FMAAC.aac
@@ -829,18 +836,16 @@ http://22283.live.streamtheworld.com/988_FMAAC.aac
 #EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" tvg-chno="958" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",Suria FM
 https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="HotFM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/HotFM2021.png/revision/latest/scale-to-width-down/250?cb=20210801171400", Hot FM 
+#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/HotFM2021.png/revision/latest/scale-to-width-down/250?cb=20210801171400", Hot FM 
 https://mediaprima.rastream.com/mediaprima-hotfm
 
-
-#EXTINF:-1 group-title="Radio Stations" ch-number="722" tvg-chno="722" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BuletinFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801172624",Buletin FM
+#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="722" tvg-chno="722" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BuletinFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801172624",Buletin FM
 https://mediaprima.rastream.com/mediaprima-koolfm
 
-
-#EXTINF:-1 group-title="Radio Stations" ch-number="724" tvg-chno="723" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FlyFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801171738",Fly FM
+#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="724" tvg-chno="723" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FlyFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801171738",Fly FM
 https://mediaprima.rastream.com/mediaprima-flyfm
 
-#EXTINF:-1 group-title="Radio Stations" ch-number="724" tvg-chno="724" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png/revision/latest/scale-to-width-down/200?cb=20210801172242",8FM
+#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="724" tvg-chno="724" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png/revision/latest/scale-to-width-down/200?cb=20210801172242",8FM
 https://mediaprima.rastream.com/mediaprima-onefm
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="852" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ
@@ -850,7 +855,8 @@ https://astro1.rastream.com/hitz
 https://astro1.rastream.com/myfm
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="854" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png",LITE
-https://astro1.rastream.com/lite
+# https://astro1.rastream.com/lite
+https://raw.githubusercontent.com/AqFad2811/myiptv/main/lite/info.m3u8
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="855" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX
 https://astro2.rastream.com/mix
@@ -925,19 +931,24 @@ https://astro1.rastream.com/amp-myfm-kk
 https://astro1.rastream.com/amp-myfm-kch
 
 #EXTINF:-1, group-title="Online TV" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
-http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GEM" group-title="Sirius TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/200?cb=20201126072306",GEM
+#EXTINF:-1 tvg-id="CHN" group-title="Sirius TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/200?cb=20201126072306",GEM
 # http://210.210.155.35/uq2663/h/h19/index.m3u8
 # http://210.210.155.35/uq2663/h/h19/01.m3u8
-# https://link.zozotv.xyz:443/Freemium5/unlimited99/72
-http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
+# http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8864
+# http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
+# http://playlist.urfan.web.id/session/b51c3dc0-042f-11ec-903b-a14ab49f7056/uq2663/h/h19/01.m3u8
+https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/770
 
-#EXTINF:-1 tvg-id="OutdoorChannel" group-title="Sirius TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg/revision/latest/scale-to-width-down/250?cb=20170428060035",Outdoor Channel
+#EXTINF:-1 tvg-id="CHN" group-title="Sirius TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg/revision/latest/scale-to-width-down/250?cb=20170428060035",Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TechStorm" group-title="Sirius TV" tvg-logo="https://siriusmalaysia.tv/wp-content/uploads/2021/03/techstorm-1.png",TechStorm
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
+#EXTINF:-1 tvg-id="CHN" group-title="Sirius TV" tvg-logo="https://siriusmalaysia.tv/wp-content/uploads/2021/03/techstorm-1.png",TechStorm
+# https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
+
+#EXTINF:-1 tvg-id="CHN" group-title="Sirius TV" tvg-logo="https://siriusmalaysia.tv/wp-content/uploads/2021/03/fight-box.png",Fight Box
+https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/501
 
 #EXTINF:-1 tvg-id="DisneyChannel" group-title="Available Until 1 October 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png", Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
