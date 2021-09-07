@@ -669,13 +669,13 @@ https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227600/3221227600.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="550" group-title="Documentary" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202009/20200907/20200907034018802dtj.PNG",550 National Geographic Wild
+#EXTINF:-1 tvg-id="NatGeoWild" group-title="Documentary" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202009/20200907/20200907034018802dtj.PNG",550 National Geographic Wild
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MjNkNzI0MmMtZWQ0ZC0zZTE5LTg2ODctYTYyNWVlNmU0ZTc0||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227628/3221227628.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="DreamworksHD" group-title="Kids" tvg-logo="http://www.dreamworks-asia.com/images/dwalogo.png",550 Dreamworks HD
+#EXTINF:-1 tvg-id="550" group-title="Kids" tvg-logo="http://www.dreamworks-asia.com/images/dwalogo.png",550 Dreamworks HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MjNkNzI0MmMtZWQ0ZC0zZTE5LTg2ODctYTYyNWVlNmU0ZTc0||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
@@ -692,88 +692,133 @@ http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd?icpid=88888888&fro
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
-#EXTINF:-1 tvg-id="CBeebies" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/303_1920x1080_HTV.png",553 CBeebies HD
+#EXTINF:-1 tvg-id="553" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/303_1920x1080_HTV.png",553 CBeebies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MjNkNzI0MmMtZWQ0ZC0zZTE5LTg2ODctYTYyNWVlNmU0ZTc0||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="555" group-title="Documentary" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png",555 History HD
+#EXTINF:-1 tvg-id="DiscoveryScience" group-title="Available Until 1 October 2021 (Documentary)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Discovery_Science_2017.svg/revision/latest/scale-to-width-down/220?cb=20191226125532",554 Discovery Science HD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37392
+
+#EXTINF:-1 tvg-id="History" group-title="Documentary" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png",555 History HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
-https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+# https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37393
 
-#EXTINF:-1 tvg-id="556" group-title="Documentary" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4",556 Animal Planet HD
+#EXTINF:-1 tvg-id="AnimalPlanet" group-title="Documentary" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4",556 Animal Planet HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
-#EXTINF:-1 tvg-id="601" group-title="Education" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/TutorTVSK.png/revision/latest?cb=20210614003048",601 Astro Tutor TV SK
+#EXTINF:-1 tvg-id="AstroTutorTVSK" group-title="Education" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/TutorTVSK.png/revision/latest?cb=20210614003048",601 Astro Tutor TV SK (Works in OTT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=788e2ed6fda9f5ab3fb850f35689b710:9663d5c4d703d61566d45f898d476d1d
+http://linearjitp-playback.astro.com.my/dash-wv/linear/214/default_ott.mpd
 # https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884965
 # https://nonton.site:8443/provision/pp/37395
-https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/37395
+# https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37395
 
-#EXTINF:-1 tvg-id="602" tvg-logo="https://i.kampung.xyz/c/f9ace6ddfb93062e.png" group-title="Education",602 Astro Tutor TV PT3
+#EXTINF:-1 tvg-id="AstroTutorTVSK" group-title="Education" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/TutorTVSK.png/revision/latest?cb=20210614003048",601 Astro Tutor TV SK
+# http://iptvstream.xyz:8080/Mcnsi/7210db0d/247433
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37395
+
+#EXTINF:-1 tvg-id="AstroTutorTVPT3" tvg-logo="https://i.kampung.xyz/c/f9ace6ddfb93062e.png" group-title="Education",602 Astro Tutor TV PT3 (Works in OTT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fdb217f8c525412973d21231e15b7910:3d0d24f53f93b2862d1c09f652bd4cf7
+http://linearjitp-playback.astro.com.my/dash-wv/linear/314/default_ott.mpd
 # https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884963
-https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/37396
+# https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37396
 
-#EXTINF:-1 tvg-id="603" tvg-logo="https://i.kampung.xyz/c/450e9b4f3fca408b.png" group-title="Education",603 Astro Tutor TV SPM
-# https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/37397
-https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/37397
+#EXTINF:-1 tvg-id="AstroTutorTVPT3" tvg-logo="https://i.kampung.xyz/c/f9ace6ddfb93062e.png" group-title="Education",602 Astro Tutor TV PT3
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37396
 
-#EXTINF:-1 tvg-id="610" tvg-logo="https://i.kampung.xyz/c/6fb2bb374fc7edc8.png" group-title="Education",610 Astro TVIQ
-# https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/37398
-https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/37398
+#EXTINF:-1 tvg-id="AstroTutorTVSPM" tvg-logo="https://i.kampung.xyz/c/450e9b4f3fca408b.png" group-title="Education",603 Astro Tutor TV SPM (Works in OTT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=06e8eb30e1c218c1e9bf10a8d86beb10:ec203919e7b1995c8d3765d50783ccf5
+# https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37397
+# https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37397
+http://linearjitp-playback.astro.com.my/dash-wv/linear/313/default_ott.mpd
 
-#EXTINF:-1 tvg-id="611" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria
+#EXTINF:-1 tvg-id="AstroTutorTVSPM" tvg-logo="https://i.kampung.xyz/c/450e9b4f3fca408b.png" group-title="Education",603 Astro Tutor TV SPM
+# http://iptvstream.xyz:8080/Mcnsi/7210db0d/247431
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37397
+
+#EXTINF:-1 tvg-id="AstroTVIQ" tvg-logo="https://i.kampung.xyz/c/6fb2bb374fc7edc8.png" group-title="Education",610 Astro TVIQ (Works in OTT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec94ecd88efaa575523873e45c5ae710:6ea4f6386d4aa84db6e7914cfc50fea2
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5030/default_ott.mpd
+# https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37398
+# https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37398
+
+#EXTINF:-1 tvg-id="AstroTVIQ" tvg-logo="https://i.kampung.xyz/c/6fb2bb374fc7edc8.png" group-title="Education",610 Astro TVIQ
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37398
+
+#EXTINF:-1 tvg-id="AstroCeria" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+# http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/7.m3u8
+# http://iptv.tvmalaysia.cc:80/737373/737373/6715
+# http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/50.m3u8
 
-#EXTINF:-1 tvg-id="EuroNews" group-title="News" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073656571ojy.png",612 EuroNews
+#EXTINF:-1 tvg-id="AstroCeria" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria (Multidub) (Works in OTT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+
+#EXTINF:-1 tvg-id="TA-DAA!" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/432_144.png",612 TA-DAA! (Works in OTT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77479a35c1a4ce256925c9d7d6a56510:670991de647e7b305c3fb55341761133
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
+
+#EXTINF:-1 tvg-id="612" group-title="News" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073656571ojy.png",612 EuroNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MjNkNzI0MmMtZWQ0ZC0zZTE5LTg2ODctYTYyNWVlNmU0ZTc0||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227486/3221227486.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="615" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",615 Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",615 Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
-#EXTINF:-1 tvg-id="616" group-title="Kids" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073133989duz.png",616 Nickelodeon
+#EXTINF:-1 tvg-id="CartoonNetwork" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",615 Cartoon Network (Multidub) (Works in OTT) 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
+http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
+
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="Kids" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073133989duz.png",616 Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MjNkNzI0MmMtZWQ0ZC0zZTE5LTg2ODctYTYyNWVlNmU0ZTc0||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="617" group-title="Kids" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190708/201907080716212262b1.png",617 Nick Jr.
+#EXTINF:-1 tvg-id="NickJr" group-title="Kids" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190708/201907080716212262b1.png",617 Nick Jr.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MjNkNzI0MmMtZWQ0ZC0zZTE5LTg2ODctYTYyNWVlNmU0ZTc0||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227697/3221227697.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="618" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/302_1920x1080_HTV.png",618 Baby TV HD
+#EXTINF:-1 tvg-id="BabyTV" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/302_1920x1080_HTV.png",618 Baby TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MjNkNzI0MmMtZWQ0ZC0zZTE5LTg2ODctYTYyNWVlNmU0ZTc0||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="619" group-title="Kids" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070341348vur.png",619 Boomerang HD
+#EXTINF:-1 tvg-id="Boomerang" group-title="Kids" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070341348vur.png",619 Boomerang HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MjNkNzI0MmMtZWQ0ZC0zZTE5LTg2ODctYTYyNWVlNmU0ZTc0||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="ParlimenMalaysia" group-title="News" tvg-logo="https://user-images.githubusercontent.com/85995579/128818506-4bb5802b-298b-4c6a-aaa7-cf30f7e60402.png",633 Parlimen Malaysia
+#EXTINF:-1 tvg-id="633" group-title="News" tvg-logo="https://user-images.githubusercontent.com/85995579/128818506-4bb5802b-298b-4c6a-aaa7-cf30f7e60402.png",633 Parlimen Malaysia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MjNkNzI0MmMtZWQ0ZC0zZTE5LTg2ODctYTYyNWVlNmU0ZTc0||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.58.102/PLTV/88888888/224/3221227546/3221227546.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-
-#EXTINF:-1 tvg-id="NHKWorldHD" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png",643 NHK World Japan
+#EXTINF:-1 tvg-id="643" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png",643 NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-
-
 
 #EXTINF:-1 tvg-id="701" group-title="Sports"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -805,138 +850,156 @@ http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd?icpid=88888888&fro
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="701_1" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",701 AXN HD
+#EXTINF:-1 tvg-id="AXN" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",701 AXN HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
-#EXTINF:-1 tvg-id="702_1" group-title="Entertainment" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",702 Hello HD
+#EXTINF:-1 tvg-id="Hello" group-title="Available Until 1 October 2021 (Entertainment)" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",702 Hello HD
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 
-#EXTINF:-1 tvg-id="703_1" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073811029jld.png",703 FOXlife HD
+#EXTINF:-1 tvg-id="FOXLife" group-title="Available Until 1 October 2021 (Entertainment)" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073811029jld.png",703 FOXlife HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MjNkNzI0MmMtZWQ0ZC0zZTE5LTg2ODctYTYyNWVlNmU0ZTc0||R{SSM}|#EXTVLCOPT:http-user-agent=DmpPlayer/|
 # https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="704_1" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073643920hhv.png",704 FOX HD
+#EXTINF:-1 tvg-id="FOX" group-title="Available Until 1 October 2021 (Entertainment)" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073643920hhv.png",704 FOX HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MjNkNzI0MmMtZWQ0ZC0zZTE5LTg2ODctYTYyNWVlNmU0ZTc0||R{SSM}|#EXTVLCOPT:http-user-agent=DmpPlayer/|
 # https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227578/3221227578.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="705_1" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png",705 KIX HD 
+#EXTINF:-1 tvg-id="KIX" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png",705 KIX HD 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
-#EXTINF:-1 tvg-id="706" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png",706 HITS HD
+#EXTINF:-1 tvg-id="HITS" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png",706 HITS HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#EXTINF:-1 tvg-id="707" group-title="Documentary" tvg-logo="https://api.discovery.com/v1/images/558c1c396b66d1023309e791?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4",707 TLC HD
+#EXTINF:-1 tvg-id="TLC" group-title="Documentary" tvg-logo="https://api.discovery.com/v1/images/558c1c396b66d1023309e791?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4",707 TLC HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
-#EXTINF:-1 tvg-id="708" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png",708 Food Network HD
-http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391013
+#EXTINF:-1 tvg-id="FoodNetwork" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png",708 Food Network HD
+# http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391013
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37411
 
-#EXTINF:-1 tvg-id="709" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",709 Asian Food Network HD
+#EXTINF:-1 tvg-id="AFN" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",709 Asian Food Network HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 
-#EXTINF:-1 tvg-id="710" group-title="Documentary" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065806236c1s.png",710 Nat Geo People HD
+#EXTINF:-1 tvg-id="NatGeoPeople" group-title="Available Until 1 October 2021 (Documentary)" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065806236c1s.png",710 Nat Geo People HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MjNkNzI0MmMtZWQ0ZC0zZTE5LTg2ODctYTYyNWVlNmU0ZTc0||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227590/3221227590.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="712" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png",712 Warner TV HD
+#EXTINF:-1 tvg-id="WarnerTV" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png",712 Warner TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MjNkNzI0MmMtZWQ0ZC0zZTE5LTg2ODctYTYyNWVlNmU0ZTc0||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 # https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="713" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073911037n9t.png",713 FX HD
+#EXTINF:-1 tvg-id="FX" group-title="Available Until 1 October 2021 (Entertainment)" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073911037n9t.png",713 FX HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MjNkNzI0MmMtZWQ0ZC0zZTE5LTg2ODctYTYyNWVlNmU0ZTc0||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="714" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png",714 Crime & Investigation HD
+#EXTINF:-1 tvg-id="CrimeInvestigation" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png",714 Crime & Investigation HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
-https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+# https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37415
 
-#EXTINF:-1 tvg-id="715" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",715 HGTV HD
+#EXTINF:-1 tvg-id="HGTV" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",715 HGTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
-#EXTINF:-1 tvg-id="716" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",716 DMAX HD
-https://nonton.site:8443/provision/pp/37417
+#EXTINF:-1 tvg-id="DMAX" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",716 DMAX HD
+# https://nonton.site:8443/provision/pp/37417
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37417
 
-#EXTINF:-1 tvg-id="718" group-title="Music" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607170970968i.png",718 MTV Asia HD
+#EXTINF:-1 tvg-id="MTVAsia" group-title="Music" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607170970968i.png",718 MTV Asia HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MjNkNzI0MmMtZWQ0ZC0zZTE5LTg2ODctYTYyNWVlNmU0ZTc0||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="719" group-title="Anime" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",719 Animax HD
+#EXTINF:-1 tvg-id="Animax" group-title="Anime" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",719 Animax HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk||R{SSM}|
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
-https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 tvg-id="800" group-title="Sports" tvg-logo="https://i.kampung.xyz/c/5a8c2149409e6e47.png",800 eGG Network HD
+#EXTINF:-1 tvg-id="eGGNetwork" group-title="Sports" tvg-logo="https://i.kampung.xyz/c/5a8c2149409e6e47.png",800 eGG Network HD
 # http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yd2d3b0FKNzFwdS1HcFFnUXBWTjhINi0yWUV5WW10MWsteENTSl93bVIzeFNpUDNpdEFYYlRCUGR6QzJQemVKVXpQcDhidzNHX295bmVMZXNFQVdZRXprY25md1g0a0xJX0NqZ211c2diVTdLQnZ3LUlBSVF0bW1wS3RlXzA3UExUZFc3RFN4cDRkcGtxdVAzRVlVdEUwNW9xdTI0alZFbl9nWkExTkQ3ZVRYWFJhV09obXdUZGFZeG1wdGxVWXZGNHg2Q1RHOE5KWjYtU3hiV2IwRVZPTHJLNnBPdEJvai1PS3ZScElLSzhHa2FuUW5MeDNwYkt0ZG9uTkp3SFMzVHJRU3Y1a3NuSjl1TmR5SmRvVmx6R3M2WjVvUS1QOU1jN25JdmNFUlE4b2VuWXlvdlhrd0NEaF80WHVPYlVVcnZnTURjenFyNVVqNWNMa3hZZ1RNQXRnJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUxNDciLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiYmRhN2Y3NGJfODQyZl80ZjBlX2IxNDJfMzk1ZGFkZDkxZjA3IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHdnd29BSjcxcHUtR3BRZ1FwVk44SDYtMllFeVltdDFrLXhDU0pfd21SM3hTaVAzaXRBWGJUQlBkekMyUHplSlV6UHA4YnczR19veW5lTGVzRUFXWUV6a2NuZndYNGtMSV9DamdtdXNnYlU3S0J2dy1JQUlRdG1tcEt0ZV8wN1BMVGRXN0RTeHA0ZHBrcXVQM0VZVXRFMDVvcXUyNGpWRW5fZ1pBMU5EN2VUWFhSYVdPaG13VGRhWXhtcHRsVVl2RjR4NkNURzhOSlo2LVN4YldiMEVWT0xySzZwT3RCb2otT0t2UnBJS0s4R2thblFuTHgzcGJLdGRvbk5Kd0hTM1RyUVN2NWtzbko5dU5keUpkb1ZsekdzNlo1b1EtUDlNYzduSXZjRVJROG9lbll5b3ZYa3dDRGhfNFh1T2JVVXJ2Z01EY3pxcjVVajVjTGt4WWdUTUF0ZyIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=eSLNVobhV%2fiRa%2fvEf9DtkXIm8To%3d&sessionId=d0bdfc94-05bb-a8b7-c363-0df233354852:bc3b1c4f-fea3-e539-8d2d-8276ab1e70cf&clientTag=html5:v1.11.1&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5Ly1sLS1sb2wtcGNzLS13ZWVrLTUtZGF5LTEvMTA5NDQ4OS9wbGF5ZXI/bGluZWFySWQ9MTAwMDUwMDEzJmlzTGl2ZT10cnVl
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yd0FDbGpSc3BHV1FVTlIzeFF2VnZ5YVVWTjZmdG1pOFQ0WVRKbndZUGVsdVJ1RFM2b0NSQnB6UkxCbndrN3ZKWXpoM3ZoV1AyNVpHVmxBT1hJMG55WkN2OS12NFktVnR1OHRRV2FhYktGWUZMdWhLbHZYR19wNUVYNTNhLTRzRld4WHNZOUVBOExhVmJMbTBUWkFjMTk5TF9lNUg3YVdhU1lIQ2RNYmlqRVV6Z2FQYlJHWk5LZHBHdEFvWi00VGk5MTBfZW1mZ0xPTDdvZ3Z2SGtudmJnN0FORWo2bER5WGJyNkRtUUE5NUxfcG8tNHhsVWVMYURrclRrZkxBd2hPQ1FkOHFEenJnd1BQTnFWdzl6RlJjUTgwNTRabVpJN1BQc21FTWM1T2pZWndmQlRuUEp3QmxhY25BdkRwT3E1Z3lBPSZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjI1MTQ3IiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6ImJkYTdmNzRiXzg0MmZfNGYwZV9iMTQyXzM5NWRhZGQ5MWYwNyIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h3QUNsalJzcEdXUVVOUjN4UXZWdnlhVVZONmZ0bWk4VDRZVEpud1lQZWx1UnVEUzZvQ1JCcHpSTEJud2s3dkpZemgzdmhXUDI1WkdWbEFPWEkwbnlaQ3Y5LXY0WS1WdHU4dFFXYWFiS0ZZRkx1aEtsdlhHX3A1RVg1M2EtNHNGV3hYc1k5RUE4TGFWYkxtMFRaQWMxOTlMX2U1SDdhV2FTWUhDZE1iaWpFVXpnYVBiUkdaTktkcEd0QW9aLTRUaTkxMF9lbWZnTE9MN29ndnZIa252Ymc3QU5FajZsRHlYYnI2RG1RQTk1TF9wby00eGxVZUxhRGtyVGtmTEF3aE9DUWQ4cUR6cmd3UFBOcVZ3OXpGUmNRODA1NFptWkk3UFBzbUVNYzVPallad2ZCVG5QSndCbGFjbkF2RHBPcTVneUE9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=u1lpZUqM5tb6bd%2b%2bCPmZMZY65N0%3d&sessionId=a1e8ff5c-f46b-fc33-bc84-ff8792cbf9cd:e9e445da-d7ea-8816-4581-36b8515f96bf&clientTag=html5:v7.38.1&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L25iYS0yay1sZWFndWUtLXBsYXlvZmZzLWRheS0zLzEwOTQ0ODkvcGxheWVyP2xpbmVhcklkPTEwMDA2Mzg2MyZpc0xpdmU9dHJ1ZQ==
 https://linear01-playback.sooka.my/CH2/masterCH2.mpd
 
-#EXTINF: -1 tvg-id="801" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Astro_Arena.png/revision/latest?cb=20180622080600",801 Astro Arena
+#EXTINF: -1 tvg-id="AstroArena" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Astro_Arena.png/revision/latest?cb=20180622080600",801 Astro Arena
 # http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="811" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest/scale-to-width-down/200?cb=20210802132424",811 Astro SuperSport HD 
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest/scale-to-width-down/200?cb=20210802132424",811 Astro SuperSport HD 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeXVQbWphTTJQSDRncWRvWF9Fa3FIRk5vTmFGWEhzVU9CX3RTUEMwamZyckFYZHhya0dxUUEzbFlzUkZnMnU4dmYyUFFIcm9BUmFSMEtkUEtrajRydDNycTN6R2JBcER2MWFRVnNBS3dlQ20zdjlnTVZORVJQSnBrTVIyR2VJeW5yMGZPbkVYNDltVkJFdVdLVTlCTlFnbk9FRFRhMURkd1h1aWRWeGVaZFhRTU1lZmlXOE5CbGZ0aDlJalZRUHF6RW5ESWtCTFRKZG5hUjRUYWR4VXY5X0NZSUpJbDItWVdvdlJUU2I2d0g3ekJZeTBJeTVLSm1VNUdSdTk0Z0hid1VudkxNclpuLVJMS0o4SDhZd2tiODd1NTFWV2tma2ZVaGR4akluSGNaam1BaXdGcmVSMnljaF9CaEYzUHNyc21DWDRHaUF5RnpvSmEwQ2ZKSFJNRktibXlIaXlxb0poQzRMdUZXYUlqZkxzQVlSdFhnTWVPbm5fbnNINUZ3anhUNTdDMVhkQjJZLVE4aTBsdVV0NGtnZXJ6LXVqd3Vaei1XV2hfSzJvbnBybU9rTXFEV1NwcHdtNDRScHl3NC14ZmhWUEo1bWRBM3B0VE45d2lPZG1pYlVYWGFVcTc4U3lyWUo5azFtR3dmcl9ycHhzVHBYcEs2MTg5QWM4TjFJYVdNPSZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjI1MTQ1IiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6ImIzY2NmNzNhXzdhNjZfNGY4NV9hZTc0XzExMzY3ZmZiMmZhNyIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h5dVBtamFNMlBINGdxZG9YX0VrcUhGTm9OYUZYSHNVT0JfdFNQQzBqZnJyQVhkeHJrR3FRQTNsWXNSRmcydTh2ZjJQUUhyb0FSYVIwS2RQS2tqNHJ0M3JxM3pHYkFwRHYxYVFWc0FLd2VDbTN2OWdNVk5FUlBKcGtNUjJHZUl5bnIwZk9uRVg0OW1WQkV1V0tVOUJOUWduT0VEVGExRGR3WHVpZFZ4ZVpkWFFNTWVmaVc4TkJsZnRoOUlqVlFQcXpFbkRJa0JMVEpkbmFSNFRhZHhVdjlfQ1lJSklsMi1ZV292UlRTYjZ3SDd6Qll5MEl5NUtKbVU1R1J1OTRnSGJ3VW52TE1yWm4tUkxLSjhIOFl3a2I4N3U1MVZXa2ZrZlVoZHhqSW5IY1pqbUFpd0ZyZVIyeWNoX0JoRjNQc3JzbUNYNEdpQXlGem9KYTBDZkpIUk1GS2JteUhpeXFvSmhDNEx1RldhSWpmTHNBWVJ0WGdNZU9ubl9uc0g1RndqeFQ1N0MxWGRCMlktUThpMGx1VXQ0a2dlcnotdWp3dVp6LVdXaF9LMm9ucHJtT2tNcURXU3Bwd200NFJweXc0LXhmaFZQSjVtZEEzcHRUTjl3aU9kbWliVVhYYVVxNzhTeXJZSjlrMW1Hd2ZyX3JweHNUcFhwSzYxODlBYzhOMUlhV009IiwidWRpZCI6IjJlMTJlZDJlLWE4ZmYtNDdkMS04MmNiLTNjNTQ5OGJiY2NkZF93ZWJfbW9oZC5mYXV6aS5tQGdtYWlsLmNvbV9XRUItZDJhZjFiMzAtOTU3OS1jZTUxLTQ2YWUtNmYwZGJkMjcwMWIxIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjozMjA5fQ%3D%3D&signature=9pKxHV0BEiPLpHLsamIWRioSIIk%3D
+# https://linear01-playback.sooka.my/CH1/masterCH1.mpd
 # http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
-# http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6708
+# http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+# http://foctv.xyz:25510/Amir5641/YY5641/148
 
-#EXTINF:-1 tvg-id="812" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/812.png/revision/latest?cb=20200520222551",812 Astro SuperSport 2 HD
+#EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/812.png/revision/latest?cb=20200520222551",812 Astro SuperSport 2 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeXVQbWphTTJQSDRncWRvWF9Fa3FIRk5vTmFGWEhzVU9CX3RTUEMwamZyckFYZHhya0dxUUEzbFlzUkZnMnU4dmYyUFFIcm9BUmFSMEtkUEtrajRydDNycTN6R2JBcER2MWFRVnNBS3dlQ20zdjlnTVZORVJQSnBrTVIyR2VJeW5yMGZPbkVYNDltVkJFdVdLVTlCTlFnbk9FRFRhMURkd1h1aWRWeGVaZFhRTU1lZmlXOE5CbGZ0aDlJalZRUHF6RW5ESWtCTFRKZG5hUjRUYWR4VXY5X0NZSUpJbDItWVdvdlJUU2I2d0g3ekJZeTBJeTVLSm1VNUdSdTk0Z0hid1VudkxNclpuLVJMS0o4SDhZd2tiODd1NTFWV2tma2ZVaGR4akluSGNaam1BaXdGcmVSMnljaF9CaEYzUHNyc21DWDRHaUF5RnpvSmEwQ2ZKSFJNRktibXlIaXlxb0poQzRMdUZXYUlqZkxzQVlSdFhnTWVPbm5fbnNINUZ3anhUNTdDMVhkQjJZLVE4aTBsdVV0NGtnZXJ6LXVqd3Vaei1XV2hfSzJvbnBybU9rTXFEV1NwcHdtNDRScHl3NC14ZmhWUEo1bWRBM3B0VE45d2lPZG1pYlVYWGFVcTc4U3lyWUo5azFtR3dmcl9ycHhzVHBYcEs2MTg5QWM4TjFJYVdNPSZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjI1MjMyIiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6IjhmMWRhMzk5XzMyNTJfNDdlY19hNmFjX2RkN2JhZmI5NWZhMiIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h5dVBtamFNMlBINGdxZG9YX0VrcUhGTm9OYUZYSHNVT0JfdFNQQzBqZnJyQVhkeHJrR3FRQTNsWXNSRmcydTh2ZjJQUUhyb0FSYVIwS2RQS2tqNHJ0M3JxM3pHYkFwRHYxYVFWc0FLd2VDbTN2OWdNVk5FUlBKcGtNUjJHZUl5bnIwZk9uRVg0OW1WQkV1V0tVOUJOUWduT0VEVGExRGR3WHVpZFZ4ZVpkWFFNTWVmaVc4TkJsZnRoOUlqVlFQcXpFbkRJa0JMVEpkbmFSNFRhZHhVdjlfQ1lJSklsMi1ZV292UlRTYjZ3SDd6Qll5MEl5NUtKbVU1R1J1OTRnSGJ3VW52TE1yWm4tUkxLSjhIOFl3a2I4N3U1MVZXa2ZrZlVoZHhqSW5IY1pqbUFpd0ZyZVIyeWNoX0JoRjNQc3JzbUNYNEdpQXlGem9KYTBDZkpIUk1GS2JteUhpeXFvSmhDNEx1RldhSWpmTHNBWVJ0WGdNZU9ubl9uc0g1RndqeFQ1N0MxWGRCMlktUThpMGx1VXQ0a2dlcnotdWp3dVp6LVdXaF9LMm9ucHJtT2tNcURXU3Bwd200NFJweXc0LXhmaFZQSjVtZEEzcHRUTjl3aU9kbWliVVhYYVVxNzhTeXJZSjlrMW1Hd2ZyX3JweHNUcFhwSzYxODlBYzhOMUlhV009IiwidWRpZCI6IjJlMTJlZDJlLWE4ZmYtNDdkMS04MmNiLTNjNTQ5OGJiY2NkZF93ZWJfbW9oZC5mYXV6aS5tQGdtYWlsLmNvbV9XRUItZDJhZjFiMzAtOTU3OS1jZTUxLTQ2YWUtNmYwZGJkMjcwMWIxIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjozMjA5fQ%3D%3D&signature=aoEhUyG6%2BXgB%2FxzM9zjrP3J10fU%3D
+# https://linear01-playback.sooka.my/CH4/masterCH4.mpd
 # http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-# http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
-http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6710
+# http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+# http://foctv.xyz:25510/Amir5641/YY5641/149
 
-#EXTINF:-1 tvg-id="813" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png/revision/latest?cb=20180622075715",813 Astro SuperSport 3 HD
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png/revision/latest?cb=20180622075715",813 Astro SuperSport 3 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeXVQbWphTTJQSDRncWRvWF9Fa3FIRk5vTmFGWEhzVU9CX3RTUEMwamZyckFYZHhya0dxUUEzbFlzUkZnMnU4dmYyUFFIcm9BUmFSMEtkUEtrajRydDNycTN6R2JBcER2MWFRVnNBS3dlQ20zdjlnTVZORVJQSnBrTVIyR2VJeW5yMGZPbkVYNDltVkJFdVdLVTlCTlFnbk9FRFRhMURkd1h1aWRWeGVaZFhRTU1lZmlXOE5CbGZ0aDlJalZRUHF6RW5ESWtCTFRKZG5hUjRUYWR4VXY5X0NZSUpJbDItWVdvdlJUU2I2d0g3ekJZeTBJeTVLSm1VNUdSdTk0Z0hid1VudkxNclpuLVJMS0o4SDhZd2tiODd1NTFWV2tma2ZVaGR4akluSGNaam1BaXdGcmVSMnljaF9CaEYzUHNyc21DWDRHaUF5RnpvSmEwQ2ZKSFJNRktibXlIaXlxb0poQzRMdUZXYUlqZkxzQVlSdFhnTWVPbm5fbnNINUZ3anhUNTdDMVhkQjJZLVE4aTBsdVV0NGtnZXJ6LXVqd3Vaei1XV2hfSzJvbnBybU9rTXFEV1NwcHdtNDRScHl3NC14ZmhWUEo1bWRBM3B0VE45d2lPZG1pYlVYWGFVcTc4U3lyWUo5azFtR3dmcl9ycHhzVHBYcEs2MTg5QWM4TjFJYVdNPSZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjI1MzAyIiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6IjBkNmQyYTFhX2M4ZDFfNGUxOV9iMTc0XzU1NjUwNzcwY2Q5OSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h5dVBtamFNMlBINGdxZG9YX0VrcUhGTm9OYUZYSHNVT0JfdFNQQzBqZnJyQVhkeHJrR3FRQTNsWXNSRmcydTh2ZjJQUUhyb0FSYVIwS2RQS2tqNHJ0M3JxM3pHYkFwRHYxYVFWc0FLd2VDbTN2OWdNVk5FUlBKcGtNUjJHZUl5bnIwZk9uRVg0OW1WQkV1V0tVOUJOUWduT0VEVGExRGR3WHVpZFZ4ZVpkWFFNTWVmaVc4TkJsZnRoOUlqVlFQcXpFbkRJa0JMVEpkbmFSNFRhZHhVdjlfQ1lJSklsMi1ZV292UlRTYjZ3SDd6Qll5MEl5NUtKbVU1R1J1OTRnSGJ3VW52TE1yWm4tUkxLSjhIOFl3a2I4N3U1MVZXa2ZrZlVoZHhqSW5IY1pqbUFpd0ZyZVIyeWNoX0JoRjNQc3JzbUNYNEdpQXlGem9KYTBDZkpIUk1GS2JteUhpeXFvSmhDNEx1RldhSWpmTHNBWVJ0WGdNZU9ubl9uc0g1RndqeFQ1N0MxWGRCMlktUThpMGx1VXQ0a2dlcnotdWp3dVp6LVdXaF9LMm9ucHJtT2tNcURXU3Bwd200NFJweXc0LXhmaFZQSjVtZEEzcHRUTjl3aU9kbWliVVhYYVVxNzhTeXJZSjlrMW1Hd2ZyX3JweHNUcFhwSzYxODlBYzhOMUlhV009IiwidWRpZCI6IjJlMTJlZDJlLWE4ZmYtNDdkMS04MmNiLTNjNTQ5OGJiY2NkZF93ZWJfbW9oZC5mYXV6aS5tQGdtYWlsLmNvbV9XRUItZDJhZjFiMzAtOTU3OS1jZTUxLTQ2YWUtNmYwZGJkMjcwMWIxIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjozMjA5fQ%3D%3D&signature=Rw8qGIr7XZ4i7skfEART7tS%2FbAM%3D
+# https://linear01-playback.sooka.my/CH5/masterCH5.mpd
 # http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
-# http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
-http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6711
+# http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+# http://foctv.xyz:25510/Amir5641/YY5641/232
 
-#EXTINF:-1 tvg-id="814" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Astro_Supersport_4_2015.png/revision/latest?cb=20180622080127",814 Astro SuperSport 4 HD
+#EXTINF:-1 tvg-id="AstroSupersport4" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Astro_Supersport_4_2015.png/revision/latest?cb=20180622080127",814 Astro SuperSport 4 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeXVQbWphTTJQSDRncWRvWF9Fa3FIRk5vTmFGWEhzVU9CX3RTUEMwamZyckFYZHhya0dxUUEzbFlzUkZnMnU4dmYyUFFIcm9BUmFSMEtkUEtrajRydDNycTN6R2JBcER2MWFRVnNBS3dlQ20zdjlnTVZORVJQSnBrTVIyR2VJeW5yMGZPbkVYNDltVkJFdVdLVTlCTlFnbk9FRFRhMURkd1h1aWRWeGVaZFhRTU1lZmlXOE5CbGZ0aDlJalZRUHF6RW5ESWtCTFRKZG5hUjRUYWR4VXY5X0NZSUpJbDItWVdvdlJUU2I2d0g3ekJZeTBJeTVLSm1VNUdSdTk0Z0hid1VudkxNclpuLVJMS0o4SDhZd2tiODd1NTFWV2tma2ZVaGR4akluSGNaam1BaXdGcmVSMnljaF9CaEYzUHNyc21DWDRHaUF5RnpvSmEwQ2ZKSFJNRktibXlIaXlxb0poQzRMdUZXYUlqZkxzQVlSdFhnTWVPbm5fbnNINUZ3anhUNTdDMVhkQjJZLVE4aTBsdVV0NGtnZXJ6LXVqd3Vaei1XV2hfSzJvbnBybU9rTXFEV1NwcHdtNDRScHl3NC14ZmhWUEo1bWRBM3B0VE45d2lPZG1pYlVYWGFVcTc4U3lyWUo5azFtR3dmcl9ycHhzVHBYcEs2MTg5QWM4TjFJYVdNPSZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjI1MzA0IiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6IjFiNWU1MTU2XzM4ZGVfNDI0M19iNmJhXzQ5ODQzZDBiZTc2MyIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h5dVBtamFNMlBINGdxZG9YX0VrcUhGTm9OYUZYSHNVT0JfdFNQQzBqZnJyQVhkeHJrR3FRQTNsWXNSRmcydTh2ZjJQUUhyb0FSYVIwS2RQS2tqNHJ0M3JxM3pHYkFwRHYxYVFWc0FLd2VDbTN2OWdNVk5FUlBKcGtNUjJHZUl5bnIwZk9uRVg0OW1WQkV1V0tVOUJOUWduT0VEVGExRGR3WHVpZFZ4ZVpkWFFNTWVmaVc4TkJsZnRoOUlqVlFQcXpFbkRJa0JMVEpkbmFSNFRhZHhVdjlfQ1lJSklsMi1ZV292UlRTYjZ3SDd6Qll5MEl5NUtKbVU1R1J1OTRnSGJ3VW52TE1yWm4tUkxLSjhIOFl3a2I4N3U1MVZXa2ZrZlVoZHhqSW5IY1pqbUFpd0ZyZVIyeWNoX0JoRjNQc3JzbUNYNEdpQXlGem9KYTBDZkpIUk1GS2JteUhpeXFvSmhDNEx1RldhSWpmTHNBWVJ0WGdNZU9ubl9uc0g1RndqeFQ1N0MxWGRCMlktUThpMGx1VXQ0a2dlcnotdWp3dVp6LVdXaF9LMm9ucHJtT2tNcURXU3Bwd200NFJweXc0LXhmaFZQSjVtZEEzcHRUTjl3aU9kbWliVVhYYVVxNzhTeXJZSjlrMW1Hd2ZyX3JweHNUcFhwSzYxODlBYzhOMUlhV009IiwidWRpZCI6IjJlMTJlZDJlLWE4ZmYtNDdkMS04MmNiLTNjNTQ5OGJiY2NkZF93ZWJfbW9oZC5mYXV6aS5tQGdtYWlsLmNvbV9XRUItZDJhZjFiMzAtOTU3OS1jZTUxLTQ2YWUtNmYwZGJkMjcwMWIxIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjozMjA5fQ%3D%3D&signature=TWF6hp8m2VxHumSvQAF3piPomhE%3D
+# https://linear02-playback.sooka.my/CH1/masterCH1.mpd
 # http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
-# http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6712
+# http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+# https://m3u-editor.com/serve/22111c99-66-11eb-b22c-6f670e934a5b/343954943
 
-#EXTINF:-1 tvg-id="815" group-title="Sports" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png",815 FOX Sports HD
+#EXTINF:-1 tvg-id="FOXSports" group-title="Sports" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png",815 FOX Sports HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MjNkNzI0MmMtZWQ0ZC0zZTE5LTg2ODctYTYyNWVlNmU0ZTc0||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 # https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="816" group-title="Sports" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png",816 FOX Sports 2 HD
+#EXTINF:-1 tvg-id="FOXSports2" group-title="Sports" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png",816 FOX Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MjNkNzI0MmMtZWQ0ZC0zZTE5LTg2ODctYTYyNWVlNmU0ZTc0||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 # https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="817" group-title="Sports" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png",817 FOX Sports 3 HD
+#EXTINF:-1 tvg-id="FOXSports3" group-title="Sports" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png",817 FOX Sports 3 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MjNkNzI0MmMtZWQ0ZC0zZTE5LTg2ODctYTYyNWVlNmU0ZTc0||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
@@ -1089,7 +1152,7 @@ https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CHN" group-title="Sirius TV" tvg-logo="https://siriusmalaysia.tv/wp-content/uploads/2021/03/fight-box.png",Fight Box
 https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/501
 
-#EXTINF:-1 tvg-id="DisneyChannel" group-title="Available Until 1 October 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png", Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel" group-title="Available Until 1 October 2021 (Kids)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png", Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
