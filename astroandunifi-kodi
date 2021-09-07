@@ -943,23 +943,31 @@ http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd?icpid=88888888&fro
 # https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:-1 tvg-id="819" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest?cb=20190319023656",819 BeIN Sports MAX HD
+#EXTINF:-1 tvg-id="beINSports" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",818 beIN Sports
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
+# https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37432
+
+#EXTINF:-1 tvg-id="beINSportsMAX" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest?cb=20190319023656",819 BeIN Sports MAX HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6748
 
-#EXTINF:-1 tvg-id="820" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",820 Eurosport HD
-https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/37434
+#EXTINF:-1 tvg-id="Eurosport" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",820 Eurosport HD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37434
 
-#EXTINF:-1 tvg-id="821" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png",821 WWE Network HD
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6849
+#EXTINF:-1 tvg-id="WWENetwork" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png",821 WWE Network HD
+# http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6849
+http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="822" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",822 Golf Channel HD
-https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/561
+#EXTINF:-1 tvg-id="GolfChannel" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",822 Golf Channel HD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/561
 
-#EXTINF:-1 tvg-id="823" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png",823 Rugby Pass TV HD
-https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/37437
+#EXTINF:-1 tvg-id="RugbyPassTV" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png",823 Rugby Pass TV HD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37437
 
-#EXTINF:-1 tvg-id="824" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",824 Astro Cricket
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6717
+#EXTINF:-1 tvg-id="AstroCricket" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",824 Astro Cricket
+# http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6717
+http://50.7.161.82:8278/streams/d/astrocricket_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" tvg-chno="956" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/z7NxkSb6",988
 http://22283.live.streamtheworld.com/988_FMAAC.aac
@@ -979,68 +987,68 @@ https://mediaprima.rastream.com/mediaprima-flyfm
 #EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="724" tvg-chno="724" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png/revision/latest/scale-to-width-down/200?cb=20210801172242",8FM
 https://mediaprima.rastream.com/mediaprima-onefm
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="852" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ
+#EXTINF:-1 group-title="Radio Stations" tvg-id="HITZ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ
 https://astro1.rastream.com/hitz
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="853" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png", MY
+#EXTINF:-1 group-title="Radio Stations" tvg-id="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png", MY
 https://astro1.rastream.com/myfm
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="854" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png",LITE
+#EXTINF:-1 group-title="Radio Stations" tvg-id="LITE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png",LITE
 # https://astro1.rastream.com/lite
 https://raw.githubusercontent.com/AqFad2811/myiptv/main/lite/info.m3u8
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="855" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX
+#EXTINF:-1 group-title="Radio Stations" tvg-id="MIX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX
 https://astro2.rastream.com/mix
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="856" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA
+#EXTINF:-1 group-title="Radio Stations" tvg-id="ERA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA
 https://astro2.rastream.com/era
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR
+#EXTINF:-1 group-title="Radio Stations" tvg-id="SINAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR
 https://astro2.rastream.com/sinar
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="858" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY
+#EXTINF:-1 group-title="Radio Stations" tvg-id="MELODY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY
 https://astro3.rastream.com/melody
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="859" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png",RAAGA
+#EXTINF:-1 group-title="Radio Stations" tvg-id="RAAGA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png",RAAGA
 https://astro3.rastream.com/raaga
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="860" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png",SYOK Classic Rock
+#EXTINF:-1 group-title="Radio Stations" tvg-id="ROCK" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png",SYOK Classic Rock
 https://astro4.rastream.com/rock
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="861" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png",SYOK Gold
+#EXTINF:-1 group-title="Radio Stations" tvg-id="GOLD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png",SYOK Gold
 https://astro4.rastream.com/gold
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="862" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/16_144.png",SYOK Opus
+#EXTINF:-1 group-title="Radio Stations" tvg-id="OPUS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/16_144.png",SYOK Opus
 https://astro4.rastream.com/opus
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="863" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR
+#EXTINF:-1 group-title="Radio Stations" tvg-id="GEGAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR
 https://astro3.rastream.com/gegar
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="864" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png",SYOK India Beat
+#EXTINF:-1 group-title="Radio Stations" tvg-id="INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png",SYOK India Beat
 https://astro4.rastream.com/india
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="865" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/24_144.png",SYOK Jazz
+#EXTINF:-1 group-title="Radio Stations" tvg-id="JAZZ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/24_144.png",SYOK Jazz
 https://astro4.rastream.com/jazz
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="866" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/27_144.png",SYOK Osai
+#EXTINF:-1 group-title="Radio Stations" tvg-id="OSAI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/27_144.png",SYOK Osai
 https://astro4.rastream.com/osai
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="867" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png",SYOK Bayu
+#EXTINF:-1 group-title="Radio Stations" tvg-id="BAYU" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png",SYOK Bayu
 https://astro4.rastream.com/bayu
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="868" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/32_144.png",SYOK Kenyalang
+#EXTINF:-1 group-title="Radio Stations" tvg-id="KENYALANG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/32_144.png",SYOK Kenyalang
 https://astro4.rastream.com/kenyalang
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="876" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png",ZAYAN
+#EXTINF:-1 group-title="Radio Stations" tvg-id="ZAYAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png",ZAYAN
 https://astro3.rastream.com/astro-zayan
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="877" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png",GOXUAN
+#EXTINF:-1 group-title="Radio Stations" tvg-id="GOXUAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png",GOXUAN
 https://astro3.rastream.com/astro-goxuan
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="882" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/304_144.png",Arena Radio
+#EXTINF:-1 group-title="Radio Stations" tvg-id="ARENARADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/304_144.png",Arena Radio
 https://astro1.rastream.com/amp-arena
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="869" tvg-logo="https://user-images.githubusercontent.com/85995579/128818868-1f01f150-d8ec-4d0a-913c-efbd58b35536.png",Nasional FM
+#EXTINF:-1 group-title="Radio Stations" tvg-id="NASFM" tvg-logo="https://user-images.githubusercontent.com/85995579/128818868-1f01f150-d8ec-4d0a-913c-efbd58b35536.png",Nasional FM
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="ERASabah" tvg-logo="https://user-images.githubusercontent.com/85995579/128819046-ed79afa6-48e1-492f-94e3-c19a59095c7d.png",ERA Sabah
@@ -1061,7 +1069,7 @@ https://astro1.rastream.com/amp-myfm-kk
 #EXTINF:-1 group-title="Radio Stations" tvg-id="MYSarawak" tvg-logo="https://user-images.githubusercontent.com/85995579/128819553-955ecb59-b3bc-4698-b73b-2e798490b6b2.png",MY Sarawak
 https://astro1.rastream.com/amp-myfm-kch
 
-#EXTINF:-1, group-title="Online TV" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
+#EXTINF:-1, group-title="Online TV" tvg-id="CHN" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CHN" group-title="Sirius TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/200?cb=20201126072306",GEM
