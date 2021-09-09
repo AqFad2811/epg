@@ -161,13 +161,13 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227480/3221227480.mpd
 #EXTINF:-1 tvg-id="8TV" group-title="myFreeview" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",148 8TV (HD)
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcek3ruVxrM7xjgDf8J901A)/dm/3/x6qud17/s/live-2.m3u8
 
-#EXTINF:-1 tvg-id="TV9" group-title="myFreeview" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest?cb=20170819074656",149 TV9
+#EXTINF:-1 tvg-id="TV9" group-title="myFreeview" tvg-logo="https://i.postimg.cc/DfRv24K4/TV9-2021.png",149 TV9
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MjNkNzI0MmMtZWQ0ZC0zZTE5LTg2ODctYTYyNWVlNmU0ZTc0
 # https://mediahomes.github.io/assets/my/ch_tv9.m3u8
 https://web.hypp.tv:443/PLTV/88888888/224/3221227483/3221227483.mpd
 
-#EXTINF:-1 tvg-id="TV9" group-title="myFreeview" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest?cb=20170819074656",149 TV9 (HD)
+#EXTINF:-1 tvg-id="TV9" group-title="myFreeview" tvg-logo="https://i.postimg.cc/DfRv24K4/TV9-2021.png",149 TV9 (HD)
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbxGC1twivzp1mr7uRDdmWk)/dm/3/x6qqja6/s/live-4.m3u8
 
 #EXTINF:-1 tvg-id="151" group-title="Shopping" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png",151 LAKU Mall 
