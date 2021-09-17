@@ -6,8 +6,7 @@
 https://conversant.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SCTV_Logo.svg/revision/latest/scale-to-width-down/250?cb=20200917125607",SCTV (HD)
-# http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
-http://dituduhmaling.xyz/V11710/SCTV.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
 
 #EXTINF:-1 tvg-id="Indosiar.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Indosiar_2015.svg/revision/latest/scale-to-width-down/200?cb=20180321155318",Indosiar
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -16,8 +15,7 @@ https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 # https://etslive-2-vidio-com.akamaized.net/exp=1629375409~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=f053ee1b92c50f4b205a7505649f4f79cc5658d3c9106ed4ac829e914233b685/vp9/205_stream.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Indosiar_2015.svg/revision/latest/scale-to-width-down/200?cb=20180321155318",Indosiar (HD)
-# http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
-http://dituduhmaling.xyz/V11710/Indosiar.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
 
 #EXTINF:-1 tvg-id="OChannel.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/O_Channel.svg/revision/latest/scale-to-width-down/300?cb=20210615130503",O Channel
 http://dituduhmaling.xyz/V11710/Ochannel.m3u8
@@ -53,10 +51,10 @@ http://dituduhmaling.xyz/V11710/TVN.m3u8
 http://dituduhmaling.xyz/V11710/ZEEBIOSKOP.m3u8
 
 #EXTINF:-1 tvg-id="CitraDrama.id" group-title="HD" tvg-logo="https://user-images.githubusercontent.com/85995579/131083722-2044596a-0892-41ac-93bc-74ae43197eb4.png",Citra Drama
-http://dituduhmaling.xyz/V11710/Citradrama.m3u8
+https://nonton.site:8443/IGRKg9OA4w/kshsuismneio5689/905
 
 #EXTINF:-1  tvg-id="CitraDangdut.id" group-title="HD" tvg-logo="https://user-images.githubusercontent.com/85995579/131083944-3bb29182-a680-4d2e-8448-8bae65872daa.png",Citra Dangdut
-http://dituduhmaling.xyz/V11710/Citradangdut.m3u8
+https://nonton.site:8443/IGRKg9OA4w/kshsuismneio5689/2207
 
 #EXTINF:-1  tvg-id="CitraBioskop.id" group-title="Movies" tvg-logo="https://user-images.githubusercontent.com/85995579/131082880-9ff5fb5d-6673-4ced-978e-56ea96701793.png",Citra Bioskop 
 http://dituduhmaling.xyz/V11710/Citrabioskop.m3u8
@@ -188,7 +186,7 @@ http://dituduhmaling.xyz/V11710/TVEdukasi.m3u8
 https://nonton.site:8443/IGRKg9OA4w/kshsuismneio5689/26632
 
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV" group-title="HD" tvg-logo="https://i.postimg.cc/d3LmTG2G/al-quran-al-kareem-tv.png",Al Quran Al Kareem TV
-http://dituduhmaling.xyz/V11710/Alquranalkareemtv.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a6a41c2a2a7270517f5ce8dd2f48fc68d
 
 #EXTINF:-1 tvg-id="UChannel" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/U_Channel.png/revision/latest/scale-to-width-down/270?cb=20180925101905",U Channel
 # http://gpc.my.id/usee/uchannel.m3u8
