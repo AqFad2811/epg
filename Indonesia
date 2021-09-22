@@ -175,7 +175,7 @@ http://gpc.my.id/vidio/dw-english.m3u8
 # http://gpc.my.id/vidio/mola-tv-free.m3u8
 https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8
 
-#EXTINF:-1 tvg-id="TVEdukasi.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/TV_Edukasi_2011.png/revision/latest/scale-to-width-down/300?cb=20180920093440",TV Edukasi
+#EXTINF:-1 tvg-id="TVEdukasi.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/TV_Edukasi_2011.png/revision/latest/scale-to-width-down/300?cb=20180920093440",TV Edukasi
 http://118.98.229.118:1935/live/tve.stream/chunklist_w1331085451.m3u8
 
 #EXTINF:-1 tvg-id="Reformed21" group-title="HD" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/lqlmqU-yWHG_7ftdaUPs-qmzy7M=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6853/reformed-21-tv-b1db6d.jpg",Reformed 21 HD
