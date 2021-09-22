@@ -27,7 +27,10 @@ http://dituduhmaling.xyz/V11710/Ochannel.m3u8
 https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #EXTINF:-1 tvg-id="NetTV.id" group-title="HD" tvg-logo="https://user-images.githubusercontent.com/85995579/131073645-136bf6a5-99e9-4d09-b617-33bbb08b4f71.png",NET HD
-https://github.com/AqFad2811/randomlivefromyt2/raw/main/NET.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://conversant.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+# https://github.com/AqFad2811/randomlivefromyt2/raw/main/NET.m3u8
 
 #EXTINF:-1 tvg-id="RTV.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Rajawali_Televisi_logo.svg/revision/latest/scale-to-width-down/250?cb=20200922073436",RTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
