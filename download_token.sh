@@ -4,7 +4,7 @@ echo -e "\e[1;31m [INFO] Create Folder \e[0m"
 mkdir m3u8
 
 echo -e "\e[1;31m [INFO] Downloading TV3 \e[0m"
-TV3="https://demo.samsam123.tk/mediaprima_dailymotion/TV3.php?"$AUTH
+TV3="https://github.com/AqFad2811/myiptv/main/TV3.php?"$AUTH
 wget -O TV3.m3u8 --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.31" $TV3
 cp 'TV3.m3u8' 'm3u8/TV3.m3u8'
 rm 'TV3.m3u8'
