@@ -68,25 +68,25 @@ curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
 $resp = curl_exec($curl);
 curl_close($curl);
 echo $resp;
-?><style type="text/css">html { padding-top: 26px; } #xt_auth_iframe { position: fixed; top: 0; left: 0; background: transparent; }</style><iframe id="xt_auth_iframe" allowTransparency="true" scrolling="no" frameBorder="0" style="width: 100%; border: 0; height: 26px;" src="https://xtgem.com/__xt_authbar?data=eyJ1cmwiOiJodHRwOlwvXC9hcWZhZC54dGdlbS5jb21cL1RWMy5waHAiLCJsb2dnZWRfaW4iOmZhbHNlLCJkb21haW4iOiJhcWZhZC54dGdlbS5jb20iLCJwb3NpdGlvbiI6eyJhYnNvbHV0ZSI6ImZpeGVkIn19"></iframe><br /><!----><noscript></noscript><script type="text/javascript"></script><textarea style="display:none;"></textarea><style></style><iframe style="display:none;width:0px;height:0px;border:0"></iframe><noframes></noframes><div id="st1633090593" style="z-index:999999;z-index:999999999;"><span id="a1633090593"><a href="http://xtgem.com/click?p=featured_other_web_clean&amp;u=__urlaHR0cDovL2JhY2t0b29sZHNjaG9vbC54dGdlbS5jb20vaW5kZXgvX194dGJsb2dfZW50cnkvMTAxOTg2OTEtZGlzbmV5bGFuZC0xOTcyLWxvdmUtdGhlLW9sZC1zY2hvb2wtYmFsbG9vbnMuP3V0bV9tZWRpdW09eHRnZW1fYWRfd2ViX2Jhbm5lciZ1dG1fc291cmNlPWZlYXR1cmVkX2FkI3h0X2Jsb2c=&amp;s=aqfad.xtgem.com&amp;t=KhsdHx4eFgAECwAZBAAHCQ8DDA8LCQx3eHI=&amp;_is_adult=No&amp;_ad_pos=Bottom&amp;_ad_format=Plain&amp;_ad_url=YXFmYWQueHRnZW0uY29tL1RWMy5waHA=&amp;_ad_networks=&amp;_ad_type=Banner" target="_blank" target="_blank" class="fbp1633090593"><img style="width:auto !important;height:auto !important;" alt="" src="http://5.thumbs.xtstatic.com/100/50/-/5a863a045714f1131d9c0a62603ddf96/backtooldschool.xtgem.com/images/blog/disneyland-1972-love-the-old-s-92184.jpg" /><span class="fbp_txt1633090593">Disneyland 1972 Love the </span><span class="fbp_ico1633090593">&#187;</span></a></span>        <style type="text/css">
-            #st1633090593 *
+?><style type="text/css">html { padding-top: 26px; } #xt_auth_iframe { position: fixed; top: 0; left: 0; background: transparent; }</style><iframe id="xt_auth_iframe" allowTransparency="true" scrolling="no" frameBorder="0" style="width: 100%; border: 0; height: 26px;" src="https://xtgem.com/__xt_authbar?data=eyJ1cmwiOiJodHRwOlwvXC9hcWZhZC54dGdlbS5jb21cL1RWMy5waHAiLCJsb2dnZWRfaW4iOmZhbHNlLCJkb21haW4iOiJhcWZhZC54dGdlbS5jb20iLCJwb3NpdGlvbiI6eyJhYnNvbHV0ZSI6ImZpeGVkIn19"></iframe><br /><!----><noscript></noscript><script type="text/javascript"></script><textarea style="display:none;"></textarea><style></style><iframe style="display:none;width:0px;height:0px;border:0"></iframe><noframes></noframes><div id="st1633090758" style="z-index:999999;z-index:999999999;"><span id="a1633090758"><a href="http://xtgem.com/click?p=forums_catalog_web&amp;u=__urlaHR0cDovL3h0Z2VtLmNvbS9mb3J1bXM/YWQ9MQ==&amp;s=aqfad.xtgem.com&amp;t=KhsdHx4eFgAGBwsZBwAOCwgJAwUNCwtzcHQ=&amp;_is_adult=No&amp;_ad_pos=Bottom&amp;_ad_format=Plain&amp;_ad_url=YXFmYWQueHRnZW0uY29tL1RWMy5waHA=&amp;_ad_networks=&amp;_ad_type=Banner" target="_blank"><img src="http://xtgem.com/images/forum/xtgem-forums.jpg" alt="XtGem Forum catalog"></a></span>        <style type="text/css">
+            #st1633090758 *
             {
                 box-sizing:content-box !important;
             }
 
-            #st1633090593 a
+            #st1633090758 a
             {
                 display: inline-block !important;
                 vertical-align: top;
                 padding: 0; margin: 0;
             }
 
-            #st1633090593 a img
+            #st1633090758 a img
             {
                 display: inline-block !important;
             }
 
-            #st1633090593 ._xt_ad_close, #st1633090593 ._xt_ad_close_internal
+            #st1633090758 ._xt_ad_close, #st1633090758 ._xt_ad_close_internal
             {
                 display: inline-block !important;
                 position: absolute !important;
@@ -96,19 +96,19 @@ echo $resp;
                 cursor: pointer;
             }
 
-            #st1633090593 ._xt_ad_close
+            #st1633090758 ._xt_ad_close
             {
                 top: -10px !important;
             }
 
-            #st1633090593 ._xt_ad_close_internal
+            #st1633090758 ._xt_ad_close_internal
             {
                 border: 6px solid transparent;
                 top: -12px !important;
                 right: 3px !important;
             }
 
-            #a1633090593
+            #a1633090758
             {
                 display: inline-block !important;
                 position: relative !important;
@@ -120,7 +120,7 @@ echo $resp;
                 z-index:999999999 !important;
             }
 
-            #a1633090593 img
+            #a1633090758 img
             {
                 max-width: none !important;
                 max-height: none !important;
@@ -130,7 +130,7 @@ echo $resp;
                 min-height: 0 !important;
             }
 
-            .fba1633090593
+            .fba1633090758
             {
                 color: #1D1EEB !important;
                 background-color: #fff !important;
@@ -152,7 +152,7 @@ echo $resp;
                 background-position: 95% center !important;
             }
 
-            .fbp1633090593
+            .fbp1633090758
             {
                 position: relative !important;
                 display: block !important;
@@ -169,7 +169,7 @@ echo $resp;
                 text-decoration: underline !important;
             }
 
-            .fbp_txt1633090593
+            .fbp_txt1633090758
             {
                 position:relative !important;
                 display: inline-block !important;
@@ -187,7 +187,7 @@ echo $resp;
                 text-decoration: underline !important;
             }
 
-            .fbp_ico1633090593
+            .fbp_ico1633090758
             {
                 position: absolute !important;
                 right: 10px !important;
@@ -197,8 +197,8 @@ echo $resp;
                 color: #6bc135 !important;
             }
 
-            #st1633090593 .rolling_ad { display: none !important; }
-            #st1633090593 .rolling_ad.roll_on { display: inline-block !important; }
+            #st1633090758 .rolling_ad { display: none !important; }
+            #st1633090758 .rolling_ad.roll_on { display: inline-block !important; }
         </style></div><!----><noscript></noscript><script type="text/javascript"></script><textarea style="display:none;"></textarea><style></style><iframe style="display:none;width:0px;height:0px;border:0"></iframe><noframes></noframes><script type="text/javascript" id="xtjs">                (function (){
 
                     var d, b, ad_pos = false, el_rolling_ads, html, el, el_inner, el_new = '', i = 0;
@@ -207,8 +207,8 @@ echo $resp;
                         d = document;
                         b = d.getElementsByTagName('body')[0];
                         html = d.documentElement;
-                        el = d.getElementById( 'st1633090593' );
-                        el_inner = d.getElementById( 'a1633090593' );
+                        el = d.getElementById( 'st1633090758' );
+                        el_inner = d.getElementById( 'a1633090758' );
                         el_rolling_ads = el.getElementsByClassName( 'rolling_ad' );
                     }
 
@@ -261,7 +261,7 @@ echo $resp;
                             closebutton.src = '//xtgem.com/images/close2.png?v=0.01';
                             closebutton.alt = '[x]';
                             closebutton.setAttribute( 'class', '_xt_ad_close' );
-                            closebutton.onclick = function () { closebutton.setAttribute( 'style', 'display: none !important' ); el.style.position = 'static';  closebutton.onclick = null; html.style.paddingBottom = '0'; html.style.paddingTop = '0'; if ( d.getElementById('wr1633090593') ) { d.getElementById('wr1633090593').style.bottom = '0'; } };
+                            closebutton.onclick = function () { closebutton.setAttribute( 'style', 'display: none !important' ); el.style.position = 'static';  closebutton.onclick = null; html.style.paddingBottom = '0'; html.style.paddingTop = '0'; if ( d.getElementById('wr1633090758') ) { d.getElementById('wr1633090758').style.bottom = '0'; } };
                             el_inner.appendChild(closebutton);
 
                         // lets roll ads if needed
