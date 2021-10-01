@@ -1,36 +1,10 @@
-<?php
-
-$url = "https://www.dailymotion.com/player/metadata/video/k1FijVynGNsZ2ZrAGJ0?embedder=https%3A%2F%2Fwww.xtra.com.my%2Flive-tv&referer=&";
-
-$curl = curl_init($url);
-curl_setopt($curl, CURLOPT_URL, $url);
-curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
-
-$headers = array(
-   "Referer: https://www.xtra.com.my/live-tv",
-   "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
-);
-curl_setopt($curl, CURLOPT_HTTPHEADER, $headers);
-//for debug only!
-curl_setopt($curl, CURLOPT_SSL_VERIFYHOST, false);
-curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
-
-$resp = curl_exec($curl);
-curl_close($curl);
-preg_match('/qualities":({.+?}),"/', $resp, $matches);
-$arr = json_decode($matches[1], true);
-    $m3u8_raw = $arr['auto'][0]['url'];
-    $url = $m3u8_raw;
-
-$curl = curl_init($url);
-curl_setopt($curl, CURLOPT_URL, $url);
-curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
-
-//for debug only!
-curl_setopt($curl, CURLOPT_SSL_VERIFYHOST, false);
-curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
-
-$resp = curl_exec($curl);
-curl_close($curl);
-echo $resp;
-?>
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=848x480
+https://dailymotionlive.akamaized.net/sec(_9ERdFwnAbs1GZsc1AwhHV28Yvq103IwiARXdCsIJOw)/dm/3/x6qqja6/s/live-0.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=900000,RESOLUTION=512x288
+https://dailymotionlive.akamaized.net/sec(_9ERdFwnAbs1GZsc1AwhHV28Yvq103IwiARXdCsIJOw)/dm/3/x6qqja6/s/live-1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2560000,RESOLUTION=1280x720
+https://dailymotionlive.akamaized.net/sec(_9ERdFwnAbs1GZsc1AwhHV28Yvq103IwiARXdCsIJOw)/dm/3/x6qqja6/s/live-2.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4000000,RESOLUTION=1920x1080
+https://dailymotionlive.akamaized.net/sec(_9ERdFwnAbs1GZsc1AwhHV28Yvq103IwiARXdCsIJOw)/dm/3/x6qqja6/s/live-4.m3u8
