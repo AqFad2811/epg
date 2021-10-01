@@ -23,7 +23,7 @@ rm '8TV.m3u8'
 
 echo -e "\e[1;31m [INFO] Downloading Drama Sangat \e[0m"
 DramaSangat="https://raw.githubusercontent.com/AqFad2811/myiptv/main/DramaSangat.php"$AUTH
-wget -O Drama_Sangat.m3u8 --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.31" $DramaSangat
+wget -O DramaSangat.m3u8 --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.31" $DramaSangat
 cp 'DramaSangat.m3u8' 'stream/DramaSangat.m3u8'
 rm 'DramaSangat.m3u8'
 
