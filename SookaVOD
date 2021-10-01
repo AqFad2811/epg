@@ -4,22 +4,22 @@ https://raw.githubusercontent.com/AqFad2811/myiptv/main/Sooka/Sooka.m3u8
 #EXTINF:-1 tvg-id="SuaraHati" group-title="VOD" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/f9deb78395c4475fa27a8f756eb3d816/version/1/width/1280/height/720",Suara Hati (Episod 1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa5487a7cd891a36b7c78be3fc52b80c:a8c7a741339aca0b1e2d2957c31fef73
-https://cdnapisec.kaltura.com/p/3089633/sp/308963300/playManifest/protocol/https//entryId/1_2alu9326/format/mpegdash/tags/mbr/f/a.mpd
+https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_2alu9326/v/1/ev/8/flavorId/1_,6ccnzu2i,0ylt135z,fe9zrq4c,c0aasa30,3y568pnh,ot8kjxdq,6p2c1d35,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 tvg-id="SuaraHati" group-title="VOD" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/f9deb78395c4475fa27a8f756eb3d816/version/1/width/1280/height/720",Suara Hati (Episod 2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a6f7e0840b6c411417470f1dd863bc5:da28594305025c4f0a82742289574c70
-https://cdnapisec.kaltura.com/p/3089633/sp/308963300/playManifest/protocol/https//entryId/1_m5u4ovzn/format/mpegdash/tags/mbr/f/a.mpd
+https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_m5u4ovzn/v/1/ev/8/flavorId/1_,6eftuj8o,ic22mig1,prmxydwg,lqgcyidk,xj3vsslc,ieapt5pj,qhxxgddn,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 tvg-id="CikAyuMeeSanggul" group-title="VOD" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/05ed2373f4f946a2bdc4aebb15971685/version/4/width/1280/height/720",Cik Ayu Mee Sanggul (Episod 1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1a251f479afff914ab1c95b2a24f5d4:984617e0c0454d2d78377c31a9f25e5e
-https://cdnapisec.kaltura.com/p/3089633/sp/308963300/playManifest/protocol/https//entryId/1_is6yhp3n/format/mpegdash/tags/mbr/f/a.mpd
+https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_is6yhp3n/v/1/ev/8/flavorId/1_,jza4hda9,j1gpozgj,1gwzebq4,1e5jv2yj,4e60g9eu,jz523yha,wata504u,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 tvg-id="CikAyuMeeSanggul" group-title="VOD" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/05ed2373f4f946a2bdc4aebb15971685/version/4/width/1280/height/720",Cik Ayu Mee Sanggul (Episod 2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c98d9d04741e8a4731eeb05b7e802ba:2091bd79cf732419fae611eb72973cab
-https://cdnapisec.kaltura.com/p/3089633/sp/308963300/playManifest/protocol/https//entryId/1_tpc30jdw/format/mpegdash/tags/mbr/f/a.mpd
+https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_tpc30jdw/v/1/ev/8/flavorId/1_,ydazjh16,viozcvzp,wsy4iowo,rxpg9t6l,8vko1xsl,21pzq0h2,nhk7keqp,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 tvg-id="RinduAwakSeparuhNyawa" group-title="VOD" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/c21dedfaab3446398ba87f10c8d5109e/version/2/width/1280/height/720",Rindu Awak Separuh Nyawa (Episod 1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -34,12 +34,12 @@ https://cdnapisec.kaltura.com/p/3089633/sp/308963300/playManifest/protocol/https
 #EXTINF:-1 tvg-id="ProjekAnchorSPM" group-title="VOD" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/91aacbd31f7a48cba6174a6647df35ef/version/7/width/1280/height/720",Projek Anchor SPM (Episod 1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b590c0b223f3d30569247133f4bdc03:e0a678587b8c7e5e5b5855a58385dca1
-https://cdnapisec.kaltura.com/p/3089633/sp/308963300/playManifest/protocol/https//entryId/1_jgigun8y/format/mpegdash/tags/mbr/f/a.mpd
+https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_jgigun8y/v/1/ev/9/flavorId/1_,5069vcbh,4e9m44m7,olab3298,rd8030yk,0ivvduk3,i7l2l405,8lnkr756,950dcz6t,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 tvg-id="ProjekAnchorSPM" group-title="VOD" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/91aacbd31f7a48cba6174a6647df35ef/version/7/width/1280/height/720",Projek Anchor SPM (Episod 2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1298b47843c47da3ff3d26623a74ef39:d85ae9ce6a74cc30c32f144936361aeb
-https://cdnapisec.kaltura.com/p/3089633/sp/308963300/playManifest/protocol/https//entryId/1_3kja6cl5/format/mpegdash/tags/mbr/f/a.mpd
+https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_3kja6cl5/v/1/ev/9/flavorId/1_,2lwl1z7b,badrybm1,gjx4s51e,7uhrbnyv,qt1g3jqa,bygd3ew3,wnc8gf4p,kl3d472e,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 tvg-id="HasratTersirat" group-title="VOD" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/7f4c9b88f302407390eab06436531c93/version/0/width/1280/height/720",Hasrat Tersirat (Episod 1) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -50,3 +50,6 @@ https://cdnapisec.kaltura.com/p/3089633/sp/308963300/playManifest/protocol/https
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc7c3c15c23573227e0d323a10276349:e644533c5c41f3eb6ca97e247da02754
 https://cdnapisec.kaltura.com/p/3089633/sp/308963300/playManifest/protocol/https//entryId/1_9cc52sfm/format/mpegdash/tags/mbr/f/a.mpd
+
+
+
