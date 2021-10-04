@@ -18,7 +18,7 @@ https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
 
 #EXTINF:-1 tvg-id="OChannel.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/O_Channel.svg/revision/latest/scale-to-width-down/300?cb=20210615130503",O Channel
-http://dituduhmaling.xyz/V11710/Ochannel.m3u8
+http://f198-180-242-232-161.ap.ngrok.io/gratis/locc/ruangtv-206.m3u8
 
 #EXTINF:-1 tvg-id="JAKTV.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Jaktv_logo.png/revision/latest/scale-to-width-down/250?cb=20180131051655",JAKTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -122,7 +122,7 @@ https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainm
 https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #EXTINF:-1 tvg-id="MetroTV.id" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest/scale-to-width-down/300?cb=20201127145437",Metro TV HD
-https://github.com/AqFad2811/myiptv/raw/main/stream/MetroTV.m3u8
+https://raw.githubusercontent.com/AqFad2811/dailymotion_to_m3u/main/MetroTV.m3u8
 
 #EXTINF:-1 tvg-id="TVRI" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29.svg/revision/latest/scale-to-width-down/240?cb=20210109093524",TVRI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -159,8 +159,7 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 # https://etslive-2-vidio-com.akamaized.net/exp=1627161078~acl=/hls-p/ingest_7054_*/*~hmac=cb8f2a81b59453d92b467d41ee8c1906a23141bfe21c0cd2c59d48a9b81cad87/hls-p/ingest_7054_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="KompasTV" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/KOMPAS_TV_%282017%29.svg/revision/latest/scale-to-width-down/300?cb=20181111102441",Kompas TV
-# https://etslive-2-vidio-com.akamaized.net/exp=1627161159~acl=/vp9/874_stream.mpd!/vp9/874/*~hmac=f9fff88a844d079e7a820bf4ae9343f7bdc8bbd8f734ffee3fade2006ef43277/vp9/874_stream.mpd
-http://dituduhmaling.xyz/V11710/Kompas.m3u8
+https://raw.githubusercontent.com/AqFad2811/dailymotion_to_m3u/main/KompasTV.m3u8
 
 #EXTINF:-1 tvg-id="iNews" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/INews.svg/revision/latest/scale-to-width-down/250?cb=20210101143629",iNews
 https://github.com/AqFad2811/randomlivefromyt/raw/main/iNews.m3u8
@@ -188,10 +187,10 @@ https://github.com/AqFad2811/randomlivefromyt2/raw/main/Reformed21.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a6a41c2a2a7270517f5ce8dd2f48fc68d
 
 #EXTINF:-1 tvg-id="UChannel" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/U_Channel.png/revision/latest/scale-to-width-down/270?cb=20180925101905",U Channel
-http://wowza58.indostreamserver.com:1935/uchannel/live/chunklist_w1634090906.m3u8
+http://f198-180-242-232-161.ap.ngrok.io/gratis/locc/ruangtv-6898.m3u8
 
 #EXTINF:-1 tvg-id="MagnaChannel.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png/revision/latest/scale-to-width-down/200?cb=20200805135934",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w949891935_b3884000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="NusantaraTV" group-title="HD" tvg-logo="https://i.postimg.cc/wxPchp8Y/Nusantara-TVId.png",Nusantara TV
-https://v6.siar.us/nusantaratv/live/chunks.m3u8?nimblesessionid=33019506
+https://v6.siar.us/nusantaratv/live/playlist.m3u8
