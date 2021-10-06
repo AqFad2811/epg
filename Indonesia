@@ -44,13 +44,32 @@ http://dituduhmaling.xyz/V11710/Oshop.m3u8
 #EXTINF:-1 tvg-id="AjwaTV.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Ajwa_TV.png/revision/latest/scale-to-width-down/250?cb=20201110025441",Ajwa TV HD
 http://dituduhmaling.xyz/V11710/Ajwatv.m3u8
 
-#EXTINF:-1 tvg-id="tvN.id" group-title="Korean" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png",tvN (Works in OTT)
+#EXTINF:-1 tvg-id="tvN.id" group-title="Korean" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png",tvN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
+# http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=tvn
+
+#EXTINF:-1 tvg-id="TVNMovies.id" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",tvN Movies 
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=tvnmovies
+
+#EXTINF:-1 tvg-id="Flik.id" group-title="Movies" tvg-logo="https://user-images.githubusercontent.com/85995579/131098803-5b0077dc-6b03-4ed9-bdae-066d2751c4d5.png",FLIK
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=flik
+
+#EXTINF:-1 tvg-id="Galaxy.id" group-title="Movies" tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png",GALAXY
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=galaxy
+
+#EXTINF:-1 tvg-id="GalaxyPremium.id" group-title="Movies" tvg-logo="https://i.postimg.cc/1XqyMNKr/galaxy-premium-white.png",GALAXY Premium
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=galaxypremium
+
+#EXTINF:-1 tvg-id="IMC.id" group-title="Movies" tvg-logo="https://user-images.githubusercontent.com/85995579/131102683-f369f31b-892b-466a-a9ea-4033bca3f5c5.png",IMC
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=imc
+
+#EXTINF:-1 tvg-id="Thrill.id" group-title="Movies" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=thrill
 
 #EXTINF:-1 tvg-id="ZeeBioskop.id" group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835",Zee Bioskop
-http://dituduhmaling.xyz/V11710/ZEEBIOSKOP.m3u8
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=zbioskop
 
 #EXTINF:-1 tvg-id="CitraDrama.id" group-title="HD" tvg-logo="https://user-images.githubusercontent.com/85995579/131083722-2044596a-0892-41ac-93bc-74ae43197eb4.png",Citra Drama
 https://nonton.site:8443/IGRKg9OA4w/kshsuismneio5689/905
