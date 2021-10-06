@@ -6,7 +6,8 @@
 https://conversant.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SCTV_Logo.svg/revision/latest/scale-to-width-down/250?cb=20200917125607",SCTV (HD)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
+# http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=sctv
 
 #EXTINF:-1 tvg-id="Indosiar.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Indosiar_2015.svg/revision/latest/scale-to-width-down/200?cb=20180321155318",Indosiar
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -68,14 +69,17 @@ https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?chann
 #EXTINF:-1 tvg-id="Thrill.id" group-title="Movies" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=thrill
 
+#EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://user-images.githubusercontent.com/85995579/131095271-d59ad9c6-0c96-4dc7-a99a-cadb83fa5e66.png" group-title="Movies",Bioskop Indonesia
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=bioskopindonesia
+
 #EXTINF:-1 tvg-id="ZeeBioskop.id" group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835",Zee Bioskop
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=zbioskop
 
 #EXTINF:-1 tvg-id="CitraDrama.id" group-title="HD" tvg-logo="https://user-images.githubusercontent.com/85995579/131083722-2044596a-0892-41ac-93bc-74ae43197eb4.png",Citra Drama
-https://nonton.site:8443/IGRKg9OA4w/kshsuismneio5689/905
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=cdrama
 
 #EXTINF:-1  tvg-id="CitraDangdut.id" group-title="HD" tvg-logo="https://user-images.githubusercontent.com/85995579/131083944-3bb29182-a680-4d2e-8448-8bae65872daa.png",Citra Dangdut
-https://nonton.site:8443/IGRKg9OA4w/kshsuismneio5689/2207
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=citradangdut
 
 #EXTINF:-1  tvg-id="CitraBioskop.id" group-title="Movies" tvg-logo="https://user-images.githubusercontent.com/85995579/131082880-9ff5fb5d-6673-4ced-978e-56ea96701793.png",Citra Bioskop 
 http://dituduhmaling.xyz/V11710/Citrabioskop.m3u8
@@ -98,7 +102,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 
 #EXTINF:-1 tvg-id="TransTV.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Trans_TV_2013.svg/revision/latest/scale-to-width-down/300?cb=20201220001110",Trans TV (HD)
-https://nonton.site:8443/IGRKg9OA4w/kshsuismneio5689/929
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Trans_7_2013.svg/revision/latest/scale-to-width-down/250?cb=20160314100735",Trans7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -106,7 +110,7 @@ https://nonton.site:8443/IGRKg9OA4w/kshsuismneio5689/929
 https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
 
 #EXTINF:-1 tvg-id="Trans7.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Trans_7_2013.svg/revision/latest/scale-to-width-down/250?cb=20160314100735",Trans7 (HD)
-https://nonton.site:8443/IGRKg9OA4w/kshsuismneio5689/930
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="GTV.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/GTV_%282017%29.svg/revision/latest/scale-to-width-down/200?cb=20180321091517",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -143,11 +147,17 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:-1 tvg-id="MetroTV.id" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest/scale-to-width-down/300?cb=20201127145437",Metro TV HD
 https://raw.githubusercontent.com/AqFad2811/dailymotion_to_m3u/main/MetroTV.m3u8
 
+#EXTINF:-1 tvg-id="tvOne.id" group-title="News" tvg-logo="https://user-images.githubusercontent.com/85995579/131089939-bf168d76-b6c6-451d-ad9b-69f9b9541aaf.png",tvOne
+https://akamai.mncnow.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-Decepticon.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Antara TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Lembaga_Kantor_Berita_Nasional_Antara.png/revision/latest/scale-to-width-down/300?cb=20190923120740" group-title="News",Antara TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d21268ef7e5a44f541a7cbde7626ef57566
+
 #EXTINF:-1 tvg-id="TVRI" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/TVRI_%282019%29.svg/revision/latest/scale-to-width-down/240?cb=20210109093524",TVRI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-# https://etslive-2-vidio-com.akamaized.net/exp=1627160668~acl=/vp9/6441_stream.mpd!/vp9/6441/*~hmac=8786241fbd37c9a1c6edef72d7b721ad27e5498c1a669f533679f8606866adb8/vp9/6441_stream.mpd
-https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+# https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 #EXTINF:-1 tvg-id="BeritaSatu.id" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/BeritaSatu.svg/revision/latest/scale-to-width-down/300?cb=20181125093843",BeritaSatu
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -164,6 +174,9 @@ https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/131084286-6e45c075-834d-4fdf-bff1-f8b5d89ea74f.png" tvg-id="JossStream" tvg-id="Prambors.id" group-title="Music",Prambors TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d2ddea18f00665ce8623e36bd4e3c7c5f93fb3c9879684db94f7af38b446022a
 
 #EXTINF:-1 tvg-id="iRadio" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/mAd4VLPia6UnFAgjDMhdP_oY060=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7057/iradio-fm-5ae133.jpg",iRadio
 # https://etslive-2-vidio-com.akamaized.net/exp=1627160826~acl=/hls-p/ingest_7057_*/*~hmac=69bae022a4eddc1f8652a25a5581c6ec9ede01815b132ea7a35f4b4534adc2af/hls-p/ingest_7057_480p/index.m3u8
@@ -184,7 +197,7 @@ https://raw.githubusercontent.com/AqFad2811/dailymotion_to_m3u/main/KompasTV.m3u
 https://github.com/AqFad2811/randomlivefromyt/raw/main/iNews.m3u8
 
 #EXTINF:-1 tvg-id="DaaiTV.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/DAAITV.png/revision/latest/scale-to-width-down/250?cb=20180920095200",DAAI TV
-http://dituduhmaling.xyz/V11710/DAAI_TV.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=54229abfcfa5649e7003b83dd4755294268ef7e5a44f541a7cbde7626ef57566
 
 #EXTINF:-1 tvg-id="MyTV.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/MyTV_Logo.svg/revision/latest/scale-to-width-down/240?cb=20190124094842",myTV
 http://dituduhmaling.xyz/V11710/Mytv.m3u8
