@@ -18,6 +18,9 @@ https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 #EXTINF:-1 tvg-id="Indosiar.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Indosiar_2015.svg/revision/latest/scale-to-width-down/200?cb=20180321155318",Indosiar (HD)
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
 
+#EXTINF:-1 tvg-id="ANTV.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Antv_logo_%282017%29.svg/revision/latest/scale-to-width-down/200?cb=20180407053038",antv
+http://210.210.155.35:80/session/93c3aac4-eb83-11eb-8016-b82a72d63267/qwr9ew/s/s07/02.m3u8
+
 #EXTINF:-1 tvg-id="OChannel.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/O_Channel.svg/revision/latest/scale-to-width-down/300?cb=20210615130503",O Channel
 http://f198-180-242-232-161.ap.ngrok.io/gratis/locc/ruangtv-206.m3u8
 
@@ -165,8 +168,22 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 #EXTINF:-1 tvg-id="BeritaSatu.id" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/BeritaSatu.svg/revision/latest/scale-to-width-down/300?cb=20181125093843",BeritaSatu
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-http://gpc.my.id/vidio/beritasatu.m3u8
+http://nonton.wap.sh/id/015.m3u8
 # https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" group-title="News" tvg-logo="https://user-images.githubusercontent.com/85995579/131078252-88a03241-6554-43f0-abd2-cc290af2fd10.png
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/CNN_Indonesia.svg/revision/latest/scale-to-width-down/250?cb=20160314101559",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w987255908_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/CNN_Indonesia.svg/revision/latest/scale-to-width-down/250?cb=20160314101559",CNN Indonesia (UseeTV Feed)
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=cnnindonesia
+
+#EXTINF:-1 tvg-id="Insert.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Insert.png/revision/latest/scale-to-width-down/250?cb=20190531133647
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=insert
+
+#EXTINF:-1 tvg-id="RRINET.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/RRI_NET.png/revision/latest/scale-to-width-down/290?cb=20180925092234" group-title="SD",RRI NET
 
 #EXTINF:-1 tvg-id="MNCNews" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/MNC_News_2018.svg/revision/latest/scale-to-width-down/300?cb=20210408033403",MNC News
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -181,17 +198,41 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/131084286-6e45c075-834d-4fdf-bff1-f8b5d89ea74f.png" tvg-id="JossStream" tvg-id="Prambors.id" group-title="Music",Prambors TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d2ddea18f00665ce8623e36bd4e3c7c5f93fb3c9879684db94f7af38b446022a
 
-#EXTINF:-1 tvg-id="iRadio" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/mAd4VLPia6UnFAgjDMhdP_oY060=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7057/iradio-fm-5ae133.jpg",iRadio
-# https://etslive-2-vidio-com.akamaized.net/exp=1627160826~acl=/hls-p/ingest_7057_*/*~hmac=69bae022a4eddc1f8652a25a5581c6ec9ede01815b132ea7a35f4b4534adc2af/hls-p/ingest_7057_480p/index.m3u8
+#EXTINF:-1 tvg-id="HITS.id" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png",HITS (UseeTV Feed)
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=hits
 
-#EXTINF:-1 tvg-id="TraxFM" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9acQo91RuK6mnCl8XTBOBMKKxXQ=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7055/trax-radio-fm-f696e0.jpg",Trax FM
-# https://etslive-2-vidio-com.akamaized.net/exp=1627160904~acl=/hls-p/ingest_7055_*/*~hmac=95a488e8b347c191bd990375e49a2825c50f46b654433ed21371a07ae5d0a3fc/hls-p/ingest_7055_480p/index.m3u8
+#EXTINF:-1 tvg-id="HITSMovies.id" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS Movies (UseeTV Feed)
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=hitsmovie 
 
-#EXTINF:-1 tvg-id="CosmopolitanFM" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/PJqdHMxuMCq-EosTEs2opcR5FdQ=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7056/cosmopolitan-df0bea.jpg",Cosmopolitan FM
-# https://etslive-2-vidio-com.akamaized.net/exp=1627161019~acl=/hls-p/ingest_7056_*/*~hmac=d60c72e14ec4f1e5f542ec134408cda5cc0f3f52747dde1ef4a843a28f74c617/hls-p/ingest_7056_480p/index.m3u8
+#EXTINF:-1 tvg-id="TLC.id" group-title="Entertainment" tvg-logo="https://api.discovery.com/v1/images/558c1c396b66d1023309e791?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4",TLC (UseeTV Feed)
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=tlc
 
-#EXTINF:-1 tvg-id="BravaRadio" group-title="Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/AfffvXiUoJlo-IMNYE2s9LfulfA=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7054/brava-audio-98ab26.jpg",Brava Radio
-# https://etslive-2-vidio-com.akamaized.net/exp=1627161078~acl=/hls-p/ingest_7054_*/*~hmac=cb8f2a81b59453d92b467d41ee8c1906a23141bfe21c0cd2c59d48a9b81cad87/hls-p/ingest_7054_480p/index.m3u8
+#EXTINF:-1 tvg-id="UseeSports.id" group-title="Sports" tvg-logo="https://i.postimg.cc/PxDCyxfj/Usee-Sports.png",Usee Sports
+https://yamcode.com/raw/useesport1-m3u8
+
+#EXTINF:-1 tvg-id="UseeSports2.id" group-title="Sports" tvg-logo="https://i.postimg.cc/131Jrn99/Usee-Sports2.png",Usee Sports 2 
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=useesports2
+
+#EXTINF:-1 tvg-id="eggnetwork.id" group-title="Sports" tvg-logo="https://i.postimg.cc/0jRQGD2J/e-GGNetwork-White.png",eGG Network
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=egg
+
+EXTINF:-1 tvg-id="HBO.id" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamily.id" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
+
+#EXTINF:-1 tvg-id="HBOHits.id" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
+
+#EXTINF:-1 tvg-id="HBOSignature.id" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_170_122",HBO Signature
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbosig.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.id" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",Cinemax
+https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
+
+#EXTINF:-1 tvg-id="Kix.id" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/157_144.png",KIX
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=kix
 
 #EXTINF:-1 tvg-id="KompasTV" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/KOMPAS_TV_%282017%29.svg/revision/latest/scale-to-width-down/300?cb=20181111102441",Kompas TV
 https://raw.githubusercontent.com/AqFad2811/dailymotion_to_m3u/main/KompasTV.m3u8
@@ -219,7 +260,7 @@ http://118.98.229.118:1935/live/tve.stream/chunklist_w1331085451.m3u8
 https://github.com/AqFad2811/randomlivefromyt2/raw/main/Reformed21.m3u8
 
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV" group-title="HD" tvg-logo="https://i.postimg.cc/d3LmTG2G/al-quran-al-kareem-tv.png",Al Quran Al Kareem TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a6a41c2a2a7270517f5ce8dd2f48fc68d
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=98f13708210194c475687be6106a3b84dfdded94c48ea6229c48edefa9ec1c9f
 
 #EXTINF:-1 tvg-id="UChannel" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/U_Channel.png/revision/latest/scale-to-width-down/270?cb=20180925101905",U Channel
 http://f198-180-242-232-161.ap.ngrok.io/gratis/locc/ruangtv-6898.m3u8
