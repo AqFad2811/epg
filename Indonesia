@@ -72,6 +72,9 @@ https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?chann
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://user-images.githubusercontent.com/85995579/131095271-d59ad9c6-0c96-4dc7-a99a-cadb83fa5e66.png" group-title="Movies",Bioskop Indonesia
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=bioskopindonesia
 
+#EXTINF:-1 tvg-id="CelestialMovies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png" group-title="Movies",Celestial Movies
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=celestialmovie
+
 #EXTINF:-1 tvg-id="ZeeBioskop.id" group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835",Zee Bioskop
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=zbioskop
 
