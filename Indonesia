@@ -6,8 +6,8 @@
 https://conversant.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id" group-title="HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SCTV_Logo.svg/revision/latest/scale-to-width-down/250?cb=20200917125607",SCTV (HD)
-# http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
-https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=sctv
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
+# https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=sctv
 
 #EXTINF:-1 tvg-id="Indosiar.id" group-title="SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Indosiar_2015.svg/revision/latest/scale-to-width-down/200?cb=20180321155318",Indosiar
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -53,24 +53,23 @@ http://dituduhmaling.xyz/V11710/Ajwatv.m3u8
 
 #EXTINF:-1 tvg-id="tvN.id" group-title="Korean" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png",tvN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
-# http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
-https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=tvn
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=faf4d62bb898de503446c28fb1aa9210&key=19e80ecc5d337215c64004cb49c9cb01
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TVNMovies.id" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",tvN Movies 
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=tvnmovies
 
 #EXTINF:-1 tvg-id="Flik.id" group-title="Movies" tvg-logo="https://user-images.githubusercontent.com/85995579/131098803-5b0077dc-6b03-4ed9-bdae-066d2751c4d5.png",FLIK
-https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=flik
+# https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=flik
 
 #EXTINF:-1 tvg-id="Galaxy.id" group-title="Movies" tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png",GALAXY
-https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=galaxy
+# https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=galaxy
 
 #EXTINF:-1 tvg-id="GalaxyPremium.id" group-title="Movies" tvg-logo="https://i.postimg.cc/1XqyMNKr/galaxy-premium-white.png",GALAXY Premium
-https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=galaxypremium
+# https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=galaxypremium
 
 #EXTINF:-1 tvg-id="IMC.id" group-title="Movies" tvg-logo="https://user-images.githubusercontent.com/85995579/131102683-f369f31b-892b-466a-a9ea-4033bca3f5c5.png",IMC
-https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=imc
+# https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=imc
 
 #EXTINF:-1 tvg-id="Thrill.id" group-title="Movies" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -78,7 +77,7 @@ https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?chann
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://user-images.githubusercontent.com/85995579/131095271-d59ad9c6-0c96-4dc7-a99a-cadb83fa5e66.png" group-title="Movies",Bioskop Indonesia
-https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=bioskopindonesia
+# https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=bioskopindonesia
 
 #EXTINF:-1 tvg-id="CelestialMovies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png" group-title="Movies",Celestial Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
