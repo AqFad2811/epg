@@ -57,19 +57,19 @@ http://dituduhmaling.xyz/V11710/Ajwatv.m3u8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TVNMovies.id" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",tvN Movies 
-https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=tvnmovies
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/136
 
 #EXTINF:-1 tvg-id="Flik.id" group-title="Movies" tvg-logo="https://user-images.githubusercontent.com/85995579/131098803-5b0077dc-6b03-4ed9-bdae-066d2751c4d5.png",FLIK
-# https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=flik
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/72
 
 #EXTINF:-1 tvg-id="Galaxy.id" group-title="Movies" tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png",GALAXY
-# https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=galaxy
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/66
 
 #EXTINF:-1 tvg-id="GalaxyPremium.id" group-title="Movies" tvg-logo="https://i.postimg.cc/1XqyMNKr/galaxy-premium-white.png",GALAXY Premium
-# https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=galaxypremium
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/67
 
 #EXTINF:-1 tvg-id="IMC.id" group-title="Movies" tvg-logo="https://user-images.githubusercontent.com/85995579/131102683-f369f31b-892b-466a-a9ea-4033bca3f5c5.png",IMC
-# https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=imc
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/71
 
 #EXTINF:-1 tvg-id="Thrill.id" group-title="Movies" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -77,7 +77,7 @@ https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?chann
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://user-images.githubusercontent.com/85995579/131095271-d59ad9c6-0c96-4dc7-a99a-cadb83fa5e66.png" group-title="Movies",Bioskop Indonesia
-# https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=bioskopindonesia
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/73
 
 #EXTINF:-1 tvg-id="CelestialMovies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png" group-title="Movies",Celestial Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
