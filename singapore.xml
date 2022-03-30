@@ -24,26 +24,6 @@
     <display-name lang="en">CNA</display-name>
     <url>http://www.mewatch.sg</url>
   </channel>
-  <programme start="20220329230000 +0200" stop="20220329233000 +0200" channel="Ch 5">
-    <title lang="en">Shimmer &amp; Shine</title>
-    <sub-title lang="en">Zeashell Surprise - The Zahramay Zuffer-Puff</sub-title>
-    <desc lang="en">Follow the magical adventures of fraternal twin genies, Shimmer and Shine, who unintentionally create chaos while attempting to grant wishes for their human best friend, Leah.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4613698'&amp;EntityType='LinearSchedule'&amp;EntityId='ae8dc6b4-fd61-4105-a9af-332ac79c22d2'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S4 E8</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220329233000 +0200" stop="20220330000000 +0200" channel="Ch 5">
-    <title lang="en">Go Jetters</title>
-    <sub-title lang="en">Funky Fireflies, Selangor River, Malaysia</sub-title>
-    <desc lang="en">Go Jetters go bigger as our plucky international heroes Xuli, Kyan, Lars and Foz, together with their disco-grooving mentor Ubercorn, discover lots more about our world. And we learn much more about each of the Go Jetters too. Travelling from the top of the planet to the very bottom, their action-packed adventures take them to truly incredible places. And there's a good chance Grandmaster Glitch has got there first to cause his usual chaos!</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4613691'&amp;EntityType='LinearSchedule'&amp;EntityId='606d1aec-3bbd-4d56-baab-908512db6968'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S3 E15</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20220330000000 +0200" stop="20220330003000 +0200" channel="Ch 5">
     <title lang="en">Counting With Paula</title>
     <sub-title lang="en">Alien Pox - Mr. Garden Gnome's Princess</sub-title>
@@ -2832,22 +2812,424 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220329230000 +0200" stop="20220329233000 +0200" channel="Ch 8">
-    <title lang="en">News Tonight</title>
-    <title lang="xx">晚间新闻</title>
-    <desc lang="en">(R) Daily evening updates on top local news and world news.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4622337'&amp;EntityType='LinearSchedule'&amp;EntityId='d87057ad-8f53-4e93-b75e-d6bae6afda42'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E363</episode-num>
+  <programme start="20220406000000 +0200" stop="20220406003000 +0200" channel="Ch 5">
+    <title lang="en">Ollie And Friends</title>
+    <sub-title lang="en">Bling-Science Fair</sub-title>
+    <desc lang="en">It's Sports Day at Ollipolis and the Triangle Alien Sister wants to look as cool as her idol, Katnis. To do that, she gets dressed in flashy designer outfits, but realizes too late that designer gear and sports don't really go together. The gang help her to realize that she can look cool without fancy clothes. Ollie is insecure when his cheese-and-tomato-based model volcano isn't as good as the other projects at the Science Fair.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639670'&amp;EntityType='LinearSchedule'&amp;EntityId='d8bbf0c2-7a18-4f35-93e6-129c3a102f48'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S7 E4</episode-num>
     <rating>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220329233000 +0200" stop="20220330000000 +0200" channel="Ch 8">
-    <title lang="en">Hello Singapore Highlights</title>
-    <title lang="xx">狮城有约精华版</title>
-    <desc lang="en">Deliver social features that matter to you.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4613776'&amp;EntityType='LinearSchedule'&amp;EntityId='60b4f674-9c99-4fe6-8dc9-a25568531dad'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  <programme start="20220406003000 +0200" stop="20220406005000 +0200" channel="Ch 5">
+    <title lang="en">Creative Galaxy</title>
+    <desc lang="en">Follow the adventures of Arty and his sidekick Epiphany, as they search the galaxy to solve creative problems with art!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639666'&amp;EntityType='LinearSchedule'&amp;EntityId='efb4702f-0435-46da-b6c1-da98257ea29f'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406005000 +0200" stop="20220406010000 +0200" channel="Ch 5">
+    <title lang="en">Little Tami's Book</title>
+    <sub-title lang="en">Janitor</sub-title>
+    <desc lang="en">The trio makes a mess after fooling around in the shopping mall's toilet. Tami's Mother sends them into Booky to learn more about the Janitor occupation. Will cleaning be as easy as they think? Will they finally learn to acknowledge and appreciate the janitor's role?</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639662'&amp;EntityType='LinearSchedule'&amp;EntityId='4ea38a4d-ed27-4434-a367-1f92e7b0fb99'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406010000 +0200" stop="20220406013000 +0200" channel="Ch 5">
+    <title lang="en">Sesame Street</title>
+    <sub-title lang="en">Rudy Blow his First Bubble</sub-title>
+    <desc lang="en">Celebrity guests such as Misty Copeland, Terri, Bindi and Robert Irwin, Chrissy Teigen and Josh Gad appear in the latest season of Sesame Street.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639658'&amp;EntityType='LinearSchedule'&amp;EntityId='fde5fc86-d32f-41f6-b1b0-7bffe7646a7e'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S50 E31</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406013000 +0200" stop="20220406020000 +0200" channel="Ch 5">
+    <title lang="en">Becca's Bunch</title>
+    <sub-title lang="en">Junior Lifeguard</sub-title>
+    <desc lang="en">It's Junior Lifeguard Day, and though the Hare brothers want to be the very first to earn their Lifeguard Certificates, Becca and the Bunch follow Steven De Gannet's training to keep the beach, and Casper and Jasper, safe.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639650'&amp;EntityType='LinearSchedule'&amp;EntityId='bd666913-6dbf-4cc5-b772-c5d54a740ddb'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406020000 +0200" stop="20220406023000 +0200" channel="Ch 5">
+    <title lang="en">Counting With Paula</title>
+    <sub-title lang="en">Redbeard's Berry Juice - Making A Monster Movie</sub-title>
+    <desc lang="en">Captain Redbeeard is behaving strangely and only a special berry juice made by Parrot can calm him down, but he's missing! Tim searches for Parrot while the others try to recreate the juice. Pig and Panda are making a monster movie and Tim wants to be the heroic star. However, he keeps getting other roles while he watches the rest do exciting things. Will Time get his moment to shine?</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639641'&amp;EntityType='LinearSchedule'&amp;EntityId='48ac60f7-2457-42a9-885e-edf82b07855e'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406023000 +0200" stop="20220406030000 +0200" channel="Ch 5">
+    <title lang="en">School of Roars</title>
+    <sub-title lang="en">Monster Pet</sub-title>
+    <desc lang="en">Five little monsters go on all sorts of fun adventures at their school with the help of their kind teacher Miss Grizzlesniff!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639632'&amp;EntityType='LinearSchedule'&amp;EntityId='1936ae4b-45ef-41cb-8f27-7e1628c5ccc9'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E29</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406030000 +0200" stop="20220406033000 +0200" channel="Ch 5">
+    <title lang="en">Esme And Roy</title>
+    <desc lang="en">Meet Esme &amp; Roy - they're best friends and the best monstersitters in Monsterdale!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639619'&amp;EntityType='LinearSchedule'&amp;EntityId='abac9c97-1629-417b-a63a-f921c7094d6d'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406033000 +0200" stop="20220406034500 +0200" channel="Ch 5">
+    <title lang="en">The Fixies</title>
+    <sub-title lang="en">The Pyramid</sub-title>
+    <desc lang="en">The Fixies follows the comical misadventures of Tom Thomas and his secret friendship with Simka and Nolik, the children of the Fixie family that lives in his apartment. There's just no end to the troubles Tom Thomas and his Fixie friends get themselves into with all the gadgets and appliances around them! Luckily for Tom Thomas, the Fixies have the smarts, skills, and tools they need to figure out a problem and solve it before his parents find out.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639607'&amp;EntityType='LinearSchedule'&amp;EntityId='f7ed433f-ff46-4b3f-baf0-f4dbdf4c586e'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S3 E45</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406034500 +0200" stop="20220406040000 +0200" channel="Ch 5">
+    <title lang="en">The Fixies</title>
+    <sub-title lang="en">The Pencil</sub-title>
+    <desc lang="en">The Fixies follows the comical misadventures of Tom Thomas and his secret friendship with Simka and Nolik, the children of the Fixie family that lives in his apartment. There's just no end to the troubles Tom Thomas and his Fixie friends get themselves into with all the gadgets and appliances around them! Luckily for Tom Thomas, the Fixies have the smarts, skills, and tools they need to figure out a problem and solve it before his parents find out.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639601'&amp;EntityType='LinearSchedule'&amp;EntityId='9bcb1b56-f666-4801-ade8-5c2f2095534f'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S3 E47</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406040000 +0200" stop="20220406043500 +0200" channel="Ch 5">
+    <title lang="en">Wok Vs Pot</title>
+    <sub-title lang="en">Food - Deep Fried Ice cream a&amp; Tiramisu - Cabonara &amp; Crab</sub-title>
+    <desc lang="en">When it comes to traditional Italian and Thai food, you can't go past a classic Bolognese and Marion's Pad Thai. And what about everyone's favourite desserts, the magical deep fried ice-cream and Italian's Iconic Tiramis? And lastly, Marion and Silvia take the humble egg to new heights with a spectacular crab omelette and the ultimate.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='4639590'&amp;EntityType='LinearSchedule'&amp;EntityId='ab3ba4ab-a39c-4535-a8d4-fa2bc2972ec2'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406043500 +0200" stop="20220406050500 +0200" channel="Ch 5">
+    <title lang="en">Asia Unplated With Diana Chan</title>
+    <desc lang="en">Each episode focuses on a different cuisine, showcasing a variety of traditional and modern dishes from each country. Along the way, we join Diana as she explores the local shops, restaurants and markets, providing tips and advice for sourcing ingredients for each dish. Then it's back to her kitchen where Diana cooks up simple but authentic, home-style Asian dishes.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639582'&amp;EntityType='LinearSchedule'&amp;EntityId='0e6788e2-6310-4c1b-8879-3de22f49f2cc'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406050500 +0200" stop="20220406053000 +0200" channel="Ch 5">
+    <title lang="en">Wheel Of Fortune</title>
+    <sub-title lang="en">Great American Cities</sub-title>
+    <desc lang="en">Hosted by Pat Sajak, this game show features 3 contestants who try to solve a puzzle by spinning the wheel and guessing letters in a word or phrase.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639574'&amp;EntityType='LinearSchedule'&amp;EntityId='b8e36101-b06c-4b31-bd9d-bc210b9115df'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E7451</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406053000 +0200" stop="20220406060000 +0200" channel="Ch 5">
+    <title lang="en">Sunny Side Up</title>
+    <desc lang="en">CCTV footage regarding the abandoned baby sheds light on the identity of the culprit and threatens the relationships and bonds of the new family unit. Towkay Heng is relieved when breaking news about the suspect who left the baby on his doorstep takes the heat off him. Meanwhile, Chandra and Chan come to an uneasy truce for the sake of "flatmateship" and destiny.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4640084'&amp;EntityType='LinearSchedule'&amp;EntityId='44135903-7215-4c0e-b6e4-a986c1a43f54'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406060000 +0200" stop="20220406063000 +0200" channel="Ch 5">
+    <title lang="en">Tanglin</title>
+    <desc lang="en">Wafiq isn't keen on Adam giving Chris too much responsibility due to his status as an ex-offender, and Chris sets out to prove himself to Wafiq. Xue Ling continues to work on her new skincare business from home, but she soon realises that she can't do it alone.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4640070'&amp;EntityType='LinearSchedule'&amp;EntityId='e9c0c41d-fae9-402b-87d1-5bc3679e6bf0'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <episode-num system="onscreen">S1 E260</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406063000 +0200" stop="20220406070000 +0200" channel="Ch 5">
+    <title lang="en">Body And Soul</title>
+    <sub-title lang="en">Antibiotic Resistance</sub-title>
+    <desc lang="en">Superbugs are out to get us; creating a strong-enough antibiotics to fight a resistant bacteria is becoming tougher to do. Join Dr Hsu Li Yang, expert in antibiotic resistant bacterial and author of The Antibiotic Tales, to find out what we can do.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4640054'&amp;EntityType='LinearSchedule'&amp;EntityId='2fc466fc-2260-40ea-8652-051057c5d0c3'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S9 E10</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406070000 +0200" stop="20220406071500 +0200" channel="Ch 5">
+    <title lang="en">The Muscleteers</title>
+    <sub-title lang="en">Gimme Shelter</sub-title>
+    <desc lang="en">Follows four daring rodents - two mice, a rat and a hamster - who band together to help those in need and fight crime in the Harbor district!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4640043'&amp;EntityType='LinearSchedule'&amp;EntityId='f2ca3e93-e3a9-4306-ba7b-810c86d0871d'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406071500 +0200" stop="20220406073000 +0200" channel="Ch 5">
+    <title lang="en">The Muscleteers</title>
+    <sub-title lang="en">Lady With Cheese</sub-title>
+    <desc lang="en">Follows four daring rodents - two mice, a rat and a hamster - who band together to help those in need and fight crime in the Harbor district!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4640032'&amp;EntityType='LinearSchedule'&amp;EntityId='27244fe1-25d3-4e29-a03e-f37bd22678b2'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406073000 +0200" stop="20220406080000 +0200" channel="Ch 5">
+    <title lang="en">Wild Kratts</title>
+    <desc lang="en">Join the Kratt Brothers in a new season of WILD KRATTS, the fun and fact-packed series!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4640020'&amp;EntityType='LinearSchedule'&amp;EntityId='9158d82e-c103-4f60-a3f5-0888af2b1043'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S6 E1</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406080000 +0200" stop="20220406081500 +0200" channel="Ch 5">
+    <title lang="en">Danger Mouse</title>
+    <sub-title lang="en">Thanks a Minion!</sub-title>
+    <desc lang="en">The continuing adventures of secret agent Danger Mouse and his sidekick Penfold.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4640005'&amp;EntityType='LinearSchedule'&amp;EntityId='cbe3c6d8-2acd-4cbe-b057-22d9fb0cbc8f'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E45</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406081500 +0200" stop="20220406083000 +0200" channel="Ch 5">
+    <title lang="en">Angry Birds</title>
+    <desc lang="en">The animation series sees our birdy protagonists battling against the long-suffering Piggies in an engaging world full of surprises!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639982'&amp;EntityType='LinearSchedule'&amp;EntityId='4b434c46-09ac-4191-8fd4-2eea0d20e628'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E34</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406083000 +0200" stop="20220406090000 +0200" channel="Ch 5">
+    <title lang="en">Regal Academy - Second Series</title>
+    <sub-title lang="en">The Magic Fair</sub-title>
+    <desc lang="en">Three evil witches ally with the Snow Queen: thanks to a fake sword in the stone, they absorb magic powers from teachers and students, leaving them weak and helpless. Meanwhile, a Sparkle Dragon attacks the Barrier of Eternal Spring protecting Regal Academy: if the barrier dissolves, the Snow Queen will be able to get in the school...</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639965'&amp;EntityType='LinearSchedule'&amp;EntityId='7d7a1c2c-36a3-49bf-8cf0-31114faca030'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406090000 +0200" stop="20220406093000 +0200" channel="Ch 5">
+    <title lang="en">Winx Club - Eighth Series</title>
+    <sub-title lang="en">Trapped on Prometia</sub-title>
+    <desc lang="en">On Prometia, the Winx fall into the trap set by Orion and Valtor. Stella and Flora luckily manage to free their friends just in time. Meanwhile, on Iridia, Obscurum turns all the Lumens, including Lumilla, into Staryummies. The Winx arrive just in time to save Orion, but they can do nothing for the transformed Lumen...</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639951'&amp;EntityType='LinearSchedule'&amp;EntityId='89abe5f2-86bf-4290-b933-a3a39b589731'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S8 E7</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406093000 +0200" stop="20220406100000 +0200" channel="Ch 5">
+    <title lang="en">Make It Count</title>
+    <sub-title lang="en">Maths &amp; Theme Parks</sub-title>
+    <desc lang="en">The season begins with a fun-filled, high-octane episode that brings you the Maths behind thrill rides. Joakim and Charlotte get wet and wild at Adventure Cove to show you how shapes is the key to making roller coasters safer, how the Queueing Theory can help you beat those time-wasting queues and how knowing speed, angle, weight and height can help you zip down water slides.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639934'&amp;EntityType='LinearSchedule'&amp;EntityId='fcdb66c3-0efc-48fb-b4df-a15a70e4966e'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406100000 +0200" stop="20220406110000 +0200" channel="Ch 5">
+    <title lang="en">Masterchef Junior USA</title>
+    <sub-title lang="en">Quacking Under Pressure</sub-title>
+    <desc lang="en">MasterChef Junior is an American cooking competition involving children from the ages of 8 to13. The season is hosted by regular judges Gordon Ramsay and Christina Tosi, while Aarn Sanchez joins the judges this season.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639922'&amp;EntityType='LinearSchedule'&amp;EntityId='3bd26f50-d99a-451e-ac46-cf5c17a10058'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S7 E6</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406110000 +0200" stop="20220406113000 +0200" channel="Ch 5">
+    <title lang="en">Wheel Of Fortune</title>
+    <sub-title lang="en">Great American Cities</sub-title>
+    <desc lang="en">Hosted by Pat Sajak, this game show features 3 contestants who try to solve a puzzle by spinning the wheel and guessing letters in a word or phrase.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639822'&amp;EntityType='LinearSchedule'&amp;EntityId='be3289df-6766-4457-a13f-4403a65cfff2'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E7452</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406113000 +0200" stop="20220406120000 +0200" channel="Ch 5">
+    <title lang="en">Sunny Side Up</title>
+    <desc lang="en">As Jane fights for her life, Aravind regrets not revealing the truth about her. Christine forgets about Damien's ORD dinner and Arasi hopes for her big break at work.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639906'&amp;EntityType='LinearSchedule'&amp;EntityId='3cbd025f-ccf5-4c50-9115-10ed5238b75e'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406120000 +0200" stop="20220406123000 +0200" channel="Ch 5">
+    <title lang="en">Ninja Warrior</title>
+    <desc lang="en">A Japanese sports entertainment television series in which 100 competitors attempt to complete an obstacle course.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639893'&amp;EntityType='LinearSchedule'&amp;EntityId='677785c4-890f-4bbd-8135-69b3bc18a42f'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406123000 +0200" stop="20220406130000 +0200" channel="Ch 5">
+    <title lang="en">Every Singaporean Son III</title>
+    <desc lang="en">Every Singaporean Son 3 (ESS3) is reality-based observationary documentary which mainly focuses on the Specialist Corps, showcasing their leadership as young and junior SAF commanders against the backdrop of the Basic Military Training (BMT).</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='4639878'&amp;EntityType='LinearSchedule'&amp;EntityId='1316c005-564f-412d-b06c-0322233bcec1'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406130000 +0200" stop="20220406133000 +0200" channel="Ch 5">
+    <title lang="en">News Tonight</title>
+    <desc lang="en">The daily evening-news programme featuring highlights and coverage of both local and international news with a local perspective.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='4639868'&amp;EntityType='LinearSchedule'&amp;EntityId='c4004992-7c9b-41c4-98b2-0ce455557d9d'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406133000 +0200" stop="20220406143000 +0200" channel="Ch 5">
+    <title lang="en">128 Circle</title>
+    <sub-title lang="en">Crazy</sub-title>
+    <desc lang="en">Larry and Nurul get into a fracas with a maskless woman that will have consequences for the both of them. Aishah finally puts her foot down when it comes to Alec. An impromptu cooking lesson leads Sherry and Ethan to take the plunge in their relationship.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639858'&amp;EntityType='LinearSchedule'&amp;EntityId='e5d0d8e1-1c9d-45f4-b21b-218145f95912'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406143000 +0200" stop="20220406150000 +0200" channel="Ch 5">
+    <title lang="en">The $100,000 Pyramid</title>
+    <sub-title lang="en">Ana Gasteyer vs. Rachel Dratch</sub-title>
+    <desc lang="en">Returning season of the classic game show, hosted by Michael Strahan. With the help of their game partners, contestants paired with celebrities must guess words or phrases that appear on the show's pyramid-shaped gameboard to win money.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639845'&amp;EntityType='LinearSchedule'&amp;EntityId='35db5615-8744-4e11-b09e-541b44b44731'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S5 E15</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406150000 +0200" stop="20220406160000 +0200" channel="Ch 5">
+    <title lang="en">Becoming Human@Work</title>
+    <sub-title lang="en">Part 2: Will AI Lighten Our Workload Or Take Our Jobs?</sub-title>
+    <desc lang="en">Will AI lighten our workload or take over our jobs? What skills help us stay relevant? As AI-powered talent emerges, Enlai reviews his resume, reflects on his work and reconsiders his future.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639832'&amp;EntityType='LinearSchedule'&amp;EntityId='59cf02ce-c804-4ed0-8c73-2b48cbe2eba8'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating>
+      <value>PG13 (Mature Themes)</value>
+    </rating>
+  </programme>
+  <programme start="20220406160000 +0200" stop="20220406163000 +0200" channel="Ch 5">
+    <title lang="en">Sunny Side Up</title>
+    <desc lang="en">As Jane fights for her life, Aravind regrets not revealing the truth about her. Christine forgets about Damien's ORD dinner and Arasi hopes for her big break at work.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4644650'&amp;EntityType='LinearSchedule'&amp;EntityId='0ad42966-19dc-45f5-bf80-4a4e504b1e23'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406163000 +0200" stop="20220406170000 +0200" channel="Ch 5">
+    <title lang="en">Planet Action</title>
+    <sub-title lang="en">The Mission Impossible Stunts, Taken 3, Black Hawk Down, Liam Neeso</sub-title>
+    <desc lang="en">Planet Action is a fast-paced 25min evergreen finished series that brings you right to the edge of your seat. From cowboy shoot-outs, to exploding cars, bad-ass stunt scenes, fights in space, and roaring monsters, Planet Action takes you behind the scenes of the best action movies released. Each episode you'll get all the secrets straight from your favorite action heroes, get exclusive trivia and special reports from the most dangerous film sets.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4644636'&amp;EntityType='LinearSchedule'&amp;EntityId='74c1965d-1184-4c20-b248-96106d2ccef7'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating>
+      <value>PG (Action Violence)</value>
+    </rating>
+  </programme>
+  <programme start="20220406170000 +0200" stop="20220406173000 +0200" channel="Ch 5">
+    <title lang="en">Ninja Warrior</title>
+    <desc lang="en">A Japanese sports entertainment television series in which 100 competitors attempt to complete an obstacle course.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4644623'&amp;EntityType='LinearSchedule'&amp;EntityId='3aac1ff5-edec-4ea3-9195-8533afaf5fd9'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406173000 +0200" stop="20220406183000 +0200" channel="Ch 5">
+    <title lang="en">72 Dangerous Animals Australia</title>
+    <desc lang="en">Australia is full of dangerous animals but which creature is our country's deadliest? From the Freshwater Crocodile to the Cane Toad, were counting down to the most dangerous Aussie animal.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4644604'&amp;EntityType='LinearSchedule'&amp;EntityId='01687087-5e5c-4fd2-97c5-54cb7cf52efc'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating>
+      <value>PG13 (Graphic Visuals)</value>
+    </rating>
+  </programme>
+  <programme start="20220406183000 +0200" stop="20220406193000 +0200" channel="Ch 5">
+    <title lang="en">Wildest Survival</title>
+    <desc lang="en">For wild animals, life is all about survival. And in this daily battle, many species have adapted in amazing ways. By evolving unique behaviours, abilities and anatomical mutations, these animals have learned to survive. Wildest Survival explores this rich and varied world of animal behaviour.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4644588'&amp;EntityType='LinearSchedule'&amp;EntityId='cd74c1bf-4fb2-46c7-a84b-98b45656afed'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406193000 +0200" stop="20220406200000 +0200" channel="Ch 5">
+    <title lang="en">Films &amp; Stars</title>
+    <desc lang="en">Films &amp; Stars brings you the latest new movie releases and the biggest movie stars. Every week a perfect lineup of the hottest events from the big screen including Hollywood releases, interviews with actors and filmmakers, red carpet reports and everything else that's going on in Hollywood.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4644577'&amp;EntityType='LinearSchedule'&amp;EntityId='626d5268-04fa-4ffa-96ab-8a0515ee7b20'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E745</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406200000 +0200" stop="20220406203000 +0200" channel="Ch 5">
+    <title lang="en">Wok Vs Pot</title>
+    <sub-title lang="en">Food - Deep Fried Ice cream a&amp; Tiramisu - Cabonara &amp; Crab</sub-title>
+    <desc lang="en">When it comes to traditional Italian and Thai food, you can't go past a classic Bolognese and Marion's Pad Thai. And what about everyone's favourite desserts, the magical deep fried ice-cream and Italian's Iconic Tiramis? And lastly, Marion and Silvia take the humble egg to new heights with a spectacular crab omelette and the ultimate.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='4644564'&amp;EntityType='LinearSchedule'&amp;EntityId='66b2b31a-2b20-45ab-8dc2-c34bbafa6ac7'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406203000 +0200" stop="20220406210000 +0200" channel="Ch 5">
+    <title lang="en">Asia Unplated With Diana Chan</title>
+    <desc lang="en">Each episode focuses on a different cuisine, showcasing a variety of traditional and modern dishes from each country. Along the way, we join Diana as she explores the local shops, restaurants and markets, providing tips and advice for sourcing ingredients for each dish. Then it's back to her kitchen where Diana cooks up simple but authentic, home-style Asian dishes.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4644553'&amp;EntityType='LinearSchedule'&amp;EntityId='0f07ad8a-b876-467c-986d-ba31e4e04b95'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406210000 +0200" stop="20220406220000 +0200" channel="Ch 5">
+    <title lang="en">Masterchef Junior USA</title>
+    <sub-title lang="en">Quacking Under Pressure</sub-title>
+    <desc lang="en">MasterChef Junior is an American cooking competition involving children from the ages of 8 to13. The season is hosted by regular judges Gordon Ramsay and Christina Tosi, while Aarn Sanchez joins the judges this season.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4644543'&amp;EntityType='LinearSchedule'&amp;EntityId='94b1027b-03fd-43bd-a79b-20e069afe9bf'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S7 E6</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406220000 +0200" stop="20220406223000 +0200" channel="Ch 5">
+    <title lang="en">Filly Funtasia</title>
+    <sub-title lang="en">Battle of the Dark Crystal</sub-title>
+    <desc lang="en">Our heroine Rose and her Filly friends embark on fun exciting adventures as they start their school life at the Royal Magic Academy of Funtasia. They soon realise that their new magic skills will be of great use, as peril is near. Ages ago, during The Dark Battle, the evil Wranglum was absorbed by the Dark Mirror into a hidden Crystal Prison, which can only be unlocked by the Dark Crystal. Rose unknowingly holds the key and does not know how much danger she is in.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4644529'&amp;EntityType='LinearSchedule'&amp;EntityId='5bca3ab3-58b2-49da-a243-69a041688f2b'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E26</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406223000 +0200" stop="20220406230000 +0200" channel="Ch 5">
+    <title lang="en">Wild Kratts</title>
+    <desc lang="en">Join the Kratt Brothers in a new season of WILD KRATTS, the fun and fact-packed series!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4644511'&amp;EntityType='LinearSchedule'&amp;EntityId='3655a25e-7a52-4215-a737-d801de62dabb'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S6 E2</episode-num>
     <rating>
       <value>G</value>
     </rating>
@@ -4898,9 +5280,9 @@
     </rating>
   </programme>
   <programme start="20220404140000 +0200" stop="20220404144500 +0200" channel="Ch 8">
-    <title lang="en">News Tonight 2022-2023 - With Highlights From Parliament</title>
-    <title lang="xx">晚间新闻包括国会摘要 2022-2023</title>
-    <desc lang="en">News Tonight 2022-2023 - With Highlights From Parliament - EP 1.</desc>
+    <title lang="en">News Tonight With Highlights From Parliament</title>
+    <title lang="xx">晚间新闻包括国会摘要</title>
+    <desc lang="en">Daily evening updates on top local news and world news.</desc>
     <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4629296'&amp;EntityType='LinearSchedule'&amp;EntityId='c285198a-7056-44e5-b936-fe2da32ab9e0'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating>
@@ -4929,9 +5311,9 @@
     </rating>
   </programme>
   <programme start="20220404161500 +0200" stop="20220404171500 +0200" channel="Ch 8">
-    <title lang="en">Tiger Mum[HD]- EP 11</title>
+    <title lang="en">Tiger Mum</title>
     <title lang="xx">虎妈来了</title>
-    <desc lang="en">Rou Ya is hospitalised for a fracture in her leg. Ivan continues to pester her to profess his love and convinces her that he would soon be divorcing his wife. Rou Ya tries but fails to chase Ivan away. Hao Wei cannot stand the sight of Ivan, he poses as a doctor to get Ivan to leave.</desc>
+    <desc lang="en">(R) Rou Ya is hospitalised for a fracture in her leg. Ivan continues to pester her to profess his love and convinces her that he would soon be divorcing his wife. Rou Ya tries but fails to chase Ivan away. Hao Wei cannot stand the sight of Ivan, he poses as a doctor to get Ivan to leave.</desc>
     <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4634240'&amp;EntityType='LinearSchedule'&amp;EntityId='73656caa-1724-4d58-bce7-a9700a5ac4c5'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <episode-num system="onscreen">S1 E11</episode-num>
     <rating>
@@ -4978,24 +5360,14 @@
       <value>PG (Some Disturbing Scenes)</value>
     </rating>
   </programme>
-  <programme start="20220404210500 +0200" stop="20220404220000 +0200" channel="Ch 8">
+  <programme start="20220404210500 +0200" stop="20220404230000 +0200" channel="Ch 8">
     <title lang="en">The Flame's Daughter</title>
     <title lang="xx">烈火如歌</title>
-    <desc lang="en">Lei Jinghong regained control of the Pili Sect. In order annihilation of his men by the Dark River Palace sect, he decided to take cover out at sea. Anye Jue met up with Xunyi (her daughter), and threatened Ji Jinglei's safety to force her to kill Ruge.</desc>
+    <desc lang="en">(R) Lei Jinghong regained control of the Pili Sect. In order annihilation of his men by the Dark River Palace sect, he decided to take cover out at sea. Anye Jue met up with Xunyi (her daughter), and threatened Ji Jinglei's safety to force her to kill Ruge.</desc>
     <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4634220'&amp;EntityType='LinearSchedule'&amp;EntityId='869fc498-294d-4f10-8f92-40338a2cba08'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <episode-num system="onscreen">S1 E29</episode-num>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220404220000 +0200" stop="20220404230000 +0200" channel="Ch 8">
-    <title lang="en">Old Taste Detective</title>
-    <title lang="xx">古早味侦探 2</title>
-    <desc lang="en">Fried Carrot Cake, a classic local Teochew snack that has the black &amp; white styles of frying. It is said that the original carrot cake did not contain any radish. This episode, Bryan &amp; Chef Mandy visit traditional stalls to clarify on this saying &amp; try to recreate the old taste of Fried Carrot Cake.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4634216'&amp;EntityType='LinearSchedule'&amp;EntityId='6a946e67-3d7e-4bd4-92f7-b7915519cf10'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <rating>
-      <value>G</value>
     </rating>
   </programme>
   <programme start="20220404230000 +0200" stop="20220404230000 +0200" channel="Ch 8">
@@ -5008,10 +5380,20 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme start="20220404230000 +0200" stop="20220404230000 +0200" channel="Ch 8">
+    <title lang="en">News Tonight With Highlights From Parliament</title>
+    <title lang="xx">晚间新闻包括国会摘要</title>
+    <desc lang="en">(R) Daily evening updates on top local news and world news.(g)</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4634212'&amp;EntityType='LinearSchedule'&amp;EntityId='890aca61-fcd3-43e8-b077-d4c174755c19'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
   <programme start="20220404230000 +0200" stop="20220404234500 +0200" channel="Ch 8">
-    <title lang="en">News Tonight 2022-2023 - With Highlights From Parliament</title>
-    <title lang="xx">晚间新闻包括国会摘要 2022-2023</title>
-    <desc lang="en">News Tonight 2022-2023 - With Highlights From Parliament - EP 1.</desc>
+    <title lang="en">News Tonight With Highlights From Parliament</title>
+    <title lang="xx">晚间新闻包括国会摘要</title>
+    <desc lang="en">(R) Daily evening updates on top local news and world news.</desc>
     <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4634212'&amp;EntityType='LinearSchedule'&amp;EntityId='890aca61-fcd3-43e8-b077-d4c174755c19'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating>
@@ -5395,10 +5777,334 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220329183000 +0200" stop="20220330030000 +0200" channel="Ch U">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4618539'&amp;EntityType='LinearSchedule'&amp;EntityId='4dc41ed7-42c6-49f3-b8e2-b5eccc005a74'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  <programme start="20220406000000 +0200" stop="20220406010000 +0200" channel="Ch 8">
+    <title lang="en">You Can Be An Angel 4</title>
+    <title lang="xx">你也可以是天使4</title>
+    <desc lang="en">Shu Tong finds a customer's wallet while working. She recalls Jiang Nan's operation fees and gets greedy. She initially wants to keep all the money but at last, she still returns. The customer suspects Shu Tong initial intention. Yi Shi helps Shu Tong clears the air, but he does suspect her a little in his heart. During Yi Shi's one to one confrontation to Shu Tong, he sees some guilt in her eyes.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639502'&amp;EntityType='LinearSchedule'&amp;EntityId='eedb54ea-0dca-4954-b6c5-e3e38c549bd1'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S4 E13</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406010000 +0200" stop="20220406013000 +0200" channel="Ch 8">
+    <title lang="en">Morning Express</title>
+    <title lang="xx">晨光第一线 2022-2023</title>
+    <desc lang="en">(Live) A daily brand new News belt, from Monday to Friday, 9am - 9.30am.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639493'&amp;EntityType='LinearSchedule'&amp;EntityId='27501cf1-2bb9-4ab0-a01e-19ff1396a148'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406013000 +0200" stop="20220406020000 +0200" channel="Ch 8">
+    <title lang="en">Armed Reaction 2021</title>
+    <title lang="xx">陀枪师姐 2021</title>
+    <desc lang="en">Ep 6 Ver B (#Ep 11) Diana loses her gun during the pursuit of the sex maniac. Hanson reprimands Diana and other team members for their incompetence. Diana retorts angrily that she will arrest the suspect in seven days. Ep 6 Ver C (#Ep 12)Dahua lends Diana a helping hand as he can't bear to see Diana being a bait to lure the sex maniac. Hanson does not believe that Diana has restrained the suspect herself and questions her on the process of the arrest.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639484'&amp;EntityType='LinearSchedule'&amp;EntityId='c824493b-c57d-4c79-a5b4-3f4a911b5a3a'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating>
+      <value>PG (Some Sexual References)</value>
+    </rating>
+  </programme>
+  <programme start="20220406020000 +0200" stop="20220406023000 +0200" channel="Ch 8">
+    <title lang="en">My Dear Kin</title>
+    <title lang="xx">亲本家人</title>
+    <sub-title lang="en">Unite &amp; Conquer</sub-title>
+    <desc lang="en">(R).</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639475'&amp;EntityType='LinearSchedule'&amp;EntityId='ac089010-2852-4b9e-af88-16ba89824b70'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406023000 +0200" stop="20220406033000 +0200" channel="Ch 8">
+    <title lang="en">Spring Flower</title>
+    <title lang="xx">春花望露</title>
+    <desc lang="en">Ep336 - Meihui's youngest uncle persuades her to transfer Junnan's share of the Chen Hospital to Guangming, but Meihui disagrees. Meanwhile, Qingxiu has a recurrence of mental disorder and nearly hurts Lifen. Meihui decides to drive her out of the hospital.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639470'&amp;EntityType='LinearSchedule'&amp;EntityId='5125114d-b7be-415b-84a7-1689f21b0105'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E336</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406033000 +0200" stop="20220406043000 +0200" channel="Ch 8">
+    <title lang="en">Spring Flower</title>
+    <title lang="xx">春花望露</title>
+    <desc lang="en">Ep337 - Youtu asks Lihua to transfer 50 million dollars from her company to tide over the short term fund shortage in his construction company, but the latter turns him down. Meanwhile, Junnan asks Jiahui to return to the Chen Hospital. However, Jiahui rejects the offer.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639466'&amp;EntityType='LinearSchedule'&amp;EntityId='d2f53f38-f2c4-49e1-a87a-bb3bab4ba902'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E337</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406043000 +0200" stop="20220406044400 +0200" channel="Ch 8">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">Philips Handheld Steamer</sub-title>
+    <desc lang="en">Compact and foldable steamer, easy to use and store!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4641761'&amp;EntityType='LinearSchedule'&amp;EntityId='368d1eaa-8f47-46db-a3a1-c5e8ac7069d1'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E122</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406044400 +0200" stop="20220406045800 +0200" channel="Ch 8">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">Health+ Handy Massager</sub-title>
+    <desc lang="en">Portable handy massager, you can use it easily anywhere!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4641757'&amp;EntityType='LinearSchedule'&amp;EntityId='f7c5393a-c632-4249-be97-c933444e23cf'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E120</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406045800 +0200" stop="20220406050000 +0200" channel="Ch 8">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">Gourmet Chef Skinny Stacks</sub-title>
+    <desc lang="en">Convenient stackable silicone food storage tray!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4641753'&amp;EntityType='LinearSchedule'&amp;EntityId='1d2eced5-251d-4f5a-8726-3d7bf4931939'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E125</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406050000 +0200" stop="20220406053000 +0200" channel="Ch 8">
+    <title lang="en">News 8 At One</title>
+    <title lang="xx">一点新闻 2022-2023</title>
+    <desc lang="en">Weekday afternoon updates on local and world news headlines.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639462'&amp;EntityType='LinearSchedule'&amp;EntityId='76c82e9a-27fc-40fd-bf87-bdc8c1fd8354'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406053000 +0200" stop="20220406060000 +0200" channel="Ch 8">
+    <title lang="en">Life Less Ordinary</title>
+    <title lang="xx">小人物向前冲</title>
+    <desc lang="en">Jue Ming meets Ya Long at a bar and attempts to persuade him to stop philandering. However, he notices that Ya Long is actually scared of facing death and is purposely trying to push Shu Qi away in order to not be a burden to her. Ya Long avoids the topic and returns home drunk. Back home, he is surprised to find Shuqi with a new goddess-like image.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639458'&amp;EntityType='LinearSchedule'&amp;EntityId='6b0e84de-4116-4132-943d-e4ecac5593fc'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E125</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406060000 +0200" stop="20220406063000 +0200" channel="Ch 8">
+    <title lang="en">New Doraemon</title>
+    <title lang="xx">哆啦a梦</title>
+    <desc lang="en">New season of Doraemon.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639454'&amp;EntityType='LinearSchedule'&amp;EntityId='e1b0ed8f-5ad6-43fa-9496-1048b4051da1'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E277</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406063000 +0200" stop="20220406070000 +0200" channel="Ch 8">
+    <title lang="en">Health 2.0</title>
+    <title lang="xx">健康2.0</title>
+    <sub-title lang="en">\"\" \"\"</sub-title>
+    <desc lang="en">The renowned health and wellness show "Health 2.0" will invites a strong team of doctors, family physicians, rehabilitation specialists and nutritionists to work together with you to protect the health of the whole family in every episode.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639450'&amp;EntityType='LinearSchedule'&amp;EntityId='762438da-ec98-45ee-aa51-85adc389eab1'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406070000 +0200" stop="20220406071500 +0200" channel="Ch 8">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">Philips Azur Advanced Steam Iron</sub-title>
+    <desc lang="en">Take the hard work out of ironing with this gadget. You can now iron everything from jeans to silk easily with no burns thanks to the OptimalTEMP technology.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4641749'&amp;EntityType='LinearSchedule'&amp;EntityId='e24cedd7-5c00-4070-98ea-6eb94fb41a1b'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E66</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406071500 +0200" stop="20220406073000 +0200" channel="Ch 8">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">Ultimo Casa Pro</sub-title>
+    <desc lang="en">New and upgraded version of Ultimo Casa, the ultimate home organizer for your home!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4641745'&amp;EntityType='LinearSchedule'&amp;EntityId='f6841334-5e27-4ef5-a67f-b595e15fe5f2'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E65</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406073000 +0200" stop="20220406083000 +0200" channel="Ch 8">
+    <title lang="en">The Dripping Sauce</title>
+    <title lang="xx">大酱园</title>
+    <desc lang="en">Ep 11: Derong is touched by Xiyao's kind-hearted nature, and thinks of her deceased daughter, Jingwen. She accidentally finds out Jingwen could be alive. Ep 12: The orphanage is able to continue its operation after Zhaorong honours its philanthropic contribution. The Wans launch a fund-raising campaign for the orphanage. Shuangshuang helps Zhuonan handle foreign visitors.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639446'&amp;EntityType='LinearSchedule'&amp;EntityId='cf20ceeb-9dcb-4c71-9792-19a4f5c432b7'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406083000 +0200" stop="20220406093000 +0200" channel="Ch 8">
+    <title lang="en">Taste of Life</title>
+    <title lang="xx">甘味人生</title>
+    <desc lang="en">Chu-Tsai, Chao and his wife have five children. Devoted all his life into developing soy sauce products, Chu-Tsai very much hopes that one of his kids can follow his footsteps and take over his business, but he also respects their own passions and aspirations. Because of their father's invention dream, the Chao brother's lives are about to change.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639437'&amp;EntityType='LinearSchedule'&amp;EntityId='3afff934-7c7d-4491-b2a4-1aa3f49a0c30'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E874</episode-num>
+    <rating>
+      <value>PG (Some Disturbing Scenes)</value>
+    </rating>
+  </programme>
+  <programme start="20220406093000 +0200" stop="20220406103000 +0200" channel="Ch 8">
+    <title lang="en">Ctrl</title>
+    <title lang="xx">操控</title>
+    <desc lang="en">Uncle Gui's son passes a letter from Uncle Gui to Zhi Ping and he finally understands the whole situation. Wen Dao arranges to meet him and even admits to his deeds. Wen Dao suggests working together to achieve the unfulfilled dreams of Zhi Ping's mother. He agrees to work with Wen Dao. Unexpectedly, Wen Dao threatens him with the lives of Xue Zhong, Xiao Feng and En Zhe, putting him in a dilemma.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639426'&amp;EntityType='LinearSchedule'&amp;EntityId='51d29323-cdb2-459a-9c3a-391904a9a492'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E23</episode-num>
+    <rating>
+      <value>PG (Some Violence)</value>
+    </rating>
+  </programme>
+  <programme start="20220406103000 +0200" stop="20220406113000 +0200" channel="Ch 8">
+    <title lang="en">Hello Singapore</title>
+    <title lang="xx">狮城有约</title>
+    <desc lang="en">(Live) Delivering the day's latest news and social features that matter to you. Every Monday to Friday, from 6.30pm to 7.30pm on Channel 8.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639415'&amp;EntityType='LinearSchedule'&amp;EntityId='844c036a-fe42-4d43-bdbd-5b913ec91244'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406113000 +0200" stop="20220406120000 +0200" channel="Ch 8">
+    <title lang="en">Armed Reaction 2021</title>
+    <title lang="xx">陀枪师姐 2021</title>
+    <desc lang="en">Inspector Tai On-na (Jessica Hester Hsuan) has been happily carrying out her admin duties in managing files. Fate has brought On-na, seasoned armed lady cop Chan Sam-yuen (Joyce Tang) and SDU Prince Mung Hon-sam (Moses Chan) together. After some case is solved by the trio, On-na's boss Wai Chin-chiu (Hui Shiu Hung) assigns On-na to Cold Case Special Investigation Unit.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639401'&amp;EntityType='LinearSchedule'&amp;EntityId='2736ed4d-1d43-4d06-b4e2-817356909f65'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406120000 +0200" stop="20220406130000 +0200" channel="Ch 8">
+    <title lang="en">Inside Crime Scene</title>
+    <title lang="xx">狮城奇案之罪案现场</title>
+    <sub-title lang="en">Guilty Without A Body</sub-title>
+    <desc lang="en">53 years apart, two innocent young women were wooed by two men. But not for love, because both women would end up dead, leaving no trace of their bodies. Were these two diabolical crimes motivated by the same thing? Is circumstantial evidence enough to find someone guilty of murder?</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639387'&amp;EntityType='LinearSchedule'&amp;EntityId='98091cc6-0e3b-4cbe-8482-4ee604ad4058'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating>
+      <value>PG (Some Disturbing Scenes)</value>
+    </rating>
+  </programme>
+  <programme start="20220406130000 +0200" stop="20220406140000 +0200" channel="Ch 8">
+    <title lang="en">You Can Be An Angel 4</title>
+    <title lang="xx">你也可以是天使4</title>
+    <desc lang="en">Liu Mang finds out that the Nursing Centre is organising an art exhibition. Yi Shi is unaware and sets up an online auction. Liu Mang is upset that Ye Feng does not inform Yi Shi. She explains that he is no longer their staff, she does not want to make use of him. Liu Mang tells her Yi Shi has interests in her and reminds her to not hide her feelings too. Ye Feng denies but the feelings are mutual.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639373'&amp;EntityType='LinearSchedule'&amp;EntityId='4f100c82-6faf-4f4a-9394-b7efc886dd48'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S4 E14</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406140000 +0200" stop="20220406143000 +0200" channel="Ch 8">
+    <title lang="en">News Tonight</title>
+    <title lang="xx">晚间新闻 2022-2023</title>
+    <desc lang="en">Daily evening updates on top local news and world news.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639362'&amp;EntityType='LinearSchedule'&amp;EntityId='40d9a3c7-6be4-4d2e-b732-23f5b0dc7291'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406143000 +0200" stop="20220406150000 +0200" channel="Ch 8">
+    <title lang="en">Everyday Food</title>
+    <title lang="xx">日常好食光</title>
+    <sub-title lang="en">Sandwich</sub-title>
+    <desc lang="en">The best food is made at home. Eat in and use 'Everyday Food' recipes to indulge your cravings and treat the people you love.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639353'&amp;EntityType='LinearSchedule'&amp;EntityId='5962631d-48dc-4540-ab31-5c7544f3a4c6'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406150000 +0200" stop="20220406160000 +0200" channel="Ch 8">
+    <title lang="en">Forensic Heroes</title>
+    <title lang="xx">法证先锋 IV</title>
+    <desc lang="en">Ep 4: Shumin has always been grateful to Yingxue for saving her years ago. She has thus instigated people around Long Yaozhong and Huang Liqiang to murder them when they were disrespectful towards Yingxue. Yingxue is saddened as Shumin will likely spend the rest of her life in jail.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639344'&amp;EntityType='LinearSchedule'&amp;EntityId='5f2a864d-d6a6-40e0-99ab-f364656d98d5'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating>
+      <value>PG13 (Disturbing Scenes)</value>
+    </rating>
+  </programme>
+  <programme start="20220406160000 +0200" stop="20220406170000 +0200" channel="Ch 8">
+    <title lang="en">Tiger Mum[HD]- EP 13</title>
+    <title lang="xx">虎妈来了</title>
+    <desc lang="en">Hui Yan was upset about being transferred to another school. In a fit of anger, she grabbed her penknife and headed to look for the principal. Hui Xin called Xue Mei for help. Xue Mei got into an accident while rushing to the school. She called Hui Xin to go to the school to prevent Hui Yan from doing anything she will regret. Hui Xin reached in time to stop Hui Yan from vandalising the principal's car.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4643475'&amp;EntityType='LinearSchedule'&amp;EntityId='4823db66-ff8e-4647-b6ad-80112be41026'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406170000 +0200" stop="20220406180000 +0200" channel="Ch 8">
+    <title lang="en">Just Cook It!</title>
+    <title lang="xx">一起来下厨!</title>
+    <desc lang="en">In this episode of "Just cook it", we invite the experts of the culinary circle in Singapore, showcasing their specialties in 8 different dishes. This week's theme: Pork, will challenge 3 guests to prepare their best dishes.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4643464'&amp;EntityType='LinearSchedule'&amp;EntityId='dedba4f0-f052-4708-abdb-7783135b43aa'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406180000 +0200" stop="20220406190000 +0200" channel="Ch 8">
+    <title lang="en">A Different Life</title>
+    <title lang="xx">妈姐情缘</title>
+    <desc lang="en">A Different Life - EP 5.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4643453'&amp;EntityType='LinearSchedule'&amp;EntityId='f13361c2-d92a-430e-8d60-f3ecb008e38e'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406190000 +0200" stop="20220406200000 +0200" channel="Ch 8">
+    <title lang="en">A Different Life</title>
+    <title lang="xx">妈姐情缘</title>
+    <desc lang="en">A Different Life - EP 6.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4643442'&amp;EntityType='LinearSchedule'&amp;EntityId='29ce5d91-49eb-4d2e-a3a6-557c9d969dd4'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406200000 +0200" stop="20220406210000 +0200" channel="Ch 8">
+    <title lang="en">Taste of Life</title>
+    <title lang="xx">甘味人生</title>
+    <desc lang="en">Chu-Tsai, Chao and his wife have five children. Devoted all his life into developing soy sauce products, Chu-Tsai very much hopes that one of his kids can follow his footsteps and take over his business, but he also respects their own passions and aspirations. Because of their father's invention dream, the Chao brother's lives are about to change.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4643429'&amp;EntityType='LinearSchedule'&amp;EntityId='c5bef0ef-03ef-476b-8505-01b48224b925'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E874</episode-num>
+    <rating>
+      <value>PG (Some Disturbing Scenes)</value>
+    </rating>
+  </programme>
+  <programme start="20220406210000 +0200" stop="20220406220000 +0200" channel="Ch 8">
+    <title lang="en">The Flame's Daughter</title>
+    <title lang="xx">烈火如歌</title>
+    <desc lang="en">In order to obtain the support of the court, Anye Luo made a deal with Yu Zihan, and promised to cure his physical disability. Ruge became his bargaining chip, and Yu Zihan, who was worried about Ruge, had to compromise.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4643415'&amp;EntityType='LinearSchedule'&amp;EntityId='53a5360f-c476-497f-814f-85e3660d5b65'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E31</episode-num>
+    <rating>
+      <value>PG (Some Violence)</value>
+    </rating>
+  </programme>
+  <programme start="20220406220000 +0200" stop="20220406230000 +0200" channel="Ch 8">
+    <title lang="en">Golden Age Talentime</title>
+    <title lang="xx">黄金年华之斗歌竞艺</title>
+    <desc lang="en">A popular singing competition which provides the elderly with a platform to showcase their singing talent.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4643402'&amp;EntityType='LinearSchedule'&amp;EntityId='3fa99e93-5eae-4eac-b4b2-cf5f71660524'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
   </programme>
   <programme start="20220330030000 +0200" stop="20220330031500 +0200" channel="Ch U">
     <title lang="en">Deals For Joy</title>
@@ -7370,9 +8076,9 @@
     </rating>
   </programme>
   <programme start="20220404150000 +0200" stop="20220404154500 +0200" channel="Ch U">
-    <title lang="en">News Tonight 2022-2023 - With Highlights From Parliament</title>
-    <title lang="xx">晚间新闻包括国会摘要 2022-2023</title>
-    <desc lang="en">News Tonight 2022-2023 - With Highlights From Parliament - EP 1.</desc>
+    <title lang="en">News Tonight With Highlights From Parliament</title>
+    <title lang="xx">晚间新闻包括国会摘要</title>
+    <desc lang="en">A comprehensive half-hour news programme, NEWS TONIGHT provides viewers with important local, international and financial developments for the day.</desc>
     <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4630107'&amp;EntityType='LinearSchedule'&amp;EntityId='6e6263ed-e085-4a7c-97ad-a44a5f560f37'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating>
@@ -7822,10 +8528,359 @@
     <desc lang="en">End of Transmission.</desc>
     <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4640029'&amp;EntityType='LinearSchedule'&amp;EntityId='85da5fb8-b64f-4770-9c2e-907c12df3b55'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
   </programme>
-  <programme start="20220329160000 +0200" stop="20220330010000 +0200" channel="Suria">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4613323'&amp;EntityType='LinearSchedule'&amp;EntityId='47b7b3bf-c061-43eb-8c93-07e48403aea4'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  <programme start="20220406030000 +0200" stop="20220406031500 +0200" channel="Ch U">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">Freesia Hair Dye, Freesia</sub-title>
+    <desc lang="en">Transform your hair effortlessly at home with this hair dye!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4642041'&amp;EntityType='LinearSchedule'&amp;EntityId='02856ff2-eaaa-467e-9892-b6b8ffbb2cc0'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E24</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406031500 +0200" stop="20220406033000 +0200" channel="Ch U">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">Thomson Herbal Revival</sub-title>
+    <desc lang="en">This gingko extract promotes blood circulation for good health!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4642037'&amp;EntityType='LinearSchedule'&amp;EntityId='aabe38fa-e906-46b5-98e7-dcf18de93fa6'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E30</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406033000 +0200" stop="20220406034400 +0200" channel="Ch U">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">Dr Forest Royal Care Ginseng Mouthwash</sub-title>
+    <desc lang="en">Mouthwash Infused with Ginseng extract, helps prevent cavities and bad breath.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4642033'&amp;EntityType='LinearSchedule'&amp;EntityId='02e31298-a855-46d2-a8e5-b4710c4ec076'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E48</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406034400 +0200" stop="20220406035800 +0200" channel="Ch U">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">Getha Latex Genetics Bed Topper</sub-title>
+    <desc lang="en">Made from flexible 100% natural latex to add extra comfort to your mattress!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4642029'&amp;EntityType='LinearSchedule'&amp;EntityId='a20b33a7-1677-403b-8005-850c447d09ef'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E97</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406035800 +0200" stop="20220406040000 +0200" channel="Ch U">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">Gourmet Chef One Touch Chopper</sub-title>
+    <desc lang="en">Enjoy fast and easy chopping with One Touch Chopper!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4642025'&amp;EntityType='LinearSchedule'&amp;EntityId='61a08951-bd1a-43af-b6c2-f1ae9f5581e4'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E126</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406040000 +0200" stop="20220406041500 +0200" channel="Ch U">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">Rock N Fit</sub-title>
+    <desc lang="en">Take your workout to the next level!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4642021'&amp;EntityType='LinearSchedule'&amp;EntityId='72f87098-c4c7-4d99-af8d-3e37899e78e1'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E34</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406041500 +0200" stop="20220406043000 +0200" channel="Ch U">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">Colour Restoring Conditioner</sub-title>
+    <desc lang="en">A natural herbal formula hair colour restorer to give you black and beautiful hair.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4642017'&amp;EntityType='LinearSchedule'&amp;EntityId='0bbb808a-0e27-470c-a569-a88ad815f50c'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E69</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406043000 +0200" stop="20220406044400 +0200" channel="Ch U">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">Biu L-Fre Derma Mask</sub-title>
+    <desc lang="en">Made in Korea face mask to help brighten your skin tone and enhance your skin condition!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4642013'&amp;EntityType='LinearSchedule'&amp;EntityId='f5680988-7936-42f0-910b-8c8ec987f563'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E100</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406044400 +0200" stop="20220406045800 +0200" channel="Ch U">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">Hanjang Laundry Detergent Sheet</sub-title>
+    <desc lang="en">Eco-friendly 100% soluble Detergent sheet!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4642009'&amp;EntityType='LinearSchedule'&amp;EntityId='96e1719e-568d-4c2a-95cd-96aea4775f5f'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E109</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406045800 +0200" stop="20220406050000 +0200" channel="Ch U">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">BIU Brite Breeze LED Mirror</sub-title>
+    <desc lang="en">Perfect mirror for applying make-up, grooming eyebrows and styling hair!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4642005'&amp;EntityType='LinearSchedule'&amp;EntityId='8d4b91e2-0bca-44ee-983d-cf906d25dadd'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E128</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406050000 +0200" stop="20220406051500 +0200" channel="Ch U">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">Green Diet Smoothie Lapovo</sub-title>
+    <desc lang="en">Incorporate this green diet smoothie into your meals.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4642001'&amp;EntityType='LinearSchedule'&amp;EntityId='f096956f-821e-4e13-bfa9-a2ec1b9a8345'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406051500 +0200" stop="20220406052200 +0200" channel="Ch U">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">Forderm Brightening Eye Treatment</sub-title>
+    <desc lang="en">Fresh and light texture Eye Treatment!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4641997'&amp;EntityType='LinearSchedule'&amp;EntityId='1ed3c875-24f4-4acd-b6e3-7bba4597db6b'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E106</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406052200 +0200" stop="20220406053000 +0200" channel="Ch U">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">Vegelife Enzyme Drink</sub-title>
+    <desc lang="en">100% Pure Extract Enzyme Drink, Supports digestion and aids absorption of nutrients.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4641993'&amp;EntityType='LinearSchedule'&amp;EntityId='edea8b8b-4137-48cb-9679-ccb53bdaa4d2'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E110</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406053000 +0200" stop="20220406054400 +0200" channel="Ch U">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">Gourmet Chef Wonder Chopper</sub-title>
+    <desc lang="en">Grind vegetables, nuts, and even meat in seconds!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4641989'&amp;EntityType='LinearSchedule'&amp;EntityId='d850a087-e3e0-48fb-9c63-d0ce313e1267'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E84</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406054400 +0200" stop="20220406055800 +0200" channel="Ch U">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">Yummi House</sub-title>
+    <desc lang="en">100% Natural Wild honey, Filled with natural sweetness and nutrients!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4641985'&amp;EntityType='LinearSchedule'&amp;EntityId='9e29c7fc-380c-4795-a2f5-bcbd4d9799ee'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E80</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406055800 +0200" stop="20220406060000 +0200" channel="Ch U">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">Ultimo Blaster</sub-title>
+    <desc lang="en">Adjustable kitchen sink faucet, easy to install and helps to reduce water consumption.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4641981'&amp;EntityType='LinearSchedule'&amp;EntityId='22688cac-c3cf-45ea-adbf-e569e797662f'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E72</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406060000 +0200" stop="20220406061500 +0200" channel="Ch U">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">Sankom</sub-title>
+    <desc lang="en">High quality and fashionable compression socks for everyday use!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4641977'&amp;EntityType='LinearSchedule'&amp;EntityId='4eb520ad-7aa3-4d35-86c2-832e4a33ad9c'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E42</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406061500 +0200" stop="20220406063000 +0200" channel="Ch U">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">MTG Sixpad Foot Fit</sub-title>
+    <desc lang="en">A training fitness device that efficiently trains lower-body muscles, helps to improve walking ability!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4641973'&amp;EntityType='LinearSchedule'&amp;EntityId='a298e9c5-5017-4589-9349-78772678a51c'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E51</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406063000 +0200" stop="20220406064400 +0200" channel="Ch U">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">Gourmet Chef Slow Juicer</sub-title>
+    <desc lang="en">Make your own glass of nutritious cold press juice at home!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4641969'&amp;EntityType='LinearSchedule'&amp;EntityId='fffc56b8-0198-4480-91c6-b52b756b118d'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E86</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406064400 +0200" stop="20220406065800 +0200" channel="Ch U">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">Arctic Family Set</sub-title>
+    <desc lang="en">Keeps your drinks cold for up to 24hrs and hot up to 12hrs!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4641965'&amp;EntityType='LinearSchedule'&amp;EntityId='8b079cf4-d591-4f33-bfa5-595678dceedc'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E123</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406065800 +0200" stop="20220406070000 +0200" channel="Ch U">
+    <title lang="en">Deals For Joy</title>
+    <title lang="xx">好货驾到</title>
+    <sub-title lang="en">Sharper Image Calming Heat Neck Wrap</sub-title>
+    <desc lang="en">Sharper Image Calming Heat Neck Wrap, reliefs tension and soothes muscles!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4641961'&amp;EntityType='LinearSchedule'&amp;EntityId='0637de9c-2164-4d3f-9432-a6b7620691c3'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E127</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406070000 +0200" stop="20220406083000 +0200" channel="Ch U">
+    <title lang="en">Beyond Show</title>
+    <title lang="xx">百变达人</title>
+    <desc lang="en">(R) An entertaining talent competition with participants from Japan, Italy, China etc. The judges are Wilber Pan, Patty Hou, Li Bo and Liu Yan.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4640017'&amp;EntityType='LinearSchedule'&amp;EntityId='8e73d05b-b9ef-4609-8aa8-8b3e6e2eb4b2'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406083000 +0200" stop="20220406090000 +0200" channel="Ch U">
+    <title lang="en">Plastic Surgery Is My Business</title>
+    <title lang="xx">整形背后</title>
+    <sub-title lang="en">The Business Of Beauty</sub-title>
+    <desc lang="en">(R) The competition for business between aesthetic doctors and plastic surgeons is getting tough. On top of that, Vincent and his team must keep in line with strict medical regulations that limit the type and reach of clinical advertising. What can Vincent's clinic do in the face of strong competition?</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4640006'&amp;EntityType='LinearSchedule'&amp;EntityId='345eb5b0-62fe-4732-99c2-352092086288'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating>
+      <value>PG (Some Disturbing Scenes)</value>
+    </rating>
+  </programme>
+  <programme start="20220406090000 +0200" stop="20220406100000 +0200" channel="Ch U">
+    <title lang="en">Unknown Woman</title>
+    <title lang="xx">没有名字的女人</title>
+    <desc lang="en">(R)(Dual Language - Mandarin and Korean) Ruli informs Daozhi that Zhiyuan has another daughter beside Haizhu. Daoying tells Haizhu that Cui Meixi is her biological mother but Haizhu could not accept the fact.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4644038'&amp;EntityType='LinearSchedule'&amp;EntityId='1e44bc25-3eb5-4fc3-b302-03e8ff29c07d'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E64</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406100000 +0200" stop="20220406110000 +0200" channel="Ch U">
+    <title lang="en">Little Super Girl</title>
+    <title lang="xx">巨力莱拉</title>
+    <desc lang="en">(R)(Dual Language - Mandarin and Thai) Queen Meilan orders the rescue of Binturuo. Master Houweita is determined to capture them again at the right opportunity. Jieke sees a schoolmate following Mabang and quickly tails them.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639977'&amp;EntityType='LinearSchedule'&amp;EntityId='a5a23bca-ab43-4f7e-99ba-4c62f56ecf21'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E26</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406110000 +0200" stop="20220406120000 +0200" channel="Ch U">
+    <title lang="en">Bad Love</title>
+    <title lang="xx">坏爱情</title>
+    <desc lang="en">(Dual Language - Mandarin and Korean) Zhengpei gets hold of the evidence which proves that Minhe's car hit Enhui years ago. He attempts to blackmail Shangtai with it. Danshi finds his USB device, containing the evidence, on the ground after it fell out of his coat pocket.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4643992'&amp;EntityType='LinearSchedule'&amp;EntityId='efd9aa76-5bfb-4416-8b22-16c83be16214'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E79</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406120000 +0200" stop="20220406130000 +0200" channel="Ch U">
+    <title lang="en">Bad Love</title>
+    <title lang="xx">坏爱情</title>
+    <desc lang="en">(Dual Language - Mandarin and Korean) Assistant Manager Gao bumps into Suyuan and Haozhen and is mistaken that they are having an affair. Kate helps to conceal the fact that they are siblings by claiming she herself and Haozhen are dating.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4643979'&amp;EntityType='LinearSchedule'&amp;EntityId='769b96e1-f1b3-4c58-9733-dba8096fb1b2'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E80</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406130000 +0200" stop="20220406140000 +0200" channel="Ch U">
+    <title lang="en">Find Me A Singaporean : The Pandemic Special</title>
+    <title lang="xx">稀游记之你还好吗？</title>
+    <sub-title lang="en">France</sub-title>
+    <desc lang="en">In this highly personal episode, host Sharon Au reconnects with her childhood friend Melisa Teo, a former book editor turned photographer in Paris. She learns how photography helped Melisa cope with the death of her partner, and in turn finds a new perspective on embracing love and loss.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639928'&amp;EntityType='LinearSchedule'&amp;EntityId='a8c16dd4-fd66-4910-8e93-16620f3c8fe6'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406140000 +0200" stop="20220406150000 +0200" channel="Ch U">
+    <title lang="en">Sell Your Haunted House</title>
+    <title lang="xx">吉屋出售</title>
+    <desc lang="en">(Dual Language - Mandarin and Korean) Thinking that the death of Zhiya's mother is related to his uncle's death, Renfan is determined to work with Zhiya. The two eventually start their fragile partnership and begin working cases.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639914'&amp;EntityType='LinearSchedule'&amp;EntityId='a28e3379-b6a5-447f-bf44-187e83c22db7'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating>
+      <value>PG13 (Horror)</value>
+    </rating>
+  </programme>
+  <programme start="20220406150000 +0200" stop="20220406153000 +0200" channel="Ch U">
+    <title lang="en">News Tonight</title>
+    <title lang="xx">晚间新闻</title>
+    <desc lang="en">A comprehensive half-hour news programme, NEWS TONIGHT provides viewers with important local, international and financial developments for the day.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639901'&amp;EntityType='LinearSchedule'&amp;EntityId='99e911db-3ad9-4f67-9d97-7c42188f17b7'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406153000 +0200" stop="20220406163000 +0200" channel="Ch U">
+    <title lang="en">Find Me A Singaporean : The Pandemic Special</title>
+    <title lang="xx">稀游记之你还好吗？</title>
+    <sub-title lang="en">France</sub-title>
+    <desc lang="en">(R) In this highly personal episode, host Sharon Au reconnects with her childhood friend Melisa Teo, a former book editor turned photographer in Paris. She learns how photography helped Melisa cope with the death of her partner, and in turn finds a new perspective on embracing love and loss.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639887'&amp;EntityType='LinearSchedule'&amp;EntityId='09d1c16a-04ed-49a0-87e6-9a682ef4088b'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406163000 +0200" stop="20220406173000 +0200" channel="Ch U">
+    <title lang="en">Bad Love</title>
+    <title lang="xx">坏爱情</title>
+    <desc lang="en">(R)(Dual Language - Mandarin and Korean) Zhengpei gets hold of the evidence which proves that Minhe's car hit Enhui years ago. He attempts to blackmail Shangtai with it. Danshi finds his USB device, containing the evidence, on the ground after it fell out of his coat pocket.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4644157'&amp;EntityType='LinearSchedule'&amp;EntityId='0c4d86c9-c86a-4764-9729-4bf48ee79efe'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E79</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406173000 +0200" stop="20220406183000 +0200" channel="Ch U">
+    <title lang="en">Bad Love</title>
+    <title lang="xx">坏爱情</title>
+    <desc lang="en">(R)(Dual Language - Mandarin and Korean) Assistant Manager Gao bumps into Suyuan and Haozhen and is mistaken that they are having an affair. Kate helps to conceal the fact that they are siblings by claiming she herself and Haozhen are dating.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4644139'&amp;EntityType='LinearSchedule'&amp;EntityId='7d855b27-a3b4-46a6-abe8-13e608d5bfa4'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E80</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
   </programme>
   <programme start="20220330010000 +0200" stop="20220330013000 +0200" channel="Suria">
     <title lang="en">O.M.G 2</title>
@@ -9159,10 +10214,213 @@
     <desc lang="en">End of Transmission.</desc>
     <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639237'&amp;EntityType='LinearSchedule'&amp;EntityId='8e682521-1287-4fa5-a481-0db2b9c0f2cc'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
   </programme>
-  <programme start="20220329160000 +0200" stop="20220330010000 +0200" channel="Vasantham">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4613424'&amp;EntityType='LinearSchedule'&amp;EntityId='deec3289-8582-4cd1-90c0-b6afc8ee2dab'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  <programme start="20220406010000 +0200" stop="20220406013000 +0200" channel="Suria">
+    <title lang="en">Didi and Friends</title>
+    <desc lang="en">Watch the second season of Didi &amp; Friends stories - Let's Go! Take adventures in Didi, Nana and Jojo discover new places, meet new friends, and learn interesting things. It was fun learning to play with Didi &amp; Friends! Hora Horey!Cast: Did, Nana, Jojo, Pak Atan, Tatak and Bingo.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639225'&amp;EntityType='LinearSchedule'&amp;EntityId='413e04ed-b635-48c2-8e2d-4b3bd6da2cea'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406013000 +0200" stop="20220406020000 +0200" channel="Suria">
+    <title lang="en">Warna Ramadan 2022</title>
+    <desc lang="en">Warna Ramadan 2022 is lifestyle magazine info-ed programme that is specially curated for the fasting month of Ramadan. Viewers will be served with the various segments that they are familiar with - daily features of cooking, out-and-about interviews with personalities, motivational sharing and light-hearted sketches.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639209'&amp;EntityType='LinearSchedule'&amp;EntityId='9428dc97-e7aa-4cb9-94b4-b8902b0bd7c3'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406020000 +0200" stop="20220406030000 +0200" channel="Suria">
+    <title lang="en">Sein dan Luna</title>
+    <desc lang="en">Seeing how Luna's presence might threaten her daughter's marriage, Azizah advises Wardah to be firmer with Sein and guard their marriage. Luna takes leave from work to avoid Sein before she gets married to Huzair. However, Sein looks for Luna to find out where they stand.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639195'&amp;EntityType='LinearSchedule'&amp;EntityId='d8a2d2ab-d7d4-4a78-8057-24d3f1c509c5'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406030000 +0200" stop="20220406040000 +0200" channel="Suria">
+    <title lang="en">Melastik Ke Hatimu</title>
+    <desc lang="en">Jeffri offers to pay everything for Mak Limah's umrah trip, making him her favourite son-in-law. She does not realise there is a catch to it. Meanwhile, Haura receives a cold shoulder from Ziyyad. She ropes Inaya in to help coax him.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639188'&amp;EntityType='LinearSchedule'&amp;EntityId='5551d64d-d03c-47af-bc1a-24c20924b842'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406040000 +0200" stop="20220406043000 +0200" channel="Suria">
+    <title lang="en">Rempuh</title>
+    <desc lang="en">Programme is not available for live streaming. RempuhDisgraced National rugby star, Andry Salihin, returns home to take on an impossible task - to train the Singapore Women's Rugby team. The team, divided by strife and conflict will learn the power of camaraderie, sportsmanship and respect as they scrum, tackle and blitz their way through.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639180'&amp;EntityType='LinearSchedule'&amp;EntityId='74b32d4a-2ca0-43b9-a263-42ae0e7b226a'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406043000 +0200" stop="20220406050000 +0200" channel="Suria">
+    <title lang="en">Ok Bos!</title>
+    <sub-title lang="en">The New Boss</sub-title>
+    <desc lang="en">The staff of Makan Time is stunned. Within a span of a few hours, they find out that their General Manager is no longer with them and they will be getting a new boss. Anticipation and anxiousness build as they wonder who will helm Makan Time.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639172'&amp;EntityType='LinearSchedule'&amp;EntityId='0ac112b8-7df1-4756-9b17-a235657478dd'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406050000 +0200" stop="20220406053000 +0200" channel="Suria">
+    <title lang="en">Tak2ut</title>
+    <desc lang="en">Tak2ut.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639163'&amp;EntityType='LinearSchedule'&amp;EntityId='cea91e3f-3127-4dce-8852-886a8e9e8aa2'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406053000 +0200" stop="20220406060000 +0200" channel="Suria">
+    <title lang="en">Ramadan Kembali</title>
+    <desc lang="en">Ramadan Kembali.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639156'&amp;EntityType='LinearSchedule'&amp;EntityId='20636b23-3d05-4952-8fa7-311a363efec2'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406060000 +0200" stop="20220406070000 +0200" channel="Suria">
+    <title lang="en">Cinta Buta</title>
+    <desc lang="en">Although Aulia does not want to work with Jordan, she has no choice because Jordan is the main investor of her project.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639148'&amp;EntityType='LinearSchedule'&amp;EntityId='b440ca16-b5fb-4a02-a1a3-0dba0ea3bdb7'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406070000 +0200" stop="20220406073000 +0200" channel="Suria">
+    <title lang="en">Raja Lubuk</title>
+    <desc lang="en">Raja Lubuk is a show about fishing activities in hot spots found in Malaysia. Join host Joe Aziz, as he is accompanied by a master fisherman at each of the 8 locations he visits. Each location presents a different challenge for Joe Aziz. Discover new fishing techniques and skills as we dive deep into the pool of each master's knowledge and expertise.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639140'&amp;EntityType='LinearSchedule'&amp;EntityId='7c6fb377-f246-496e-ab5f-78b483ea30cd'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406073000 +0200" stop="20220406080000 +0200" channel="Suria">
+    <title lang="en">Casa Liburan</title>
+    <desc lang="en">The host will take the audience to explore unique and attractive luxury homes. The host will unravel the history of the house and the cost of home construction and interior design.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639133'&amp;EntityType='LinearSchedule'&amp;EntityId='32c5206c-b717-47b0-91be-5dc4602ca9db'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406080000 +0200" stop="20220406090000 +0200" channel="Suria">
+    <title lang="en">Sein dan Luna</title>
+    <desc lang="en">Seeing how Luna's presence might threaten her daughter's marriage, Azizah advises Wardah to be firmer with Sein and guard their marriage. Luna takes leave from work to avoid Sein before she gets married to Huzair. However, Sein looks for Luna to find out where they stand.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639125'&amp;EntityType='LinearSchedule'&amp;EntityId='b0ee7510-a542-4b36-ba3f-4cb574847162'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406090000 +0200" stop="20220406100000 +0200" channel="Suria">
+    <title lang="en">Perisik Cinta Tak Diundang</title>
+    <desc lang="en">Series SynopsisMedina Mikayla is a culinary graduate who aspires to be a successful chef. After six months without a job, she becomes a cook in Tuan Muhsin's restaurant. Coincidently, she sees her university friend, Niyaz working there too. Medina later becomes Tuan Muhsin's son, Aqasha's fiance without knowing that Aqasha is actually Niyaz.Episode 1Medina gets a shocked when she receives an engagement proposal from Firas. Meanwhile, Tuan Muhsin finds out that Medina has been looking for.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639117'&amp;EntityType='LinearSchedule'&amp;EntityId='3bfcee12-adbd-409e-9751-4842c989d488'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406100000 +0200" stop="20220406103000 +0200" channel="Suria">
+    <title lang="en">Didi and Friends</title>
+    <desc lang="en">Watch the second season of Didi &amp; Friends stories - Let's Go! Take adventures in Didi, Nana and Jojo discover new places, meet new friends, and learn interesting things. It was fun learning to play with Didi &amp; Friends! Hora Horey!Cast: Did, Nana, Jojo, Pak Atan, Tatak and Bingo.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639106'&amp;EntityType='LinearSchedule'&amp;EntityId='e7072c0b-88a4-45a5-b481-da9446d2a8b9'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406103000 +0200" stop="20220406110000 +0200" channel="Suria">
+    <title lang="en">Warna Ramadan 2022</title>
+    <desc lang="en">Warna Ramadan 2022 is lifestyle magazine info-ed programme that is specially curated for the fasting month of Ramadan. Viewers will be served with the various segments that they are familiar with - daily features of cooking, out-and-about interviews with personalities, motivational sharing and light-hearted sketches.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639098'&amp;EntityType='LinearSchedule'&amp;EntityId='d2de887a-3e1d-40fd-b95c-e9fb81edc31d'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406110000 +0200" stop="20220406120000 +0200" channel="Suria">
+    <title lang="en">Melastik Ke Hatimu</title>
+    <desc lang="en">Fatin is furious to see that she is no longer Mak Limah's favourite child. She causes hurt to Haura who is heavily pregnant. The whole family realises Jefri's true intentions in marrying Fatin, however, it is too little too late.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639090'&amp;EntityType='LinearSchedule'&amp;EntityId='5a36c301-21bd-4a21-96d1-42b401b38566'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406120000 +0200" stop="20220406123000 +0200" channel="Suria">
+    <title lang="en">Berita 2022-2023</title>
+    <desc lang="en">Berita 2022-2023.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639082'&amp;EntityType='LinearSchedule'&amp;EntityId='ad84cfa0-3df8-4f88-82e8-fbe38c34fe31'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406123000 +0200" stop="20220406130000 +0200" channel="Suria">
+    <title lang="en">Detik 2022-2023</title>
+    <sub-title lang="en">Rahmat Ramadan 1</sub-title>
+    <desc lang="en">Detik 2022-2023.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639073'&amp;EntityType='LinearSchedule'&amp;EntityId='b81b2356-ad4b-4868-b9ae-ed3931de60a7'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406130000 +0200" stop="20220406133000 +0200" channel="Suria">
+    <title lang="en">Muqaddim</title>
+    <sub-title lang="en">Masjid Ban Ho Chiang Mai</sub-title>
+    <desc lang="en">In Muqaddim, the audience will explore the beauty of Chinese architecture that has a high artistic value. History of the existence of the mosque from the early stages of its construction. Similarly, the features of Chinese architecture is brought to Southeast Asian countries to introduce Chinese culture.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639065'&amp;EntityType='LinearSchedule'&amp;EntityId='bfc66801-2f39-46cd-a5d1-22b8b26af9c4'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406133000 +0200" stop="20220406143000 +0200" channel="Suria">
+    <title lang="en">Perisik Cinta Tak Diundang</title>
+    <desc lang="en">Niyaz becomes a waiter at his father's restaurant to get to know Medina better. Medina is surprised to see Niyaz there but does not think too much of it.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639058'&amp;EntityType='LinearSchedule'&amp;EntityId='aa6057d3-63a8-46f5-b982-ba1bc1cc3f92'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406143000 +0200" stop="20220406150000 +0200" channel="Suria">
+    <title lang="en">Tak2ut</title>
+    <desc lang="en">Tak2ut.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639054'&amp;EntityType='LinearSchedule'&amp;EntityId='596bdc3c-a756-46ca-a973-f6abb242b04d'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406150000 +0200" stop="20220406153000 +0200" channel="Suria">
+    <title lang="en">Rasa Nostalgia Ramadan Chef Wan</title>
+    <desc lang="en">A cooking program hosted by Chef Wan cooking along sides celebrity guests. Featuring special dishes from their roots-ancestors and talk about nostalgic food when it comes to Ramadan.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639050'&amp;EntityType='LinearSchedule'&amp;EntityId='4991786b-06a5-43cd-8a3b-9ec0a5e310bf'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406153000 +0200" stop="20220406160000 +0200" channel="Suria">
+    <title lang="en">Berita 2022-2023</title>
+    <desc lang="en">Berita 2022-2023.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639044'&amp;EntityType='LinearSchedule'&amp;EntityId='6dd40f00-3a6f-4491-825a-617de7d97ae2'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <rating>
+      <value>G</value>
+    </rating>
   </programme>
   <programme start="20220330010000 +0200" stop="20220330013000 +0200" channel="Vasantham">
     <title lang="en">Kuralum Athan Porulum Season 3</title>
@@ -10344,11 +11602,193 @@
     <desc lang="en">End of Transmission.</desc>
     <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639254'&amp;EntityType='LinearSchedule'&amp;EntityId='fcad6942-e065-46d8-a270-f03c314f9eec'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
   </programme>
-  <programme start="20220329230000 +0200" stop="20220330020000 +0200" channel="CNA">
-    <title lang="en">Asia First</title>
-    <desc lang="en">Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4613466'&amp;EntityType='LinearSchedule'&amp;EntityId='71b6960e-0378-4ea4-b822-18934ed91fdd'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  <programme start="20220406010000 +0200" stop="20220406013000 +0200" channel="Vasantham">
+    <title lang="en">Kuralum Athan Porulum</title>
+    <desc lang="en">Thirukkural explained through storytelling.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639245'&amp;EntityType='LinearSchedule'&amp;EntityId='9bc50100-2ce8-4cf4-8c8d-06680073cc5a'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406013000 +0200" stop="20220406020000 +0200" channel="Vasantham">
+    <title lang="en">Rusiyo Rusi! Sr 1</title>
+    <sub-title lang="en">Nepal - Beyond The Valley</sub-title>
+    <desc lang="en">Vasantham brings to you Rusiyo Rusi!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639083'&amp;EntityType='LinearSchedule'&amp;EntityId='b6a9f31b-ff1d-4d43-a493-0a29f7c7b9c5'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406020000 +0200" stop="20220406023000 +0200" channel="Vasantham">
+    <title lang="en">Enge Pettai</title>
+    <desc lang="en">Modern Singapore now boasts a 200-year history. Demographic enclaves have appeared, vanished and remerged with a different veneer. People move from place to within tiny Island as they upgrade to better homes or set up our own after marriage. However, memories and stories live on.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639233'&amp;EntityType='LinearSchedule'&amp;EntityId='ca0056b1-cbe5-42e9-aae9-11c10ef1d5d7'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406023000 +0200" stop="20220406030000 +0200" channel="Vasantham">
+    <title lang="en">Ayalaan</title>
+    <desc lang="en">When Mani and Mages learn that Mangai has flunked her A-Math paper under the tutelage of Venga, they task her to bring in a better tuition teacher. Mangai knows the right person for this job - the great Kabir Batcha Sir!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639222'&amp;EntityType='LinearSchedule'&amp;EntityId='611a1016-4d79-48f8-9a02-5b806d889995'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406030000 +0200" stop="20220406033000 +0200" channel="Vasantham">
+    <title lang="en">Salute</title>
+    <desc lang="en">LTA Jeeva meets Vimalan's grandmother, and he understands the reasons for his anger issues. Jeeva takes a personal interest in Vimalan's affairs. Barath fails in convincing his father in getting him out of NS.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639207'&amp;EntityType='LinearSchedule'&amp;EntityId='110730f7-4edd-4544-aec2-9bf30c57dfad'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406033000 +0200" stop="20220406040000 +0200" channel="Vasantham">
+    <title lang="en">Kaiyalavu Manasu</title>
+    <desc lang="en">The story revolves around Sharada, a simple minded widow, who is diagnosed with a terminal heart ailment.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639060'&amp;EntityType='LinearSchedule'&amp;EntityId='96fca25b-649f-4b8e-8fe2-d1ca190b2642'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E48</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406040000 +0200" stop="20220406063000 +0200" channel="Vasantham">
+    <title lang="en">Julie Ganapathi</title>
+    <desc lang="en">Tenkasi, the creator of a hit television show, finds himself in the house of Julie, a fan, after an accident. However, she reveals herself to be emotionally unstable and potentially dangerous.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639194'&amp;EntityType='LinearSchedule'&amp;EntityId='924dc49d-557d-433e-b508-f39e59cfb557'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <rating>
+      <value>PG (Violence)</value>
+    </rating>
+  </programme>
+  <programme start="20220406063000 +0200" stop="20220406070000 +0200" channel="Vasantham">
+    <title lang="en">Ha Ha Ha Sirippu 2016</title>
+    <desc lang="en">Laugh out loud to comedy scenes from Kollywood films, right here on Vasantham!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639186'&amp;EntityType='LinearSchedule'&amp;EntityId='b315d2b8-a0bb-4654-b1c5-f23293ee6d08'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406070000 +0200" stop="20220406080000 +0200" channel="Vasantham">
+    <title lang="en">Mr &amp; Mrs Ragalai</title>
+    <desc lang="en">The programme features various segments such as song dedication, interactive games, celebrity birthday, funny home videos, shooting spot snippets and surprise elements.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639177'&amp;EntityType='LinearSchedule'&amp;EntityId='c1481258-9ced-485b-a538-3e5481b5ab52'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406080000 +0200" stop="20220406103000 +0200" channel="Vasantham">
+    <title lang="en">Kalavani Mapillai</title>
+    <desc lang="en">A childhood rivalry between Deva and Villangam, a hastily built romance between Deva and Thulasi, a back story for why Thulasi's mother Rajeswari wants a son-in-law who can drive, a henpecked husband, a comic character Vanagamoodi, who could expose Deva's lies.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639170'&amp;EntityType='LinearSchedule'&amp;EntityId='986b5227-a480-4dd8-bb5b-c688c0ce66d9'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406103000 +0200" stop="20220406110000 +0200" channel="Vasantham">
+    <title lang="en">Sa Re Ga Mae Paadalgal 2020</title>
+    <desc lang="en">Songs.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639162'&amp;EntityType='LinearSchedule'&amp;EntityId='5dd0dbbb-1421-4f19-ac99-39c14e61f01a'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E56</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406110000 +0200" stop="20220406113000 +0200" channel="Vasantham">
+    <title lang="en">Anjaraipetti S8 P1</title>
+    <desc lang="en">Anjaraipetti takes cookery onto a new level, transforming the foodies into passionate chefs. The show helps viewers hone their culinary skills and brings a new flavour to their kitchen, different from the ones they are used to.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639154'&amp;EntityType='LinearSchedule'&amp;EntityId='8edc7552-053d-4c80-8ef7-6cc88a8d164c'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E45</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406113000 +0200" stop="20220406120000 +0200" channel="Vasantham">
+    <title lang="en">Anjaraipetti S8 P1</title>
+    <desc lang="en">Anjaraipetti takes cookery onto a new level, transforming the foodies into passionate chefs. The show helps viewers hone their culinary skills and brings a new flavour to their kitchen, different from the ones they are used to.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639145'&amp;EntityType='LinearSchedule'&amp;EntityId='a6883be5-94dc-4f63-bcdf-42a20f9c2ed4'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E46</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406120000 +0200" stop="20220406123000 +0200" channel="Vasantham">
+    <title lang="en">A For Anbu[HD]- EP 1</title>
+    <desc lang="en">A for Anbu is a 12-parter children's series that harps on kindness. From simple acts of kindness to incidents and events that alter someone's life, A for Anbu is a heart-warming series that exemplifies how kindness is always paid forward.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639076'&amp;EntityType='LinearSchedule'&amp;EntityId='9c066355-eefb-4fff-9d72-7b997812028f'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406123000 +0200" stop="20220406130000 +0200" channel="Vasantham">
+    <title lang="en">Tamil Seithi 2022</title>
+    <desc lang="en">Tamil News.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639137'&amp;EntityType='LinearSchedule'&amp;EntityId='507120e2-b9d0-4e79-8a54-28e15be1e0bf'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406130000 +0200" stop="20220406133000 +0200" channel="Vasantham">
+    <title lang="en">Thiruvai Malarvai</title>
+    <desc lang="en">Adapted from a character in Yaar 3 (a popular franchised thriller series following Yaar 1 and 2), Mr Thiru, the first season of Thiruvaai Malarvaai was incepted for Stories4SG. In the first season of Thiruvaai Malarvaai, the story documents the obvious incompatibility between Thiru and Malar, their incidental marriage and how their incompatibility is sorted out through a series of hilarious turns of events.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639128'&amp;EntityType='LinearSchedule'&amp;EntityId='539c04ba-cab8-4b2b-89e2-bd9bd00cf2b6'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S2 E15</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220406133000 +0200" stop="20220406140000 +0200" channel="Vasantham">
+    <title lang="en">Ethiroli</title>
+    <desc lang="en">Ethiroli S19.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639120'&amp;EntityType='LinearSchedule'&amp;EntityId='22b16187-017e-4c2a-ba83-587f6bfbea6b'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406140000 +0200" stop="20220406143000 +0200" channel="Vasantham">
+    <title lang="en">Mars Poyi Serthutom</title>
+    <desc lang="en">We travel back in time to understand how and why Lambo pulled off one of the biggest hoaxes in history. With a painful heartbreak weighing him down, Lambo is struggling to prove his worth. Will his band of scientists agree to kickstart his dream project - Mars for All?</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639107'&amp;EntityType='LinearSchedule'&amp;EntityId='0b9b936c-ba4c-4dff-a5a6-d018a7242140'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating>
+      <value>PG13 (Mature Themes)</value>
+    </rating>
+  </programme>
+  <programme start="20220406143000 +0200" stop="20220406150000 +0200" channel="Vasantham">
+    <title lang="en">Swaasamey</title>
+    <desc lang="en">An ugly confrontation between Ragha and his mother leads to her finding out the truth! She demands to see Suha and release her of the agony. Will Ragha finally realise that his actions were indeed extreme?</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4641693'&amp;EntityType='LinearSchedule'&amp;EntityId='d68a5e52-234c-48e3-88fe-f07d91947dc7'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating>
+      <value>PG13 (Mature Themes)</value>
+    </rating>
+  </programme>
+  <programme start="20220406150000 +0200" stop="20220406153000 +0200" channel="Vasantham">
+    <title lang="en">Sa Re Ga Mae Paadalgal 2020</title>
+    <desc lang="en">Songs.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639069'&amp;EntityType='LinearSchedule'&amp;EntityId='c079f4f1-eaae-4858-b1ea-0783eabb5fb3'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406153000 +0200" stop="20220406160000 +0200" channel="Vasantham">
+    <title lang="en">Tamil Seithi 2022</title>
+    <desc lang="en">Tamil News.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639091'&amp;EntityType='LinearSchedule'&amp;EntityId='07fa886b-b374-4377-8995-d01e0d1f32c0'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
   </programme>
   <programme start="20220330020000 +0200" stop="20220330020200 +0200" channel="CNA">
     <title lang="en">Headline News</title>
@@ -11812,5 +13252,198 @@
     <desc lang="en">Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
     <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639236'&amp;EntityType='LinearSchedule'&amp;EntityId='b5881d40-91a6-4380-bb21-b787424ca550'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220406020000 +0200" stop="20220406020200 +0200" channel="CNA">
+    <title lang="en">Headline News</title>
+    <desc lang="en">The latest top stories of the hour.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639223'&amp;EntityType='LinearSchedule'&amp;EntityId='1550f1e3-d7cd-4445-bdd7-90623be3b823'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20220406020200 +0200" stop="20220406023000 +0200" channel="CNA">
+    <title lang="en">Money Mind</title>
+    <desc lang="en">Money Mind tells you how to make the most of your money with tips for investors, business ideas for businessmen and analysis of the economy, companies, markets, financial products and trends.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639208'&amp;EntityType='LinearSchedule'&amp;EntityId='82092b28-69e2-48df-afd9-a612119ea2a2'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220406023000 +0200" stop="20220406030000 +0200" channel="CNA">
+    <title lang="en">On The Red Dot</title>
+    <sub-title lang="en">Handmade Tales : The Woodsman</sub-title>
+    <desc lang="en">YouTuber Ghib Ojisan has got the keys to his new flat. Before he can move in, he will need some furniture! So, he is off to apprentice himself under sustainable furniture maker, Ahmad Alhabshee.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639196'&amp;EntityType='LinearSchedule'&amp;EntityId='da0b8775-acb0-4802-814a-75ec2b35baf8'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20220406030000 +0200" stop="20220406050000 +0200" channel="CNA">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639440'&amp;EntityType='LinearSchedule'&amp;EntityId='36635e07-2d08-4d83-b6eb-41ae214ae8b6'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220406050000 +0200" stop="20220406050200 +0200" channel="CNA">
+    <title lang="en">Headline News</title>
+    <desc lang="en">The latest top stories of the hour.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639432'&amp;EntityType='LinearSchedule'&amp;EntityId='aeb239c3-3c67-495b-b9bd-994c4c859e12'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20220406050200 +0200" stop="20220406060000 +0200" channel="CNA">
+    <title lang="en">CNA Green Plan Challenge</title>
+    <sub-title lang="en">City In Nature</sub-title>
+    <desc lang="en">Residents in 3 towns embark on an adventure trail. They get up, close and personal with wildlife and learn to tell friend from foe. Along the way, they plant the seeds for a sustainable future.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639294'&amp;EntityType='LinearSchedule'&amp;EntityId='542f22c7-edca-4af6-89a3-97d95e0335ac'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220406060000 +0200" stop="20220406080000 +0200" channel="CNA">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639419'&amp;EntityType='LinearSchedule'&amp;EntityId='4ada46f4-432b-4949-b65d-618de914b22c'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220406080000 +0200" stop="20220406080200 +0200" channel="CNA">
+    <title lang="en">Headline News</title>
+    <desc lang="en">The latest top stories of the hour.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639408'&amp;EntityType='LinearSchedule'&amp;EntityId='82449dc4-1c49-4d3b-8887-af6d8a4d73dd'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20220406080200 +0200" stop="20220406090000 +0200" channel="CNA">
+    <title lang="en">The Mark Of Empire</title>
+    <sub-title lang="en">Bagan</sub-title>
+    <desc lang="en">900 years ago, the Bagan Empire united Myanmar and transformed into a world centre of Buddhism. Curator and scholar Peter Lee explores how it grew and how its legacy still echoes in the modern nation.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639397'&amp;EntityType='LinearSchedule'&amp;EntityId='606c752d-b220-45ba-895a-ddb621aad85e'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220406090000 +0200" stop="20220406110000 +0200" channel="CNA">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639386'&amp;EntityType='LinearSchedule'&amp;EntityId='f8dd645a-e645-43b0-b074-94549b2054cc'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220406110000 +0200" stop="20220406110200 +0200" channel="CNA">
+    <title lang="en">Headline News</title>
+    <desc lang="en">The latest top stories of the hour.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639376'&amp;EntityType='LinearSchedule'&amp;EntityId='0ff9799a-a6c3-41d3-85f9-7cfb75a18591'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20220406110200 +0200" stop="20220406113000 +0200" channel="CNA">
+    <title lang="en">Money Mind</title>
+    <desc lang="en">Money Mind tells you how to make the most of your money with tips for investors, business ideas for businessmen and analysis of the economy, companies, markets, financial products and trends.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639365'&amp;EntityType='LinearSchedule'&amp;EntityId='2b4abd3f-db63-40cc-99db-d60f7ebb60f6'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220406113000 +0200" stop="20220406120000 +0200" channel="CNA">
+    <title lang="en">On The Red Dot</title>
+    <sub-title lang="en">Handmade Tales : The Woodsman</sub-title>
+    <desc lang="en">YouTuber Ghib Ojisan has got the keys to his new flat. Before he can move in, he will need some furniture! So, he is off to apprentice himself under sustainable furniture maker, Ahmad Alhabshee.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639356'&amp;EntityType='LinearSchedule'&amp;EntityId='75f183ff-601e-45fe-a65e-b2fb59eb0049'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20220406120000 +0200" stop="20220406130000 +0200" channel="CNA">
+    <title lang="en">Asia Tonight</title>
+    <desc lang="en">CNA correspondents bring you the top stories of the day with 'live' reports and interviews to keep you up-to-date on the day's events.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639349'&amp;EntityType='LinearSchedule'&amp;EntityId='66585363-9cb2-48c0-9712-871856db8733'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  </programme>
+  <programme start="20220406130000 +0200" stop="20220406130200 +0200" channel="CNA">
+    <title lang="en">Headline News</title>
+    <desc lang="en">The latest top stories of the hour.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639342'&amp;EntityType='LinearSchedule'&amp;EntityId='cb2a72e7-81cf-49e8-9c12-5d96ecf1dc6c'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20220406130200 +0200" stop="20220406133000 +0200" channel="CNA">
+    <title lang="en">Why It Matters: Decoding The Future</title>
+    <sub-title lang="en">How Do I Cheat Death?</sub-title>
+    <desc lang="en">Biotechnology has advanced leaps and bounds in recent decades, but have we come to the point of being able to cheat death? Host Joshua Lim goes on a quest for immortality.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='4639334'&amp;EntityType='LinearSchedule'&amp;EntityId='c6cf7452-b66d-4471-a7bb-0b4ab148eeff'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S5 E1</episode-num>
+  </programme>
+  <programme start="20220406133000 +0200" stop="20220406140000 +0200" channel="CNA">
+    <title lang="en">Singapore After Work</title>
+    <sub-title lang="en">After Sunset</sub-title>
+    <desc lang="en">Software developer Nicky Bay goes on a weekly night search for elusive insects, while ophthalmology resident Nicole Chan prepares for a concert on top of ten-hour work shifts.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639325'&amp;EntityType='LinearSchedule'&amp;EntityId='9120c66e-0ba4-4063-8f54-cfac10e3c6fa'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220406140000 +0200" stop="20220406150000 +0200" channel="CNA">
+    <title lang="en">Singapore Tonight</title>
+    <desc lang="en">From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639317'&amp;EntityType='LinearSchedule'&amp;EntityId='38e6d2d7-da38-4b43-8a35-29d27caf5a26'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  </programme>
+  <programme start="20220406150000 +0200" stop="20220406150200 +0200" channel="CNA">
+    <title lang="en">Headline News</title>
+    <desc lang="en">The latest top stories of the hour.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639310'&amp;EntityType='LinearSchedule'&amp;EntityId='6897dded-f02c-4eb4-8d5d-4f42501993fe'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20220406150200 +0200" stop="20220406153000 +0200" channel="CNA">
+    <title lang="en">Money Mind</title>
+    <desc lang="en">Money Mind tells you how to make the most of your money with tips for investors, business ideas for businessmen and analysis of the economy, companies, markets, financial products and trends.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639302'&amp;EntityType='LinearSchedule'&amp;EntityId='244408d6-d355-4181-bfb6-91d9f70fefaf'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220406153000 +0200" stop="20220406160000 +0200" channel="CNA">
+    <title lang="en">On The Red Dot</title>
+    <sub-title lang="en">Handmade Tales : The Woodsman</sub-title>
+    <desc lang="en">YouTuber Ghib Ojisan has got the keys to his new flat. Before he can move in, he will need some furniture! So, he is off to apprentice himself under sustainable furniture maker, Ahmad Alhabshee.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639298'&amp;EntityType='LinearSchedule'&amp;EntityId='cd364ceb-0b5e-4dd5-88b5-56f90802f917'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20220406160000 +0200" stop="20220406170000 +0200" channel="CNA">
+    <title lang="en">World Tonight</title>
+    <desc lang="en">A wrap of the day's events in Asia, and a look-ahead at the US and Europe.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4643702'&amp;EntityType='LinearSchedule'&amp;EntityId='c747241a-6786-49c5-afd9-ae01a0177b9f'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220406170000 +0200" stop="20220406170200 +0200" channel="CNA">
+    <title lang="en">Headline News</title>
+    <desc lang="en">The latest top stories of the hour.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4643698'&amp;EntityType='LinearSchedule'&amp;EntityId='7ab400fb-4d93-439f-bff0-9447e0f35837'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20220406170200 +0200" stop="20220406173000 +0200" channel="CNA">
+    <title lang="en">Why It Matters: Decoding The Future</title>
+    <sub-title lang="en">How Do I Cheat Death?</sub-title>
+    <desc lang="en">Biotechnology has advanced leaps and bounds in recent decades, but have we come to the point of being able to cheat death? Host Joshua Lim goes on a quest for immortality.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='4643694'&amp;EntityType='LinearSchedule'&amp;EntityId='39957885-9b09-467a-93f6-c46ac0b97e67'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S5 E1</episode-num>
+  </programme>
+  <programme start="20220406173000 +0200" stop="20220406180000 +0200" channel="CNA">
+    <title lang="en">Singapore After Work</title>
+    <sub-title lang="en">After Sunset</sub-title>
+    <desc lang="en">Software developer Nicky Bay goes on a weekly night search for elusive insects, while ophthalmology resident Nicole Chan prepares for a concert on top of ten-hour work shifts.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4643690'&amp;EntityType='LinearSchedule'&amp;EntityId='08acf262-6215-4e69-adef-3af7e584944c'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220406180000 +0200" stop="20220406190000 +0200" channel="CNA">
+    <title lang="en">Singapore Tonight</title>
+    <desc lang="en">From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4643686'&amp;EntityType='LinearSchedule'&amp;EntityId='98794504-7c19-4229-b346-a18a2439685b'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  </programme>
+  <programme start="20220406190000 +0200" stop="20220406200000 +0200" channel="CNA">
+    <title lang="en">The Mark Of Empire</title>
+    <sub-title lang="en">Bagan</sub-title>
+    <desc lang="en">900 years ago, the Bagan Empire united Myanmar and transformed into a world centre of Buddhism. Curator and scholar Peter Lee explores how it grew and how its legacy still echoes in the modern nation.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4643682'&amp;EntityType='LinearSchedule'&amp;EntityId='c8f256d7-1604-4937-9c7d-9e2982793679'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220406200000 +0200" stop="20220406210000 +0200" channel="CNA">
+    <title lang="en">Asia Tonight</title>
+    <desc lang="en">CNA correspondents bring you the top stories of the day with 'live' reports and interviews to keep you up-to-date on the day's events.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4643678'&amp;EntityType='LinearSchedule'&amp;EntityId='e72fea80-e3a6-4ba8-b632-e7d950bd0fb0'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  </programme>
+  <programme start="20220406210000 +0200" stop="20220406213000 +0200" channel="CNA">
+    <title lang="en">Why It Matters: Decoding The Future</title>
+    <sub-title lang="en">How Do I Cheat Death?</sub-title>
+    <desc lang="en">Biotechnology has advanced leaps and bounds in recent decades, but have we come to the point of being able to cheat death? Host Joshua Lim goes on a quest for immortality.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='4643674'&amp;EntityType='LinearSchedule'&amp;EntityId='498c290a-9935-4914-98a2-df784ad229fb'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S5 E1</episode-num>
+  </programme>
+  <programme start="20220406213000 +0200" stop="20220406220000 +0200" channel="CNA">
+    <title lang="en">Singapore After Work</title>
+    <sub-title lang="en">After Sunset</sub-title>
+    <desc lang="en">Software developer Nicky Bay goes on a weekly night search for elusive insects, while ophthalmology resident Nicole Chan prepares for a concert on top of ten-hour work shifts.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4643670'&amp;EntityType='LinearSchedule'&amp;EntityId='335e5216-636c-434b-b379-1e494b0a4a6f'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220406220000 +0200" stop="20220406230000 +0200" channel="CNA">
+    <title lang="en">Singapore Tonight</title>
+    <desc lang="en">From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4643666'&amp;EntityType='LinearSchedule'&amp;EntityId='2ab6e383-008f-4e94-905a-5471171365cc'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
   </programme>
 </tv>
