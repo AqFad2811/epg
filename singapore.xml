@@ -3234,6 +3234,33 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme start="20220406230000 +0200" stop="20220406230000 +0200" channel="Ch 5">
+    <title lang="en">Esme And Roy</title>
+    <desc lang="en">Meet Esme &amp; Roy - they're best friends and the best monstersitters in Monsterdale!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4644492'&amp;EntityType='LinearSchedule'&amp;EntityId='1b2d8192-fda6-4ab7-86d6-e830e02b9288'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406230000 +0200" stop="20220406233000 +0200" channel="Ch 5">
+    <title lang="en">Esme And Roy</title>
+    <desc lang="en">Meet Esme &amp; Roy - they're best friends and the best monstersitters in Monsterdale!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4644492'&amp;EntityType='LinearSchedule'&amp;EntityId='1b2d8192-fda6-4ab7-86d6-e830e02b9288'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406233000 +0200" stop="20220407000000 +0200" channel="Ch 5">
+    <title lang="en">Rev &amp; Roll</title>
+    <desc lang="en">Rev &amp; Roll follows the adventures of eight-year-old Rev and his best friend Rumble - a rambunctious truck with all the personality of a loyal and enthusiastic dog!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4644477'&amp;EntityType='LinearSchedule'&amp;EntityId='12a69d3c-0138-4a25-afa2-0cd7d8bb9eb4'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
   <programme start="20220330000000 +0200" stop="20220330010000 +0200" channel="Ch 8">
     <title lang="en">You Can Be An Angel 4</title>
     <title lang="xx">你也可以是天使4</title>
@@ -5360,7 +5387,7 @@
       <value>PG (Some Disturbing Scenes)</value>
     </rating>
   </programme>
-  <programme start="20220404210500 +0200" stop="20220404230000 +0200" channel="Ch 8">
+  <programme start="20220404210500 +0200" stop="20220404220000 +0200" channel="Ch 8">
     <title lang="en">The Flame's Daughter</title>
     <title lang="xx">烈火如歌</title>
     <desc lang="en">(R) Lei Jinghong regained control of the Pili Sect. In order annihilation of his men by the Dark River Palace sect, he decided to take cover out at sea. Anye Jue met up with Xunyi (her daughter), and threatened Ji Jinglei's safety to force her to kill Ruge.</desc>
@@ -5370,12 +5397,12 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220404230000 +0200" stop="20220404230000 +0200" channel="Ch 8">
-    <title lang="en">News Tonight With Highlights From Parliament</title>
-    <title lang="xx">晚间新闻包括国会摘要</title>
-    <desc lang="en">(R) Daily evening updates on top local news and world news.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4634212'&amp;EntityType='LinearSchedule'&amp;EntityId='890aca61-fcd3-43e8-b077-d4c174755c19'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E1</episode-num>
+  <programme start="20220404220000 +0200" stop="20220404230000 +0200" channel="Ch 8">
+    <title lang="en">Old Taste Detective</title>
+    <title lang="xx">古早味侦探 2</title>
+    <desc lang="en">(R) Fried Carrot Cake, a classic local Teochew snack that has the black &amp; white styles of frying. It is said that the original carrot cake did not contain any radish. This episode, Bryan &amp; Chef Mandy visit traditional stalls to clarify on this saying &amp; try to recreate the old taste of Fried Carrot Cake.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4645386'&amp;EntityType='LinearSchedule'&amp;EntityId='00a302bd-5a11-4d31-bb9b-d8a530e79937'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S2 E2</episode-num>
     <rating>
       <value>G</value>
     </rating>
@@ -5383,7 +5410,7 @@
   <programme start="20220404230000 +0200" stop="20220404230000 +0200" channel="Ch 8">
     <title lang="en">News Tonight With Highlights From Parliament</title>
     <title lang="xx">晚间新闻包括国会摘要</title>
-    <desc lang="en">(R) Daily evening updates on top local news and world news.(g)</desc>
+    <desc lang="en">(R) Daily evening updates on top local news and world news.</desc>
     <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4634212'&amp;EntityType='LinearSchedule'&amp;EntityId='890aca61-fcd3-43e8-b077-d4c174755c19'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating>
@@ -5678,9 +5705,9 @@
     </rating>
   </programme>
   <programme start="20220405160000 +0200" stop="20220405170000 +0200" channel="Ch 8">
-    <title lang="en">Tiger Mum[HD]- EP 12</title>
+    <title lang="en">Tiger Mum</title>
     <title lang="xx">虎妈来了</title>
-    <desc lang="en">Hui Xin stalks her ex-boyfriend on social media and learns that he has returned to the country. He is also happily attached to another girl. Hui Xin feels indignant that her best friend had stolen her boyfriend. She starts to plan her revenge, but is stopped by Xue Mei. Xue Mei tells her that the best revenge is to live better than your enemies.</desc>
+    <desc lang="en">(R) Hui Xin stalks her ex-boyfriend on social media and learns that he has returned to the country. He is also happily attached to another girl. Hui Xin feels indignant that her best friend had stolen her boyfriend. She starts to plan her revenge, but is stopped by Xue Mei. Xue Mei tells her that the best revenge is to live better than your enemies.</desc>
     <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4639335'&amp;EntityType='LinearSchedule'&amp;EntityId='8451abc2-6ed7-42e8-8945-6c0b78505c48'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <episode-num system="onscreen">S1 E12</episode-num>
     <rating>
@@ -6037,9 +6064,9 @@
     </rating>
   </programme>
   <programme start="20220406160000 +0200" stop="20220406170000 +0200" channel="Ch 8">
-    <title lang="en">Tiger Mum[HD]- EP 13</title>
+    <title lang="en">Tiger Mum</title>
     <title lang="xx">虎妈来了</title>
-    <desc lang="en">Hui Yan was upset about being transferred to another school. In a fit of anger, she grabbed her penknife and headed to look for the principal. Hui Xin called Xue Mei for help. Xue Mei got into an accident while rushing to the school. She called Hui Xin to go to the school to prevent Hui Yan from doing anything she will regret. Hui Xin reached in time to stop Hui Yan from vandalising the principal's car.</desc>
+    <desc lang="en">(R) Hui Yan was upset about being transferred to another school. In a fit of anger, she grabbed her penknife and headed to look for the principal. Hui Xin called Xue Mei for help. Xue Mei got into an accident while rushing to the school. She called Hui Xin to go to the school to prevent Hui Yan from doing anything she will regret. Hui Xin reached in time to stop Hui Yan from vandalising the principal's car.</desc>
     <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4643475'&amp;EntityType='LinearSchedule'&amp;EntityId='4823db66-ff8e-4647-b6ad-80112be41026'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <episode-num system="onscreen">S1 E13</episode-num>
     <rating>
@@ -6102,6 +6129,36 @@
     <desc lang="en">A popular singing competition which provides the elderly with a platform to showcase their singing talent.</desc>
     <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4643402'&amp;EntityType='LinearSchedule'&amp;EntityId='3fa99e93-5eae-4eac-b4b2-cf5f71660524'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <episode-num system="onscreen">S1 E13</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406230000 +0200" stop="20220406230000 +0200" channel="Ch 8">
+    <title lang="en">News Tonight</title>
+    <title lang="xx">晚间新闻 2022-2023</title>
+    <desc lang="en">Daily evening updates on top local news and world news.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4645937'&amp;EntityType='LinearSchedule'&amp;EntityId='13acbc9b-ba45-46a8-b4d9-e7611d2dfedb'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406230000 +0200" stop="20220406233000 +0200" channel="Ch 8">
+    <title lang="en">News Tonight</title>
+    <title lang="xx">晚间新闻 2022-2023</title>
+    <desc lang="en">Daily evening updates on top local news and world news.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4645937'&amp;EntityType='LinearSchedule'&amp;EntityId='13acbc9b-ba45-46a8-b4d9-e7611d2dfedb'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220406233000 +0200" stop="20220407000000 +0200" channel="Ch 8">
+    <title lang="en">Hello Singapore Highlights</title>
+    <title lang="xx">狮城有约精华版</title>
+    <desc lang="en">Deliver social features that matter to you.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4645950'&amp;EntityType='LinearSchedule'&amp;EntityId='ed2abf2a-064a-4984-9826-4e0b1de5f165'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E5</episode-num>
     <rating>
       <value>G</value>
     </rating>
@@ -8882,6 +8939,16 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme start="20220406183000 +0200" stop="20220406183000 +0200" channel="Ch U">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4644120'&amp;EntityType='LinearSchedule'&amp;EntityId='d407f51d-3a28-4592-80be-59addcae9a13'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  </programme>
+  <programme start="20220406183000 +0200" stop="20220407030000 +0200" channel="Ch U">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4644120'&amp;EntityType='LinearSchedule'&amp;EntityId='d407f51d-3a28-4592-80be-59addcae9a13'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  </programme>
   <programme start="20220330010000 +0200" stop="20220330013000 +0200" channel="Suria">
     <title lang="en">O.M.G 2</title>
     <desc lang="en">O.M.G girls grasp with the reality of switched bodies and how to survive in school and at home. Principal Sophia refuses to believe them while a student reporter, Selena, suspects their awkward behaviour.</desc>
@@ -10422,6 +10489,16 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme start="20220406160000 +0200" stop="20220406160000 +0200" channel="Suria">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4643460'&amp;EntityType='LinearSchedule'&amp;EntityId='913024bd-f6b2-44b4-be63-0182429e8846'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  </programme>
+  <programme start="20220406160000 +0200" stop="20220407010000 +0200" channel="Suria">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4643460'&amp;EntityType='LinearSchedule'&amp;EntityId='913024bd-f6b2-44b4-be63-0182429e8846'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  </programme>
   <programme start="20220330010000 +0200" stop="20220330013000 +0200" channel="Vasantham">
     <title lang="en">Kuralum Athan Porulum Season 3</title>
     <desc lang="en">Thirukkural explained through storytelling.</desc>
@@ -11789,6 +11866,16 @@
     <rating>
       <value>G</value>
     </rating>
+  </programme>
+  <programme start="20220406160000 +0200" stop="20220406160000 +0200" channel="Vasantham">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4643577'&amp;EntityType='LinearSchedule'&amp;EntityId='ace74c2c-c6a3-4e00-be26-f89f274eb9eb'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  </programme>
+  <programme start="20220406160000 +0200" stop="20220407010000 +0200" channel="Vasantham">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4643577'&amp;EntityType='LinearSchedule'&amp;EntityId='ace74c2c-c6a3-4e00-be26-f89f274eb9eb'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
   </programme>
   <programme start="20220330020000 +0200" stop="20220330020200 +0200" channel="CNA">
     <title lang="en">Headline News</title>
@@ -13445,5 +13532,17 @@
     <title lang="en">Singapore Tonight</title>
     <desc lang="en">From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
     <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4643666'&amp;EntityType='LinearSchedule'&amp;EntityId='2ab6e383-008f-4e94-905a-5471171365cc'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  </programme>
+  <programme start="20220406230000 +0200" stop="20220406230000 +0200" channel="CNA">
+    <title lang="en">Asia First</title>
+    <desc lang="en">Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4646741'&amp;EntityType='LinearSchedule'&amp;EntityId='efd19130-f5c8-41ab-beca-3197afe426f9'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220406230000 +0200" stop="20220407020000 +0200" channel="CNA">
+    <title lang="en">Asia First</title>
+    <desc lang="en">Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4646741'&amp;EntityType='LinearSchedule'&amp;EntityId='efd19130-f5c8-41ab-beca-3197afe426f9'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
 </tv>
