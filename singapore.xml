@@ -2694,7 +2694,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220414210000 +0200" stop="20220414233000 +0200" channel="Ch 5">
+  <programme start="20220414210000 +0200" stop="20220414220000 +0200" channel="Ch 5">
     <title lang="en">Masterchef Junior USA</title>
     <sub-title lang="en">The Restaurant Takeover</sub-title>
     <desc lang="en">MasterChef Junior is an American cooking competition involving children from the ages of 8 to 13. The season is hosted by regular judges Gordon Ramsay and Christina Tosi, while Aarn Sanchez joins the judges this season.</desc>
@@ -2702,6 +2702,22 @@
     <episode-num system="onscreen">S7 E12</episode-num>
     <rating>
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220414220000 +0200" stop="20220414220000 +0200" channel="Ch 5">
+    <title lang="en">Help! Get Me Out Of Yesterday!</title>
+    <desc lang="en">A bright, colourful comedy where an obnoxious and spoilt 14 yr old's life is turned upside down, when he finds himself waking up to the same horrible day over and over!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='4679471'&amp;EntityType='LinearSchedule'&amp;EntityId='8dedcacc-90d3-4063-85c7-d2dee91329f9'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220414220000 +0200" stop="20220414233000 +0200" channel="Ch 5">
+    <title lang="en">Help! Get Me Out Of Yesterday!</title>
+    <desc lang="en">A bright, colourful comedy where an obnoxious and spoilt 14 yr old's life is turned upside down, when he finds himself waking up to the same horrible day over and over!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='4679471'&amp;EntityType='LinearSchedule'&amp;EntityId='8dedcacc-90d3-4063-85c7-d2dee91329f9'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <rating>
+      <value>G</value>
     </rating>
   </programme>
   <programme start="20220414233000 +0200" stop="20220415000000 +0200" channel="Ch 5">
@@ -2917,6 +2933,33 @@
     <desc lang="en">Bibi encourages Hiccup and Sneeze to exercise, but they're not keen on the idea. Bibi even prepares a workout routine for them, but they trick her into thinking they're following it by pretending to exercise only when she checks in on them.</desc>
     <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='4677323'&amp;EntityType='LinearSchedule'&amp;EntityId='4100b5b1-5007-4236-b330-4fc0eb32f658'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <episode-num system="onscreen">S1 E24</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220415230000 +0200" stop="20220415230000 +0200" channel="Ch 5">
+    <title lang="en">Tumble Leaf</title>
+    <desc lang="en">Tumble Leaf is set in a whimsical land where a small blue fox named Fig plays each day and discovers adventure, friendship and love around every bend in the path.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4677314'&amp;EntityType='LinearSchedule'&amp;EntityId='cd7a168c-8f1c-421c-91f9-bffc3c847235'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220415230000 +0200" stop="20220415233000 +0200" channel="Ch 5">
+    <title lang="en">Tumble Leaf</title>
+    <desc lang="en">Tumble Leaf is set in a whimsical land where a small blue fox named Fig plays each day and discovers adventure, friendship and love around every bend in the path.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4677314'&amp;EntityType='LinearSchedule'&amp;EntityId='cd7a168c-8f1c-421c-91f9-bffc3c847235'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220415233000 +0200" stop="20220416000000 +0200" channel="Ch 5">
+    <title lang="en">Thomas &amp; Friends</title>
+    <desc lang="en">In this brand new version of the beloved series, Thomas travels full steam ahead across five continents, discovering magnificent new sights and experiencing exciting places and cultures.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4677305'&amp;EntityType='LinearSchedule'&amp;EntityId='c8a406f1-619f-4574-89c1-bb04a11b142a'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S24 E19</episode-num>
     <rating>
       <value>G</value>
     </rating>
@@ -5884,6 +5927,36 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme start="20220415225000 +0200" stop="20220415225000 +0200" channel="Ch 8">
+    <title lang="en">News Tonight</title>
+    <title lang="xx">晚间新闻 2022-2023</title>
+    <desc lang="en">Daily evening updates on top local news and world news.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4677005'&amp;EntityType='LinearSchedule'&amp;EntityId='cf9ac783-8ca5-4fd4-bf89-66c4df132e4a'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220415225000 +0200" stop="20220415232000 +0200" channel="Ch 8">
+    <title lang="en">News Tonight</title>
+    <title lang="xx">晚间新闻 2022-2023</title>
+    <desc lang="en">Daily evening updates on top local news and world news.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4677005'&amp;EntityType='LinearSchedule'&amp;EntityId='cf9ac783-8ca5-4fd4-bf89-66c4df132e4a'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220415232000 +0200" stop="20220416001000 +0200" channel="Ch 8">
+    <title lang="en">Like Father, Like Daughter</title>
+    <title lang="xx">宝贝父女兵</title>
+    <desc lang="en">Jingang, a well-built but simple-minded father has an intelligent and vivacious daughter in Chunchun. Unfortunately, Jingang who is always between jobs, does not know how to bring up nor educate his rebellious daughter. In the end, Chunchun has to be transferred from school to school as a result of disciplinary problems. Notwithstanding this, Jingang still has high hopes for his daughter - that she will embark on a successful career, either as a doctor or lawyer.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4676998'&amp;EntityType='LinearSchedule'&amp;EntityId='1d8f0719-1ce2-4cb4-8ed9-8c7d07588913'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme start="20220408030000 +0200" stop="20220408031500 +0200" channel="Ch U">
     <title lang="en">Deals For Joy</title>
     <title lang="xx">好货驾到</title>
@@ -8648,6 +8721,16 @@
       <value>PG (Some Disturbing Scenes)</value>
     </rating>
   </programme>
+  <programme start="20220415183000 +0200" stop="20220415183000 +0200" channel="Ch U">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4677506'&amp;EntityType='LinearSchedule'&amp;EntityId='b447bf87-974a-46de-8543-8674eb37d01f'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  </programme>
+  <programme start="20220415183000 +0200" stop="20220416010000 +0200" channel="Ch U">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4677506'&amp;EntityType='LinearSchedule'&amp;EntityId='b447bf87-974a-46de-8543-8674eb37d01f'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  </programme>
   <programme start="20220408010000 +0200" stop="20220408013000 +0200" channel="Suria">
     <title lang="en">SMK Sr.2</title>
     <desc lang="en">The SMK gang go through yet another round of fun and mischief of Form 3 life in a comedic fashion. In this 2nd season, they're faced with pandemic Covid-19 that completely changes the way they behave in school. Even though they have a new set of rules to adhere to, school life still carries on. They still face relatable struggles as school students that challenges their friendship but also lets them learn and grow as individuals.</desc>
@@ -10285,6 +10368,24 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme start="20220415230000 +0200" stop="20220415230000 +0200" channel="Suria">
+    <title lang="en">Hilang Kasih di Sarajevo</title>
+    <desc lang="en">Rahimah's home business starts to pick up. Rahman is lost and makes a decision. Emina is upset over her trip to Singapore and tells Zana that she is better off knowing Usman is her father instead. Zana is helping Emina with her wedding preparations and wishes there is something she can do about it to make her feel better.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4676879'&amp;EntityType='LinearSchedule'&amp;EntityId='cbc81e44-d7c6-4d7f-80d0-acf0683dc4b9'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220415230000 +0200" stop="20220416000000 +0200" channel="Suria">
+    <title lang="en">Hilang Kasih di Sarajevo</title>
+    <desc lang="en">Rahimah's home business starts to pick up. Rahman is lost and makes a decision. Emina is upset over her trip to Singapore and tells Zana that she is better off knowing Usman is her father instead. Zana is helping Emina with her wedding preparations and wishes there is something she can do about it to make her feel better.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4676879'&amp;EntityType='LinearSchedule'&amp;EntityId='cbc81e44-d7c6-4d7f-80d0-acf0683dc4b9'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme start="20220408010000 +0200" stop="20220408013000 +0200" channel="Vasantham">
     <title lang="en">Kuralum Athan Porulum</title>
     <desc lang="en">Thirukkural explained through storytelling.</desc>
@@ -11529,6 +11630,24 @@
     <desc lang="en">Hit Movie Songs.</desc>
     <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4676686'&amp;EntityType='LinearSchedule'&amp;EntityId='da379a9d-9b57-4bda-9268-a0a58617c9c3'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <episode-num system="onscreen">S1 E33</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220415230000 +0200" stop="20220415230000 +0200" channel="Vasantham">
+    <title lang="en">Thein Amuthu 2020</title>
+    <desc lang="en">Thein Amuthu 2020: Song compilations of VG movies.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4676810'&amp;EntityType='LinearSchedule'&amp;EntityId='46eae0e9-f022-425a-8295-d405303d65d2'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220415230000 +0200" stop="20220416000000 +0200" channel="Vasantham">
+    <title lang="en">Thein Amuthu 2020</title>
+    <desc lang="en">Thein Amuthu 2020: Song compilations of VG movies.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4676810'&amp;EntityType='LinearSchedule'&amp;EntityId='46eae0e9-f022-425a-8295-d405303d65d2'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E3</episode-num>
     <rating>
       <value>G</value>
     </rating>
@@ -13283,5 +13402,23 @@
     <desc lang="en">Perfectly-grilled spicy frogs, stuffed frogs with pork, and fermented fish dishes are wartime staples that have become beloved dishes of Borei Keila, a haven for the poor.</desc>
     <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4676586'&amp;EntityType='LinearSchedule'&amp;EntityId='27215213-a681-4f31-b6c1-4771caf5810e'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20220415230000 +0200" stop="20220415230000 +0200" channel="CNA">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4677061'&amp;EntityType='LinearSchedule'&amp;EntityId='c45114de-3237-4385-b75a-50a584e1e043'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220415230000 +0200" stop="20220415233000 +0200" channel="CNA">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4677061'&amp;EntityType='LinearSchedule'&amp;EntityId='c45114de-3237-4385-b75a-50a584e1e043'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220415233000 +0200" stop="20220416000000 +0200" channel="CNA">
+    <title lang="en">CNA Correspondent</title>
+    <desc lang="en">They're your eyes and ears around the globe. CNA's network of correspondents shines a light on stories from their corners of the world, from groundbreaking events to up-and-coming trends.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4676688'&amp;EntityType='LinearSchedule'&amp;EntityId='1ab2621c-3615-47bf-ac5d-b20aa0d1e006'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
 </tv>
