@@ -3183,6 +3183,33 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme start="20220427230000 +0200" stop="20220427230000 +0200" channel="Ch 5">
+    <title lang="en">Esme And Roy</title>
+    <desc lang="en">Meet Esme &amp; Roy - they're best friends and the best monstersitters in Monsterdale!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4714505'&amp;EntityType='LinearSchedule'&amp;EntityId='4097f8cf-2e2f-4f73-9c92-37dc0de79db8'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220427230000 +0200" stop="20220427233000 +0200" channel="Ch 5">
+    <title lang="en">Esme And Roy</title>
+    <desc lang="en">Meet Esme &amp; Roy - they're best friends and the best monstersitters in Monsterdale!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4714505'&amp;EntityType='LinearSchedule'&amp;EntityId='4097f8cf-2e2f-4f73-9c92-37dc0de79db8'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220427233000 +0200" stop="20220428000000 +0200" channel="Ch 5">
+    <title lang="en">Rev &amp; Roll</title>
+    <desc lang="en">Rev &amp; Roll follows the adventures of eight-year-old Rev and his best friend Rumble - a rambunctious truck with all the personality of a loyal and enthusiastic dog!</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4714520'&amp;EntityType='LinearSchedule'&amp;EntityId='72da4a05-2101-4aec-969a-50853fc0e217'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
   <programme start="20220420000000 +0200" stop="20220420010000 +0200" channel="Ch 8">
     <title lang="en">Sisters Stand Tall</title>
     <title lang="xx">快跑吧，丽娇</title>
@@ -6079,6 +6106,36 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme start="20220427230000 +0200" stop="20220427230000 +0200" channel="Ch 8">
+    <title lang="en">News Tonight</title>
+    <title lang="xx">晚间新闻 2022-2023</title>
+    <desc lang="en">Daily evening updates on top local news and world news.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4714022'&amp;EntityType='LinearSchedule'&amp;EntityId='118e1ccb-fa8e-4725-badf-c7d9dcc7afeb'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E27</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220427230000 +0200" stop="20220427233000 +0200" channel="Ch 8">
+    <title lang="en">News Tonight</title>
+    <title lang="xx">晚间新闻 2022-2023</title>
+    <desc lang="en">Daily evening updates on top local news and world news.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4714022'&amp;EntityType='LinearSchedule'&amp;EntityId='118e1ccb-fa8e-4725-badf-c7d9dcc7afeb'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E27</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220427233000 +0200" stop="20220428000000 +0200" channel="Ch 8">
+    <title lang="en">Hello Singapore Highlights</title>
+    <title lang="xx">狮城有约精华版</title>
+    <desc lang="en">Deliver social features that matter to you.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4714026'&amp;EntityType='LinearSchedule'&amp;EntityId='fab4ccd1-baa8-4c4d-a3f8-6bd585a42264'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
   <programme start="20220420030000 +0200" stop="20220420031500 +0200" channel="Ch U">
     <title lang="en">Deals For Joy</title>
     <title lang="xx">好货驾到</title>
@@ -8830,6 +8887,16 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme start="20220427183000 +0200" stop="20220427183000 +0200" channel="Ch U">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4715539'&amp;EntityType='LinearSchedule'&amp;EntityId='1e60adb5-2cb5-402e-8455-eb98f559e7b3'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  </programme>
+  <programme start="20220427183000 +0200" stop="20220428030000 +0200" channel="Ch U">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4715539'&amp;EntityType='LinearSchedule'&amp;EntityId='1e60adb5-2cb5-402e-8455-eb98f559e7b3'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  </programme>
   <programme start="20220420010000 +0200" stop="20220420013000 +0200" channel="Suria">
     <title lang="en">Didi and Friends</title>
     <desc lang="en">Watch the second season of Didi &amp; Friends stories - Let's Go! Take adventures in Didi, Nana and Jojo discover new places, meet new friends, and learn interesting things. It was fun learning to play with Didi &amp; Friends! Hora Horey!Cast: Did, Nana, Jojo, Pak Atan, Tatak and Bingo.</desc>
@@ -10440,6 +10507,16 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme start="20220427160000 +0200" stop="20220427160000 +0200" channel="Suria">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4713670'&amp;EntityType='LinearSchedule'&amp;EntityId='ab65f4be-774a-4a68-9b66-f7568cff6a9b'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  </programme>
+  <programme start="20220427160000 +0200" stop="20220428010000 +0200" channel="Suria">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4713670'&amp;EntityType='LinearSchedule'&amp;EntityId='ab65f4be-774a-4a68-9b66-f7568cff6a9b'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  </programme>
   <programme start="20220420010000 +0200" stop="20220420013000 +0200" channel="Vasantham">
     <title lang="en">Kuralum Athan Porulum</title>
     <desc lang="en">Thirukkural explained through storytelling.</desc>
@@ -11784,6 +11861,16 @@
     <rating>
       <value>G</value>
     </rating>
+  </programme>
+  <programme start="20220427160000 +0200" stop="20220427160000 +0200" channel="Vasantham">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4713688'&amp;EntityType='LinearSchedule'&amp;EntityId='9f5e0eb3-e941-4324-a194-276a9772870a'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  </programme>
+  <programme start="20220427160000 +0200" stop="20220428010000 +0200" channel="Vasantham">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4713688'&amp;EntityType='LinearSchedule'&amp;EntityId='9f5e0eb3-e941-4324-a194-276a9772870a'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
   </programme>
   <programme start="20220420020000 +0200" stop="20220420020200 +0200" channel="CNA">
     <title lang="en">Headline News</title>
@@ -13565,5 +13652,17 @@
     <desc lang="en">From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
     <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4713852'&amp;EntityType='LinearSchedule'&amp;EntityId='7fe88300-1f19-4301-9498-e1ec616d2396'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <episode-num system="onscreen">S1 E427</episode-num>
+  </programme>
+  <programme start="20220427230000 +0200" stop="20220427230000 +0200" channel="CNA">
+    <title lang="en">Asia First</title>
+    <desc lang="en">Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4713864'&amp;EntityType='LinearSchedule'&amp;EntityId='40d01365-dec2-43c9-b44f-5f698f42de7b'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220427230000 +0200" stop="20220428020000 +0200" channel="CNA">
+    <title lang="en">Asia First</title>
+    <desc lang="en">Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4713864'&amp;EntityType='LinearSchedule'&amp;EntityId='40d01365-dec2-43c9-b44f-5f698f42de7b'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
 </tv>
