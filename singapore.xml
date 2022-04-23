@@ -3055,6 +3055,33 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme start="20220430230000 +0200" stop="20220430230000 +0200" channel="Ch 5">
+    <title lang="en">Tumble Leaf</title>
+    <desc lang="en">Tumble Leaf is set in a whimsical land where a small blue fox named Fig plays each day and discovers adventure, friendship and love around every bend in the path.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4724126'&amp;EntityType='LinearSchedule'&amp;EntityId='8758656e-e3dc-4f5a-bfb7-1a4cf9b1f7b2'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S3 E19</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220430230000 +0200" stop="20220430233000 +0200" channel="Ch 5">
+    <title lang="en">Tumble Leaf</title>
+    <desc lang="en">Tumble Leaf is set in a whimsical land where a small blue fox named Fig plays each day and discovers adventure, friendship and love around every bend in the path.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4724126'&amp;EntityType='LinearSchedule'&amp;EntityId='8758656e-e3dc-4f5a-bfb7-1a4cf9b1f7b2'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S3 E19</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220430233000 +0200" stop="20220501000000 +0200" channel="Ch 5">
+    <title lang="en">Thomas &amp; Friends</title>
+    <desc lang="en">In this brand new version of the beloved series, Thomas travels full steam ahead across five continents, discovering magnificent new sights and experiencing exciting places and cultures.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4724131'&amp;EntityType='LinearSchedule'&amp;EntityId='99576d63-e61c-4278-93b9-050260165e8d'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S24 E9</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
   <programme start="20220423001000 +0200" stop="20220423010000 +0200" channel="Ch 8">
     <title lang="en">Like Father, Like Daughter</title>
     <title lang="xx">宝贝父女兵</title>
@@ -5932,6 +5959,36 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme start="20220430225000 +0200" stop="20220430225000 +0200" channel="Ch 8">
+    <title lang="en">News Tonight</title>
+    <title lang="xx">晚间新闻</title>
+    <desc lang="en">(R) Daily evening updates on top local news and world news.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4723866'&amp;EntityType='LinearSchedule'&amp;EntityId='67eef82c-93dd-4321-a73f-d86b8394beff'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E30</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220430225000 +0200" stop="20220430232000 +0200" channel="Ch 8">
+    <title lang="en">News Tonight</title>
+    <title lang="xx">晚间新闻</title>
+    <desc lang="en">(R) Daily evening updates on top local news and world news.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4723866'&amp;EntityType='LinearSchedule'&amp;EntityId='67eef82c-93dd-4321-a73f-d86b8394beff'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E30</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220430232000 +0200" stop="20220501001000 +0200" channel="Ch 8">
+    <title lang="en">Like Father, Like Daughter</title>
+    <title lang="xx">宝贝父女兵</title>
+    <desc lang="en">(R) Jingang, a well-built but simple-minded father has an intelligent and vivacious daughter in Chunchun. Unfortunately, Jingang who is always between jobs, does not know how to bring up nor educate his rebellious daughter. In the end, Chunchun has to be transferred from school to school as a result of disciplinary problems. Notwithstanding this, Jingang still has high hopes for his daughter - that she will embark on a successful career, either as a doctor or lawyer.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4723873'&amp;EntityType='LinearSchedule'&amp;EntityId='8782d96d-0db8-49ca-83fd-deafbf3416fc'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme start="20220423010000 +0200" stop="20220423011500 +0200" channel="Ch U">
     <title lang="en">Deals For Joy</title>
     <title lang="xx">好货驾到</title>
@@ -8603,6 +8660,16 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme start="20220430183000 +0200" stop="20220430183000 +0200" channel="Ch U">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4724273'&amp;EntityType='LinearSchedule'&amp;EntityId='aa8b7828-0ea3-41ee-8f3a-d1c44f04699c'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  </programme>
+  <programme start="20220430183000 +0200" stop="20220501010000 +0200" channel="Ch U">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4724273'&amp;EntityType='LinearSchedule'&amp;EntityId='aa8b7828-0ea3-41ee-8f3a-d1c44f04699c'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  </programme>
   <programme start="20220423010000 +0200" stop="20220423013000 +0200" channel="Suria">
     <title lang="en">X, Y &amp; Zain!</title>
     <sub-title lang="en">Bladder</sub-title>
@@ -10252,6 +10319,26 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme start="20220430230000 +0200" stop="20220430230000 +0200" channel="Suria">
+    <title lang="en">Tetamu Ramadan</title>
+    <sub-title lang="en">Learning from mistake</sub-title>
+    <desc lang="en">Salahuddin is getting distance from his family. Rozainah is sadden by her husbands action. Nina thinks that it is a mistake to be with Farid. Rashid tried to improve his relationship with his father. How can the Salahudin family learn from their mistakes? Perhaps this holy month of Ramadan can unite them? Watch Tetamu Ramadan a family drama filled with secrets.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4723550'&amp;EntityType='LinearSchedule'&amp;EntityId='50020c28-9f0c-4edb-b27e-9bbb09707b7f'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220430230000 +0200" stop="20220501000000 +0200" channel="Suria">
+    <title lang="en">Tetamu Ramadan</title>
+    <sub-title lang="en">Learning from mistake</sub-title>
+    <desc lang="en">Salahuddin is getting distance from his family. Rozainah is sadden by her husbands action. Nina thinks that it is a mistake to be with Farid. Rashid tried to improve his relationship with his father. How can the Salahudin family learn from their mistakes? Perhaps this holy month of Ramadan can unite them? Watch Tetamu Ramadan a family drama filled with secrets.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4723550'&amp;EntityType='LinearSchedule'&amp;EntityId='50020c28-9f0c-4edb-b27e-9bbb09707b7f'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme start="20220423010000 +0200" stop="20220423013000 +0200" channel="Vasantham">
     <title lang="en">Shiva Animations</title>
     <desc lang="en">Shiva is a child superhero who faces a lot of villains trying to harm and damage any people and property of his city. Shiva and his friends are always rewarded by the Government for their utmost bravery while protecting everyone.</desc>
@@ -11543,6 +11630,24 @@
     <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4723583'&amp;EntityType='LinearSchedule'&amp;EntityId='83365a78-2ee7-43b9-af8c-6aa287730f63'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <rating>
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220430230000 +0200" stop="20220430230000 +0200" channel="Vasantham">
+    <title lang="en">Thein Amuthu 2021</title>
+    <desc lang="en">Thein Amuthu 2021 - EP 6.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4723590'&amp;EntityType='LinearSchedule'&amp;EntityId='885d1122-cb74-4043-86cc-01df13d321b6'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220430230000 +0200" stop="20220501000000 +0200" channel="Vasantham">
+    <title lang="en">Thein Amuthu 2021</title>
+    <desc lang="en">Thein Amuthu 2021 - EP 6.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4723590'&amp;EntityType='LinearSchedule'&amp;EntityId='885d1122-cb74-4043-86cc-01df13d321b6'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating>
+      <value>G</value>
     </rating>
   </programme>
   <programme start="20220423000000 +0200" stop="20220423003000 +0200" channel="CNA">
@@ -13432,6 +13537,24 @@
     <title lang="en">CNA Correspondent</title>
     <desc lang="en">They're your eyes and ears around the globe. CNA's network of correspondents shines a light on stories from their corners of the world, from groundbreaking events to up-and-coming trends.</desc>
     <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4723749'&amp;EntityType='LinearSchedule'&amp;EntityId='90fe714b-c954-4a2c-9ef6-c61c677ed712'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20220430230000 +0200" stop="20220430230000 +0200" channel="CNA">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4723754'&amp;EntityType='LinearSchedule'&amp;EntityId='32a43549-8dae-4673-ab5b-1a7920072ab2'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220430230000 +0200" stop="20220430233000 +0200" channel="CNA">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4723754'&amp;EntityType='LinearSchedule'&amp;EntityId='32a43549-8dae-4673-ab5b-1a7920072ab2'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220430233000 +0200" stop="20220501000000 +0200" channel="CNA">
+    <title lang="en">Money Mind</title>
+    <desc lang="en">Money Mind tells you how to make the most of your money with tips for investors, business ideas for businessmen and analysis of the economy, companies, markets, financial products and trends.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4723758'&amp;EntityType='LinearSchedule'&amp;EntityId='90a06701-aa14-45cc-a35a-70c4bc3109eb'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
 </tv>
