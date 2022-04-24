@@ -2969,6 +2969,30 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme start="20220501220000 +0200" stop="20220501220000 +0200" channel="Ch 5">
+    <title lang="en">Schoolhouse Rockz - Feature Special</title>
+    <desc lang="en">Schoolhouse Rockz - Feature Special.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='4725814'&amp;EntityType='LinearSchedule'&amp;EntityId='adf5c639-a7a6-4943-9581-ec4149ac0ecf'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220501220000 +0200" stop="20220501234500 +0200" channel="Ch 5">
+    <title lang="en">Schoolhouse Rockz - Feature Special</title>
+    <desc lang="en">Schoolhouse Rockz - Feature Special.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='4725814'&amp;EntityType='LinearSchedule'&amp;EntityId='adf5c639-a7a6-4943-9581-ec4149ac0ecf'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220501234500 +0200" stop="20220502000000 +0200" channel="Ch 5">
+    <title lang="en">X-Hunters</title>
+    <desc lang="en">The once sleepy community of Greengrove is changed forever with the announcement that it will be the next setting for TerraHunt, a breakout hit AR game where players hunt for virtual treasure. From the suburban streets to the local planetarium, the augmented reality treasure hunting app will turn the town into the playing field itself. But there is one difference - this will be the first sponsored TerraHunt competition where a real world treasure is hidden somewhere in the game map!...</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4725823'&amp;EntityType='LinearSchedule'&amp;EntityId='b2fe3383-ae25-4b5e-bf7b-6e6eff0c8df0'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme start="20220424001000 +0200" stop="20220424010000 +0200" channel="Ch 8">
     <title lang="en">Like Father, Like Daughter</title>
     <title lang="xx">宝贝父女兵</title>
@@ -5769,6 +5793,36 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme start="20220501230000 +0200" stop="20220501230000 +0200" channel="Ch 8">
+    <title lang="en">News Tonight</title>
+    <title lang="xx">晚间新闻 2022-2023</title>
+    <desc lang="en">Daily evening updates on top local news and world news.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4725374'&amp;EntityType='LinearSchedule'&amp;EntityId='76a38e60-0ec2-48d7-8459-d738e7305c3e'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E31</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220501230000 +0200" stop="20220501233000 +0200" channel="Ch 8">
+    <title lang="en">News Tonight</title>
+    <title lang="xx">晚间新闻 2022-2023</title>
+    <desc lang="en">Daily evening updates on top local news and world news.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4725374'&amp;EntityType='LinearSchedule'&amp;EntityId='76a38e60-0ec2-48d7-8459-d738e7305c3e'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E31</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220501233000 +0200" stop="20220502000000 +0200" channel="Ch 8">
+    <title lang="en">Hello Singapore Highlights</title>
+    <title lang="xx">狮城有约精华版</title>
+    <desc lang="en">Deliver social features that matter to you.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4725381'&amp;EntityType='LinearSchedule'&amp;EntityId='9ac11833-f9ef-476d-b05b-1cb47ba18415'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
   <programme start="20220424010000 +0200" stop="20220424011500 +0200" channel="Ch U">
     <title lang="en">Deals For Joy</title>
     <title lang="xx">好货驾到</title>
@@ -8452,6 +8506,16 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme start="20220501183000 +0200" stop="20220501183000 +0200" channel="Ch U">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4726020'&amp;EntityType='LinearSchedule'&amp;EntityId='3072cca0-448f-41dc-8aaa-0c88b57f4ee4'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  </programme>
+  <programme start="20220501183000 +0200" stop="20220502070000 +0200" channel="Ch U">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4726020'&amp;EntityType='LinearSchedule'&amp;EntityId='3072cca0-448f-41dc-8aaa-0c88b57f4ee4'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  </programme>
   <programme start="20220424010000 +0200" stop="20220424013000 +0200" channel="Suria">
     <title lang="en">Skuad Cilik 2</title>
     <sub-title lang="en">Chasing Our Dreams!</sub-title>
@@ -10165,6 +10229,24 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme start="20220501230000 +0200" stop="20220501230000 +0200" channel="Suria">
+    <title lang="en">Bubur Masjid Air Katira</title>
+    <desc lang="en">Taufik gets an Ustaz to share the difference between Zakat contribution and donation. Rahmat feels it is an indirect attack on him and gets offended. Taufik starts to feel belittled by Sakinah's earning power and their marriage strains further. Noor and Jasmine get upset with Sakinah when they see her cosying up to Siti. GM receives another anonymous hate letter. He confronted the committee members and urged the perpetrator to come forward.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4725183'&amp;EntityType='LinearSchedule'&amp;EntityId='5ffbd653-5842-4c9e-879d-67dc1e6687ab'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220501230000 +0200" stop="20220502000000 +0200" channel="Suria">
+    <title lang="en">Bubur Masjid Air Katira</title>
+    <desc lang="en">Taufik gets an Ustaz to share the difference between Zakat contribution and donation. Rahmat feels it is an indirect attack on him and gets offended. Taufik starts to feel belittled by Sakinah's earning power and their marriage strains further. Noor and Jasmine get upset with Sakinah when they see her cosying up to Siti. GM receives another anonymous hate letter. He confronted the committee members and urged the perpetrator to come forward.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4725183'&amp;EntityType='LinearSchedule'&amp;EntityId='5ffbd653-5842-4c9e-879d-67dc1e6687ab'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme start="20220424010000 +0200" stop="20220424013000 +0200" channel="Vasantham">
     <title lang="en">Sa Re Ga Mae 2020[Episodic]- EP 23</title>
     <sub-title lang="en">Heartbreak Hits Vol 1</sub-title>
@@ -11463,6 +11545,24 @@
     <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4725166'&amp;EntityType='LinearSchedule'&amp;EntityId='fb1397d1-7246-4620-aa1d-eb1309432ab9'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <rating>
       <value>PG (Violence)</value>
+    </rating>
+  </programme>
+  <programme start="20220501230000 +0200" stop="20220501230000 +0200" channel="Vasantham">
+    <title lang="en">Thein Amuthu 2021</title>
+    <desc lang="en">Thein Amuthu 2021 - EP 5.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4725173'&amp;EntityType='LinearSchedule'&amp;EntityId='4a45dbae-2e7f-49b3-a3b4-8607beb32be8'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220501230000 +0200" stop="20220502000000 +0200" channel="Vasantham">
+    <title lang="en">Thein Amuthu 2021</title>
+    <desc lang="en">Thein Amuthu 2021 - EP 5.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4725173'&amp;EntityType='LinearSchedule'&amp;EntityId='4a45dbae-2e7f-49b3-a3b4-8607beb32be8'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating>
+      <value>G</value>
     </rating>
   </programme>
   <programme start="20220424000000 +0200" stop="20220424003000 +0200" channel="CNA">
@@ -13339,5 +13439,17 @@
     <desc lang="en">Money Mind tells you how to make the most of your money with tips for investors, business ideas for businessmen and analysis of the economy, companies, markets, financial products and trends.</desc>
     <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4725397'&amp;EntityType='LinearSchedule'&amp;EntityId='01bb638e-7838-4fa0-9cd7-ad113ee79880'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20220501230000 +0200" stop="20220501230000 +0200" channel="CNA">
+    <title lang="en">Asia First</title>
+    <desc lang="en">Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4725405'&amp;EntityType='LinearSchedule'&amp;EntityId='f4dad9ba-dc02-431a-afb9-298a3b5831aa'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220501230000 +0200" stop="20220502020000 +0200" channel="CNA">
+    <title lang="en">Asia First</title>
+    <desc lang="en">Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4725405'&amp;EntityType='LinearSchedule'&amp;EntityId='f4dad9ba-dc02-431a-afb9-298a3b5831aa'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
 </tv>
