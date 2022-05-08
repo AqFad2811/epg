@@ -2,27 +2,33 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.3.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Ch 5">
     <display-name lang="en">Channel 5</display-name>
-    <url>http://www.mewatch.sg</url>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
   </channel>
   <channel id="Ch 8">
     <display-name lang="en">Channel 8</display-name>
-    <url>http://www.mewatch.sg</url>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
   </channel>
   <channel id="Ch U">
     <display-name lang="en">Channel U</display-name>
-    <url>http://www.mewatch.sg</url>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
   </channel>
   <channel id="Suria">
     <display-name lang="en">Suria</display-name>
-    <url>http://www.mewatch.sg</url>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
   </channel>
   <channel id="Vasantham">
     <display-name lang="en">Vasantham</display-name>
-    <url>http://www.mewatch.sg</url>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
   </channel>
   <channel id="CNA">
     <display-name lang="en">CNA</display-name>
-    <url>http://www.mewatch.sg</url>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
   </channel>
   <programme start="20220508000000 +0000" stop="20220508003000 +0000" channel="Ch 5">
     <title lang="en">Titipo The Little Train</title>
@@ -44,14 +50,10 @@
     </rating>
   </programme>
   <programme start="20220508010000 +0000" stop="20220508013000 +0000" channel="Ch 5">
-    <title lang="en">Super Wings S5: Super Pets</title>
-    <sub-title lang="en">Super Moon Super Save Part 1</sub-title>
+    <title lang="en">Super Wings : Super Pets</title>
     <desc lang="en">Jett and Jett Pet are called to Stockholm, Sweden, to deliver a special kid-friendly smartphone so a girl named Lily can keep in touch with her fried, Karin, during a snowstorm. The storm clears and Karin and her Mom try to get to Lily's house in their cocky new car, Bjorn. Bjorn crashes in the snow and the SWs have to fly into action to get them all back to safety.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4749879'&amp;EntityType='LinearSchedule'&amp;EntityId='b8a7eadf-8f94-4da5-a6c2-ece55c1fb640'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S5 E10</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <category lang="en">General</category>
+    <category lang="en">Kids</category>
   </programme>
   <programme start="20220508013000 +0000" stop="20220508020000 +0000" channel="Ch 5">
     <title lang="en">The Deep</title>
@@ -280,13 +282,10 @@
     </rating>
   </programme>
   <programme start="20220508173000 +0000" stop="20220508182000 +0000" channel="Ch 5">
-    <title lang="en">The Weakest Link[USA]- EP 1</title>
+    <title lang="en">The Weakest Link (USA)</title>
     <desc lang="en">Hosted by Jane Lynch, this game show sees eight contestants answer general knowledge questions to bank prize money across multiple rounds. At the end of each round, the contestants vote out who they perceive to be the "Weakest Link" until two contestants remain for the final face-off.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4751600'&amp;EntityType='LinearSchedule'&amp;EntityId='af696939-8ba0-48fb-8d3e-c1015bb15fdb'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220508182000 +0000" stop="20220508191000 +0000" channel="Ch 5">
     <title lang="en">Masterchef Junior USA</title>
@@ -498,14 +497,10 @@
     </rating>
   </programme>
   <programme start="20220509040000 +0000" stop="20220509043000 +0000" channel="Ch 5">
-    <title lang="en">Royal India[a.k.a. Royal India with Samira]- EP 10</title>
-    <sub-title lang="en">Udaipur</sub-title>
+    <title lang="en">Royal India (a.k.a. Royal India with Samira)</title>
     <desc lang="en">Samira returns to India, this time in search of culinary secrets from India's Royal families. She travels to fabulous palaces, meets Kings and Princesses, and cooks with Royal chefs to bring you their favourite dishes.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4751779'&amp;EntityType='LinearSchedule'&amp;EntityId='c7e4b2e2-292e-4c30-b0b5-3ae8cd3b0d8b'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <category lang="en">General</category>
+    <category lang="en">Others</category>
   </programme>
   <programme start="20220509043000 +0000" stop="20220509050000 +0000" channel="Ch 5">
     <title lang="en">Rachel Khoo's Kitchen Notebook: Melbourne</title>
@@ -743,14 +738,10 @@
     </rating>
   </programme>
   <programme start="20220509200000 +0000" stop="20220509203000 +0000" channel="Ch 5">
-    <title lang="en">Royal India[a.k.a. Royal India with Samira]- EP 10</title>
-    <sub-title lang="en">Udaipur</sub-title>
+    <title lang="en">Royal India (a.k.a. Royal India with Samira)</title>
     <desc lang="en">Samira returns to India, this time in search of culinary secrets from India's Royal families. She travels to fabulous palaces, meets Kings and Princesses, and cooks with Royal chefs to bring you their favourite dishes.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4754770'&amp;EntityType='LinearSchedule'&amp;EntityId='335b43eb-b8b0-45b3-9e85-af9b80df1228'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <category lang="en">General</category>
+    <category lang="en">Others</category>
   </programme>
   <programme start="20220509203000 +0000" stop="20220509210000 +0000" channel="Ch 5">
     <title lang="en">Rachel Khoo's Kitchen Notebook: Melbourne</title>
@@ -923,14 +914,10 @@
     </rating>
   </programme>
   <programme start="20220510040000 +0000" stop="20220510043000 +0000" channel="Ch 5">
-    <title lang="en">Royal India[a.k.a. Royal India with Samira]- EP 11</title>
-    <sub-title lang="en">Udaipur &amp; India's Royals in London</sub-title>
+    <title lang="en">Royal India (a.k.a. Royal India with Samira)</title>
     <desc lang="en">Samira returns to India, this time in search of culinary secrets from India's Royal families. She travels to fabulous palaces, meets Kings and Princesses, and cooks with Royal chefs to bring you their favourite dishes.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4754958'&amp;EntityType='LinearSchedule'&amp;EntityId='d3bcd61a-6257-4c1d-8fe2-b4e8d982cecc'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <category lang="en">General</category>
+    <category lang="en">Others</category>
   </programme>
   <programme start="20220510043000 +0000" stop="20220510050000 +0000" channel="Ch 5">
     <title lang="en">Rachel Khoo's Kitchen Notebook: Melbourne</title>
@@ -1179,14 +1166,10 @@
     </rating>
   </programme>
   <programme start="20220510200000 +0000" stop="20220510203000 +0000" channel="Ch 5">
-    <title lang="en">Royal India[a.k.a. Royal India with Samira]- EP 11</title>
-    <sub-title lang="en">Udaipur &amp; India's Royals in London</sub-title>
+    <title lang="en">Royal India (a.k.a. Royal India with Samira)</title>
     <desc lang="en">Samira returns to India, this time in search of culinary secrets from India's Royal families. She travels to fabulous palaces, meets Kings and Princesses, and cooks with Royal chefs to bring you their favourite dishes.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4757180'&amp;EntityType='LinearSchedule'&amp;EntityId='d66d7ddc-9653-4056-829e-d67f2c45fbca'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <category lang="en">General</category>
+    <category lang="en">Others</category>
   </programme>
   <programme start="20220510203000 +0000" stop="20220510210000 +0000" channel="Ch 5">
     <title lang="en">Rachel Khoo's Kitchen Notebook: Melbourne</title>
@@ -1359,14 +1342,10 @@
     </rating>
   </programme>
   <programme start="20220511040000 +0000" stop="20220511043000 +0000" channel="Ch 5">
-    <title lang="en">Royal India[a.k.a. Royal India with Samira]- EP 12</title>
-    <sub-title lang="en">India's Royals in London</sub-title>
+    <title lang="en">Royal India (a.k.a. Royal India with Samira)</title>
     <desc lang="en">Samira returns to India, this time in search of culinary secrets from India's Royal families. She travels to fabulous palaces, meets Kings and Princesses, and cooks with Royal chefs to bring you their favourite dishes.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4757313'&amp;EntityType='LinearSchedule'&amp;EntityId='b705776a-1b7a-47cb-bfda-88b1d1dd0aed'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <category lang="en">General</category>
+    <category lang="en">Others</category>
   </programme>
   <programme start="20220511043000 +0000" stop="20220511050000 +0000" channel="Ch 5">
     <title lang="en">Rachel Khoo's Kitchen Notebook: Melbourne</title>
@@ -1587,12 +1566,11 @@
     </rating>
   </programme>
   <programme start="20220511173000 +0000" stop="20220511183000 +0000" channel="Ch 5">
-    <title lang="en">Glastonbury 2019</title>
+    <title lang="en">Glastonbury</title>
     <desc lang="en">The highlights show features performances not only from the history-making Pyramid stage headliners - Stormzy, The Killers and The Cure - but from a huge range of artists including Miley Cyrus, Billie Eilish, George Ezra, Vampire Weekend, Sheryl Crow, Liam Gallagher, Kylie, and Christine and the Queens.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4766684'&amp;EntityType='LinearSchedule'&amp;EntityId='54f7fdca-19c4-456d-a0de-5ca56e4f0cc3'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <rating>
-      <value>PG</value>
-    </rating>
+    <date>2019</date>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220511183000 +0000" stop="20220511193000 +0000" channel="Ch 5">
     <title lang="en">The Wonderful World of Baby Animals</title>
@@ -1613,14 +1591,10 @@
     </rating>
   </programme>
   <programme start="20220511200000 +0000" stop="20220511203000 +0000" channel="Ch 5">
-    <title lang="en">Royal India[a.k.a. Royal India with Samira]- EP 12</title>
-    <sub-title lang="en">India's Royals in London</sub-title>
+    <title lang="en">Royal India (a.k.a. Royal India with Samira)</title>
     <desc lang="en">Samira returns to India, this time in search of culinary secrets from India's Royal families. She travels to fabulous palaces, meets Kings and Princesses, and cooks with Royal chefs to bring you their favourite dishes.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4759950'&amp;EntityType='LinearSchedule'&amp;EntityId='8efbd8a2-9c7c-4ef1-a66c-274186c1ad55'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <category lang="en">General</category>
+    <category lang="en">Others</category>
   </programme>
   <programme start="20220511203000 +0000" stop="20220511210000 +0000" channel="Ch 5">
     <title lang="en">Rachel Khoo's Kitchen Notebook: Melbourne</title>
@@ -2295,14 +2269,10 @@
     </rating>
   </programme>
   <programme start="20220513060000 +0000" stop="20220513063000 +0000" channel="Ch 5">
-    <title lang="en">LEGO Ninjago S3 - Seabound</title>
-    <sub-title lang="en">Nyad</sub-title>
+    <title lang="en">LEGO Ninjago  - Seabound</title>
     <desc lang="en">The ninja suffer a defeat at the hands of Wojira and Nya contemplates a decision that may save her friends and her city... but could spell her own doom.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4764083'&amp;EntityType='LinearSchedule'&amp;EntityId='5a462d74-ada7-439f-9538-7c5d0e6b3d78'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S3 E15</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220513063000 +0000" stop="20220513070000 +0000" channel="Ch 5">
     <title lang="en">My Buddy Bonemasher</title>
@@ -2937,15 +2907,10 @@
     </rating>
   </programme>
   <programme start="20220508023000 +0000" stop="20220508030000 +0000" channel="Ch 8">
-    <title lang="en">Team Curious S1 &amp;</title>
-    <title lang="xx">奇趣特工队 S1 &amp; S2</title>
-    <sub-title lang="en">A Midsummer Night's Circus</sub-title>
+    <title lang="en">Team Curious  &amp;</title>
     <desc lang="en">Quincy is a boy full of curiosity and a sense of justice. He also has a mysterious identity - the captain of Q-team. The team comprises of Quincy and his companions: his mischievous and proud Blitz Cat who understands Alien languages, the polite and gentle Robot Al, and Princess Deirdre, an alien visitor who accidentally lands on Earth. Quincy and his partners all have magical badges, which allow them to turn into special agents, and gives them incredible powers and skills to guard their town.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4749342'&amp;EntityType='LinearSchedule'&amp;EntityId='9f4a1195-0da2-40f3-aa1c-99070607747a'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E33</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220508030000 +0000" stop="20220508033000 +0000" channel="Ch 8">
     <title lang="en">Tuesday Report - Life In The Pandemic : Food &amp; Clothing</title>
@@ -3296,14 +3261,11 @@
     </rating>
   </programme>
   <programme start="20220509013000 +0000" stop="20220509020000 +0000" channel="Ch 8">
-    <title lang="en">Armed Reaction 2021</title>
-    <title lang="xx">陀枪师姐 2021</title>
-    <desc lang="en">er B (#Ep 35)Dahua successfully stalls time for Zhaoxi and team to arrest the drug dealers. Danny's elders reprimand him for engaging in illegal dealings but Danny pushes the responsibility to his subordinate Bobby...Ver C (#Ep 36) Zhanchao suspects Hanson is dating someone and asks Diana to break up their relationship. Diana and Hanson discover that her friend, Elaine is implicated in the solitary death case...</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4751396'&amp;EntityType='LinearSchedule'&amp;EntityId='b521a05a-5036-4d7d-be10-03ded96cf966'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E18</episode-num>
-    <rating>
-      <value>PG (Some Violence)</value>
-    </rating>
+    <title lang="en">Armed Reaction</title>
+    <desc lang="en">(R) Dahua successfully stalls time for Zhaoxi and team to arrest the drug dealers. Danny's elders reprimand him for engaging in illegal dealings but Danny pushes the responsibility to his subordinate Bobby...</desc>
+    <date>2021</date>
+    <category lang="en">General</category>
+    <category lang="en">Drama Series</category>
   </programme>
   <programme start="20220509020000 +0000" stop="20220509023000 +0000" channel="Ch 8">
     <title lang="en">Different Cuts, Different Strokes</title>
@@ -3483,14 +3445,11 @@
     </rating>
   </programme>
   <programme start="20220509113000 +0000" stop="20220509120000 +0000" channel="Ch 8">
-    <title lang="en">Armed Reaction 2021</title>
-    <title lang="xx">陀枪师姐 2021</title>
-    <desc lang="en">er B (#Ep 35)Dahua successfully stalls time for Zhaoxi and team to arrest the drug dealers. Danny's elders reprimand him for engaging in illegal dealings but Danny pushes the responsibility to his subordinate Bobby...Ver C (#Ep 36) Zhanchao suspects Hanson is dating someone and asks Diana to break up their relationship. Diana and Hanson discover that her friend, Elaine is implicated in the solitary death case...</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4751489'&amp;EntityType='LinearSchedule'&amp;EntityId='6b7390bc-44fa-436f-9aff-59567537f6ae'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E18</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
+    <title lang="en">Armed Reaction</title>
+    <desc lang="en">Zhanchao suspects Hanson is dating someone and asks Diana to break up their relationship. Diana and Hanson discover that her friend, Elaine is implicated in the solitary death case...</desc>
+    <date>2021</date>
+    <category lang="en">General</category>
+    <category lang="en">Drama Series</category>
   </programme>
   <programme start="20220509120000 +0000" stop="20220509130000 +0000" channel="Ch 8">
     <title lang="en">Dishing With Chris Lee</title>
@@ -3665,14 +3624,11 @@
     </rating>
   </programme>
   <programme start="20220510013000 +0000" stop="20220510020000 +0000" channel="Ch 8">
-    <title lang="en">Armed Reaction 2021</title>
-    <title lang="xx">陀枪师姐 2021</title>
+    <title lang="en">Armed Reaction</title>
     <desc lang="en">(R) Zhanchao suspects Hanson is dating someone and asks Diana to break up their relationship. Diana and Hanson discover that her friend, Elaine is implicated in the solitary death case...</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4761836'&amp;EntityType='LinearSchedule'&amp;EntityId='a8d851de-3bbe-455c-a4d6-bc5541434d5c'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E36</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
+    <date>2021</date>
+    <category lang="en">General</category>
+    <category lang="en">Drama Series</category>
   </programme>
   <programme start="20220510020000 +0000" stop="20220510023000 +0000" channel="Ch 8">
     <title lang="en">Different Cuts, Different Strokes</title>
@@ -3841,14 +3797,11 @@
     </rating>
   </programme>
   <programme start="20220510113000 +0000" stop="20220510120000 +0000" channel="Ch 8">
-    <title lang="en">Armed Reaction 2021</title>
-    <title lang="xx">陀枪师姐 2021</title>
+    <title lang="en">Armed Reaction</title>
     <desc lang="en">Elaine rents a luxury apartment and pretends to live the high life. She lies to her buddies that her love nest is purchase with her husband's family's support. Yafa feels that Qiling looks down on his financial status and files for a divorce in a rage.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4761840'&amp;EntityType='LinearSchedule'&amp;EntityId='3f087821-330d-4cc1-ab5b-3c7671ae002a'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E37</episode-num>
-    <rating>
-      <value>PG (Some Violence)</value>
-    </rating>
+    <date>2021</date>
+    <category lang="en">General</category>
+    <category lang="en">Drama Series</category>
   </programme>
   <programme start="20220510120000 +0000" stop="20220510123000 +0000" channel="Ch 8">
     <title lang="en">Hello, Big Shots!</title>
@@ -4034,14 +3987,11 @@
     </rating>
   </programme>
   <programme start="20220511013000 +0000" stop="20220511020000 +0000" channel="Ch 8">
-    <title lang="en">Armed Reaction 2021</title>
-    <title lang="xx">陀枪师姐 2021</title>
+    <title lang="en">Armed Reaction</title>
     <desc lang="en">(R) Elaine rents a luxury apartment and pretends to live the high life. She lies to her buddies that her love nest is purchase with her husband's family's support. Yafa feels that Qiling looks down on his financial status and files for a divorce in a rage.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4761844'&amp;EntityType='LinearSchedule'&amp;EntityId='669dd047-bce0-4420-a628-2d82597921d1'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E37</episode-num>
-    <rating>
-      <value>PG (Some Violence)</value>
-    </rating>
+    <date>2021</date>
+    <category lang="en">General</category>
+    <category lang="en">Drama Series</category>
   </programme>
   <programme start="20220511020000 +0000" stop="20220511023000 +0000" channel="Ch 8">
     <title lang="en">Different Cuts, Different Strokes</title>
@@ -4210,14 +4160,11 @@
     </rating>
   </programme>
   <programme start="20220511113000 +0000" stop="20220511120000 +0000" channel="Ch 8">
-    <title lang="en">Armed Reaction 2021</title>
-    <title lang="xx">陀枪师姐 2021</title>
+    <title lang="en">Armed Reaction</title>
     <desc lang="en">Qianying feels lost because of Yaozhong's sudden indifference attitude. Qianying obtains the relic left by her father and is shocked to discover the secret of her background.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4756944'&amp;EntityType='LinearSchedule'&amp;EntityId='09eed816-a6d2-40b1-be76-673fe1dfd25d'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E38</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
+    <date>2021</date>
+    <category lang="en">General</category>
+    <category lang="en">Drama Series</category>
   </programme>
   <programme start="20220511120000 +0000" stop="20220511123000 +0000" channel="Ch 8">
     <title lang="en">Cyclepedia</title>
@@ -4401,14 +4348,11 @@
     </rating>
   </programme>
   <programme start="20220512013000 +0000" stop="20220512020000 +0000" channel="Ch 8">
-    <title lang="en">Armed Reaction 2021</title>
-    <title lang="xx">陀枪师姐 2021</title>
+    <title lang="en">Armed Reaction</title>
     <desc lang="en">(R) Qianying feels lost because of Yaozhong's sudden indifference attitude. Qianying obtains the relic left by her father and is shocked to discover the secret of her background.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4764626'&amp;EntityType='LinearSchedule'&amp;EntityId='fcf49c19-6ecd-4b96-9db2-a3bbbc934918'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E38</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
+    <date>2021</date>
+    <category lang="en">General</category>
+    <category lang="en">Drama Series</category>
   </programme>
   <programme start="20220512020000 +0000" stop="20220512023000 +0000" channel="Ch 8">
     <title lang="en">Different Cuts, Different Strokes</title>
@@ -4577,14 +4521,11 @@
     </rating>
   </programme>
   <programme start="20220512113000 +0000" stop="20220512120000 +0000" channel="Ch 8">
-    <title lang="en">Armed Reaction 2021</title>
-    <title lang="xx">陀枪师姐 2021</title>
+    <title lang="en">Armed Reaction</title>
     <desc lang="en">Diana confesses her relationship with Hanson to her best friends. Meanwhile, she runs into Hansen's ex-wife, Sade, and sees her kissing him. Her friends question Hanson about his relationship with Sade on Diana's behalf. They urge Diana to be vigilant.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4764630'&amp;EntityType='LinearSchedule'&amp;EntityId='a1e89ccf-6a5f-445c-b2bc-df130765a37d'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E39</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
+    <date>2021</date>
+    <category lang="en">General</category>
+    <category lang="en">Drama Series</category>
   </programme>
   <programme start="20220512120000 +0000" stop="20220512130000 +0000" channel="Ch 8">
     <title lang="en">Our Daily Food</title>
@@ -4757,14 +4698,11 @@
     </rating>
   </programme>
   <programme start="20220513013000 +0000" stop="20220513020000 +0000" channel="Ch 8">
-    <title lang="en">Armed Reaction 2021</title>
-    <title lang="xx">陀枪师姐 2021</title>
+    <title lang="en">Armed Reaction</title>
     <desc lang="en">(R) Diana confesses her relationship with Hanson to her best friends. Meanwhile, she runs into Hansen's ex-wife, Sade, and sees her kissing him. Her friends question Hanson about his relationship with Sade on Diana's behalf. They urge Diana to be vigilant.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4764634'&amp;EntityType='LinearSchedule'&amp;EntityId='46a2e2b8-0264-47c2-b698-63ca92724d92'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E39</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
+    <date>2021</date>
+    <category lang="en">General</category>
+    <category lang="en">Drama Series</category>
   </programme>
   <programme start="20220513020000 +0000" stop="20220513023000 +0000" channel="Ch 8">
     <title lang="en">Different Cuts, Different Strokes</title>
@@ -4850,15 +4788,10 @@
     </rating>
   </programme>
   <programme start="20220513060000 +0000" stop="20220513063000 +0000" channel="Ch 8">
-    <title lang="en">Team Curious S1 &amp;</title>
-    <title lang="xx">奇趣特工队 S1 &amp; S2</title>
-    <sub-title lang="en">Giant Spider</sub-title>
-    <desc lang="en">(R) Quincy is a boy full of curiosity and a sense of justice. He also has a mysterious identity - the captain of Q-team. The team comprises of Quincy and his companions: his mischievous and proud Blitz Cat who understands Alien languages, the polite and gentle Robot Al, and Princess Deirdre, an alien visitor who accidentally lands on Earth. Quincy and his partners all have magical badges, which allow them to turn into special agents, and gives them incredible powers and skills to guard their town.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4762489'&amp;EntityType='LinearSchedule'&amp;EntityId='6544d2bd-bf7f-4bd9-9fdf-647242a62133'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <title lang="en">Team Curious  &amp;</title>
+    <desc lang="en">(R) Quincy is a boy full of curiosity and a sense of justice. He also has a mysterious identity - the captain of Q-team. The team comprises of Quincy and his companions: his mischievous and proud Blitz Cat who understands Alien languages, the polite and gentle Robot Al, and Princess Deirdre, an alien visitor who accidentally lands on Earth. Quincy and his partners all have magical badges, which allow them to turn into special agents, and gives them incredible powers and skills to guard their tow.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220513063000 +0000" stop="20220513070000 +0000" channel="Ch 8">
     <title lang="en">Focus</title>
@@ -4944,14 +4877,11 @@
     </rating>
   </programme>
   <programme start="20220513113000 +0000" stop="20220513120000 +0000" channel="Ch 8">
-    <title lang="en">Armed Reaction 2021</title>
-    <title lang="xx">陀枪师姐 2021</title>
+    <title lang="en">Armed Reaction</title>
     <desc lang="en">Dahua confirms the identity of the dealer of Danny's drug dealing and secretly informs Zhanchao. Shaoxi leads his team to ambush Danny and Dahua and fires at them. . .</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4764638'&amp;EntityType='LinearSchedule'&amp;EntityId='0d9f7564-dcb4-43eb-88ae-369a7f0e53af'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E40</episode-num>
-    <rating>
-      <value>PG (Some Violence)</value>
-    </rating>
+    <date>2021</date>
+    <category lang="en">General</category>
+    <category lang="en">Drama Series</category>
   </programme>
   <programme start="20220513120000 +0000" stop="20220513123000 +0000" channel="Ch 8">
     <title lang="en">Body SOS</title>
@@ -8476,13 +8406,11 @@
     </rating>
   </programme>
   <programme start="20220508120000 +0000" stop="20220508123000 +0000" channel="Suria">
-    <title lang="en">Berita 2022-2023</title>
-    <desc lang="en">Berita 2022-2023.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4749070'&amp;EntityType='LinearSchedule'&amp;EntityId='39f65560-fe08-4a46-a034-37dadd6c10bd'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E508</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <title lang="en">Berita 2022/</title>
+    <desc lang="en">Berita 2022/2023.</desc>
+    <date>2022|2023</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220508123000 +0000" stop="20220508130000 +0000" channel="Suria">
     <title lang="en">Yang Dulu</title>
@@ -8502,13 +8430,11 @@
     </rating>
   </programme>
   <programme start="20220508153000 +0000" stop="20220508160000 +0000" channel="Suria">
-    <title lang="en">Berita 2022-2023</title>
-    <desc lang="en">Berita 2022-2023.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4749095'&amp;EntityType='LinearSchedule'&amp;EntityId='6220d485-b4ac-4e2f-ba70-b795626043ca'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E508</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <title lang="en">Berita 2022/</title>
+    <desc lang="en">Berita 2022/2023.</desc>
+    <date>2022|2023</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220508160000 +0000" stop="20220508160000 +0000" channel="Suria">
     <title lang="en">End of Transmission</title>
@@ -8639,13 +8565,11 @@
     </rating>
   </programme>
   <programme start="20220509120000 +0000" stop="20220509123000 +0000" channel="Suria">
-    <title lang="en">Berita 2022-2023</title>
-    <desc lang="en">Berita 2022-2023.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4751146'&amp;EntityType='LinearSchedule'&amp;EntityId='df1d2e12-2cdf-4523-b911-beabb15ccc52'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E509</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <title lang="en">Berita 2022/</title>
+    <desc lang="en">Berita 2022/2023.</desc>
+    <date>2022|2023</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220509123000 +0000" stop="20220509133000 +0000" channel="Suria">
     <title lang="en">Zaman Sekolah 3</title>
@@ -8676,13 +8600,11 @@
     </rating>
   </programme>
   <programme start="20220509153000 +0000" stop="20220509160000 +0000" channel="Suria">
-    <title lang="en">Berita 2022-2023</title>
-    <desc lang="en">Berita 2022-2023.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4751177'&amp;EntityType='LinearSchedule'&amp;EntityId='87764984-b463-48f7-917f-1227416a410d'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E509</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <title lang="en">Berita 2022/</title>
+    <desc lang="en">Berita 2022/2023.</desc>
+    <date>2022|2023</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220509160000 +0000" stop="20220509160000 +0000" channel="Suria">
     <title lang="en">End of Transmission</title>
@@ -8822,13 +8744,11 @@
     </rating>
   </programme>
   <programme start="20220510120000 +0000" stop="20220510123000 +0000" channel="Suria">
-    <title lang="en">Berita 2022-2023</title>
-    <desc lang="en">Berita 2022-2023.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4754115'&amp;EntityType='LinearSchedule'&amp;EntityId='68c5ac2c-285f-4420-9720-e952c18c8e13'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E510</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <title lang="en">Berita 2022/</title>
+    <desc lang="en">Berita 2022/2023.</desc>
+    <date>2022|2023</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220510123000 +0000" stop="20220510130000 +0000" channel="Suria">
     <title lang="en">Raja Lubuk</title>
@@ -8867,13 +8787,11 @@
     </rating>
   </programme>
   <programme start="20220510153000 +0000" stop="20220510160000 +0000" channel="Suria">
-    <title lang="en">Berita 2022-2023</title>
-    <desc lang="en">Berita 2022-2023.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4754156'&amp;EntityType='LinearSchedule'&amp;EntityId='9360f951-0875-405c-8e92-53f595fbe6e0'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E510</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <title lang="en">Berita 2022/</title>
+    <desc lang="en">Berita 2022/2023.</desc>
+    <date>2022|2023</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220510160000 +0000" stop="20220510160000 +0000" channel="Suria">
     <title lang="en">End of Transmission</title>
@@ -9021,13 +8939,11 @@
     </rating>
   </programme>
   <programme start="20220511120000 +0000" stop="20220511123000 +0000" channel="Suria">
-    <title lang="en">Berita 2022-2023</title>
-    <desc lang="en">Berita 2022-2023.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4756656'&amp;EntityType='LinearSchedule'&amp;EntityId='96606c12-3f15-4d9a-ac20-ee8ab00bbc2e'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E511</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <title lang="en">Berita 2022/</title>
+    <desc lang="en">Berita 2022/2023.</desc>
+    <date>2022|2023</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220511123000 +0000" stop="20220511130000 +0000" channel="Suria">
     <title lang="en">Renovate</title>
@@ -9067,13 +8983,11 @@
     </rating>
   </programme>
   <programme start="20220511153000 +0000" stop="20220511160000 +0000" channel="Suria">
-    <title lang="en">Berita 2022-2023</title>
-    <desc lang="en">Berita 2022-2023.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4756688'&amp;EntityType='LinearSchedule'&amp;EntityId='5c0270dd-62e0-4c27-a18b-73f1135b225e'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E511</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <title lang="en">Berita 2022/</title>
+    <desc lang="en">Berita 2022/2023.</desc>
+    <date>2022|2023</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220511160000 +0000" stop="20220511160000 +0000" channel="Suria">
     <title lang="en">End of Transmission</title>
@@ -9222,23 +9136,17 @@
     </rating>
   </programme>
   <programme start="20220512120000 +0000" stop="20220512123000 +0000" channel="Suria">
-    <title lang="en">Berita 2022-2023</title>
-    <desc lang="en">Berita 2022-2023.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4759414'&amp;EntityType='LinearSchedule'&amp;EntityId='2bd86b41-5713-442f-a269-bd613ef75b7f'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E512</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <title lang="en">Berita 2022/</title>
+    <desc lang="en">Berita 2022/2023.</desc>
+    <date>2022|2023</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220512123000 +0000" stop="20220512133000 +0000" channel="Suria">
-    <title lang="en">Inside Maximum Security</title>
-    <sub-title lang="en">Inside Maximum Security E</sub-title>
+    <title lang="en">CNA-Adapted Documentaries</title>
     <desc lang="en">For the first time ever, five inmates, incarcerated multiple times and at least once at maximum security, agree to reveal their full identities, for our cameras to capture their lives behind bars. Will the regime in jail finally be enough for them to renounce a life of crime? Will this be their final stint in Changi Prison? What happens when an inmate loses the love and support of their family?</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4759422'&amp;EntityType='LinearSchedule'&amp;EntityId='19fb0911-009d-466f-b3f2-6e01203a7fdf'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220512133000 +0000" stop="20220512143000 +0000" channel="Suria">
     <title lang="en">Cinta Belum Tamat Tempoh</title>
@@ -9259,13 +9167,11 @@
     </rating>
   </programme>
   <programme start="20220512153000 +0000" stop="20220512160000 +0000" channel="Suria">
-    <title lang="en">Berita 2022-2023</title>
-    <desc lang="en">Berita 2022-2023.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4759440'&amp;EntityType='LinearSchedule'&amp;EntityId='49ed766b-cace-4819-bd49-7a8bd0c8cb50'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E512</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <title lang="en">Berita 2022/</title>
+    <desc lang="en">Berita 2022/2023.</desc>
+    <date>2022|2023</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220512160000 +0000" stop="20220512160000 +0000" channel="Suria">
     <title lang="en">End of Transmission</title>
@@ -9405,13 +9311,11 @@
     </rating>
   </programme>
   <programme start="20220513120000 +0000" stop="20220513123000 +0000" channel="Suria">
-    <title lang="en">Berita 2022-2023</title>
-    <desc lang="en">Berita 2022-2023.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4762294'&amp;EntityType='LinearSchedule'&amp;EntityId='a1f50254-8ae6-4796-b892-f0e935afe0b5'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E513</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <title lang="en">Berita 2022/</title>
+    <desc lang="en">Berita 2022/2023.</desc>
+    <date>2022|2023</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220513123000 +0000" stop="20220513130000 +0000" channel="Suria">
     <title lang="en">X, Y &amp; Zain!</title>
@@ -9441,13 +9345,11 @@
     </rating>
   </programme>
   <programme start="20220513153000 +0000" stop="20220513160000 +0000" channel="Suria">
-    <title lang="en">Berita 2022-2023</title>
-    <desc lang="en">Berita 2022-2023.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4762310'&amp;EntityType='LinearSchedule'&amp;EntityId='c4364adb-a049-4b05-ab41-97efd4029dbc'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E513</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <title lang="en">Berita 2022/</title>
+    <desc lang="en">Berita 2022/2023.</desc>
+    <date>2022|2023</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220513160000 +0000" stop="20220513160000 +0000" channel="Suria">
     <title lang="en">End of Transmission</title>
@@ -9899,24 +9801,18 @@
     </rating>
   </programme>
   <programme start="20220508010000 +0000" stop="20220508013000 +0000" channel="Vasantham">
-    <title lang="en">Sa Re Ga Mae 2020[Episodic]- EP 16</title>
-    <sub-title lang="en">Latest Hits Vol 2</sub-title>
+    <title lang="en">Sa Re Ga Mae  (Episodic)</title>
     <desc lang="en">Hit Movie Songs.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4749082'&amp;EntityType='LinearSchedule'&amp;EntityId='cd1da928-bf1f-4820-82b6-ce0ad47fea57'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E16</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2020</date>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220508013000 +0000" stop="20220508020000 +0000" channel="Vasantham">
-    <title lang="en">Sa Re Ga Mae 2020[Episodic]- EP 17</title>
-    <sub-title lang="en">Dance Hits Vol 1</sub-title>
+    <title lang="en">Sa Re Ga Mae  (Episodic)</title>
     <desc lang="en">Hit Movie Songs.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4749088'&amp;EntityType='LinearSchedule'&amp;EntityId='71a7783b-3780-4375-af01-a9b29bb6b0d2'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E17</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2020</date>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220508020000 +0000" stop="20220508050000 +0000" channel="Vasantham">
     <title lang="en">Muthu</title>
@@ -9952,22 +9848,18 @@
     </rating>
   </programme>
   <programme start="20220508120000 +0000" stop="20220508123000 +0000" channel="Vasantham">
-    <title lang="en">Ha Ha Ha Sirippu 2018</title>
+    <title lang="en">Ha Ha Ha Sirippu</title>
     <desc lang="en">Laugh out loud to comedy scenes from Kollywood films, right here on Vasantham!</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4749120'&amp;EntityType='LinearSchedule'&amp;EntityId='85e147a4-e55b-4af4-9653-2715a48a1274'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2018</date>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220508123000 +0000" stop="20220508130000 +0000" channel="Vasantham">
-    <title lang="en">Tamil Seithi 2022</title>
+    <title lang="en">Tamil Seithi</title>
     <desc lang="en">Tamil News.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4749131'&amp;EntityType='LinearSchedule'&amp;EntityId='ffda20be-c7af-4db9-87be-3fb03518392b'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E508</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2022</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220508130000 +0000" stop="20220508140000 +0000" channel="Vasantham">
     <title lang="en">SICCI Launchpad</title>
@@ -9987,13 +9879,11 @@
     </rating>
   </programme>
   <programme start="20220508163000 +0000" stop="20220508170000 +0000" channel="Vasantham">
-    <title lang="en">Tamil Seithi 2022</title>
+    <title lang="en">Tamil Seithi</title>
     <desc lang="en">Tamil News.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4751089'&amp;EntityType='LinearSchedule'&amp;EntityId='165b345d-ed89-4715-8111-16a011c0737c'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E508</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2022</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220508170000 +0000" stop="20220508170000 +0000" channel="Vasantham">
     <title lang="en">End of Transmission</title>
@@ -10069,13 +9959,11 @@
     </rating>
   </programme>
   <programme start="20220509070000 +0000" stop="20220509080000 +0000" channel="Vasantham">
-    <title lang="en">Vasantham Star 2005</title>
+    <title lang="en">Vasantham Star</title>
     <desc lang="en">Catch Vasantham Star which is on the look out for the next generation of singers, who will become our Stars! A program that is filled with pure entertainment with our local artists. So sit back and catch the show right here on Vasantham..</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4751159'&amp;EntityType='LinearSchedule'&amp;EntityId='83685242-8559-4a60-8d1f-1b583d07c945'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2005</date>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220509080000 +0000" stop="20220509110000 +0000" channel="Vasantham">
     <title lang="en">M.Kumaran S-o Mahalakshmi</title>
@@ -10086,22 +9974,16 @@
     </rating>
   </programme>
   <programme start="20220509110000 +0000" stop="20220509113000 +0000" channel="Vasantham">
-    <title lang="en">Anjaraipetti S8 P1</title>
+    <title lang="en">Anjaraipetti  P1</title>
     <desc lang="en">Anjaraipetti takes cookery onto a new level, transforming the foodies into passionate chefs. The show helps viewers hone their culinary skills and brings a new flavour to their kitchen, different from the ones they are used to.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4751176'&amp;EntityType='LinearSchedule'&amp;EntityId='b43c0fdf-4984-4f7d-8ec7-c86b12d50798'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E59</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220509113000 +0000" stop="20220509120000 +0000" channel="Vasantham">
-    <title lang="en">Anjaraipetti S8 P1</title>
+    <title lang="en">Anjaraipetti  P1</title>
     <desc lang="en">Anjaraipetti takes cookery onto a new level, transforming the foodies into passionate chefs. The show helps viewers hone their culinary skills and brings a new flavour to their kitchen, different from the ones they are used to.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4751184'&amp;EntityType='LinearSchedule'&amp;EntityId='d030ee1d-769e-48eb-ae46-ba1f83a7a469'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E60</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220509120000 +0000" stop="20220509123000 +0000" channel="Vasantham">
     <title lang="en">Punggol Pandian</title>
@@ -10113,13 +9995,11 @@
     </rating>
   </programme>
   <programme start="20220509123000 +0000" stop="20220509130000 +0000" channel="Vasantham">
-    <title lang="en">Tamil Seithi 2022</title>
+    <title lang="en">Tamil Seithi</title>
     <desc lang="en">Tamil News.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4751192'&amp;EntityType='LinearSchedule'&amp;EntityId='ae6b088a-b09e-4940-84f4-0f8e72c733ca'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E509</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2022</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220509130000 +0000" stop="20220509133000 +0000" channel="Vasantham">
     <title lang="en">Thiruvai Malarvai</title>
@@ -10158,22 +10038,18 @@
     </rating>
   </programme>
   <programme start="20220509150000 +0000" stop="20220509153000 +0000" channel="Vasantham">
-    <title lang="en">Sa Re Ga Mae Paadalgal 2020</title>
+    <title lang="en">Sa Re Ga Mae Paadalgal</title>
     <desc lang="en">Songs.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4751232'&amp;EntityType='LinearSchedule'&amp;EntityId='ed1ac387-fc25-4542-9647-8ea1ec0f6999'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E20</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2020</date>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220509153000 +0000" stop="20220509160000 +0000" channel="Vasantham">
-    <title lang="en">Tamil Seithi 2022</title>
+    <title lang="en">Tamil Seithi</title>
     <desc lang="en">Tamil News.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4751241'&amp;EntityType='LinearSchedule'&amp;EntityId='1bfebee8-0254-4994-87e4-51f5c99fa5f5'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E509</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2022</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220509160000 +0000" stop="20220509160000 +0000" channel="Vasantham">
     <title lang="en">End of Transmission</title>
@@ -10249,22 +10125,18 @@
     </rating>
   </programme>
   <programme start="20220510063000 +0000" stop="20220510070000 +0000" channel="Vasantham">
-    <title lang="en">Ha Ha Ha Sirippu 2018</title>
+    <title lang="en">Ha Ha Ha Sirippu</title>
     <desc lang="en">Laugh out loud to comedy scenes from Kollywood films, right here on Vasantham!</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4754093'&amp;EntityType='LinearSchedule'&amp;EntityId='317bd72f-e06f-4f26-a042-cde37abd59fc'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2018</date>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220510070000 +0000" stop="20220510080000 +0000" channel="Vasantham">
-    <title lang="en">Vasantham Star 2005</title>
+    <title lang="en">Vasantham Star</title>
     <desc lang="en">Catch Vasantham Star which is on the look out for the next generation of singers, who will become our Stars! A program that is filled with pure entertainment with our local artists. So sit back and catch the show right here on Vasantham..</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4761049'&amp;EntityType='LinearSchedule'&amp;EntityId='fda638f9-4280-4169-a9a1-8502d577c8d9'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2005</date>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220510080000 +0000" stop="20220510110000 +0000" channel="Vasantham">
     <title lang="en">Charlie Chaplin</title>
@@ -10275,22 +10147,16 @@
     </rating>
   </programme>
   <programme start="20220510110000 +0000" stop="20220510113000 +0000" channel="Vasantham">
-    <title lang="en">Anjaraipetti S8 P1</title>
+    <title lang="en">Anjaraipetti  P1</title>
     <desc lang="en">Anjaraipetti takes cookery onto a new level, transforming the foodies into passionate chefs. The show helps viewers hone their culinary skills and brings a new flavour to their kitchen, different from the ones they are used to.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4754118'&amp;EntityType='LinearSchedule'&amp;EntityId='3f279a4e-dd72-4a34-b590-a2d5292be5ab'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E61</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220510113000 +0000" stop="20220510120000 +0000" channel="Vasantham">
-    <title lang="en">Anjaraipetti S8 P1</title>
+    <title lang="en">Anjaraipetti  P1</title>
     <desc lang="en">Anjaraipetti takes cookery onto a new level, transforming the foodies into passionate chefs. The show helps viewers hone their culinary skills and brings a new flavour to their kitchen, different from the ones they are used to.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4754126'&amp;EntityType='LinearSchedule'&amp;EntityId='ade80d54-df2b-4d0f-9dcf-24f1458894a7'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E62</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220510120000 +0000" stop="20220510123000 +0000" channel="Vasantham">
     <title lang="en">Punggol Pandian</title>
@@ -10302,13 +10168,11 @@
     </rating>
   </programme>
   <programme start="20220510123000 +0000" stop="20220510130000 +0000" channel="Vasantham">
-    <title lang="en">Tamil Seithi 2022</title>
+    <title lang="en">Tamil Seithi</title>
     <desc lang="en">Tamil News.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4754143'&amp;EntityType='LinearSchedule'&amp;EntityId='f2e7629e-b984-4b56-8390-67d25677352b'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E510</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2022</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220510130000 +0000" stop="20220510133000 +0000" channel="Vasantham">
     <title lang="en">Thiruvai Malarvai</title>
@@ -10347,22 +10211,18 @@
     </rating>
   </programme>
   <programme start="20220510150000 +0000" stop="20220510153000 +0000" channel="Vasantham">
-    <title lang="en">Sa Re Ga Mae Paadalgal 2020</title>
+    <title lang="en">Sa Re Ga Mae Paadalgal</title>
     <desc lang="en">Songs.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4754172'&amp;EntityType='LinearSchedule'&amp;EntityId='dcdde0a3-18b9-4ea7-bdb5-e2db1e236acc'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E21</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2020</date>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220510153000 +0000" stop="20220510160000 +0000" channel="Vasantham">
-    <title lang="en">Tamil Seithi 2022</title>
+    <title lang="en">Tamil Seithi</title>
     <desc lang="en">Tamil News.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4754181'&amp;EntityType='LinearSchedule'&amp;EntityId='6517b24d-8adc-4142-b058-ac27bdb88672'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E510</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2022</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220510160000 +0000" stop="20220510160000 +0000" channel="Vasantham">
     <title lang="en">End of Transmission</title>
@@ -10438,14 +10298,11 @@
     </rating>
   </programme>
   <programme start="20220511070000 +0000" stop="20220511080000 +0000" channel="Vasantham">
-    <title lang="en">Vasantham Star 2005</title>
-    <sub-title lang="en">Qtr Final</sub-title>
+    <title lang="en">Vasantham Star</title>
     <desc lang="en">Catch Vasantham Star which is on the look out for the next generation of singers, who will become our Stars! A program that is filled with pure entertainment with our local artists. So sit back and catch the show right here on Vasantham..</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4761058'&amp;EntityType='LinearSchedule'&amp;EntityId='4b0ebac3-a7e5-43a4-9b46-d9c012902486'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2005</date>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220511080000 +0000" stop="20220511110000 +0000" channel="Vasantham">
     <title lang="en">Roja Kootam</title>
@@ -10456,22 +10313,16 @@
     </rating>
   </programme>
   <programme start="20220511110000 +0000" stop="20220511113000 +0000" channel="Vasantham">
-    <title lang="en">Anjaraipetti S8 P1</title>
+    <title lang="en">Anjaraipetti  P1</title>
     <desc lang="en">Anjaraipetti takes cookery onto a new level, transforming the foodies into passionate chefs. The show helps viewers hone their culinary skills and brings a new flavour to their kitchen, different from the ones they are used to.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4756601'&amp;EntityType='LinearSchedule'&amp;EntityId='43eeb512-e1b7-4c33-8bec-26ec0e27934d'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E63</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220511113000 +0000" stop="20220511120000 +0000" channel="Vasantham">
-    <title lang="en">Anjaraipetti S8 P1</title>
+    <title lang="en">Anjaraipetti  P1</title>
     <desc lang="en">Anjaraipetti takes cookery onto a new level, transforming the foodies into passionate chefs. The show helps viewers hone their culinary skills and brings a new flavour to their kitchen, different from the ones they are used to.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4756609'&amp;EntityType='LinearSchedule'&amp;EntityId='e48404a9-ced6-4845-913c-b61534bfc08f'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E64</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220511120000 +0000" stop="20220511123000 +0000" channel="Vasantham">
     <title lang="en">Punggol Pandian</title>
@@ -10483,13 +10334,11 @@
     </rating>
   </programme>
   <programme start="20220511123000 +0000" stop="20220511130000 +0000" channel="Vasantham">
-    <title lang="en">Tamil Seithi 2022</title>
+    <title lang="en">Tamil Seithi</title>
     <desc lang="en">Tamil News.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4756624'&amp;EntityType='LinearSchedule'&amp;EntityId='74668ae3-0c4a-4c87-a538-15f88210bd30'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E511</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2022</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220511130000 +0000" stop="20220511133000 +0000" channel="Vasantham">
     <title lang="en">Vizhiyoram</title>
@@ -10528,22 +10377,18 @@
     </rating>
   </programme>
   <programme start="20220511150000 +0000" stop="20220511153000 +0000" channel="Vasantham">
-    <title lang="en">Sa Re Ga Mae Paadalgal 2020</title>
+    <title lang="en">Sa Re Ga Mae Paadalgal</title>
     <desc lang="en">Songs.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4756658'&amp;EntityType='LinearSchedule'&amp;EntityId='31db17f9-d660-4f2a-82c6-27947b50c594'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E22</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2020</date>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220511153000 +0000" stop="20220511160000 +0000" channel="Vasantham">
-    <title lang="en">Tamil Seithi 2022</title>
+    <title lang="en">Tamil Seithi</title>
     <desc lang="en">Tamil News.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4756666'&amp;EntityType='LinearSchedule'&amp;EntityId='38f38c44-3a31-4b3c-a307-694e8cd7ad29'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E511</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2022</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220511160000 +0000" stop="20220511160000 +0000" channel="Vasantham">
     <title lang="en">End of Transmission</title>
@@ -10619,23 +10464,18 @@
     </rating>
   </programme>
   <programme start="20220512063000 +0000" stop="20220512070000 +0000" channel="Vasantham">
-    <title lang="en">Ha Ha Ha Sirippu 2018</title>
+    <title lang="en">Ha Ha Ha Sirippu</title>
     <desc lang="en">Laugh out loud to comedy scenes from Kollywood films, right here on Vasantham!</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4759407'&amp;EntityType='LinearSchedule'&amp;EntityId='db5b907e-a2ca-405b-bd7d-a448d66557e4'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2018</date>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220512070000 +0000" stop="20220512080000 +0000" channel="Vasantham">
-    <title lang="en">Vasantham Star 2005</title>
-    <sub-title lang="en">Qtr Final</sub-title>
+    <title lang="en">Vasantham Star</title>
     <desc lang="en">Catch Vasantham Star which is on the look out for the next generation of singers, who will become our Stars! A program that is filled with pure entertainment with our local artists. So sit back and catch the show right here on Vasantham..</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4761081'&amp;EntityType='LinearSchedule'&amp;EntityId='97dd2c09-a1d8-4993-8e63-e900f56aa08e'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2005</date>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220512080000 +0000" stop="20220512110000 +0000" channel="Vasantham">
     <title lang="en">Indru Poi Naalai Vaa</title>
@@ -10646,22 +10486,16 @@
     </rating>
   </programme>
   <programme start="20220512110000 +0000" stop="20220512113000 +0000" channel="Vasantham">
-    <title lang="en">Anjaraipetti S8 P1</title>
+    <title lang="en">Anjaraipetti  P1</title>
     <desc lang="en">Anjaraipetti takes cookery onto a new level, transforming the foodies into passionate chefs. The show helps viewers hone their culinary skills and brings a new flavour to their kitchen, different from the ones they are used to.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4759438'&amp;EntityType='LinearSchedule'&amp;EntityId='27474f95-00ec-489c-86b8-41a4d0dd0ede'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E65</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220512113000 +0000" stop="20220512120000 +0000" channel="Vasantham">
-    <title lang="en">Anjaraipetti S8 P1</title>
+    <title lang="en">Anjaraipetti  P1</title>
     <desc lang="en">Anjaraipetti takes cookery onto a new level, transforming the foodies into passionate chefs. The show helps viewers hone their culinary skills and brings a new flavour to their kitchen, different from the ones they are used to.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4759445'&amp;EntityType='LinearSchedule'&amp;EntityId='1cf9fcfb-31f1-4fee-a49d-93ea90d6f827'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E66</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220512120000 +0000" stop="20220512123000 +0000" channel="Vasantham">
     <title lang="en">Punggol Pandian</title>
@@ -10673,13 +10507,11 @@
     </rating>
   </programme>
   <programme start="20220512123000 +0000" stop="20220512130000 +0000" channel="Vasantham">
-    <title lang="en">Tamil Seithi 2022</title>
+    <title lang="en">Tamil Seithi</title>
     <desc lang="en">Tamil News.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4759454'&amp;EntityType='LinearSchedule'&amp;EntityId='e1ef8c4d-8065-461e-90b8-c561462a191e'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E512</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2022</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220512130000 +0000" stop="20220512133000 +0000" channel="Vasantham">
     <title lang="en">Vizhiyoram</title>
@@ -10718,13 +10550,11 @@
     </rating>
   </programme>
   <programme start="20220512150000 +0000" stop="20220512153000 +0000" channel="Vasantham">
-    <title lang="en">Sa Re Ga Mae Paadalgal 2020</title>
+    <title lang="en">Sa Re Ga Mae Paadalgal</title>
     <desc lang="en">Songs.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4759474'&amp;EntityType='LinearSchedule'&amp;EntityId='878861bb-3d71-44d4-b348-8b7b498fe8b4'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E23</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2020</date>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220512153000 +0000" stop="20220512160000 +0000" channel="Vasantham">
     <title lang="en">Ethiroli</title>
@@ -10736,13 +10566,11 @@
     </rating>
   </programme>
   <programme start="20220512160000 +0000" stop="20220512163000 +0000" channel="Vasantham">
-    <title lang="en">Tamil Seithi 2022</title>
+    <title lang="en">Tamil Seithi</title>
     <desc lang="en">Tamil News.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4763685'&amp;EntityType='LinearSchedule'&amp;EntityId='9b62910d-ee87-42b3-9ab4-5b2f7b60b1ed'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E512</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2022</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220512163000 +0000" stop="20220512163000 +0000" channel="Vasantham">
     <title lang="en">End of Transmission</title>
@@ -10818,14 +10646,11 @@
     </rating>
   </programme>
   <programme start="20220513070000 +0000" stop="20220513080000 +0000" channel="Vasantham">
-    <title lang="en">Vasantham Star 2005</title>
-    <sub-title lang="en">Qtr Final</sub-title>
+    <title lang="en">Vasantham Star</title>
     <desc lang="en">Catch Vasantham Star which is on the look out for the next generation of singers, who will become our Stars! A program that is filled with pure entertainment with our local artists. So sit back and catch the show right here on Vasantham..</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4763723'&amp;EntityType='LinearSchedule'&amp;EntityId='0fad8c8e-a9ef-4093-8fc8-627cfbb17672'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2005</date>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220513080000 +0000" stop="20220513110000 +0000" channel="Vasantham">
     <title lang="en">Kaavalan</title>
@@ -10836,22 +10661,16 @@
     </rating>
   </programme>
   <programme start="20220513110000 +0000" stop="20220513113000 +0000" channel="Vasantham">
-    <title lang="en">Anjaraipetti S8 P1</title>
+    <title lang="en">Anjaraipetti  P1</title>
     <desc lang="en">Anjaraipetti takes cookery onto a new level, transforming the foodies into passionate chefs. The show helps viewers hone their culinary skills and brings a new flavour to their kitchen, different from the ones they are used to.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4763731'&amp;EntityType='LinearSchedule'&amp;EntityId='a6e7fe79-64d3-4f54-a045-b49e448265c6'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E67</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220513113000 +0000" stop="20220513120000 +0000" channel="Vasantham">
-    <title lang="en">Anjaraipetti S8 P1</title>
+    <title lang="en">Anjaraipetti  P1</title>
     <desc lang="en">Anjaraipetti takes cookery onto a new level, transforming the foodies into passionate chefs. The show helps viewers hone their culinary skills and brings a new flavour to their kitchen, different from the ones they are used to.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4763735'&amp;EntityType='LinearSchedule'&amp;EntityId='aa3430c6-2b08-4ca8-a325-71f236d8daf8'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E68</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220513120000 +0000" stop="20220513123000 +0000" channel="Vasantham">
     <title lang="en">Indian Beat</title>
@@ -10863,22 +10682,18 @@
     </rating>
   </programme>
   <programme start="20220513123000 +0000" stop="20220513130000 +0000" channel="Vasantham">
-    <title lang="en">Tamil Seithi 2022</title>
+    <title lang="en">Tamil Seithi</title>
     <desc lang="en">Tamil News.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4763743'&amp;EntityType='LinearSchedule'&amp;EntityId='b9aa8265-469e-4c54-98d6-0be49403ad19'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E513</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2022</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220513130000 +0000" stop="20220513140000 +0000" channel="Vasantham">
-    <title lang="en">Ha Ha Ha Sirippu 2016</title>
+    <title lang="en">Ha Ha Ha Sirippu</title>
     <desc lang="en">Laugh out loud to comedy scenes from Kollywood films, right here on Vasantham!</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4763747'&amp;EntityType='LinearSchedule'&amp;EntityId='ede038e2-e906-4bc3-b4ea-534ba855159b'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E18</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <date>2016</date>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220513140000 +0000" stop="20220513170000 +0000" channel="Vasantham">
     <title lang="en">7am Arivu</title>
@@ -11196,11 +11011,10 @@
     <episode-num system="onscreen">S1 E38</episode-num>
   </programme>
   <programme start="20220508050200 +0000" stop="20220508060000 +0000" channel="CNA">
-    <title lang="en">Japan Hour- EP 18</title>
-    <sub-title lang="en">Road Trip On Yamagata Tetsudo Flower-Nagai Line - Part 1</sub-title>
+    <title lang="en">Japan Hour [English Subtitles]</title>
     <desc lang="en">Fukui's biggest temple, a park that is illuminated in winter, a centre where visitors can experience zero gravity and space travel, and a footbath with colour-changing stones are featured this week.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4749266'&amp;EntityType='LinearSchedule'&amp;EntityId='aaadf681-5a98-4188-a4ee-fa9488f88544'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E18</episode-num>
+    <category lang="en">General</category>
+    <category lang="en">Others</category>
   </programme>
   <programme start="20220508060000 +0000" stop="20220508063000 +0000" channel="CNA">
     <title lang="en">Asia Now</title>
@@ -11500,11 +11314,10 @@
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
   <programme start="20220509113000 +0000" stop="20220509120000 +0000" channel="CNA">
-    <title lang="en">Talking Point</title>
-    <sub-title lang="en">Is The Mould In Our Homes Killing Us?</sub-title>
-    <desc lang="en">It's in some of the most unlikeliest of places in our homes. Discover the shocking truth behind the spread of mould around us and what it is really doing to our health.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4768812'&amp;EntityType='LinearSchedule'&amp;EntityId='eb99fe05-35e4-4c53-879b-75dd3c107967'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E3</episode-num>
+    <title lang="en">CNA Correspondent</title>
+    <desc lang="en">CNA Correspondent shows you the faces of those weathering - and trying to solve - the climate crisis, from the urban poor in Mumbai to rice farmers in Indonesia and plant-based meat startups in China.</desc>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220509120000 +0000" stop="20220509130000 +0000" channel="CNA">
     <title lang="en">Asia Tonight</title>
@@ -11544,11 +11357,10 @@
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
   <programme start="20220509153000 +0000" stop="20220509160000 +0000" channel="CNA">
-    <title lang="en">CNA Correspondent</title>
-    <sub-title lang="en">Weathering The Climate Crisis</sub-title>
-    <desc lang="en">CNA Correspondent shows you the faces of those weathering - and trying to solve - the climate crisis, from the urban poor in Mumbai to rice farmers in Indonesia and plant-based meat startups in China.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4768816'&amp;EntityType='LinearSchedule'&amp;EntityId='9cf65025-4d37-435c-977b-aa19d2b312a0'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E6</episode-num>
+    <title lang="en">Talking Point</title>
+    <desc lang="en">It's in some of the most unlikeliest of places in our homes. Discover the shocking truth behind the spread of mould around us and what it is really doing to our health.</desc>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220509160000 +0000" stop="20220509170000 +0000" channel="CNA">
     <title lang="en">World Tonight</title>
@@ -11702,11 +11514,10 @@
     <episode-num system="onscreen">S1 E40</episode-num>
   </programme>
   <programme start="20220510130200 +0000" stop="20220510140000 +0000" channel="CNA">
-    <title lang="en">When Titans Clash S2: The New World Order</title>
-    <sub-title lang="en">Could China And India Go To War?</sub-title>
+    <title lang="en">When Titans Clash : The New World Order</title>
     <desc lang="en">China-India relations are at a low point, as tensions continue in the disputed border areas. India also raises concerns over ongoing Chinese action in Nepal, Pakistan and Sri Lanka.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='4756695'&amp;EntityType='LinearSchedule'&amp;EntityId='4241bf01-c632-4046-b115-dd0925e00878'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S2 E2</episode-num>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220510140000 +0000" stop="20220510150000 +0000" channel="CNA">
     <title lang="en">Singapore Tonight</title>
@@ -11740,11 +11551,10 @@
     <episode-num system="onscreen">S1 E40</episode-num>
   </programme>
   <programme start="20220510170200 +0000" stop="20220510180000 +0000" channel="CNA">
-    <title lang="en">When Titans Clash S2: The New World Order</title>
-    <sub-title lang="en">Could China And India Go To War?</sub-title>
+    <title lang="en">When Titans Clash : The New World Order</title>
     <desc lang="en">China-India relations are at a low point, as tensions continue in the disputed border areas. India also raises concerns over ongoing Chinese action in Nepal, Pakistan and Sri Lanka.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='4756716'&amp;EntityType='LinearSchedule'&amp;EntityId='011f65b6-7dfb-4e0c-82f0-1208dfc53509'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S2 E2</episode-num>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220510180000 +0000" stop="20220510190000 +0000" channel="CNA">
     <title lang="en">Singapore Tonight</title>
@@ -11766,11 +11576,10 @@
     <episode-num system="onscreen">S1 E510</episode-num>
   </programme>
   <programme start="20220510210000 +0000" stop="20220510220000 +0000" channel="CNA">
-    <title lang="en">When Titans Clash S2: The New World Order</title>
-    <sub-title lang="en">Could China And India Go To War?</sub-title>
+    <title lang="en">When Titans Clash : The New World Order</title>
     <desc lang="en">China-India relations are at a low point, as tensions continue in the disputed border areas. India also raises concerns over ongoing Chinese action in Nepal, Pakistan and Sri Lanka.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='4756732'&amp;EntityType='LinearSchedule'&amp;EntityId='58729f2a-e06e-4a38-a17c-f9fc1287d0e6'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S2 E2</episode-num>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220510220000 +0000" stop="20220510230000 +0000" channel="CNA">
     <title lang="en">Singapore Tonight</title>
@@ -11797,11 +11606,10 @@
     <episode-num system="onscreen">S1 E41</episode-num>
   </programme>
   <programme start="20220511020200 +0000" stop="20220511030000 +0000" channel="CNA">
-    <title lang="en">When Titans Clash S2: The New World Order</title>
-    <sub-title lang="en">Could China And India Go To War?</sub-title>
+    <title lang="en">When Titans Clash : The New World Order</title>
     <desc lang="en">China-India relations are at a low point, as tensions continue in the disputed border areas. India also raises concerns over ongoing Chinese action in Nepal, Pakistan and Sri Lanka.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='4756749'&amp;EntityType='LinearSchedule'&amp;EntityId='708917ed-5fc6-4943-8eb3-3e562a08222c'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S2 E2</episode-num>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220511030000 +0000" stop="20220511050000 +0000" channel="CNA">
     <title lang="en">Asia Now</title>
@@ -12243,11 +12051,10 @@
     <episode-num system="onscreen">S1 E43</episode-num>
   </programme>
   <programme start="20220513080200 +0000" stop="20220513090000 +0000" channel="CNA">
-    <title lang="en">When Titans Clash S2: The New World Order</title>
-    <sub-title lang="en">Could China And India Go To War?</sub-title>
+    <title lang="en">When Titans Clash : The New World Order</title>
     <desc lang="en">China-India relations are at a low point, as tensions continue in the disputed border areas. India also raises concerns over ongoing Chinese action in Nepal, Pakistan and Sri Lanka.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='4762437'&amp;EntityType='LinearSchedule'&amp;EntityId='2a65ef29-4b72-4b84-8540-e0cd0f0e61d7'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S2 E2</episode-num>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220513090000 +0000" stop="20220513110000 +0000" channel="CNA">
     <title lang="en">Asia Now</title>
