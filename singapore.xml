@@ -1187,9 +1187,8 @@
     </rating>
   </programme>
   <programme start="20220511173000 +0000" stop="20220511183000 +0000" channel="Ch 5">
-    <title lang="en">Glastonbury</title>
-    <desc lang="en">The highlights show features performances not only from the history-making Pyramid stage headliners - Stormzy, The Killers and The Cure - but from a huge range of artists including Miley Cyrus, Billie Eilish, George Ezra, Vampire Weekend, Sheryl Crow, Liam Gallagher, Kylie, and Christine and the Queens.</desc>
-    <date>2019</date>
+    <title lang="en">The Kelly Clarkson Show</title>
+    <desc lang="en">Winner of Daytime Emmy Awards 2020 and 2021 for Outstanding Entertainment Talk Show Host and Outstanding Entertainment Talk Show. Won Outstanding Lighting Direction and Outstanding Art Direction/Set Decoration/Scenic Design for Daytime Emmy Awards 2020.</desc>
     <category lang="en">General</category>
     <category lang="en">Entertainment</category>
   </programme>
@@ -1569,52 +1568,29 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220512130000 +0000" stop="20220512143000 +0000" channel="Ch 5">
+  <programme start="20220512130000 +0000" stop="20220512150000 +0000" channel="Ch 5">
     <title lang="en">31st SEA Games: Opening Ceremony</title>
-    <desc lang="en">31st SEA Games: Opening Ceremony - EP 1.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4764457'&amp;EntityType='LinearSchedule'&amp;EntityId='eea01d8e-c61b-46a6-8003-a63167d4e123'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <desc lang="en">(Live) The 31st SEA Games, themed "For a stronger South East Asia", will be held from 12 to 23 May in Vietnam. Catch the Opening Ceremony of the Games, held at the My Dinh National Stadium in Hanoi.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20220512143000 +0000" stop="20220512150000 +0000" channel="Ch 5">
+  <programme start="20220512150000 +0000" stop="20220512153000 +0000" channel="Ch 5">
     <title lang="en">News Tonight</title>
     <desc lang="en">The daily evening-news programme featuring highlights and coverage of both local and international news with a local perspective.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4760462'&amp;EntityType='LinearSchedule'&amp;EntityId='47d9ffa8-6e5f-4cc6-832a-5f664f30fb57'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E42</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
-  <programme start="20220512150000 +0000" stop="20220512160000 +0000" channel="Ch 5">
+  <programme start="20220512153000 +0000" stop="20220512163000 +0000" channel="Ch 5">
     <title lang="en">Hawaii Five-O</title>
-    <sub-title lang="en">Nothing More for the Eyes to Search For</sub-title>
     <desc lang="en">On Halloween night, the Five-0 task force investigates a series of pictures of murder scenes that were drawn by a child's mysterious friend who has been a pawn in a series of murders. Meanwhile, Jerry revisits his childhood campsite to search for the remains of a fellow camper who had been murdered and that Jerry had witnessed.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4760473'&amp;EntityType='LinearSchedule'&amp;EntityId='8e785922-c1e5-4d9a-a185-d0095f22d7f9'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S9 E5</episode-num>
-    <rating>
-      <value>PG13 (Violence)</value>
-    </rating>
-  </programme>
-  <programme start="20220512160000 +0000" stop="20220512163000 +0000" channel="Ch 5">
-    <title lang="en">Sunny Side Up</title>
-    <desc lang="en">Anthony forgets to buy a Mother's Day present for Pei Ling and there is barely enough time to get one. Arasi and Alex have a tiff when he goes overboard trying to please Christine. Mandy surprisingly comes to Aravind's rescue when he is faced with school bullies.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4763923'&amp;EntityType='LinearSchedule'&amp;EntityId='4a44e400-4893-4f86-9d4a-1bf671447f9c'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E21</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
+    <category lang="en">General</category>
+    <category lang="en">Drama Series</category>
   </programme>
   <programme start="20220512163000 +0000" stop="20220512170000 +0000" channel="Ch 5">
-    <title lang="en">Planet Action</title>
-    <sub-title lang="en">Extreme Shooting Locations, Disaster Movies, Courching Tiger, Dave Bautista</sub-title>
-    <desc lang="en">Planet Action is a fast-paced 25min evergreen finished series that brings you right to the edge of your seat. From cowboy shoot-outs, to exploding cars, stunt scenes, fights in space, and roaring monsters, Planet Action takes you behind the scenes of the best action movies released.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4764666'&amp;EntityType='LinearSchedule'&amp;EntityId='f5e11f5a-6b80-4a20-86ff-8a4fce93ce15'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S2 E10</episode-num>
-    <rating>
-      <value>PG (Graphic Visuals)</value>
-    </rating>
+    <title lang="en">Sunny Side Up</title>
+    <desc lang="en">Anthony forgets to buy a Mother's Day present for Pei Ling and there is barely enough time to get one. Arasi and Alex have a tiff when he goes overboard trying to please Christine. Mandy surprisingly comes to Aravind's rescue when he is faced with school bullies.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Drama Series</category>
   </programme>
   <programme start="20220512170000 +0000" stop="20220512173000 +0000" channel="Ch 5">
     <title lang="en">Unnatural</title>
@@ -7977,8 +7953,7 @@
     <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220512123000 +0000" stop="20220512133000 +0000" channel="Suria">
-    <title lang="en">CNA-Adapted Documentaries</title>
-    <desc lang="en">For the first time ever, five inmates, incarcerated multiple times and at least once at maximum security, agree to reveal their full identities, for our cameras to capture their lives behind bars. Will the regime in jail finally be enough for them to renounce a life of crime? Will this be their final stint in Changi Prison? What happens when an inmate loses the love and support of their family?</desc>
+    <title lang="en">Inside Maximum Security</title>
     <category lang="en">General</category>
     <category lang="en">News / Current Affairs</category>
   </programme>
@@ -8287,22 +8262,18 @@
     </rating>
   </programme>
   <programme start="20220514120000 +0000" stop="20220514123000 +0000" channel="Suria">
-    <title lang="en">Berita 2022-2023</title>
-    <desc lang="en">Berita 2022-2023.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4765036'&amp;EntityType='LinearSchedule'&amp;EntityId='3adef1db-1242-4204-afe1-0b5bff3acd92'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E514</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <title lang="en">Berita 2022/</title>
+    <desc lang="en">Catch the latest local and international news on Suria.</desc>
+    <date>2022|2023</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220514123000 +0000" stop="20220514133000 +0000" channel="Suria">
-    <title lang="en">Sepahtu Reunion Live 2020</title>
+    <title lang="en">Sepahtu Reunion Live</title>
     <desc lang="en">Sepahtu is back once again for a third season together with Jep, Shuib, Rahim and Pak Ya. Get ready to laugh as they entertain with their most sensational humorous joke in front of live audiences with their mystery guest artiste.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4765046'&amp;EntityType='LinearSchedule'&amp;EntityId='78d667d2-eb8b-42ec-94ac-c10d26494037'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
+    <date>2020</date>
+    <category lang="en">General</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20220514133000 +0000" stop="20220514143000 +0000" channel="Suria">
     <title lang="en">Biar Mereka Cemburu</title>
@@ -8332,13 +8303,11 @@
     </rating>
   </programme>
   <programme start="20220514153000 +0000" stop="20220514160000 +0000" channel="Suria">
-    <title lang="en">Berita 2022-2023</title>
-    <desc lang="en">Berita 2022-2023.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4765068'&amp;EntityType='LinearSchedule'&amp;EntityId='4a865559-9669-42ea-bea9-d1a973cf9dd0'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E514</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <title lang="en">Berita 2022/</title>
+    <desc lang="en">Catch the latest local and international news on Suria.</desc>
+    <date>2022|2023</date>
+    <category lang="en">General</category>
+    <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220514160000 +0000" stop="20220514180000 +0000" channel="Suria">
     <title lang="en">XX Ray 3</title>
@@ -9080,13 +9049,10 @@
     <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220511130000 +0000" stop="20220511133000 +0000" channel="Vasantham">
-    <title lang="en">Vizhiyoram</title>
-    <desc lang="en">Vizhiyoram - EP 1.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4764349'&amp;EntityType='LinearSchedule'&amp;EntityId='4a4d468e-aa92-4eca-abdf-8e0acb66abb5'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <title lang="en">Pattaasu Productions</title>
+    <desc lang="en">A New Year party reunites old friends after many years. As they reminisce their past as stage drama artistes, they are greeted with a pleasant surprise from half a century ago. Old flames reignite. An unexpected gift awaits for all!</desc>
+    <category lang="en">General</category>
+    <category lang="en">Drama Series</category>
   </programme>
   <programme start="20220511133000 +0000" stop="20220511140000 +0000" channel="Vasantham">
     <title lang="en">Ethiroli</title>
@@ -9253,13 +9219,10 @@
     <category lang="en">News / Current Affairs</category>
   </programme>
   <programme start="20220512130000 +0000" stop="20220512133000 +0000" channel="Vasantham">
-    <title lang="en">Vizhiyoram</title>
-    <desc lang="en">Vizhiyoram - EP 2.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4764353'&amp;EntityType='LinearSchedule'&amp;EntityId='50313f48-e054-410b-9d7f-f90d2ea7afcf'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+    <title lang="en">Pattaasu Productions</title>
+    <desc lang="en">A magic lamp awakens a powerful Genie, SaroGenie! What 3 wishes will the 6 friends ask? Will they squander the wishes? What has the Genie got up it's sleeve? An irresponsible son &amp; grandson walk around like ticking bombs.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Drama Series</category>
   </programme>
   <programme start="20220512133000 +0000" stop="20220512140000 +0000" channel="Vasantham">
     <title lang="en">En Ullae</title>
@@ -9735,8 +9698,8 @@
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
   <programme start="20220509113000 +0000" stop="20220509120000 +0000" channel="CNA">
-    <title lang="en">CNA Correspondent</title>
-    <desc lang="en">CNA Correspondent shows you the faces of those weathering - and trying to solve - the climate crisis, from the urban poor in Mumbai to rice farmers in Indonesia and plant-based meat startups in China.</desc>
+    <title lang="en">Talking Point</title>
+    <desc lang="en">It's in some of the most unlikeliest of places in our homes. Discover the shocking truth behind the spread of mould around us and what it is really doing to our health.</desc>
     <category lang="en">General</category>
     <category lang="en">News / Current Affairs</category>
   </programme>
@@ -9778,8 +9741,8 @@
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
   <programme start="20220509153000 +0000" stop="20220509160000 +0000" channel="CNA">
-    <title lang="en">Talking Point</title>
-    <desc lang="en">It's in some of the most unlikeliest of places in our homes. Discover the shocking truth behind the spread of mould around us and what it is really doing to our health.</desc>
+    <title lang="en">CNA Correspondent</title>
+    <desc lang="en">CNA Correspondent shows you the faces of those weathering - and trying to solve - the climate crisis, from the urban poor in Mumbai to rice farmers in Indonesia and plant-based meat startups in China.</desc>
     <category lang="en">General</category>
     <category lang="en">News / Current Affairs</category>
   </programme>
@@ -10661,8 +10624,8 @@
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
   <programme start="20220514033000 +0000" stop="20220514040000 +0000" channel="CNA">
-    <title lang="en">On The Red Dot</title>
-    <desc lang="en">Fancy sliding stones across slippery ice, while sweeping strenuously? National cricketer G K Diviya is swapping her cricket bat for...a broom? A curling broom that is.</desc>
+    <title lang="en">Singapore After Work</title>
+    <desc lang="en">Food technologist Samantha Liew volunteers for Back Alley Barbers to serve migrant workers while award-winning photographer Edwin Koo runs a community project taking portraits of the elderly.</desc>
     <category lang="en">General</category>
     <category lang="en">News / Current Affairs</category>
   </programme>
@@ -10730,8 +10693,8 @@
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
   <programme start="20220514083000 +0000" stop="20220514090000 +0000" channel="CNA">
-    <title lang="en">On The Red Dot</title>
-    <desc lang="en">Fancy sliding stones across slippery ice, while sweeping strenuously? National cricketer G K Diviya is swapping her cricket bat for...a broom? A curling broom that is.</desc>
+    <title lang="en">Singapore After Work</title>
+    <desc lang="en">Food technologist Samantha Liew volunteers for Back Alley Barbers to serve migrant workers while award-winning photographer Edwin Koo runs a community project taking portraits of the elderly.</desc>
     <category lang="en">General</category>
     <category lang="en">News / Current Affairs</category>
   </programme>
