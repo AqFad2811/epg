@@ -4112,12 +4112,13 @@
     </rating>
   </programme>
   <programme start="20220531230000 +0000" stop="20220531233000 +0000" channel="TV2">
-    <title lang="en">Chellup</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Siapa Raime</title>
+    <desc lang="en">Kisah Raime yang mengalami beberapa peristiwa yang menarik setelah dia memakai sebuah topeng ajaib yang dijumpainya.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Animation</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220531233000 +0000" stop="20220601000000 +0000" channel="TV2">
     <title lang="en">Planet Saga</title>
@@ -4129,12 +4130,13 @@
     </rating>
   </programme>
   <programme start="20220601000000 +0000" stop="20220601003000 +0000" channel="TV2">
-    <title lang="en">Sugar Pals</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Buzz</title>
+    <desc lang="en">Sebuah animasi yang memaparkan persahabatan seekor lebah bernama Buzz dan Amin. Mereka sering bersama dan kehadiran Buzz banyak membantu Amin jika menghadapi masalah.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Animation</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220601003000 +0000" stop="20220601010000 +0000" channel="TV2">
     <title lang="en">Matt</title>
@@ -4226,12 +4228,13 @@
     </rating>
   </programme>
   <programme start="20220601070000 +0000" stop="20220601090000 +0000" channel="TV2">
-    <title lang="en">DRAMA on 2</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">KONSERT GAWAI DAYAK 2022</title>
+    <desc lang="en">Saksikan konsert khas sempena perayaan Gawai Dayak yang menampilkan persembahan artis-artis popular tanah air.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (Music)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220601090000 +0000" stop="20220601100000 +0000" channel="TV2">
     <title lang="en">Crash A.k.a Carpisma</title>
@@ -4285,12 +4288,13 @@
     <category lang="en">eAcademic</category>
   </programme>
   <programme start="20220601130000 +0000" stop="20220601150000 +0000" channel="TV2">
-    <title lang="en">DRAMA on 2</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Hajat Buat Lagu</title>
+    <desc lang="en">Mengisahkan tentang Hajat yang bercita-cita untuk menjadi artis. Hajat kemudian mendapat peluang menyertai pertandingan nyayian anjuran sebuah stesen radio yang popular.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Drama</category>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
   </programme>
   <programme start="20220526000000 +0000" stop="20220526010000 +0000" channel="TV3">
     <title lang="en">Ayahanda</title>
@@ -5384,13 +5388,23 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220529223000 +0000" stop="20220529235500 +0000" channel="TV3">
+  <programme start="20220529223000 +0000" stop="20220529225000 +0000" channel="TV3">
+    <title lang="en">Bacaan Yasin Tanyalah Ustaz</title>
+    <desc lang="en">Bacaan surah Yasin.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220529225000 +0000" stop="20220529235500 +0000" channel="TV3">
     <title lang="en">Tanyalah Ustaz</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220529235500 +0000" stop="20220530000000 +0000" channel="TV3">
     <title lang="en">Berita Terkini</title>
@@ -5401,12 +5415,13 @@
     <category lang="en">eAcademic</category>
   </programme>
   <programme start="20220530000000 +0000" stop="20220530010000 +0000" channel="TV3">
-    <title lang="en">Tak Sempurna Mencintaimu</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Ayahanda</title>
+    <desc lang="en">Haji Abdullah sedih mendapat surat layang yang mendesaknya meletakkan semua jawatan iaitu sebagai imam, guru kuliah agama dan jurunikah.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220530010000 +0000" stop="20220530013000 +0000" channel="TV3">
     <title lang="en">Buletin Pagi</title>
@@ -5442,12 +5457,13 @@
     </rating>
   </programme>
   <programme start="20220530030000 +0000" stop="20220530033000 +0000" channel="TV3">
-    <title lang="en">Boboiboy</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Supertots</title>
+    <desc lang="en">Kapal angkasa Supertots mengesan banyak risalah terapung di angkasa lepas mempromosikan tenaga letrik. Menurut Atok ia berkemungkinan besar resalah itu berpunca dari Planet Tar.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220530033000 +0000" stop="20220530033200 +0000" channel="TV3">
     <title lang="en">Berita Terkini</title>
@@ -5457,21 +5473,17 @@
     <category lang="en">Winter Academic</category>
     <category lang="en">eAcademic</category>
   </programme>
-  <programme start="20220530033200 +0000" stop="20220530033400 +0000" channel="TV3">
-    <title lang="en">Maggi Kongsi Resipi Kongsi Rezeki</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220530033400 +0000" stop="20220530040000 +0000" channel="TV3">
-    <title lang="en">Jejak Rasul: Ulama Pewaris Rasul II</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220530033200 +0000" stop="20220530040000 +0000" channel="TV3">
+    <title lang="en">Aroma Tradisi</title>
+    <desc lang="en">Ibu Abam iaitu Sabariah Arshad menunjukkan cara memasak makanan tradisional yang lazat dan sempat bersantai di kolam pancing ikan.</desc>
+    <credits>
+      <actor>Adzriefaiz</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220530040000 +0000" stop="20220530050000 +0000" channel="TV3">
     <title lang="en">Wanita Hari Ini</title>
@@ -5498,37 +5510,26 @@
     <category lang="en">Winter Academic</category>
     <category lang="en">eAcademic</category>
   </programme>
-  <programme start="20220530060000 +0000" stop="20220530060500 +0000" channel="TV3">
-    <title lang="en">Kalamullah</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220530060000 +0000" stop="20220530070000 +0000" channel="TV3">
+    <title lang="en">Bahagia Bukan Bidaan</title>
+    <desc lang="en">Tatkala Hana cuba mendapatkan kehidupannya dan mula berbaik dengan Nik, hidupnya dikusutkan kembali dengan kehadiran Azlan yang mendesak Hana balik ke pangkuannya.</desc>
+    <credits>
+      <actor>Nora Danish Dato' Adi Putra Zamarul</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220530060500 +0000" stop="20220530070000 +0000" channel="TV3">
-    <title lang="en">Mem &amp; Bibik-bibik</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220530070000 +0000" stop="20220530075800 +0000" channel="TV3">
-    <title lang="en">Cari Aku Di Syurga</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220530075800 +0000" stop="20220530080000 +0000" channel="TV3">
-    <title lang="en">Maggi Kongsi Resipi Kongsi Rezeki</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220530070000 +0000" stop="20220530080000 +0000" channel="TV3">
+    <title lang="en">Price of Passion (siyah Beyaz Ask)</title>
+    <desc lang="en">Ferhat terselamat dari dibunuh oleh Ayhan kerana kejujurannya menyampaikan surat yang dihantar oleh Azad tanpa membaca kandungan surat berkenaan. Apakah sebenarnya kandungan isi surat tersebut?</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220530080000 +0000" stop="20220530080200 +0000" channel="TV3">
     <title lang="en">Berita Terkini</title>
@@ -5539,28 +5540,22 @@
     <category lang="en">eAcademic</category>
   </programme>
   <programme start="20220530080200 +0000" stop="20220530090000 +0000" channel="TV3">
-    <title lang="en">Meri Gudiya</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Ami Sirajer Begum</title>
+    <desc lang="en">Lutfunissa tampil untuk menghalang Sauqat daripada membunuh Siraj semasa pertarungan persahabatan pedang. Ghaseti berang kerana Lutfunissa telah menjejaskan rancangannya untuk membunuh Siraj.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220530090000 +0000" stop="20220530092500 +0000" channel="TV3">
-    <title lang="en">Bakugan Battle Planet</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220530092500 +0000" stop="20220530093000 +0000" channel="TV3">
-    <title lang="en">Waktu Berbuka Puasa</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220530090000 +0000" stop="20220530093000 +0000" channel="TV3">
+    <title lang="en">Kamen Rider Zero One</title>
+    <desc lang="en">Aruto dan A.I.M.S. dipanggil ke sebuah sekolah menengah di mana jurulatih bola keranjang Humagear hampir berjaya menyiapkan satu ciptaan berteknologi.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220530093000 +0000" stop="20220530093500 +0000" channel="TV3">
     <title lang="en">Bizworld</title>
@@ -5571,28 +5566,31 @@
     <category lang="en">eAcademic</category>
   </programme>
   <programme start="20220530093500 +0000" stop="20220530100000 +0000" channel="TV3">
-    <title lang="en">The Making of 7 Hari Mencintaiku 3</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">The Making of Bisik-bisik Gelora</title>
+    <desc lang="en">Di sebalik tabir penggambaran drama bersiri 'Bisik-bisik Gelora'.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220530100000 +0000" stop="20220530105800 +0000" channel="TV3">
-    <title lang="en">Republik Gombak</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220530100000 +0000" stop="20220530110000 +0000" channel="TV3">
+    <title lang="en">To Have and to Hold</title>
+    <desc lang="en">Gavin is so devastated when he finds out that everyone else know about Dom having an affair. Feeling betrayed, he refuses to visit the hospital until his mother begs him to take care of his wife again.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220530105800 +0000" stop="20220530120000 +0000" channel="TV3">
-    <title lang="en">7 Hari Mencintaiku 3</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220530110000 +0000" stop="20220530120000 +0000" channel="TV3">
+    <title lang="en">Bisik-bisik Gelora</title>
+    <desc lang="en">Kerenah Nada sering menimbulkan kemarahan Ali sebab Nada kacau bos dia. Arumi didekati Zulkamal di pejabat.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220530120000 +0000" stop="20220530130000 +0000" channel="TV3">
     <title lang="en">Buletin Utama</title>
@@ -5602,61 +5600,50 @@
     <category lang="en">Winter Academic</category>
     <category lang="en">eAcademic</category>
   </programme>
-  <programme start="20220530130000 +0000" stop="20220530140000 +0000" channel="TV3">
-    <title lang="en">Shopee Tawaran TV Raya</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220530130000 +0000" stop="20220530130200 +0000" channel="TV3">
+    <title lang="en">Mbuzz</title>
+    <desc lang="en">MBUZZ is a 2-minute capsule program that features the latest entertainment and gossip news in Malaysia. MBUZZ consists of additional input to support Melodi that airs on Sundays.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220530130200 +0000" stop="20220530140000 +0000" channel="TV3">
+    <title lang="en">Majalah 3</title>
+    <desc lang="en">MAJALAH 3 membawakan keunikan kisah Malaysia dari aspek kemanusian, makanan, teknologi, sukan, alam sekitar dan jatuh bangunnya sebuah negara bernama Malaysia.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220530140000 +0000" stop="20220530150000 +0000" channel="TV3">
-    <title lang="en">Khilaf Asmara</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Kerana Aku Isteri Bidaan</title>
+    <desc lang="en">Akhirnya Farel mengalah dan membenarkan Raina bekerja dengan syarat ikut apa saja kerja yang diberikannya. Raina akur. Walaupun baru mula bekerja, Solleha terpaksa meminta cuti kerana ayahnya tidak sihat.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220530150000 +0000" stop="20220530155800 +0000" channel="TV3">
+  <programme start="20220530150000 +0000" stop="20220530163000 +0000" channel="TV3">
     <title lang="en">Mem &amp; Bibik-bibik</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <desc lang="en">Puan Tini marahkan Bibik Ram kerana menyebabkan Long Kucing terjatuh dari pokok semasa cuba mengambil waunya yang tersangkut.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220530155800 +0000" stop="20220530163000 +0000" channel="TV3">
-    <title lang="en">Maggi Kongsi Resipi Kongsi Rezeki</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220530163000 +0000" stop="20220530163500 +0000" channel="TV3">
-    <title lang="en">Waktu Imsak</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220530163500 +0000" stop="20220530164000 +0000" channel="TV3">
-    <title lang="en">Kalamullah</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220530164000 +0000" stop="20220530173000 +0000" channel="TV3">
-    <title lang="en">Khilaf Asmara</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220530163000 +0000" stop="20220530173000 +0000" channel="TV3">
+    <title lang="en">Kerana Aku Isteri Bidaan</title>
+    <desc lang="en">Akhirnya Farel mengalah dan membenarkan Raina bekerja dengan syarat ikut apa saja kerja yang diberikannya. Raina akur. Walaupun baru mula bekerja, Solleha terpaksa meminta cuti kerana ayahnya tidak sihat.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220530173000 +0000" stop="20220530183000 +0000" channel="TV3">
     <title lang="en">Hot Fm@tv3</title>
@@ -5667,36 +5654,40 @@
     <category lang="en">eAcademic</category>
   </programme>
   <programme start="20220530183000 +0000" stop="20220530190000 +0000" channel="TV3">
-    <title lang="en">Wow Shop</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Kapsul Surah</title>
+    <desc lang="en">Bacaan surah-surah Al-Quran serta terjemahannya.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220530190000 +0000" stop="20220530203000 +0000" channel="TV3">
+  <programme start="20220530190000 +0000" stop="20220530192000 +0000" channel="TV3">
+    <title lang="en">Bacaan Yasin Tanyalah Ustaz</title>
+    <desc lang="en">Bacaan surah Yasin.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220530192000 +0000" stop="20220530203000 +0000" channel="TV3">
     <title lang="en">Tanyalah Ustaz</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220530203000 +0000" stop="20220530203500 +0000" channel="TV3">
-    <title lang="en">Waktu Imsak</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220530203500 +0000" stop="20220530213000 +0000" channel="TV3">
-    <title lang="en">7 Hari Mencintaiku 3</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220530203000 +0000" stop="20220530213000 +0000" channel="TV3">
+    <title lang="en">Bisik-bisik Gelora</title>
+    <desc lang="en">Kerenah Nada sering menimbulkan kemarahan Ali sebab Nada kacau bos dia. Arumi didekati Zulkamal di pejabat.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220530213000 +0000" stop="20220530223000 +0000" channel="TV3">
     <title lang="en">Wow Shop</title>
@@ -5707,13 +5698,23 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220530223000 +0000" stop="20220530235500 +0000" channel="TV3">
+  <programme start="20220530223000 +0000" stop="20220530225000 +0000" channel="TV3">
+    <title lang="en">Bacaan Yasin Tanyalah Ustaz</title>
+    <desc lang="en">Bacaan surah Yasin.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220530225000 +0000" stop="20220530235500 +0000" channel="TV3">
     <title lang="en">Tanyalah Ustaz</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220530235500 +0000" stop="20220531000000 +0000" channel="TV3">
     <title lang="en">Berita Terkini</title>
@@ -5724,12 +5725,13 @@
     <category lang="en">eAcademic</category>
   </programme>
   <programme start="20220531000000 +0000" stop="20220531010000 +0000" channel="TV3">
-    <title lang="en">Tak Sempurna Mencintaimu</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Ayahanda</title>
+    <desc lang="en">Mesyuarat AJK masjid telah membuat satu keputusan terutama AJK yang muda-muda sebulat suara meminta Haji Abdullah berundur daripada memberi kuliah agama.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220531010000 +0000" stop="20220531013000 +0000" channel="TV3">
     <title lang="en">Buletin Pagi</title>
@@ -5765,12 +5767,13 @@
     </rating>
   </programme>
   <programme start="20220531030000 +0000" stop="20220531033000 +0000" channel="TV3">
-    <title lang="en">Boboiboy</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Supertots</title>
+    <desc lang="en">Sasha membawa masuk ke kapal seekor haiwan peliharaan bernama P'ai. Tetapi P'Tai mula membiak dan tidak lama kemudian, seluruh kapal dipenuhi dengan P'Tai. P'Tai memakan bahagian logam kapal.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220531033000 +0000" stop="20220531033200 +0000" channel="TV3">
     <title lang="en">Berita Terkini</title>
@@ -5780,21 +5783,14 @@
     <category lang="en">Winter Academic</category>
     <category lang="en">eAcademic</category>
   </programme>
-  <programme start="20220531033200 +0000" stop="20220531033400 +0000" channel="TV3">
-    <title lang="en">Maggi Kongsi Resipi Kongsi Rezeki</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220531033400 +0000" stop="20220531040000 +0000" channel="TV3">
-    <title lang="en">Jejak Rasul: Ulama Pewaris Rasul II</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220531033200 +0000" stop="20220531040000 +0000" channel="TV3">
+    <title lang="en">5 Rencah 5 Rasa</title>
+    <desc lang="en">5 Rencah 5 Rasa menampilkan Chef Sherson Lian memberikan idea dalam menyediakan beberapa jenis resipi menarik mengikut tema serta tip-tip mudah buat penonton di rumah.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220531040000 +0000" stop="20220531050000 +0000" channel="TV3">
     <title lang="en">Wanita Hari Ini</title>
@@ -5821,37 +5817,26 @@
     <category lang="en">Winter Academic</category>
     <category lang="en">eAcademic</category>
   </programme>
-  <programme start="20220531060000 +0000" stop="20220531060500 +0000" channel="TV3">
-    <title lang="en">Kalamullah</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220531060000 +0000" stop="20220531070000 +0000" channel="TV3">
+    <title lang="en">Bahagia Bukan Bidaan</title>
+    <desc lang="en">Kekecohan di rumah Pak Su akhirnya dapat dihentikan. Talha menjelaskan pada Azlan tentang Hana yang mengalami kemurungan serius akibat tidak dapat bertemu anak-anaknya. Ekoran itu, apakah tindakan Nik?</desc>
+    <credits>
+      <actor>Nora Danish Dato' Adi Putra Zamarul</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220531060500 +0000" stop="20220531070000 +0000" channel="TV3">
-    <title lang="en">Mem &amp; Bibik-bibik</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220531070000 +0000" stop="20220531075800 +0000" channel="TV3">
-    <title lang="en">Cari Aku Di Syurga</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220531075800 +0000" stop="20220531080000 +0000" channel="TV3">
-    <title lang="en">Maggi Kongsi Resipi Kongsi Rezeki</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220531070000 +0000" stop="20220531080000 +0000" channel="TV3">
+    <title lang="en">Price of Passion (siyah Beyaz Ask)</title>
+    <desc lang="en">Asli, a surgeon who is dedicated to her work. While Ferhat is a very dark hearted, merciless mafia leader. Once, Asli had to go to treat a patient on another campus.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220531080000 +0000" stop="20220531080200 +0000" channel="TV3">
     <title lang="en">Berita Terkini</title>
@@ -5862,28 +5847,22 @@
     <category lang="en">eAcademic</category>
   </programme>
   <programme start="20220531080200 +0000" stop="20220531090000 +0000" channel="TV3">
-    <title lang="en">Meri Gudiya</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Ami Sirajer Begum</title>
+    <desc lang="en">Jainuddin, suami Amina yang juga merupakan ayah kandung Siraj, dijangka akan tiba di istana dari Patna tidak lama lagi. Permaisuri Shafunnisa telah mengaturkan sebuah kenduri diraja untuknya.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220531090000 +0000" stop="20220531092500 +0000" channel="TV3">
-    <title lang="en">Bakugan Battle Planet</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220531092500 +0000" stop="20220531093000 +0000" channel="TV3">
-    <title lang="en">Waktu Berbuka Puasa</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220531090000 +0000" stop="20220531093000 +0000" channel="TV3">
+    <title lang="en">Kamen Rider Zero One</title>
+    <desc lang="en">Aruto mengunjungi hospital yang dikendali sepenuhnya oleh Humagear. Walaupun hancur, Assassin Humagear kembali dengan arahan untuk menyerang Yua, membiarkan Jin dan Horobi menyerang ibu pejabat A.I.M.S.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220531093000 +0000" stop="20220531093500 +0000" channel="TV3">
     <title lang="en">Bizworld</title>
@@ -5894,28 +5873,34 @@
     <category lang="en">eAcademic</category>
   </programme>
   <programme start="20220531093500 +0000" stop="20220531100000 +0000" channel="TV3">
-    <title lang="en">Isteri-isteri Ayah</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Budak Ijat</title>
+    <desc lang="en">Berita Razak ditangkap tersebar ke merata kampung disebabkan mulut Joyah. Fatimah akhirnya tahu status pekerjaan suaminya selama ini. Tok Imam baru dapat tahu ramai tertidur dalam ceramahnya.</desc>
+    <credits>
+      <actor>Adam Mika Noryati Taib Kazar Saisi</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220531100000 +0000" stop="20220531105800 +0000" channel="TV3">
-    <title lang="en">Republik Gombak</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220531100000 +0000" stop="20220531110000 +0000" channel="TV3">
+    <title lang="en">To Have and to Hold</title>
+    <desc lang="en">Dom's condition is getting much worse than the doctor suggests for a DNR (do not resuscitate).</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220531105800 +0000" stop="20220531120000 +0000" channel="TV3">
-    <title lang="en">7 Hari Mencintaiku 3</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220531110000 +0000" stop="20220531120000 +0000" channel="TV3">
+    <title lang="en">Bisik-bisik Gelora</title>
+    <desc lang="en">Arumi tak sangka bertemu dengan Fakhri. Di depan rakan-rakan sepejabat, Fakhri katakan yang dia rindukan Arumi.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220531120000 +0000" stop="20220531130000 +0000" channel="TV3">
     <title lang="en">Buletin Utama</title>
@@ -5942,52 +5927,31 @@
     <category lang="en">eAcademic</category>
   </programme>
   <programme start="20220531140000 +0000" stop="20220531150000 +0000" channel="TV3">
-    <title lang="en">Khilaf Asmara</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Kerana Aku Isteri Bidaan</title>
+    <desc lang="en">Farel mula merasakan sesuatu yang kuat antaranya dan Raina namun sukar dijelaskan. Ini kerana, kalau tidak bergaduh sehari dengan Rain, hatinya takkan tenteram.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220531150000 +0000" stop="20220531155800 +0000" channel="TV3">
-    <title lang="en">Mem &amp; Bibik-bibik</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220531150000 +0000" stop="20220531163000 +0000" channel="TV3">
+    <title lang="en">The Penthouse 2</title>
+    <desc lang="en">Seok Kyung menemui klip video Seo Jin yang tidak menyelamatkan ayahnya melalui telefon bimbit Eun Byeol.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220531155800 +0000" stop="20220531163000 +0000" channel="TV3">
-    <title lang="en">Maggi Kongsi Resipi Kongsi Rezeki</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220531163000 +0000" stop="20220531163500 +0000" channel="TV3">
-    <title lang="en">Waktu Imsak</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220531163500 +0000" stop="20220531164000 +0000" channel="TV3">
-    <title lang="en">Kalamullah</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220531164000 +0000" stop="20220531173000 +0000" channel="TV3">
-    <title lang="en">Khilaf Asmara</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220531163000 +0000" stop="20220531173000 +0000" channel="TV3">
+    <title lang="en">Kerana Aku Isteri Bidaan</title>
+    <desc lang="en">Farel mula merasakan sesuatu yang kuat antaranya dan Raina namun sukar dijelaskan. Kalau tidak bergaduh sehari dengan Rain, hatinya takkan tenteram.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220531173000 +0000" stop="20220531183000 +0000" channel="TV3">
     <title lang="en">Hot Fm@tv3</title>
@@ -5998,36 +5962,43 @@
     <category lang="en">eAcademic</category>
   </programme>
   <programme start="20220531183000 +0000" stop="20220531190000 +0000" channel="TV3">
-    <title lang="en">Wow Shop</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Kapsul Surah</title>
+    <desc lang="en">Bacaan AYAT KURSI serta terjemahannya.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220531190000 +0000" stop="20220531203000 +0000" channel="TV3">
+  <programme start="20220531190000 +0000" stop="20220531192000 +0000" channel="TV3">
+    <title lang="en">Bacaan Yasin Tanyalah Ustaz</title>
+    <desc lang="en">Bacaan surah Yasin.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220531192000 +0000" stop="20220531203000 +0000" channel="TV3">
     <title lang="en">Tanyalah Ustaz</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220531203000 +0000" stop="20220531203500 +0000" channel="TV3">
-    <title lang="en">Waktu Imsak</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220531203500 +0000" stop="20220531213000 +0000" channel="TV3">
-    <title lang="en">7 Hari Mencintaiku 3</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220531203000 +0000" stop="20220531213000 +0000" channel="TV3">
+    <title lang="en">Bisik-bisik Gelora</title>
+    <desc lang="en">Arumi tak sangka bertemu dengan Fakhri. Di depan rakan-rakan sepejabat, Fakhri katakan yang dia rindukan Arumi.</desc>
+    <credits>
+      <actor>Redza Rosli Malaysian Farza Naqura</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220531213000 +0000" stop="20220531223000 +0000" channel="TV3">
     <title lang="en">Wow Shop</title>
@@ -6038,13 +6009,23 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220531223000 +0000" stop="20220531235500 +0000" channel="TV3">
+  <programme start="20220531223000 +0000" stop="20220531225000 +0000" channel="TV3">
+    <title lang="en">Bacaan Yasin Tanyalah Ustaz</title>
+    <desc lang="en">Bacaan surah Yasin.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220531225000 +0000" stop="20220531235500 +0000" channel="TV3">
     <title lang="en">Tanyalah Ustaz</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220531235500 +0000" stop="20220601000000 +0000" channel="TV3">
     <title lang="en">Berita Terkini</title>
@@ -6055,12 +6036,13 @@
     <category lang="en">eAcademic</category>
   </programme>
   <programme start="20220601000000 +0000" stop="20220601010000 +0000" channel="TV3">
-    <title lang="en">Tak Sempurna Mencintaimu</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Ayahanda</title>
+    <desc lang="en">Haji Abdullah terpisah tempat tidur dengan Noriah apabila bilik mereka terpaksa ditukar dinding kerana serangan anai-anai.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220601010000 +0000" stop="20220601013000 +0000" channel="TV3">
     <title lang="en">Buletin Pagi</title>
@@ -6096,12 +6078,13 @@
     </rating>
   </programme>
   <programme start="20220601030000 +0000" stop="20220601033000 +0000" channel="TV3">
-    <title lang="en">Boboiboy</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Supersquad</title>
+    <desc lang="en">SuperSquad diketuai Kapten Danny dan dianggotai Elly, Sasha, Blinq dan Alan harus bekerjasama mempertahankan KL City dari serangan pelbagai makhluk dan raksasa yang muncul dari portal.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220601033000 +0000" stop="20220601033200 +0000" channel="TV3">
     <title lang="en">Berita Terkini</title>
@@ -6111,21 +6094,17 @@
     <category lang="en">Winter Academic</category>
     <category lang="en">eAcademic</category>
   </programme>
-  <programme start="20220601033200 +0000" stop="20220601033400 +0000" channel="TV3">
-    <title lang="en">Maggi Kongsi Resipi Kongsi Rezeki</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220601033400 +0000" stop="20220601040000 +0000" channel="TV3">
-    <title lang="en">Jejak Rasul: Ulama Pewaris Rasul II</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220601033200 +0000" stop="20220601040000 +0000" channel="TV3">
+    <title lang="en">Dapur Panas</title>
+    <desc lang="en">Chef Naem bersama Kilafairy ke Sepang International Circuit, Sepang di mana beliau menyediakan 3 jenis hidangan enak dan menyaksikan perlumbaan motorsport.</desc>
+    <credits>
+      <actor>Muhammad Naim Bin Ramli Editor Mohd</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220601040000 +0000" stop="20220601050000 +0000" channel="TV3">
     <title lang="en">Wanita Hari Ini</title>
@@ -6152,37 +6131,29 @@
     <category lang="en">Winter Academic</category>
     <category lang="en">eAcademic</category>
   </programme>
-  <programme start="20220601060000 +0000" stop="20220601060500 +0000" channel="TV3">
-    <title lang="en">Kalamullah</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220601060000 +0000" stop="20220601070000 +0000" channel="TV3">
+    <title lang="en">Bahagia Bukan Bidaan</title>
+    <desc lang="en">Hana dan Nik Selamat bertunang dan kedua-dua anak Hana dapat menerima Nik. Hana masih perlukan masa untuk jatuh cinta pada Nik.</desc>
+    <credits>
+      <actor>Nora Danish Dato' Adi Putra Zamarul</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220601060500 +0000" stop="20220601070000 +0000" channel="TV3">
-    <title lang="en">Mem &amp; Bibik-bibik</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220601070000 +0000" stop="20220601075800 +0000" channel="TV3">
-    <title lang="en">Cari Aku Di Syurga</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220601075800 +0000" stop="20220601080000 +0000" channel="TV3">
-    <title lang="en">Maggi Kongsi Resipi Kongsi Rezeki</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220601070000 +0000" stop="20220601080000 +0000" channel="TV3">
+    <title lang="en">Mariam Alisa</title>
+    <desc lang="en">Imbasan kembali kejadian setahun yang lampau. Arwah Fareeq membawa Mariam berkenalan dengan Hayati tetapi telah dihamun dan dihalau. Perkara yang sama berlaku apabila Farhan membawa Mariam bertemu Hayati.</desc>
+    <credits>
+      <actor>Redza Rosli Elvina Harris Mohd Roy</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220601080000 +0000" stop="20220601080200 +0000" channel="TV3">
     <title lang="en">Berita Terkini</title>
@@ -6193,28 +6164,22 @@
     <category lang="en">eAcademic</category>
   </programme>
   <programme start="20220601080200 +0000" stop="20220601090000 +0000" channel="TV3">
-    <title lang="en">Meri Gudiya</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Ami Sirajer Begum</title>
+    <desc lang="en">Amina dan Jainuddin cuba menjodohkan Umdad, anak perempuan Iruz Khan, dengan Siraj untuk menjadi isteri keduanya.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220601090000 +0000" stop="20220601092500 +0000" channel="TV3">
-    <title lang="en">Bakugan Battle Planet</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220601092500 +0000" stop="20220601093000 +0000" channel="TV3">
-    <title lang="en">Waktu Berbuka Puasa</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220601090000 +0000" stop="20220601093000 +0000" channel="TV3">
+    <title lang="en">Ejen Ali (ss 1)</title>
+    <desc lang="en">Ali terjumpa seekor kucing yang comot dan mengingatkannya kepada kucing kesayangannya dahulu iaitu Labu.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220601093000 +0000" stop="20220601093500 +0000" channel="TV3">
     <title lang="en">Bizworld</title>
@@ -6225,28 +6190,34 @@
     <category lang="en">eAcademic</category>
   </programme>
   <programme start="20220601093500 +0000" stop="20220601100000 +0000" channel="TV3">
-    <title lang="en">Isteri-isteri Ayah</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Budak Ijat</title>
+    <desc lang="en">Tok Mat pasang kawat duri sekeliling rumah, pacakkan papan tanda melarang kanak-kanak masuk ke kawasan rumahnya. Manakala Tok Imam masih merajuk minta ustaz kampung sebelah menggantinya.</desc>
+    <credits>
+      <actor>Adam Mika Noryati Taib Kazar Saisi</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220601100000 +0000" stop="20220601105800 +0000" channel="TV3">
-    <title lang="en">Republik Gombak</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220601100000 +0000" stop="20220601110000 +0000" channel="TV3">
+    <title lang="en">To Have and to Hold</title>
+    <desc lang="en">Gavin's and Erica's friendship blossoms after he apologizes to her, and offers her to be a pastry supplier to his restaurant.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220601105800 +0000" stop="20220601120000 +0000" channel="TV3">
-    <title lang="en">7 Hari Mencintaiku 3</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220601110000 +0000" stop="20220601120000 +0000" channel="TV3">
+    <title lang="en">Bisik-bisik Gelora</title>
+    <desc lang="en">Arumi datang ke Kafe De-Ombak untuk mencari Jad namun Jad tiada. Fakhri mahu menjalin hubungan yang terputus dahulu.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220601120000 +0000" stop="20220601130000 +0000" channel="TV3">
     <title lang="en">Buletin Utama</title>
@@ -6265,20 +6236,22 @@
     <category lang="en">eAcademic</category>
   </programme>
   <programme start="20220601130200 +0000" stop="20220601140000 +0000" channel="TV3">
-    <title lang="en">Do You Love Me, Captain?</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Melur Untuk Firdaus</title>
+    <desc lang="en">Suasana di masjid kecoh pengantin lelaki lari. Melur cuba bangun tapi ditarik ibunya suruh bertenang.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220601140000 +0000" stop="20220601150000 +0000" channel="TV3">
-    <title lang="en">Khilaf Asmara</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Kerana Aku Isteri Bidaan</title>
+    <desc lang="en">Raina bertembung dengan Emad di pejabat setelah Emad kembali daripada kerja luarnya.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220601150000 +0000" stop="20220601155800 +0000" channel="TV3">
     <title lang="en">Sembang Sahur</title>
@@ -8708,12 +8681,13 @@
     <category lang="en">eAcademic</category>
   </programme>
   <programme start="20220601050000 +0000" stop="20220601060000 +0000" channel="8TV">
-    <title lang="en">Al Cappucino</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">The Witness</title>
+    <desc lang="en">Liji forced Haofan to drink in order to evoke his lost memory, and Songying was furious when he learned about it.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220601060000 +0000" stop="20220601070000 +0000" channel="8TV">
     <title lang="en">Living Delight</title>
@@ -8733,12 +8707,13 @@
     </rating>
   </programme>
   <programme start="20220601073000 +0000" stop="20220601092800 +0000" channel="8TV">
-    <title lang="en">Born Into Loving Hands</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Great Times</title>
+    <desc lang="en">Ayah Jia Hui dan dua anak lelakinya tersentuh apabila Xing Mei membantu membaiki baju lama mereka. Ah Fei yang merupakan bekas isteri Ah Miaw, pulang ke kampung dari Taipei. Ah Miaw ialah penjaga kuil.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220601092800 +0000" stop="20220601093000 +0000" channel="8TV">
     <title lang="en">Living Delight X Wowshop Express</title>
@@ -8774,20 +8749,22 @@
     <category lang="en">eAcademic</category>
   </programme>
   <programme start="20220601110000 +0000" stop="20220601115800 +0000" channel="8TV">
-    <title lang="en">Sinister Beings</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Final Destiny</title>
+    <desc lang="en">At yamen, Yu-chung interrogates the suspect in an open trial. While he is about to ascertain every piece of evidence, the case abruptly hits a significant turning point.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220601115800 +0000" stop="20220601120000 +0000" channel="8TV">
-    <title lang="en">8 E-News Highlights</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Journey to Homeland Capsule</title>
+    <desc lang="en">Walk through each kampung and see different scenery. Jack embarked on this trip to kampung, from the busy city into the life of villge's people, from South Malaysia to North Malaysia.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220601120000 +0000" stop="20220601130000 +0000" channel="8TV">
     <title lang="en">Mandarin News</title>
@@ -8798,12 +8775,13 @@
     <category lang="en">eAcademic</category>
   </programme>
   <programme start="20220601130000 +0000" stop="20220601140000 +0000" channel="8TV">
-    <title lang="en">The Long Ballad</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Novoland: Pearl Eclipse</title>
+    <desc lang="en">During the Zheng Dynasty, efforts to obtain the rare Naga pearl causes Ye Haishi, a girl from a fishing village, to lose her father.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220526000000 +0000" stop="20220526003000 +0000" channel="TV9">
     <title lang="en">Tanyalah Ustaz</title>
@@ -9831,13 +9809,41 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220529223000 +0000" stop="20220530003000 +0000" channel="TV9">
+  <programme start="20220529223000 +0000" stop="20220529225000 +0000" channel="TV9">
+    <title lang="en">Bacaan Yasin Tanyalah Ustaz</title>
+    <desc lang="en">Bacaan surah Yasin.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220529225000 +0000" stop="20220529235500 +0000" channel="TV9">
     <title lang="en">Tanyalah Ustaz</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220529235500 +0000" stop="20220530000000 +0000" channel="TV9">
+    <title lang="en">Berita Terkini</title>
+    <desc lang="en">Laporan terkini berita tempatan dan antarabangsa termasuk berita ekonomi dan sukan.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220530000000 +0000" stop="20220530003000 +0000" channel="TV9">
+    <title lang="en">Tanyalah Ustaz</title>
+    <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220530003000 +0000" stop="20220530033000 +0000" channel="TV9">
     <title lang="en">Wow Shop</title>
@@ -9866,12 +9872,13 @@
     </rating>
   </programme>
   <programme start="20220530053000 +0000" stop="20220530060000 +0000" channel="TV9">
-    <title lang="en">Senario Ikan Di Laut, Asam Di Darat</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Senario: Misteri Bamboo</title>
+    <desc lang="en">Kassim dan Salih muncul di kampung itu menyamar jadi waris tentera-tentera Inggeris yang pernah berkhidmat di situ pada zaman Jepun.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220530060000 +0000" stop="20220530080000 +0000" channel="TV9">
     <title lang="en">Wow Shop</title>
@@ -9899,21 +9906,14 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220530090000 +0000" stop="20220530090500 +0000" channel="TV9">
-    <title lang="en">Waktu Berbuka Puasa</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220530090500 +0000" stop="20220530093000 +0000" channel="TV9">
+  <programme start="20220530090000 +0000" stop="20220530093000 +0000" channel="TV9">
     <title lang="en">Cingkus Blues</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <desc lang="en">Cing dan Kus sibuk membersihkan rumah sempena lawatan ibu Cing. // Cing dan Kus mencari pelbagai cara untuk mendapatkan Vanita, van mereka, melepasi kawalan keselamatan ketika mereka membawanya ke menara.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220530093000 +0000" stop="20220530100000 +0000" channel="TV9">
     <title lang="en">Bima Satria Garuda - Live Action</title>
@@ -9940,12 +9940,13 @@
     <category lang="en">eAcademic</category>
   </programme>
   <programme start="20220530103700 +0000" stop="20220530110000 +0000" channel="TV9">
-    <title lang="en">Ejen Ali (ss 2)</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Ejen Ali (ss 1)</title>
+    <desc lang="en">Kisah bermula setelah Dos meletakkan Iris yang dicuri daripada MATA di sebuah gerai Nasi Lemak dan Ali tidak sengaja mengambilnya.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220530110000 +0000" stop="20220530113000 +0000" channel="TV9">
     <title lang="en">Buletin TV9</title>
@@ -9963,77 +9964,98 @@
     <category lang="en">Winter Academic</category>
     <category lang="en">eAcademic</category>
   </programme>
-  <programme start="20220530123000 +0000" stop="20220530133000 +0000" channel="TV9">
-    <title lang="en">30 Hari Sebelum Raya</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220530133000 +0000" stop="20220530143000 +0000" channel="TV9">
-    <title lang="en">Sembang Viral Mega</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220530123000 +0000" stop="20220530143000 +0000" channel="TV9">
+    <title lang="en">Mengharap Sebuah Keredhaan</title>
+    <desc lang="en">Syima, anak kepada Talib dan isteri kepada Amir. Setelah kematian neneknya, Syima kembali tinggal bersama ayahnya, seorang penagih dadah.</desc>
+    <credits>
+      <actor>Namron Nad Zainal Aeril Zafril Mohd</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220530143000 +0000" stop="20220530153000 +0000" channel="TV9">
-    <title lang="en">Runi &amp; Solah</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Jiwa Wanita</title>
+    <desc lang="en">Hajah Noriah mempunyai 4 orang anak, 3 daripada perempuan dan seorang sahaja lelaki. Imran satu-satunya anak lelaki.</desc>
+    <credits>
+      <actor>Syarizad Binti Hj Ibrahim (sherry I</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220530153000 +0000" stop="20220530163500 +0000" channel="TV9">
-    <title lang="en">You Saka...pergi Jauh-jauh</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220530153000 +0000" stop="20220530163000 +0000" channel="TV9">
+    <title lang="en">Aduan Jiwa</title>
+    <desc lang="en">Pengakuan remaja yang ketagih kepada pornografi seawal usia 8 tahun. Mengakui obses kepada bahan-bahan lucah sehingga mampu menghafal dan meneroka pelbagai informasi yang berkait rapat dengan dunia porno.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220530163500 +0000" stop="20220530170000 +0000" channel="TV9">
-    <title lang="en">Doa Ku Mohon</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220530163000 +0000" stop="20220530170000 +0000" channel="TV9">
+    <title lang="en">Tauke Jamu</title>
+    <desc lang="en">Di rumah Opah, ada Arman dan saudara yang lain sedang marah-marah sebab Opah jual tanah untuk bagi 300 ribu pada Dazril.</desc>
+    <credits>
+      <actor>Saharul Ridzwan Noreen Ashikin Bint</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220530170000 +0000" stop="20220530180000 +0000" channel="TV9">
-    <title lang="en">30 Hari Sebelum Raya</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Ada Apa Dengan Saka</title>
+    <desc lang="en">Sejak mengetahui Ain boleh nampak hantu, Madi mula berbaik-baik dengan Aina dan mempergunakan Aina untuk blognya. Aina kecewa dia tak berjaya dapat kerja.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220530180000 +0000" stop="20220530203000 +0000" channel="TV9">
-    <title lang="en">Solat Tarawih</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220530180000 +0000" stop="20220530190000 +0000" channel="TV9">
+    <title lang="en">Misteri Mona</title>
+    <desc lang="en">Mona menyatakan kepada Nadeem dia masih di situ kerana mahu menjaga adiknya kerana tahu Anom begitu memerlukannya.</desc>
+    <credits>
+      <actor>Janna Nick Redza Rosli Elisya Sandh</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220530203000 +0000" stop="20220530203500 +0000" channel="TV9">
-    <title lang="en">Waktu Imsak</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220530190000 +0000" stop="20220530193000 +0000" channel="TV9">
+    <title lang="en">Senario: Misteri Bamboo</title>
+    <desc lang="en">Kassim dan Salih muncul di kampung itu menyamar jadi waris tentera-tentera Inggeris yang pernah berkhidmat di situ pada zaman Jepun.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220530203500 +0000" stop="20220530213000 +0000" channel="TV9">
+  <programme start="20220530193000 +0000" stop="20220530203000 +0000" channel="TV9">
+    <title lang="en">Buletin FM</title>
+    <desc lang="en">Buletin FM plays music only with no live or pre recorded announcer. Songs selected are of pop, ballad and rock genres from the 70's till now.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220530203000 +0000" stop="20220530213000 +0000" channel="TV9">
     <title lang="en">Ikatan Cinta</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <desc lang="en">Al berasa takut jika dia terpaksa kehilangan Rena sekali lagi. Papa Surya mempunyai perasaan yang tidak baik berlaku kepada Andy. Andin sangat sedih dan Hancur hati kerana terpaksa berpisah dengan Rena.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220530213000 +0000" stop="20220530220000 +0000" channel="TV9">
     <title lang="en">Jejak Rasul: Ulama Pewaris Rasul</title>
@@ -10052,13 +10074,41 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220530223000 +0000" stop="20220531003000 +0000" channel="TV9">
+  <programme start="20220530223000 +0000" stop="20220530225000 +0000" channel="TV9">
+    <title lang="en">Bacaan Yasin Tanyalah Ustaz</title>
+    <desc lang="en">Bacaan surah Yasin.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220530225000 +0000" stop="20220530235500 +0000" channel="TV9">
     <title lang="en">Tanyalah Ustaz</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220530235500 +0000" stop="20220531000000 +0000" channel="TV9">
+    <title lang="en">Berita Terkini</title>
+    <desc lang="en">Laporan terkini berita tempatan dan antarabangsa termasuk berita ekonomi dan sukan.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220531000000 +0000" stop="20220531003000 +0000" channel="TV9">
+    <title lang="en">Tanyalah Ustaz</title>
+    <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220531003000 +0000" stop="20220531033000 +0000" channel="TV9">
     <title lang="en">Wow Shop</title>
@@ -10087,12 +10137,13 @@
     </rating>
   </programme>
   <programme start="20220531053000 +0000" stop="20220531060000 +0000" channel="TV9">
-    <title lang="en">Senario Ikan Di Laut, Asam Di Darat</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Senario: Misteri Bamboo</title>
+    <desc lang="en">Pian dan Saat menyatakan kepada Kassim dan Wak Dol bahawa mereka berkebolehan untuk menghalau hantu-hantu yang sedang mengganggu orang-orang kampung.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220531060000 +0000" stop="20220531080000 +0000" channel="TV9">
     <title lang="en">Wow Shop</title>
@@ -10120,21 +10171,14 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220531090000 +0000" stop="20220531090500 +0000" channel="TV9">
-    <title lang="en">Waktu Berbuka Puasa</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220531090500 +0000" stop="20220531093000 +0000" channel="TV9">
+  <programme start="20220531090000 +0000" stop="20220531093000 +0000" channel="TV9">
     <title lang="en">Cingkus Blues</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <desc lang="en">BLUE FEET / NOODLES. Kaki Kus menjadi biru terkena cat dan Cing mempermainkan keadaan demi kepentingan sendiri. // Cing dan Kus bersaing dalam pertandingan membuat mi untuk merebut gelaran Raja Mi.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220531093000 +0000" stop="20220531100000 +0000" channel="TV9">
     <title lang="en">Bima Satria Garuda - Live Action</title>
@@ -10161,12 +10205,13 @@
     <category lang="en">eAcademic</category>
   </programme>
   <programme start="20220531103700 +0000" stop="20220531110000 +0000" channel="TV9">
-    <title lang="en">Ejen Ali (ss 2)</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Ejen Ali (ss 1)</title>
+    <desc lang="en">Misi pertama adalah untuk mendapatkan maklumat tentang penahanan Dr. Thong yang digulingkan saintisnya, Aaron.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220531110000 +0000" stop="20220531113000 +0000" channel="TV9">
     <title lang="en">Buletin TV9</title>
@@ -10184,61 +10229,71 @@
     <category lang="en">Winter Academic</category>
     <category lang="en">eAcademic</category>
   </programme>
-  <programme start="20220531123000 +0000" stop="20220531133000 +0000" channel="TV9">
-    <title lang="en">30 Hari Sebelum Raya</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220531123000 +0000" stop="20220531153000 +0000" channel="TV9">
+    <title lang="en">Rangeela</title>
+    <desc lang="en">Mili adalah seorang India yang sangat miskin menyimpan impian menjadi kaya dan terkenal suatu hari nanti. Dia mahu menjadi pelakon India.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220531133000 +0000" stop="20220531163500 +0000" channel="TV9">
-    <title lang="en">Om Shanti Om</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220531163500 +0000" stop="20220531170000 +0000" channel="TV9">
-    <title lang="en">Doa Ku Mohon</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220531153000 +0000" stop="20220531170000 +0000" channel="TV9">
+    <title lang="en">The Sherry Show</title>
+    <desc lang="en">Program bual bicara yang menjanjikan sesuatu luar biasa untuk mengisi kekosongan malam anda. Bersama hos Sherry Al-Hadad dan artie jemputan berbual topik-topik hangat yang pasti menghiburkan!</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220531170000 +0000" stop="20220531180000 +0000" channel="TV9">
-    <title lang="en">30 Hari Sebelum Raya</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Ada Apa Dengan Saka</title>
+    <desc lang="en">Ahmad gertak Ain untuk beritahu satu kawasan yang Ain boleh selesaikan masalah entiti tapi Ain tak beri.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220531180000 +0000" stop="20220531203000 +0000" channel="TV9">
-    <title lang="en">Solat Tarawih</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220531180000 +0000" stop="20220531190000 +0000" channel="TV9">
+    <title lang="en">Misteri Mona</title>
+    <desc lang="en">Meskipun telah diberitahu oleh Nadeem bahawa Mona yang dilihatnya adalah kakaknya yang telah mati, namun Anom masih berbelah bahagi.</desc>
+    <credits>
+      <actor>Janna Nick Redza Rosli Elisya Sandh</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220531203000 +0000" stop="20220531203500 +0000" channel="TV9">
-    <title lang="en">Waktu Imsak</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220531190000 +0000" stop="20220531193000 +0000" channel="TV9">
+    <title lang="en">Senario: Misteri Bamboo</title>
+    <desc lang="en">Pian dan Saat menyatakan kepada Kassim dan Wak Dol bahawa mereka berkebolehan untuk menghalau hantu-hantu yang sedang mengganggu orang-orang kampung.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220531203500 +0000" stop="20220531213000 +0000" channel="TV9">
+  <programme start="20220531193000 +0000" stop="20220531203000 +0000" channel="TV9">
+    <title lang="en">Buletin FM</title>
+    <desc lang="en">Buletin FM plays music only with no live or pre recorded announcer. Songs selected are of pop, ballad and rock genres from the 70's till now.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220531203000 +0000" stop="20220531213000 +0000" channel="TV9">
     <title lang="en">Ikatan Cinta</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <desc lang="en">Ketika sedih kerana kehilangan Rena, Andin meyakinkan Arya bahawa dia akan sentiasa menemani Arya. Andin dan Arya cuba dapatkan hak penjagaan Rena.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220531213000 +0000" stop="20220531220000 +0000" channel="TV9">
     <title lang="en">Jejak Rasul: Ulama Pewaris Rasul</title>
@@ -10257,13 +10312,41 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220531223000 +0000" stop="20220601003000 +0000" channel="TV9">
+  <programme start="20220531223000 +0000" stop="20220531225000 +0000" channel="TV9">
+    <title lang="en">Bacaan Yasin Tanyalah Ustaz</title>
+    <desc lang="en">Bacaan surah Yasin.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220531225000 +0000" stop="20220531235500 +0000" channel="TV9">
     <title lang="en">Tanyalah Ustaz</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220531235500 +0000" stop="20220601000000 +0000" channel="TV9">
+    <title lang="en">Berita Terkini</title>
+    <desc lang="en">Laporan terkini berita tempatan dan antarabangsa termasuk berita ekonomi dan sukan.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220601000000 +0000" stop="20220601003000 +0000" channel="TV9">
+    <title lang="en">Tanyalah Ustaz</title>
+    <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220601003000 +0000" stop="20220601033000 +0000" channel="TV9">
     <title lang="en">Wow Shop</title>
@@ -10291,21 +10374,26 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220601053000 +0000" stop="20220601060000 +0000" channel="TV9">
-    <title lang="en">Senario Ikan Di Laut, Asam Di Darat</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220601053000 +0000" stop="20220601073000 +0000" channel="TV9">
+    <title lang="en">Aku, Dia &amp; Tong Sampah</title>
+    <desc lang="en">Sebuah drama komedi romantik mengisahkan tentang Sharnaz dan Amir yang baru sahaja putus cinta.</desc>
+    <credits>
+      <actor>Beto Kusyairy Siti Saleha Razif Has</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220601060000 +0000" stop="20220601080000 +0000" channel="TV9">
-    <title lang="en">Wow Shop</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220601073000 +0000" stop="20220601080000 +0000" channel="TV9">
+    <title lang="en">Senario: Misteri Bamboo</title>
+    <desc lang="en">Tok Ketua, Salih dan Kassim masing-masing risau kerana orang-orang kampung bersetuju untuk menjual tanah mereka dan berpindah ke tempat lain.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220601080000 +0000" stop="20220601080200 +0000" channel="TV9">
     <title lang="en">Berita Terkini</title>
@@ -10316,28 +10404,32 @@
     <category lang="en">eAcademic</category>
   </programme>
   <programme start="20220601080200 +0000" stop="20220601090000 +0000" channel="TV9">
-    <title lang="en">Wow Shop</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Nur Kasih</title>
+    <desc lang="en">Ustaz Hassan dan Hajjah Khadijah mempunyai dua orang anak lelaki yang berbeza perwatakan. Aidil seorang yang bersopan. Adam pula agak kasar.</desc>
+    <credits>
+      <actor>Fizz Fairuz</actor>
+      <actor>Remy Ishak Tiz Zaqyah</actor>
+      <actor>Liza Abdullah Datuk Jalaluddin Hass</actor>
+      <actor>Umie Nazira Sharifah Sofia</actor>
+      <actor>Umie Nazeera Liza Othman</actor>
+      <actor>Sheila Mambo Jalaluddin Hassan</actor>
+      <actor>Tiz Ziqyah Fizz Faizruz</actor>
+      <actor>Ayu Raudhah</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220601090000 +0000" stop="20220601090500 +0000" channel="TV9">
-    <title lang="en">Waktu Berbuka Puasa</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20220601090500 +0000" stop="20220601093000 +0000" channel="TV9">
+  <programme start="20220601090000 +0000" stop="20220601093000 +0000" channel="TV9">
     <title lang="en">Cingkus Blues</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <desc lang="en">Cing membawa Kus ke sebuah percutian impian setelah memenangi sebuah peraduan.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220601093000 +0000" stop="20220601100000 +0000" channel="TV9">
     <title lang="en">Bima Satria Garuda - Live Action</title>
@@ -10364,12 +10456,13 @@
     <category lang="en">eAcademic</category>
   </programme>
   <programme start="20220601103300 +0000" stop="20220601110000 +0000" channel="TV9">
-    <title lang="en">Ejen Ali (ss 2)</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+    <title lang="en">Ejen Ali (ss 1)</title>
+    <desc lang="en">MISI : SERI Alicia adalah rakan sekelas Ali yang juga ejen MATA. Alicia yang juga merupakan anak kepada Jeneral MATA sentiasa bersaing dengan Ali bagi menunjukkan kehebatan masing-masing.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220601110000 +0000" stop="20220601113000 +0000" channel="TV9">
     <title lang="en">Buletin TV9</title>
@@ -10387,29 +10480,41 @@
     <category lang="en">Winter Academic</category>
     <category lang="en">eAcademic</category>
   </programme>
-  <programme start="20220601123000 +0000" stop="20220601133000 +0000" channel="TV9">
-    <title lang="en">30 Hari Sebelum Raya</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220601123000 +0000" stop="20220601124000 +0000" channel="TV9">
+    <title lang="en">Sembang Viral</title>
+    <desc lang="en">Sembang Viral adalah sebuah kapsul berdurasi 10 minit yang mengupas dan membahaskan isu-isu viral bersama panelis jemputan dan dihoskan oleh Datuk Rosyam Nor serta Ahmad Fedtri Yahya.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220601133000 +0000" stop="20220601152500 +0000" channel="TV9">
-    <title lang="en">Syukur 21</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220601124000 +0000" stop="20220601124500 +0000" channel="TV9">
+    <title lang="en">Senang Terhibur Shorts</title>
+    <desc lang="en">Sedutan klip video dari rancangan EDISI KHAS.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme start="20220601152500 +0000" stop="20220601153000 +0000" channel="TV9">
-    <title lang="en">Waktu Imsak</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
+  <programme start="20220601124500 +0000" stop="20220601150000 +0000" channel="TV9">
+    <title lang="en">Perlawanan Persahabatan Bola Sepak</title>
+    <desc lang="en">Perlawanan Persahabatan Bola Sepak.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220601150000 +0000" stop="20220601153000 +0000" channel="TV9">
+    <title lang="en">Makan Viral</title>
+    <desc lang="en">Episod ini, Syad Qistina sebuah kedai menjual piring hitam dan rekod lama di Taman Tun Dr Ismail, yang mencerminkan budaya hipster. Syad turut memperkenalkan kafe hipster yang menyediakan suasana unik.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20220526000000 +0000" stop="20220526003000 +0000" channel="AwesomeTV">
     <title lang="en">Cam &amp; Leon</title>
@@ -20303,11 +20408,20 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220601124500 +0000" stop="20220601140000 +0000" channel="TVS">
+  <programme start="20220601124500 +0000" stop="20220601134500 +0000" channel="TVS">
     <title lang="en">TVS LIVE : Konsert Berkat Gawai 2022</title>
     <desc lang="en">Konsert Berkat Gawai yang akan mempersembahkan hiburan seperti bertaboh, tarian ngajat, persembahan sape, pantun Iban dan nyanyian dari artis tempatan.</desc>
     <category lang="en">Music</category>
     <category lang="en">Concerts</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220601134500 +0000" stop="20220601140000 +0000" channel="TVS">
+    <title lang="en">Best Gift in Gawai</title>
+    <desc lang="en">John, seorang warga asing yang telah berkahwin dengan Mannie dan mempunyai seorang anak perempuan, Sarah yang comel. Mereka memutuskan untuk pulang ke kampung halaman Mannie untuk meraikan Hari Gawai.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
     <rating system="MY">
       <value>U</value>
     </rating>
