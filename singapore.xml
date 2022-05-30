@@ -1068,9 +1068,13 @@
     <title lang="en">Go Jetters S2</title>
     <desc lang="en">Travelling the world with their teacher, mentor and friend Ubercorn, a disco-grooving unicorn, the Go Jetters are fixing the mishaps caused by the mischievous meddlings of Grandmaster Glitch in new locations including Central Park in New York, Machu Picchu, China, Japan, Mali, and Petra in Jordan. And now we get to know our plucky international heroes, Xuli, Kyan, Lars and Foz even better, as Series 2 takes us to the top-secret island home of the Go Jet Academy to see them intraining.</desc>
   </programme>
-  <programme start="20220605080000 +0800" stop="20220605090000 +0800" channel="Ch 5">
+  <programme start="20220605080000 +0800" stop="20220605083000 +0800" channel="Ch 5">
     <title lang="en">Pororo the Little Penguin S7</title>
     <desc lang="en">Pororo is a Little Penguin with big dreams! He lives on a tiny island with his friends Eddy the Fox, Loopy the Beaver, Poby the Polar Bear, and Crong the Dinosaur to name a few and they planned for the best fun ever in this new season.</desc>
+  </programme>
+  <programme start="20220605083000 +0800" stop="20220605090000 +0800" channel="Ch 5">
+    <title lang="en">123 Number Squad S1</title>
+    <desc lang="en">The Number Squad find a new solution to help Aamil master the dance steps when counting them did not work, but it leads to disastrous results. Will the squad be able to get Aamil ready for his first dance?The Number Squad mounts on a rescue mission to get Numero back from the gorillas and the camera back from silverback for Professor Coconut.</desc>
   </programme>
   <programme start="20220605090000 +0800" stop="20220605093000 +0800" channel="Ch 5">
     <title lang="en">Super Wings S5: Super Pets</title>
@@ -1151,375 +1155,6 @@
   <programme start="20220605223000 +0800" stop="20220605233000 +0800" channel="Ch 5">
     <title lang="en">Dawn to Dusk</title>
     <desc lang="en">Christmas Day in New Zealand is just another summer's day. While the iconic kiwi bird shuns the sun, sealions, yellow-eyed penguins, and dolphins make the most of extra feeding time in the long hours of daylight.</desc>
-  </programme>
-  <programme start="20220529001000 +0200" stop="20220529010000 +0200" channel="Ch 8">
-    <title lang="en">Kampong Ties</title>
-    <title lang="xx">甘榜情</title>
-    <desc lang="en">(R) Following the death of a tycoon, Tianshi and friends decide to pool their money together to bet on the deceased's numbers. Tianshi passes the money to Weinan and asks him to pass to Yueman as he needs to leave the house. Jiaqing snatches the money from Weinan once Tianshi steps out of the house.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813322'&amp;EntityType='LinearSchedule'&amp;EntityId='989dfe0d-5065-498c-9440-a24b929543c5'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220529010000 +0200" stop="20220529013000 +0200" channel="Ch 8">
-    <title lang="en">Little Counsellor Season 11 &amp; 12</title>
-    <title lang="xx">少年师爷</title>
-    <desc lang="en">(R) The Young Xiao Shiye is known for his strong sense of justice and integrity. He uses his wisdom and wit to solve the people's daily problems and many challenges.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813330'&amp;EntityType='LinearSchedule'&amp;EntityId='6112a609-b7cc-4c2f-99e3-733c1abf154b'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S11 E47</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220529013000 +0200" stop="20220529020000 +0200" channel="Ch 8">
-    <title lang="en">New Doraemon</title>
-    <title lang="xx">哆啦a梦</title>
-    <desc lang="en">This animation series centres on a robotic cat from the future, Doraemon. With its various magical gadgets, Doraemon helps its master solve all kinds of problems.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813339'&amp;EntityType='LinearSchedule'&amp;EntityId='791b596e-da82-4efc-abb1-b61fc5f0b079'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E13</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220529020000 +0200" stop="20220529023000 +0200" channel="Ch 8">
-    <title lang="en">Word Whiz</title>
-    <title lang="xx">华文'浆'好玩 2</title>
-    <desc lang="en">Dr. Jiang is out to test kids on their command of the Chinese Language! Our contestants will have to beat Dr. Jiang at her own game by solving the word puzzles, otherwise they'll get slimed and turned into minions!</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813347'&amp;EntityType='LinearSchedule'&amp;EntityId='ea1c5f4c-5f9e-4cfc-b10a-6b9ac89b1fc9'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220529023000 +0200" stop="20220529030000 +0200" channel="Ch 8">
-    <title lang="en">Team Curious S1 &amp;</title>
-    <title lang="xx">奇趣特工队 S1 &amp; S2</title>
-    <sub-title lang="en">Wild Over Soccer</sub-title>
-    <desc lang="en">Quincy is a boy full of curiosity and a sense of justice. He also has a mysterious identity - the captain of Q-team. The team comprises of Quincy and his companions: his mischievous and proud Blitz Cat who understands Alien languages, the polite and gentle Robot Al, and Princess Deirdre, an alien visitor who accidentally lands on Earth. Quincy and his partners all have magical badges, which allow them to turn into special agents, and gives them incredible powers and skills to guard their town.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813355'&amp;EntityType='LinearSchedule'&amp;EntityId='dee19439-b7ac-4c8b-8938-c0e4dfb7289b'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E39</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220529030000 +0200" stop="20220529033000 +0200" channel="Ch 8">
-    <title lang="en">Tuesday Report - Be Myself</title>
-    <title lang="xx">星期二特写 - 我就是我</title>
-    <sub-title lang="en">Shoe Shining Champion</sub-title>
-    <desc lang="en">(R) 27-year-old John Chung gave up his university in pursuit of his dream. After serving the nation for 2 years, John devoted his time and savings in building up his second-hand shoes and shoe polishing business. In 2018, he was in London to take part in the World Championships in Shoe Shining and was crowned the shoe shining champion of the year. After 6 years of hard work, John finally owns a retail shoe shop. He has a bigger dream to master the skills and become a professional bespoke shoemaker.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813362'&amp;EntityType='LinearSchedule'&amp;EntityId='3f294af8-03c7-4ba3-85fa-2987cc575818'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220529033000 +0200" stop="20220529040000 +0200" channel="Ch 8">
-    <title lang="en">Spicy Hot</title>
-    <title lang="xx">火辣辣</title>
-    <desc lang="en">(R) Hunan is known to be the province with the spiciest food in China and Shane Pow is on the hunt for spicy snacks. Calling on famous restaurant owners, he learns how to whip up a hot dish or two. Being the hometown of Mao Ze Dong, Shane has the honour of trying out Mao's favourite spicy meals too!</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813370'&amp;EntityType='LinearSchedule'&amp;EntityId='c97121d6-29ea-4edd-920b-116e46453f73'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220529040000 +0200" stop="20220529050000 +0200" channel="Ch 8">
-    <title lang="en">Brotherhood</title>
-    <title lang="xx">有情有义</title>
-    <desc lang="en">(R) As Li Nian is behind bars, he has no choice but to let Li Ting manage the business in Singapore. She vows to succeed. He Fan gives her business tips and even Li Nian is impressed.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813378'&amp;EntityType='LinearSchedule'&amp;EntityId='3e2a5f5e-a049-4eb5-b137-90719304582f'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E22</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220529050000 +0200" stop="20220529060000 +0200" channel="Ch 8">
-    <title lang="en">Brotherhood</title>
-    <title lang="xx">有情有义</title>
-    <desc lang="en">(R) He Fan puts his love life aside to concentrate on helping Li Ting fight the Zhongs. He Ping leaves home after being told off by Chen Yi for losing money on the stock market.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813385'&amp;EntityType='LinearSchedule'&amp;EntityId='68f2bfd3-20c4-43ac-83f1-da5b85405109'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E23</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220529060000 +0200" stop="20220529063000 +0200" channel="Ch 8">
-    <title lang="en">Healthy Life</title>
-    <title lang="xx">健康好生活</title>
-    <sub-title lang="en">(Part 1)</sub-title>
-    <desc lang="en">(R) Hosted by Chen Ningguan, this health infotainment program combines nutrition information and healthy cooking. Each episode invites doctors and chefs to discuss important issues related to health and cooking.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813392'&amp;EntityType='LinearSchedule'&amp;EntityId='1099792b-d3b3-48fc-ad58-ca835b56bcd4'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220529063000 +0200" stop="20220529064400 +0200" channel="Ch 8">
-    <title lang="en">Deals For Joy</title>
-    <title lang="xx">好货驾到</title>
-    <sub-title lang="en">Copper Fit</sub-title>
-    <desc lang="en">Experiencing back and knee strain? Use Copper Fit for muscle strains, soreness, or pain.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813401'&amp;EntityType='LinearSchedule'&amp;EntityId='111e456e-eb8d-4f99-8eac-89febe66b64e'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E82</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220529064400 +0200" stop="20220529065800 +0200" channel="Ch 8">
-    <title lang="en">Deals For Joy</title>
-    <title lang="xx">好货驾到</title>
-    <sub-title lang="en">Kinohimitsu Bird's Nest</sub-title>
-    <desc lang="en">Kinohimitsu Ginseng Bird's Nest bundle helps to promote your overall well-being!</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813410'&amp;EntityType='LinearSchedule'&amp;EntityId='aaa10d8a-c48e-4c9a-8108-246873f8e859'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E85</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220529065800 +0200" stop="20220529070000 +0200" channel="Ch 8">
-    <title lang="en">Deals For Joy</title>
-    <title lang="xx">好货驾到</title>
-    <sub-title lang="en">Berrisom Lip Tint</sub-title>
-    <desc lang="en">Revolutionary Lip Tint from Korea that lasts up to 12 hours!</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813419'&amp;EntityType='LinearSchedule'&amp;EntityId='c11287f3-ff25-4173-9461-23d6b93e6c59'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E71</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220529070000 +0200" stop="20220529071500 +0200" channel="Ch 8">
-    <title lang="en">Deals For Joy</title>
-    <title lang="xx">好货驾到</title>
-    <sub-title lang="en">Bambillo Pillow</sub-title>
-    <desc lang="en">Discover how you can wake up every morning glowing and refreshed as our hosts prove how a comfortable pillow is key for a good night's sleep.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813427'&amp;EntityType='LinearSchedule'&amp;EntityId='bcf2a639-2703-4242-a723-6133d432f72c'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220529071500 +0200" stop="20220529073000 +0200" channel="Ch 8">
-    <title lang="en">Deals For Joy</title>
-    <title lang="xx">好货驾到</title>
-    <sub-title lang="en">Evercook</sub-title>
-    <desc lang="en">A durable non-stick frying pan is a kitchen must-have!</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813436'&amp;EntityType='LinearSchedule'&amp;EntityId='c4a02883-4537-46c9-b636-34fb80fae4f5'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220529073000 +0200" stop="20220529083000 +0200" channel="Ch 8">
-    <title lang="en">James' Going Places II</title>
-    <title lang="xx">詹姆士出走料理 II</title>
-    <desc lang="en">(R) Popular food host James bring viewers around Taiwan in search of good food and its unique ingredients. He will also demonstrate on how to use the ingredients.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813444'&amp;EntityType='LinearSchedule'&amp;EntityId='a525b7c5-a6c6-4c22-8edc-4708fc9f4317'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S2 E15</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220529083000 +0200" stop="20220529093000 +0200" channel="Ch 8">
-    <title lang="en">While You Were Away</title>
-    <title lang="xx">一切从昏睡开始</title>
-    <desc lang="en">(R) A netizen exposes Man Rong's secret of going through plastic surgery and Zi Jun shares that with her talent, she actually does not need surgery to make a mark in society. Man Rong becomes triggered, and tells him that it was his mean comments about her looks that made her decide to go for plastic surgery back then. Zi Jun is taken aback, and he says that he had complimented Man Rong's design talent too, but she had not heard him then. Zi Jun apologizes, and both of them resolve their conflicts.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813452'&amp;EntityType='LinearSchedule'&amp;EntityId='37cd6e0b-4458-41f0-a1ee-4a185e81afc9'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220529093000 +0200" stop="20220529103000 +0200" channel="Ch 8">
-    <title lang="en">While You Were Away</title>
-    <title lang="xx">一切从昏睡开始</title>
-    <desc lang="en">(R) Zi Jun shows Man Rong the suggestive messages that Ian had sent to Sen Mei, but Man Rong tells him that a text message alone cannot prove that Sen Mei has had an affair. Zi Jun blames himself, as he believes Sen Mei had an affair as he often neglected her. Man Rong says that she is also at fault because she had spoken badly of him whenever Sen Mei shared her sorrows with her, adding fuel to fire. Zi Jun and Man Rong get drunk and lose their consciousness, and are about to kiss each other...</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813459'&amp;EntityType='LinearSchedule'&amp;EntityId='8da40647-bfd2-4906-8fe6-e299a228c644'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating>
-      <value>PG (Some Sexual References)</value>
-    </rating>
-  </programme>
-  <programme start="20220529103000 +0200" stop="20220529110000 +0200" channel="Ch 8">
-    <title lang="en">Singapore Today</title>
-    <title lang="xx">狮城六点半</title>
-    <desc lang="en">(Live) Daily updates on local news headlines and stories.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813467'&amp;EntityType='LinearSchedule'&amp;EntityId='19e17d57-c1cc-4a88-8cfd-768903f84bdd'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E18</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220529110000 +0200" stop="20220529120000 +0200" channel="Ch 8">
-    <title lang="en">100% Wife</title>
-    <title lang="xx">金家好媳妇</title>
-    <desc lang="en">Xinmin is puzzled to find the Taipei market familiar and does not recognise Xiuying when they met. Shuyun is shocked when she saw Youcai's photo and blocks Yanjun to prevent the Jin family from finding Xinmin.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813475'&amp;EntityType='LinearSchedule'&amp;EntityId='db44f97b-9f46-48e4-994d-1b90048b9ebf'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E56</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220529120000 +0200" stop="20220529130000 +0200" channel="Ch 8">
-    <title lang="en">100% Wife</title>
-    <title lang="xx">金家好媳妇</title>
-    <desc lang="en">Guanting is furious when his popularity polls are destroyed by Xinrong. He leaves home to find that Qiuyi has begged his sponsors to pledge their support and expresses his gratitude to Qiuyi.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813484'&amp;EntityType='LinearSchedule'&amp;EntityId='bb3db2cb-a8b7-4b0e-b267-a00107d17d5f'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E57</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220529130000 +0200" stop="20220529140000 +0200" channel="Ch 8">
-    <title lang="en">100% Wife</title>
-    <title lang="xx">金家好媳妇</title>
-    <desc lang="en">Guanda consoles an unhappy Zhilin and forgets his promise to pick Qianqian from the hospital. Haoyu sends Qianqian home and hits Guanda when he saw him with Zhilin.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813492'&amp;EntityType='LinearSchedule'&amp;EntityId='e5594184-898b-44e8-b2c3-54a7152f4fa1'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E58</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220529140000 +0200" stop="20220529143000 +0200" channel="Ch 8">
-    <title lang="en">News Tonight</title>
-    <title lang="xx">晚间新闻</title>
-    <desc lang="en">Daily evening updates on top local news and world news.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813501'&amp;EntityType='LinearSchedule'&amp;EntityId='0fed4c29-8101-4145-9239-cf7bcd69832e'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E59</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220529143000 +0200" stop="20220529153000 +0200" channel="Ch 8">
-    <title lang="en">Love That Binds</title>
-    <title lang="xx">如胶似漆</title>
-    <sub-title lang="en">(Debut)</sub-title>
-    <desc lang="en">From meeting to falling in love, to meeting the parents and asking for their blessings to get married. How do interracial couples overcome challenges facing racial, cultural and religious differences.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4820203'&amp;EntityType='LinearSchedule'&amp;EntityId='d92b597c-bcd9-4ae8-a70b-a0eb0bff4071'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220529153000 +0200" stop="20220529160000 +0200" channel="Ch 8">
-    <title lang="en">Frontline</title>
-    <title lang="xx">前线追踪</title>
-    <desc lang="en">(R) Frontline is a weekly investigative current affairs programme that aims to address issues closest to the hearts of Singaporeans.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813511'&amp;EntityType='LinearSchedule'&amp;EntityId='0d3b6a30-55f5-44fb-aeb5-ab15cf53f056'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220529160000 +0200" stop="20220529170000 +0200" channel="Ch 8">
-    <title lang="en">The Queen</title>
-    <title lang="xx">复仇女王</title>
-    <desc lang="en">(R) Mark, who is in a coma, suddenly wakes up. Guo Ping says the doctor reveals that even though Mark is awake, he still needs some time to recover his memories, language competencies and other awareness functionalities. Guan Xin heaves a sigh of relief and prays that Mark will never recover his consciousness and Guo Ping will give up on him.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4815770'&amp;EntityType='LinearSchedule'&amp;EntityId='77c4e8bd-18db-4f60-aa66-b4770fafef4d'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <rating>
-      <value>PG (Some Violence)</value>
-    </rating>
-  </programme>
-  <programme start="20220529170000 +0200" stop="20220529180000 +0200" channel="Ch 8">
-    <title lang="en">The Queen</title>
-    <title lang="xx">复仇女王</title>
-    <desc lang="en">(R) Mei Fang cries silently while eating with Guan Xin. Mei Fang sadly says that she has beaten her husband, Shan Hong, again last night and that she cannot help it but do so whenever her mood is down and stressed. Guan Xin enquires Mei Fang the reason that causes her to be so stressed out. Mei Fang refuses to answer.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4815777'&amp;EntityType='LinearSchedule'&amp;EntityId='b64fa4b7-2815-445e-b4f6-2228ac1e1b1d'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <rating>
-      <value>PG (Some Sexual References)</value>
-    </rating>
-  </programme>
-  <programme start="20220529180000 +0200" stop="20220529190000 +0200" channel="Ch 8">
-    <title lang="en">The Dream-Catchers</title>
-    <title lang="xx">未来不是梦</title>
-    <desc lang="en">(R) The story revolves around 2 couples working in the semiconductor and precision engineering industries. This programme is commissioned by EDB.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4815784'&amp;EntityType='LinearSchedule'&amp;EntityId='86990478-351a-486f-9d93-9cd8cecc81b7'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E19</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220529190000 +0200" stop="20220529200000 +0200" channel="Ch 8">
-    <title lang="en">The Dream-Catchers</title>
-    <title lang="xx">未来不是梦</title>
-    <desc lang="en">(R) The story revolves around 2 couples working in the semiconductor and precision engineering industries. This programme is commissioned by EDB.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4815793'&amp;EntityType='LinearSchedule'&amp;EntityId='1dba7645-3a4c-4f8b-b6d2-d14bd08bf4d4'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E20</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220529200000 +0200" stop="20220529210000 +0200" channel="Ch 8">
-    <title lang="en">The Palm Of Rulai</title>
-    <title lang="xx">新如来神掌</title>
-    <desc lang="en">(R) The formidable and unsurpassable pugilistic skills have been lost for close to 300 years. However the re-emergence of these legendary kungfu skills - "Palm of Ru Lai" and "Heavenly Foot" had the pugilistic world shaken and the power-hungry pugilists scrambling to seek the manual and master the skills so as to conquer the pugilistic world....</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4815801'&amp;EntityType='LinearSchedule'&amp;EntityId='81d97bc8-6378-4150-a23a-388924a19eec'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E21</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220529210000 +0200" stop="20220529220000 +0200" channel="Ch 8">
-    <title lang="en">The Palm Of Rulai</title>
-    <title lang="xx">新如来神掌</title>
-    <desc lang="en">(R) The formidable and unsurpassable pugilistic skills have been lost for close to 300 years. However the re-emergence of these legendary kungfu skills - "Palm of Ru Lai" and "Heavenly Foot" had the pugilistic world shaken and the power-hungry pugilists scrambling to seek the manual and master the skills so as to conquer the pugilistic world....</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4815810'&amp;EntityType='LinearSchedule'&amp;EntityId='12e617e8-5a16-48ee-91ad-c76fb04c519c'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E22</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220529220000 +0200" stop="20220529223000 +0200" channel="Ch 8">
-    <title lang="en">Closet Secrets</title>
-    <title lang="xx">衣橱密语</title>
-    <desc lang="en">(R) One of the things people love to do when they are in love - dress up! In this episode, Paige Chua will share her love experiences while Felicia Chin and Jeffrey Xu openly talks about their relationship.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4815816'&amp;EntityType='LinearSchedule'&amp;EntityId='d8e73693-9d6f-4b1f-a1c9-fd0db46e8156'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220529223000 +0200" stop="20220529230000 +0200" channel="Ch 8">
-    <title lang="en">Frontline</title>
-    <title lang="xx">前线追踪</title>
-    <desc lang="en">(R) Frontline is a weekly investigative current affairs programme that aims to address issues closest to the hearts of Singaporeans.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4815823'&amp;EntityType='LinearSchedule'&amp;EntityId='f971dd54-9016-40bb-a9bc-8aa111a8d111'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220529230000 +0200" stop="20220529230000 +0200" channel="Ch 8">
-    <title lang="en">News Tonight</title>
-    <title lang="xx">晚间新闻</title>
-    <desc lang="en">(R) Daily evening updates on top local news and world news.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4815831'&amp;EntityType='LinearSchedule'&amp;EntityId='ef7ec190-75ce-467b-8349-b22cd2994e55'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E59</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220529230000 +0200" stop="20220529233000 +0200" channel="Ch 8">
-    <title lang="en">News Tonight</title>
-    <title lang="xx">晚间新闻</title>
-    <desc lang="en">(R) Daily evening updates on top local news and world news.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4815831'&amp;EntityType='LinearSchedule'&amp;EntityId='ef7ec190-75ce-467b-8349-b22cd2994e55'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E59</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220529233000 +0200" stop="20220530000000 +0200" channel="Ch 8">
-    <title lang="en">Hello Singapore Highlights</title>
-    <title lang="xx">狮城有约精华版</title>
-    <desc lang="en">Deliver social features that matter to you.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4815838'&amp;EntityType='LinearSchedule'&amp;EntityId='8aa0a2c2-aea3-4463-8316-466973d6c0bd'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E42</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
   </programme>
   <programme start="20220530000000 +0200" stop="20220530010000 +0200" channel="Ch 8">
     <title lang="en">The Unbreakable Bond</title>
@@ -4064,157 +3699,307 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220529010000 +0200" stop="20220529011500 +0200" channel="Ch U">
-    <title lang="en">Deals For Joy</title>
-    <desc lang="en">This gingko extract promotes blood circulation for good health!</desc>
-    <category lang="en">General</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20220529011500 +0200" stop="20220529013000 +0200" channel="Ch U">
-    <title lang="en">Deals For Joy</title>
-    <desc lang="en">Make the best smoothies at home with this blender!</desc>
-    <category lang="en">General</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20220529013000 +0200" stop="20220529014400 +0200" channel="Ch U">
-    <title lang="en">Deals For Joy</title>
-    <desc lang="en">Made from 100% Korean red ginseng to help promote your overall health being &amp; elevates energy level!</desc>
-    <category lang="en">General</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20220529014400 +0200" stop="20220529015800 +0200" channel="Ch U">
-    <title lang="en">Deals For Joy</title>
-    <desc lang="en">Spend long hours sitting on chairs? Use Ablue Curble Chair for better posture and a healthier spine!</desc>
-    <category lang="en">General</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20220529015800 +0200" stop="20220529020000 +0200" channel="Ch U">
-    <title lang="en">Deals For Joy</title>
-    <desc lang="en">Quick and easy cutting in your kitchen with this 2 in 1 scissors and cutting board!</desc>
-    <category lang="en">General</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20220529020000 +0200" stop="20220529040000 +0200" channel="Ch U">
-    <title lang="en">Super Vocal</title>
-    <desc lang="en">(R) Super-Vocal 2 is an original inspirational vocal competition show, inviting three musicians Liao Changyong, Shang Wenjie and Zhang Huimei as the producers, and 36 singing members rotate between the chief and substitute roles.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20220529040000 +0200" stop="20220529041500 +0200" channel="Ch U">
-    <title lang="en">Deals For Joy</title>
-    <desc lang="en">Take the hard work out of ironing with this gadget. You can now iron everything from jeans to silk easily with no burns thanks to the OptimalTEMP technology.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20220529041500 +0200" stop="20220529042200 +0200" channel="Ch U">
-    <title lang="en">Deals For Joy</title>
-    <desc lang="en">100% Pure Extract Enzyme Drink, Supports digestion and aids absorption of nutrients.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20220529042200 +0200" stop="20220529043000 +0200" channel="Ch U">
-    <title lang="en">Deals For Joy</title>
-    <desc lang="en">Reduce your portions naturally, by diminishing the feeling of hunger!</desc>
-    <category lang="en">General</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20220529043000 +0200" stop="20220529044400 +0200" channel="Ch U">
-    <title lang="en">Deals For Joy</title>
-    <desc lang="en">Reduce cooking time up to 50% with Gourmet Chef Low Pressure Cooker!</desc>
-    <category lang="en">General</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20220529044400 +0200" stop="20220529045800 +0200" channel="Ch U">
-    <title lang="en">Deals For Joy</title>
-    <desc lang="en">Clinically proven to reduce eyebags and dark circles instantly!</desc>
-    <category lang="en">General</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20220529045800 +0200" stop="20220529050000 +0200" channel="Ch U">
-    <title lang="en">Deals For Joy</title>
-    <desc lang="en">Magnifying eyewear makes everything bigger and easier!</desc>
-    <category lang="en">General</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20220529050000 +0200" stop="20220529060000 +0200" channel="Ch U">
-    <title lang="en">Life's Perfectionists</title>
-    <desc lang="en">(R)(Dual Language - Mandarin and Korean) This programme introduces individuals who are outstanding in their respective fields of work. Find out how the featured individuals rose to the top of their leagues based on hard work and enthusiasm.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20220529060000 +0200" stop="20220529070000 +0200" channel="Ch U">
-    <title lang="en">Never Ends</title>
-    <desc lang="en">(R) Award winning host Marco Liao packs a more fulfilling journey to the different corners of the world and learn about the heritage, culture, food and places of interests. These 2 eps will feature Mazu and Penghu.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20220529070000 +0200" stop="20220529080000 +0200" channel="Ch U">
-    <title lang="en">Marry Me Now</title>
-    <desc lang="en">(R)(Dual Language - Mandarin and Korean) Wenzhi apologized to Meilian for his fathers bad deed. Youhe decided to go to Africa with Entai and Enxiu. Wenzhi is disappointed that Dongzhen is selling off Meilian's office building. Dongzhen is arrested.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama Series</category>
-  </programme>
-  <programme start="20220529080000 +0200" stop="20220529090000 +0200" channel="Ch U">
-    <title lang="en">Marry Me Now</title>
-    <desc lang="en">(R)(Dual Language - Mandarin and Korean) Zhenxi is shocked that Entai and Youhe are heading to Africa and hastily hold their wedding. Xiaoxie's children secretly arranged a wedding event for Xiaoxie and Meilian.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama Series</category>
-  </programme>
-  <programme start="20220529090000 +0200" stop="20220529100000 +0200" channel="Ch U">
-    <title lang="en">My Only One</title>
-    <desc lang="en">(R)(Dual Language - Mandarin and Korean) Learning that Daolan and Dalu are getting married; Liangzi meets up with Enying and demands them to pay the cost for raising Daolan up as she is not her biological daughter. Xiuri detests Laingzi's doing.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama Series</category>
-  </programme>
-  <programme start="20220529100000 +0200" stop="20220529110000 +0200" channel="Ch U">
-    <title lang="en">My Only One</title>
-    <desc lang="en">(R)(Dual Language - Mandarin and Korean) Grandma Pu visits Liangzi to check on Daolan's situation. She gives Liangzi a sum of money hoping that she agrees to Dalu and Daolan s' marriage. She asks Liangzi to write an agreement stating not to interfere Daolan.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama Series</category>
-  </programme>
-  <programme start="20220529110000 +0200" stop="20220529130000 +0200" channel="Ch U">
-    <title lang="en">The Acrobatic Show</title>
-    <desc lang="en">In this season's program, top acrobatic elites from all over the country will compete fiercely through the four major competitions, vying for the ultimate title.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20220529130000 +0200" stop="20220529140000 +0200" channel="Ch U">
-    <title lang="en">A Tale of Ylang Ylang</title>
-    <desc lang="en">(Dual Language - Mandarin and Thai) Gesen is being arrested for committing a treason. He arranges for his family to flee the country with his highness, but Lady Pei throws their passports out of the train...</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama Series</category>
-  </programme>
-  <programme start="20220529140000 +0200" stop="20220529150000 +0200" channel="Ch U">
-    <title lang="en">A Tale of Ylang Ylang</title>
-    <desc lang="en">(Dual Language - Mandarin and Thai) Sala dies while trying to look for Tian during an air raid, after Tian is chased away by Gesen. Tian blames himself for Sala's death and promises to take care of Xiaonan.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama Series</category>
-  </programme>
-  <programme start="20220529150000 +0200" stop="20220529153000 +0200" channel="Ch U">
+  <programme start="20220605230000 +0200" stop="20220605230000 +0200" channel="Ch 8">
     <title lang="en">News Tonight</title>
-    <desc lang="en">A comprehensive half-hour news programme, NEWS TONIGHT provides viewers with important local, international and financial developments for the day.</desc>
-    <category lang="en">General</category>
-    <category lang="en">News / Current Affairs</category>
+    <title lang="xx">晚间新闻 2022-2023</title>
+    <desc lang="en">Daily evening updates on top local news and world news.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833835'&amp;EntityType='LinearSchedule'&amp;EntityId='f0738d9b-727e-4fe9-8a91-7f477fa6fd9c'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E66</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
   </programme>
-  <programme start="20220529153000 +0200" stop="20220529163000 +0200" channel="Ch U">
-    <title lang="en">Dr Romantic</title>
-    <desc lang="en">(R)(Dual Language - Mandarin and Korean) Minister Liu's son wants to sue the hospital when the minister's second operation failed. Dr Yang gets hold of a video recording of the second operation. He intends to destroy the recording, but Encai tricks Dr Yang into handing over the recording.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama Series</category>
+  <programme start="20220605230000 +0200" stop="20220605233000 +0200" channel="Ch 8">
+    <title lang="en">News Tonight</title>
+    <title lang="xx">晚间新闻 2022-2023</title>
+    <desc lang="en">Daily evening updates on top local news and world news.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833835'&amp;EntityType='LinearSchedule'&amp;EntityId='f0738d9b-727e-4fe9-8a91-7f477fa6fd9c'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E66</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
   </programme>
-  <programme start="20220529163000 +0200" stop="20220529183000 +0200" channel="Ch U">
-    <title lang="en">The Acrobatic Show</title>
-    <desc lang="en">(R) In this season's program, top acrobatic elites from all over the country will compete fiercely through the four major competitions, vying for the ultimate title.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Entertainment</category>
+  <programme start="20220605233000 +0200" stop="20220606000000 +0200" channel="Ch 8">
+    <title lang="en">Hello Singapore Highlights</title>
+    <title lang="xx">狮城有约精华版</title>
+    <desc lang="en">Deliver social features that matter to you.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833843'&amp;EntityType='LinearSchedule'&amp;EntityId='cb089900-f634-4b77-a41f-6ab46d48d4d1'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E47</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
   </programme>
-  <programme start="20220529183000 +0200" stop="20220529183000 +0200" channel="Ch U">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4816515'&amp;EntityType='LinearSchedule'&amp;EntityId='def6623d-9742-4680-9db3-2c6de8de0caa'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  <programme start="20220606000000 +0200" stop="20220606010000 +0200" channel="Ch 8">
+    <title lang="en">The Unbreakable Bond</title>
+    <title lang="xx">寄生</title>
+    <desc lang="en">Yun Ze apologised for the abrupt confession to Shi Yuan earlier. Shi Yuan tells Yun Ze that she has no feelings for him, and do not see a future together. Yun Ze has no choice but to accept, but not giving up, Yun Ze told Shi Yuan that his feelings will not change, as long as Shi Yuan do not hate him. Yun Cong overheard the conversation, realising that his brother also likes Shi Yuan.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833851'&amp;EntityType='LinearSchedule'&amp;EntityId='1a733a5e-0ea5-47a7-b6f6-1cade814966d'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
   </programme>
-  <programme start="20220529183000 +0200" stop="20220530030000 +0200" channel="Ch U">
-    <title lang="en">End of Transmission</title>
+  <programme start="20220606010000 +0200" stop="20220606013000 +0200" channel="Ch 8">
+    <title lang="en">Morning Express</title>
+    <title lang="xx">晨光第一线 2022-2023</title>
+    <desc lang="en">(Live) A daily brand new News belt, from Monday to Friday, 9am - 9.30am.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833873'&amp;EntityType='LinearSchedule'&amp;EntityId='b2aebee6-d0d2-4bc8-938c-1f01e2a1bcec'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E47</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220606013000 +0200" stop="20220606020000 +0200" channel="Ch 8">
+    <title lang="en">Armed Reaction 2021</title>
+    <title lang="xx">陀枪师姐 2021</title>
+    <desc lang="en">Ver BSanyuan is in charge of investigating Sade's case while Judy, Elaine and CCSIU team members come to Diana's defence. However the evidence are not in Diana's favour and Sanyuan is certain that Hanson is biased. Ver CDahua learns that YaoZhong wants Danji to manage the logistics company. He is worried that Yaozhong will make use of Danji to deliver drugs and thus tries to stop him. Danji feels that Dahua looks down on him and both ends up as foes.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833880'&amp;EntityType='LinearSchedule'&amp;EntityId='a0b81745-55c8-4901-9bf2-a083363f81f3'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E28</episode-num>
+    <rating>
+      <value>PG (Some Violence)</value>
+    </rating>
+  </programme>
+  <programme start="20220606020000 +0200" stop="20220606023000 +0200" channel="Ch 8">
+    <title lang="en">Different Cuts, Different Strokes</title>
+    <title lang="xx">剪剪大家乐2</title>
+    <desc lang="en">The second season of the comedy sitcom returns with its popular stars Kym Ng, Darren Lim, Guo Liang, Mark Lee and Henry Thia.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833884'&amp;EntityType='LinearSchedule'&amp;EntityId='6ea8f1f6-4298-4e06-9005-184a28cf1224'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220606023000 +0200" stop="20220606033000 +0200" channel="Ch 8">
+    <title lang="en">Spring Flower</title>
+    <title lang="xx">春花望露</title>
+    <desc lang="en">Ep404 - Youtu plans to kill Guangming when he learns that the latter has a dubious relationship with Lihua. Luckily, he is stopped by Xiunv at the critical moment.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833888'&amp;EntityType='LinearSchedule'&amp;EntityId='0d98a4b8-a368-48af-9f73-2732757f8dce'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E404</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220606033000 +0200" stop="20220606050000 +0200" channel="Ch 8">
+    <title lang="en">Spring Flower</title>
+    <title lang="xx">春花望露</title>
+    <desc lang="en">Ep405 - Xiunv brings Guangming to the Chen family to ask Meihui to preside over the matter, but Guangming does not admit his wrong. In the meantime, Youzhi returns to the Li family to comfort Youtu. Xiunv is relieved.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833892'&amp;EntityType='LinearSchedule'&amp;EntityId='ed624d01-0fb0-4a1a-a48b-0c4b8154bac5'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E405</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220606050000 +0200" stop="20220606053000 +0200" channel="Ch 8">
+    <title lang="en">News 8 At One</title>
+    <title lang="xx">一点新闻 2022-2023</title>
+    <desc lang="en">Weekday afternoon updates on local and world news headlines.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833896'&amp;EntityType='LinearSchedule'&amp;EntityId='e3dab4d8-edba-43ee-a379-6e80604629c0'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E47</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220606053000 +0200" stop="20220606060000 +0200" channel="Ch 8">
+    <title lang="en">Focus</title>
+    <title lang="xx">焦点2022-2023</title>
+    <desc lang="en">Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833900'&amp;EntityType='LinearSchedule'&amp;EntityId='71a9b5ea-fb16-4d22-b48c-87de38ed1438'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220606060000 +0200" stop="20220606063000 +0200" channel="Ch 8">
+    <title lang="en">Future Girl</title>
+    <title lang="xx">看见未来的女孩</title>
+    <desc lang="en">Zhicheng manages to rescue Minmin from a serious fall, but Siling and her men snatch her phone away and capture Suzhen. Minmin sees a new prediction and deduces that Suzhen is now imprisoned in Alice's company. Zhicheng tries to rescue Suzhen. Meanwhile, Alice appears with an electric shock device and Minmin smashes the phone in a burst of anger.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833904'&amp;EntityType='LinearSchedule'&amp;EntityId='4bd89352-7b23-4462-a3a0-3200398f91dd'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220606063000 +0200" stop="20220606073000 +0200" channel="Ch 8">
+    <title lang="en">Breakfast In China</title>
+    <title lang="xx">早餐中国 III</title>
+    <sub-title lang="en">--</sub-title>
+    <desc lang="en">Breakfast in China is a show that uses breakfast to give you warmth and reminds you of the taste of your hometown. In this season you'll get to explore 30 breakfast shops and get to know their stories.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833908'&amp;EntityType='LinearSchedule'&amp;EntityId='f1cfc3fd-55f7-4b4f-ab23-4f2791d1eec7'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220606073000 +0200" stop="20220606083000 +0200" channel="Ch 8">
+    <title lang="en">Life After Death</title>
+    <title lang="xx">那些我爱过的人</title>
+    <desc lang="en">Jiang Yucheng is seriously injured in a boxing competition. His wife dies in a car accident while rushing to the hospital to see him. At the same time, Lewen's husband dies in a traffic accident when they are having an argument in the car.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833912'&amp;EntityType='LinearSchedule'&amp;EntityId='0c387672-b192-4e5a-ab91-368792205415'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>PG (Some Disturbing Scenes)</value>
+    </rating>
+  </programme>
+  <programme start="20220606083000 +0200" stop="20220606093000 +0200" channel="Ch 8">
+    <title lang="en">Taste of Life</title>
+    <title lang="xx">甘味人生</title>
+    <desc lang="en">Chu-Tsai, Chao and his wife have five children. Devoted all his life into developing soy sauce products, Chu-Tsai very much hopes that one of his kids can follow his footsteps and take over his business, but he also respects their own passions and aspirations. Because of their father's invention dream, the Chao brother's lives are about to change.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833916'&amp;EntityType='LinearSchedule'&amp;EntityId='5f7439ad-0135-4abf-871b-95f00a26e60c'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E917</episode-num>
+    <rating>
+      <value>PG (Some Disturbing Scenes)</value>
+    </rating>
+  </programme>
+  <programme start="20220606093000 +0200" stop="20220606103000 +0200" channel="Ch 8">
+    <title lang="en">My Mini-Me and Me</title>
+    <title lang="xx">很久以后的未来</title>
+    <desc lang="en">32-year-old Zhang Zhen Dong is what most would call a loser. One night, he gets a knock on his door - a 12-year-old claims to be his Mini-me. Zhen Dong takes the 12-year-old in but little does he know that his life will be thrown into complete chaos. He attempts to hide this boy from his neighbour and building supervisor Ye Xin Jing as he finds a way to bring him back to where he came from.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833920'&amp;EntityType='LinearSchedule'&amp;EntityId='d1ef03fa-0528-4c83-b2d0-789887484026'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220606103000 +0200" stop="20220606113000 +0200" channel="Ch 8">
+    <title lang="en">Hello Singapore</title>
+    <title lang="xx">狮城有约</title>
+    <desc lang="en">(Live) Delivering the day's latest news and social features that matter to you. Every Monday to Friday, from 6.30pm to 7.30pm on Channel 8.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833926'&amp;EntityType='LinearSchedule'&amp;EntityId='115ad51e-70d6-4c7f-bf35-137b1fd0f6b9'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E47</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220606113000 +0200" stop="20220606120000 +0200" channel="Ch 8">
+    <title lang="en">Armed Reaction 2021</title>
+    <title lang="xx">陀枪师姐 2021</title>
+    <desc lang="en">Ver BSanyuan is in charge of investigating Sade's case while Judy, Elaine and CCSIU team members come to Diana's defence. However the evidence are not in Diana's favour and Sanyuan is certain that Hanson is biased. Ver CDahua learns that YaoZhong wants Danji to manage the logistics company. He is worried that Yaozhong will make use of Danji to deliver drugs and thus tries to stop him. Danji feels that Dahua looks down on him and both ends up as foes.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833932'&amp;EntityType='LinearSchedule'&amp;EntityId='b364e467-7c83-4bd5-9959-d1615a0270a3'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E28</episode-num>
+    <rating>
+      <value>PG (Some Violence)</value>
+    </rating>
+  </programme>
+  <programme start="20220606120000 +0200" stop="20220606130000 +0200" channel="Ch 8">
+    <title lang="en">James' Going Places</title>
+    <title lang="xx">詹姆士出走料理 III</title>
+    <desc lang="en">"James Going Places" focuses on finding the menu of James' private kitchen. In order to find delicious dishes that he remembers, James will bring viewers to explore every corners that has tasty delicacies and culinary expertise.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4836998'&amp;EntityType='LinearSchedule'&amp;EntityId='cfb48da4-b723-4d3d-8098-b55e2a399657'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220606130000 +0200" stop="20220606140000 +0200" channel="Ch 8">
+    <title lang="en">The Unbreakable Bond</title>
+    <title lang="xx">寄生</title>
+    <desc lang="en">LeAnn uses Xiu Huan's time in prison due to drug possession to hurt Zhao Hua. Xiu Huan is chased by reporters and runs home in terror. Yun Cong and Yun Ze are surprised to learn about Xiu Huan's past. Xiu Huan admits to her past, hiding it so that Yun Cong will not perceive her as a bad person. Yun Cong is distressed by his mother's suffering, but Xiu Huan refuses to elaborate on the details.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833940'&amp;EntityType='LinearSchedule'&amp;EntityId='319fbe35-1f6e-4981-aaf7-19ab699c4c9d'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220606140000 +0200" stop="20220606143000 +0200" channel="Ch 8">
+    <title lang="en">News Tonight</title>
+    <title lang="xx">晚间新闻 2022-2023</title>
+    <desc lang="en">Daily evening updates on top local news and world news.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833944'&amp;EntityType='LinearSchedule'&amp;EntityId='34a8feb6-f999-4823-9265-4e48cce7ec42'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E67</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220606143000 +0200" stop="20220606150000 +0200" channel="Ch 8">
+    <title lang="en">Incredible Tales</title>
+    <title lang="xx">灵异怪谈8</title>
+    <sub-title lang="en">In Limbo</sub-title>
+    <desc lang="en">What drives a person to take his own life? Where does he go from there, or is he trapped forever? Trapped in a world without an exit and where he is forced to face his consequences. When stuck in such a situation, what would you do?</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833948'&amp;EntityType='LinearSchedule'&amp;EntityId='7e66334d-275e-4689-9220-8951b71ad3b2'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S8 E12</episode-num>
+    <rating>
+      <value>PG13 (Horror-Supernatural)</value>
+    </rating>
+  </programme>
+  <programme start="20220606150000 +0200" stop="20220606160000 +0200" channel="Ch 8">
+    <title lang="en">The Long Ballad</title>
+    <title lang="xx">长歌行</title>
+    <desc lang="en">Changge offers to be Ashina Sun's advisor in exchange that she can leave the grasslands. The Great Khan makes a sudden visit with She Er, who tries to accuse Ashina Sun for betraying the Ashina Tribe. Meanwhile, Leyan seeks shelter at a textile workshop and successfully persuades the boss to hire her.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833952'&amp;EntityType='LinearSchedule'&amp;EntityId='1b93205f-0f20-4bb2-b4a0-1dda671efe82'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220606160000 +0200" stop="20220606170000 +0200" channel="Ch 8">
+    <title lang="en">My Teacher Is A Thug</title>
+    <title lang="xx">爱不迟疑</title>
+    <desc lang="en">Joseph proposes to Kai Xin, making Kelly jealous. She deliberately lets Kai Xin witness her and Joseph going into a hotel together. Unaware of the situation, Joseph decides to buy Kai Xin a sports car to surprise her. Thinking that the gift arose from his guilt, Kai Xin slaps Joseph and mentions about Joseph and Kelly going to the hotel. Joseph attempts to clarify but to no avail.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4837020'&amp;EntityType='LinearSchedule'&amp;EntityId='921c4e64-225e-4055-88c2-89e1de94c988'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220606170000 +0200" stop="20220606180000 +0200" channel="Ch 8">
+    <title lang="en">Neighbourhood Chef</title>
+    <title lang="xx">邻里厨王 2</title>
+    <desc lang="en">Hosted by Mark Lee and Quan Yifeng, contestants from different races come together to pit their cooking skills on a specific food ingredient of the week. This weeks theme is on tofu.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4837027'&amp;EntityType='LinearSchedule'&amp;EntityId='da8080e9-97d0-4631-9c7f-863fa2605423'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220606180000 +0200" stop="20220606190000 +0200" channel="Ch 8">
+    <title lang="en">Brave New World</title>
+    <title lang="xx">新阿郎</title>
+    <desc lang="en">Brave New World - EP 1.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4837035'&amp;EntityType='LinearSchedule'&amp;EntityId='b13a0d91-5116-4ddf-9a0c-18d4ce7536e2'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220606190000 +0200" stop="20220606200000 +0200" channel="Ch 8">
+    <title lang="en">Brave New World</title>
+    <title lang="xx">新阿郎</title>
+    <desc lang="en">Brave New World - EP 2.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4837043'&amp;EntityType='LinearSchedule'&amp;EntityId='97883551-cb86-40a5-acf7-94c547e71a15'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220606200000 +0200" stop="20220606210000 +0200" channel="Ch 8">
+    <title lang="en">Taste of Life</title>
+    <title lang="xx">甘味人生</title>
+    <desc lang="en">Chu-Tsai, Chao and his wife have five children. Devoted all his life into developing soy sauce products, Chu-Tsai very much hopes that one of his kids can follow his footsteps and take over his business, but he also respects their own passions and aspirations. Because of their father's invention dream, the Chao brother's lives are about to change.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4837050'&amp;EntityType='LinearSchedule'&amp;EntityId='7b7427f9-65d2-4a0b-a633-aab2c27b5b79'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E917</episode-num>
+    <rating>
+      <value>PG (Some Disturbing Scenes)</value>
+    </rating>
+  </programme>
+  <programme start="20220606210000 +0200" stop="20220606220000 +0200" channel="Ch 8">
+    <title lang="en">Kinship</title>
+    <title lang="xx">手足</title>
+    <desc lang="en">(R) Brothers, Chen Anping (Yao Wenlong) and Anxin (Chen Tianwen) run 'Da Ying Jia'. Together, they expanded their foot reflexology centre from its humble beginnings to a successful chain-store. But beneath the calm surface of the 25 years family business lie secrets and struggles. Founder Anping continues working as a masseur and leaves business operations to Anxin; much to the chagrin of his wife, Meiqi (Xiang Yun), and adopted daughters, Jinsha ...</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4837059'&amp;EntityType='LinearSchedule'&amp;EntityId='f30f3ad6-3373-46a5-900b-9ab81e2d50fa'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220606220000 +0200" stop="20220606230000 +0200" channel="Ch 8">
+    <title lang="en">Old Taste Detective</title>
+    <title lang="xx">古早味侦探 2</title>
+    <desc lang="en">Hokkien Braised Pork Bun is one of the traditional Hokkien delicacies. Bryan and Chef Nicholas visit traditional eateries to explore the old taste of Hokkien Braised Pork Bun. They try to recreate the original version and taste of Hokkien Braised Pork Bun after collating their research information.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4837067'&amp;EntityType='LinearSchedule'&amp;EntityId='c9f5dbba-95a2-40f5-9cde-bdb9ab1d1a9a'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
   </programme>
   <programme start="20220530030000 +0200" stop="20220530031500 +0200" channel="Ch U">
     <title lang="en">Deals For Joy</title>
@@ -6312,148 +6097,156 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220529010000 +0200" stop="20220529013000 +0200" channel="Suria">
-    <title lang="en">Upin &amp; Ipin</title>
-    <desc lang="en">Ros makes Upin and Ipin do their chores. While cleaning up, they found a mysterious room in their home. After letting themselves in, they find many things in the room that hints about their past.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Kids</category>
+  <programme start="20220605183000 +0200" stop="20220605183000 +0200" channel="Ch U">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4834447'&amp;EntityType='LinearSchedule'&amp;EntityId='25d381d2-fe6d-4b64-b426-49527c8e36c2'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
   </programme>
-  <programme start="20220529013000 +0200" stop="20220529020000 +0200" channel="Suria">
-    <title lang="en">Misi Gaia</title>
-    <desc lang="en">This week, we find out how waste can be upcycled. Amyrah discovers how to turn trash into useful products as we visit Malaysia for our second trip there.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Others</category>
+  <programme start="20220605183000 +0200" stop="20220606070000 +0200" channel="Ch U">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4834447'&amp;EntityType='LinearSchedule'&amp;EntityId='25d381d2-fe6d-4b64-b426-49527c8e36c2'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
   </programme>
-  <programme start="20220529020000 +0200" stop="20220529030000 +0200" channel="Suria">
-    <title lang="en">Sukan Gemilang</title>
-    <desc lang="en">Yusof tracks down the pioneer adrenaline junkies in skateboarding and BMX to learn about how they began their sporting journeys in the 1970’s and 1980’s. He also hangs out with the Asian X Games skateboarding champion, the BMX Flatlanders and the daredevil parkour athletes to learn about how they grow their communities on our island.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Others</category>
+  <programme start="20220606070000 +0200" stop="20220606080000 +0200" channel="Ch U">
+    <title lang="en">Taste From Home</title>
+    <title lang="xx">幸福乡味</title>
+    <desc lang="en">Singaporean May Oon moved to Denmark with her Danish husband 5 years ago. Whenever she feels homesick, she will eat the chili sauce sent over by her family here. But the dish she misses most is her aunt's pig trotters with vinegar. Will host Yahui be able to replicate the taste of her aunt's dish?</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4834456'&amp;EntityType='LinearSchedule'&amp;EntityId='3169927d-cf16-4d81-a32f-8ff539fdd6b8'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
   </programme>
-  <programme start="20220529030000 +0200" stop="20220529040000 +0200" channel="Suria">
-    <title lang="en">Ole Ole Temasya 2</title>
-    <desc lang="en">Located in Gràcia, Barcelona, the popular festival features 18 streets competing with one another through their innovative decor and grand themes. The decorations are lovingly hand-made by the residents who prepare for competition almost a year in advance.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Others</category>
+  <programme start="20220606080000 +0200" stop="20220606090000 +0200" channel="Ch U">
+    <title lang="en">The Food We Love To Hate</title>
+    <title lang="xx">畏口大开</title>
+    <sub-title lang="en">Cheese</sub-title>
+    <desc lang="en">Ex- parliamentarian Lee Bee Wah and veteran artiste Marcus Chin must cast aside their fear of eating cheese. Belinda Lee brings one to experience cheese cutting in a specialty shop and the other to taste Indian cheese. Experts in Asian fusion cuisine and Chinese dim sum, can our master chefs succeed in moderating the taste of cheese to suit our guests?</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4834470'&amp;EntityType='LinearSchedule'&amp;EntityId='5303ec53-d0ce-43e7-893e-2188c19e6866'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
   </programme>
-  <programme start="20220529040000 +0200" stop="20220529043000 +0200" channel="Suria">
-    <title lang="en">Naura Shares</title>
-    <desc lang="en">Naura Shares brings you yet another round of meaningful talks by inspiring individuals There will be few focused topics that will be shared from guest point of view as well as from their experiences.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20220529043000 +0200" stop="20220529050000 +0200" channel="Suria">
-    <title lang="en">Impiana</title>
-    <desc lang="en">Impiana guides and shares ideas of interior and exterior home decor inspirations for those decor enthusiasts. From inspirations to DIY budget decor, Impiana is sure to provide different themes to meet different needs and tastes.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20220529050000 +0200" stop="20220529060000 +0200" channel="Suria">
-    <title lang="en">Seadanya Aku</title>
-    <desc lang="en">Hadi's wife, Eliza, warns Zureen to stay away from Hadi. Zarul finally reveals to Taufik that Aufiya is his wife and cautions him not to disturb her. Zureen gets a shock when she sees Aufiya and Zarul acting coy together.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama Series</category>
-  </programme>
-  <programme start="20220529060000 +0200" stop="20220529070000 +0200" channel="Suria">
-    <title lang="en">Bicara Cinta Tertangguh</title>
-    <desc lang="en">Suri accepts Luqman's marriage proposal and both of them plan to meet Haji Firdaus to seek his permission. Haji Firdaus is unsure if he is able to accept Luqman as his future son-in-law after Nani has spoken ill of them.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama Series</category>
-  </programme>
-  <programme start="20220529070000 +0200" stop="20220529080000 +0200" channel="Suria">
-    <title lang="en">Sepahtu Reunion Live 2020</title>
-    <desc lang="en">Sepahtu is back once again for a third season together with Jep, Shuib, Rahim and Pak Ya. Get ready to laugh as they entertain with their most sensational humorous joke in front of live audiences with their mystery guest artiste.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813096'&amp;EntityType='LinearSchedule'&amp;EntityId='fcdecd19-00d8-4ad6-8506-1583bc98894a'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E3</episode-num>
+  <programme start="20220606090000 +0200" stop="20220606100000 +0200" channel="Ch U">
+    <title lang="en">My Healing Love</title>
+    <title lang="xx">我的爱情治愈记</title>
+    <desc lang="en">Ep 29: Xiaoshi invites Sanshu and her family to a meal to thank them for taking care of Zhiyu all these years. Sanshu reveals that Zhiyu was last seen with a young and beautiful woman on the day she was found wandering at the market. The Cuis are shocked while Songzhu appears worried.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4834481'&amp;EntityType='LinearSchedule'&amp;EntityId='7609c5e1-b3a0-473f-8e83-58e6cd0fe8a1'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E41</episode-num>
     <rating>
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220529080000 +0200" stop="20220529090000 +0200" channel="Suria">
-    <title lang="en">Isteriku Mem Besar</title>
-    <desc lang="en">Azizi wants to become the head of the village but is disheartened when his family does not seem to support him. Mak Jah advises him to be more assertive in his decision. Melissa gets her act together and decides to forget Alif after seeing him with another woman.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama Series</category>
+  <programme start="20220606100000 +0200" stop="20220606110000 +0200" channel="Ch U">
+    <title lang="en">Where Stars Land</title>
+    <title lang="xx">狐狸新娘星</title>
+    <desc lang="en">Shujun asks Xiuyan not to patrol the grounds or do anything that will draw attention. Renyu has tricked Director Quan to investigate Xiuyan, with the intention to make him leave the airport.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4834499'&amp;EntityType='LinearSchedule'&amp;EntityId='bdede634-4b22-4538-8c92-039ce4c26832'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating>
+      <value>PG (Some Disturbing Scenes)</value>
+    </rating>
   </programme>
-  <programme start="20220529090000 +0200" stop="20220529100000 +0200" channel="Suria">
-    <title lang="en">Biar Mereka Cemburu</title>
-    <desc lang="en">Nabil unknowingly becomes involved in an illegal drug business with Fitri. Nadia is stunned to see Eidil at her mother's house and thinks he has been stalking her.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama Series</category>
+  <programme start="20220606110000 +0200" stop="20220606120000 +0200" channel="Ch U">
+    <title lang="en">Beautiful Love, Wonderful Life</title>
+    <title lang="xx">爱情是Beautiful, 人生是Wonderful</title>
+    <desc lang="en">Ep 73: Hailang warns Huaying that she knows the reason why Huaying is adamant about sending Shiyue to prison. Huaying offers 3 billion won hush money to Hailang, but the latter refuses to accept it.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4834516'&amp;EntityType='LinearSchedule'&amp;EntityId='d4ce7e61-1585-4372-8b96-7233e6e40991'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E93</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
   </programme>
-  <programme start="20220529100000 +0200" stop="20220529103000 +0200" channel="Suria">
-    <title lang="en">Upin &amp; Ipin</title>
-    <desc lang="en">This time, Upin and Ipin are reminded to not only abstain from eating and drinking during Ramadhan, but also taking care of what they say, hear and see. In Tadika Mesra, they share their experiences with their classmates.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Kids</category>
+  <programme start="20220606120000 +0200" stop="20220606130000 +0200" channel="Ch U">
+    <title lang="en">Beautiful Love, Wonderful Life</title>
+    <title lang="xx">爱情是Beautiful, 人生是Wonderful</title>
+    <desc lang="en">Ep 74: Yingxiong's boss has the intention to let Yingxiong buy and take over his restaurant business. Yingxiong asks Zhenyou over to seek his opinion. Xue-er is surprised to see them together.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4834534'&amp;EntityType='LinearSchedule'&amp;EntityId='3651ad1d-862a-4e9f-9105-da980ace0029'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E95</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
   </programme>
-  <programme start="20220529103000 +0200" stop="20220529110000 +0200" channel="Suria">
-    <title lang="en">Misi Gaia</title>
-    <desc lang="en">This week, we find out how waste can be upcycled. Amyrah discovers how to turn trash into useful products as we visit Malaysia for our second trip there.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Others</category>
+  <programme start="20220606130000 +0200" stop="20220606133000 +0200" channel="Ch U">
+    <title lang="en">12 Summers</title>
+    <title lang="xx">十二个夏天</title>
+    <desc lang="en">An entertaining and colourful travelogue where 12 hosts who goes to 5 countries during summer to experience the life and different cultures there. Also the different things that the people do during summer.Countries include Fiki, Spain, Greece, Korea and South Africa. The hosts are Tiffany Lau, Owen Cheung, Karl Ding, Carlos Chan, Shiga Lin, Gloria Tang etc.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4834553'&amp;EntityType='LinearSchedule'&amp;EntityId='2124a8e7-c929-4d78-931e-11d9b04a1b55'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
   </programme>
-  <programme start="20220529110000 +0200" stop="20220529113000 +0200" channel="Suria">
-    <title lang="en">Naura Shares</title>
-    <desc lang="en">Naura Shares brings you yet another round of meaningful talks by inspiring individuals There will be few focused topics that will be shared from guest point of view as well as from their experiences.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20220529113000 +0200" stop="20220529120000 +0200" channel="Suria">
-    <title lang="en">Impiana</title>
-    <desc lang="en">Impiana guides and shares ideas of interior and exterior home decor inspirations for those decor enthusiasts. From inspirations to DIY budget decor, Impiana is sure to provide different themes to meet different needs and tastes.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20220529120000 +0200" stop="20220529123000 +0200" channel="Suria">
-    <title lang="en">Berita 2022-2023</title>
-    <desc lang="en">Catch the latest local and international news on Suria.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813152'&amp;EntityType='LinearSchedule'&amp;EntityId='d2bc1935-3c60-41b2-b809-dd379d227d09'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E529</episode-num>
+  <programme start="20220606133000 +0200" stop="20220606140000 +0200" channel="Ch U">
+    <title lang="en">RenovAID</title>
+    <title lang="xx">翻新援助行动</title>
+    <desc lang="en">The 10th season of RenovAID sees a new presenter at the helm! Oon Shu An joins our interior designers, contractors and volunteers as they help underprivileged families renew, rebuild and revitalise their homes.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4834571'&amp;EntityType='LinearSchedule'&amp;EntityId='820886ff-38f3-46aa-a4b5-48bb4f571b5e'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S10 E5</episode-num>
     <rating>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220529123000 +0200" stop="20220529133000 +0200" channel="Suria">
-    <title lang="en">Masak Macam Saya</title>
-    <desc lang="en">Cycling buddies Suhaillah Salam and Siti Hajar are all set to cook Indian dishes like Malai Kofta and Butter Chicken. They have to multi-task and keep up with Chef Bob's super speed while hulahooping and power stepping!</desc>
-    <category lang="en">General</category>
-    <category lang="en">Entertainment</category>
+  <programme start="20220606140000 +0200" stop="20220606150000 +0200" channel="Ch U">
+    <title lang="en">Sinister Beings</title>
+    <title lang="xx">逆天奇案</title>
+    <desc lang="en">Zhang Xi becomes curious when she unexpectedly sees You Li paying her respects to her ex-boyfriend.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4834582'&amp;EntityType='LinearSchedule'&amp;EntityId='a742acfa-2856-4cd0-b0ba-ac9a1b861e49'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E26</episode-num>
+    <rating>
+      <value>PG13 (Violence)</value>
+    </rating>
   </programme>
-  <programme start="20220529133000 +0200" stop="20220529143000 +0200" channel="Suria">
-    <title lang="en">Biar Mereka Cemburu</title>
-    <desc lang="en">Eidil is starting to fall in love with Nadia. Marsha's temper flares when Eidil breaks up with her. She vows to find out who the other woman is.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama Series</category>
-  </programme>
-  <programme start="20220529143000 +0200" stop="20220529150000 +0200" channel="Suria">
-    <title lang="en">Rasa Anak Emak Anak Bapak</title>
-    <desc lang="en">Invites sparks of cooking ideas as well as welcoming audiences the idea of enjoying the fruits of labour with the entire family. Recipes are practical and easy to try, as it challenges your creativity in the kitchen.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20220529150000 +0200" stop="20220529153000 +0200" channel="Suria">
-    <title lang="en">Juri</title>
-    <desc lang="en">For us, social media is our life as it holds all our secrets and information. What happens when a girls’ social media accounts fall into the wrong hands. How far will her stalker go to tarnish her reputation and destroy her life one social media account at a time.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20220529153000 +0200" stop="20220529160000 +0200" channel="Suria">
-    <title lang="en">Berita 2022-2023</title>
-    <desc lang="en">Catch the latest local and international news on Suria.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4813178'&amp;EntityType='LinearSchedule'&amp;EntityId='cc4a9759-ee0f-4fbe-b1c5-31c4a29073a3'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <episode-num system="onscreen">S1 E529</episode-num>
+  <programme start="20220606150000 +0200" stop="20220606153000 +0200" channel="Ch U">
+    <title lang="en">News Tonight</title>
+    <title lang="xx">晚间新闻 2022-2023</title>
+    <desc lang="en">A comprehensive half-hour news programme, NEWS TONIGHT provides viewers with important local, international and financial developments for the day.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4834592'&amp;EntityType='LinearSchedule'&amp;EntityId='f7dbd2e8-8743-4f67-af0a-4028f655d663'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E67</episode-num>
     <rating>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220529160000 +0200" stop="20220529160000 +0200" channel="Suria">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
-    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4815562'&amp;EntityType='LinearSchedule'&amp;EntityId='eaaff50b-9730-4193-a015-a899815d09b5'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  <programme start="20220606153000 +0200" stop="20220606160000 +0200" channel="Ch U">
+    <title lang="en">12 Summers</title>
+    <title lang="xx">十二个夏天</title>
+    <desc lang="en">An entertaining and colourful travelogue where 12 hosts who goes to 5 countries during summer to experience the life and different cultures there. Also the different things that the people do during summer.Countries include Fiki, Spain, Greece, Korea and South Africa. The hosts are Tiffany Lau, Owen Cheung, Karl Ding, Carlos Chan, Shiga Lin, Gloria Tang etc.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4834596'&amp;EntityType='LinearSchedule'&amp;EntityId='656aedaa-219c-421e-a400-7a6553f5a590'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
   </programme>
-  <programme start="20220529160000 +0200" stop="20220530010000 +0200" channel="Suria">
-    <title lang="en">End of Transmission</title>
+  <programme start="20220606160000 +0200" stop="20220606163000 +0200" channel="Ch U">
+    <title lang="en">RenovAID</title>
+    <title lang="xx">翻新援助行动</title>
+    <desc lang="en">The 10th season of RenovAID sees a new presenter at the helm! Oon Shu An joins our interior designers, contractors and volunteers as they help underprivileged families renew, rebuild and revitalise their homes.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4837624'&amp;EntityType='LinearSchedule'&amp;EntityId='94925f3a-835b-4c02-9101-ddb306723e92'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S10 E5</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220606163000 +0200" stop="20220606173000 +0200" channel="Ch U">
+    <title lang="en">Beautiful Love, Wonderful Life</title>
+    <title lang="xx">爱情是Beautiful, 人生是Wonderful</title>
+    <desc lang="en">Ep 73: Hailang warns Huaying that she knows the reason why Huaying is adamant about sending Shiyue to prison. Huaying offers 3 billion won hush money to Hailang, but the latter refuses to accept it.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4837637'&amp;EntityType='LinearSchedule'&amp;EntityId='e25ad17d-1505-4c49-80e5-984025ed5afa'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E93</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220606173000 +0200" stop="20220606183000 +0200" channel="Ch U">
+    <title lang="en">Beautiful Love, Wonderful Life</title>
+    <title lang="xx">爱情是Beautiful, 人生是Wonderful</title>
+    <desc lang="en">Ep 74: Yingxiong's boss has the intention to let Yingxiong buy and take over his restaurant business. Yingxiong asks Zhenyou over to seek his opinion. Xue-er is surprised to see them together.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4837654'&amp;EntityType='LinearSchedule'&amp;EntityId='49921483-ad45-4cba-8724-bb63af06bcf6'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E95</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
   </programme>
   <programme start="20220530010000 +0200" stop="20220530013000 +0200" channel="Suria">
     <title lang="en">Dino Trainers</title>
@@ -7656,6 +7449,189 @@
     <desc lang="en">Berita 2022-2023.</desc>
     <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4831583'&amp;EntityType='LinearSchedule'&amp;EntityId='d8a4245e-e9fd-4004-a63c-a250e5334d6b'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <episode-num system="onscreen">S1 E605</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220605160000 +0200" stop="20220605160000 +0200" channel="Suria">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833528'&amp;EntityType='LinearSchedule'&amp;EntityId='1f452a22-5715-42f0-8e9d-0df5f8954814'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  </programme>
+  <programme start="20220605160000 +0200" stop="20220606010000 +0200" channel="Suria">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833528'&amp;EntityType='LinearSchedule'&amp;EntityId='1f452a22-5715-42f0-8e9d-0df5f8954814'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  </programme>
+  <programme start="20220606010000 +0200" stop="20220606013000 +0200" channel="Suria">
+    <title lang="en">Dino Trainers</title>
+    <desc lang="en">Ritchie is an 8-year-old boy. He lives in a world where humans and dinosaurs live in harmony. He loves being close to dinosaurs. To become a good dino trainer, he and his partner T-Rex go on an adventure. During the journey, T-Rex is targeted by the hunting team, a group of dinosaur hunters. They hunt dinosaurs and develop them into super dinosaurs, causing damage to dinosaurs and nature. To protect the dinosaurs and nature, Ritchie uses new powers to help T-Rex evolve into Dino-man.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833532'&amp;EntityType='LinearSchedule'&amp;EntityId='21d26c32-3860-4b6a-b55a-598e69242f75'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220606013000 +0200" stop="20220606020000 +0200" channel="Suria">
+    <title lang="en">Rasa Anak Emak Anak Bapak</title>
+    <desc lang="en">Invites sparks of cooking ideas as well as welcoming audiences the idea of enjoying the fruits of labour with the entire family. Recipes are practical and easy to try, as it challenges your creativity in the kitchen.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833536'&amp;EntityType='LinearSchedule'&amp;EntityId='49bb7266-9e06-425a-ac94-59d695100368'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220606020000 +0200" stop="20220606030000 +0200" channel="Suria">
+    <title lang="en">Beri Sedikit Waktu</title>
+    <desc lang="en">Imran notices Niya is hiding something from him after seeing her arguing with Farhan and Haryani in the park. Niya decides to come clean about her past and Luqman's identity. She braces herself for another job dismissal.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833540'&amp;EntityType='LinearSchedule'&amp;EntityId='8f28d60a-ee12-420d-b629-163e15c94384'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220606030000 +0200" stop="20220606040000 +0200" channel="Suria">
+    <title lang="en">Bicara Cinta Tertangguh</title>
+    <desc lang="en">Luqman brings an entourage to Haji Firdaus' house to ask for his daughter's hand in marriage. However, the happy occasion quickly turns sour which leaves both Luqman and Suri embarrassed and disappointed.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833544'&amp;EntityType='LinearSchedule'&amp;EntityId='1365a9c2-b466-44a6-8c97-eadf226d17b9'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220606040000 +0200" stop="20220606043000 +0200" channel="Suria">
+    <title lang="en">Camy &amp; Dee</title>
+    <sub-title lang="en">Camy &amp; Dee</sub-title>
+    <desc lang="en">Programme is not available for live streaming. nil.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833548'&amp;EntityType='LinearSchedule'&amp;EntityId='03f38638-d068-47f6-ba22-57fe641d835d'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220606043000 +0200" stop="20220606050000 +0200" channel="Suria">
+    <title lang="en">3 Dara Metropolitan</title>
+    <sub-title lang="en">Tiga Dara Metropolitan</sub-title>
+    <desc lang="en">Programme is not available for live streaming. nil.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833552'&amp;EntityType='LinearSchedule'&amp;EntityId='f18ff18c-9e1d-443c-a46d-1a1173031860'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220606050000 +0200" stop="20220606060000 +0200" channel="Suria">
+    <title lang="en">Isteriku Mem Besar</title>
+    <desc lang="en">Azizi makes up his mind and returns to the village. He later has a tough time avoiding Niesa. Maziah and Iqram are shocked to see someone familiar in picture that is going viral on the internet. Maziah gets angry and Iqram fears for his popularity in school.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833559'&amp;EntityType='LinearSchedule'&amp;EntityId='d6ac3285-e2ce-49ea-8c75-2e3d5d5306c5'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220606060000 +0200" stop="20220606070000 +0200" channel="Suria">
+    <title lang="en">Rahmat Cinta</title>
+    <desc lang="en">Bella is forced to marry Andrey, a handsome and wealthy man who saves her family's company. On her wedding day, Bella tries to run away until her car crashes down into a river. She is saved by a man, named Dewa. He works a part-time job in the village. He has two stepchildren named Kimmy and Keanu. Dewa knows that Bella is being chased by Andrey's people, so he decides to lie about marrying Bella.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833569'&amp;EntityType='LinearSchedule'&amp;EntityId='4a2ea88b-5bba-4b71-be7c-54807e9453a5'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E23</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220606070000 +0200" stop="20220606080000 +0200" channel="Suria">
+    <title lang="en">Masak Macam Saya</title>
+    <desc lang="en">Masak Macam Saya 2 returns with more drama, fun, hacks &amp; tips from the kitchen! This cooking reality series showcases more culinary-challenged celebrities competing against each other over a series of cooking challenges while being coached by our mentor chef; and this time, dishes extend to international cuisines! Each episode is thematically designed to feature dishes with a specific purpose.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833578'&amp;EntityType='LinearSchedule'&amp;EntityId='eee33832-656b-45df-a022-f9a3f5bc1f39'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220606080000 +0200" stop="20220606090000 +0200" channel="Suria">
+    <title lang="en">Beri Sedikit Waktu</title>
+    <desc lang="en">Imran notices Niya is hiding something from him after seeing her arguing with Farhan and Haryani in the park. Niya decides to come clean about her past and Luqman's identity. She braces herself for another job dismissal.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833587'&amp;EntityType='LinearSchedule'&amp;EntityId='0fb32e44-6511-4aed-bffc-36e8b3770583'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220606090000 +0200" stop="20220606100000 +0200" channel="Suria">
+    <title lang="en">Biar Mereka Cemburu</title>
+    <desc lang="en">Rustam is shocked when Nabil reveals that his father is alive and in a bad situation because of Nadia. Marsha comes to visit Eidil's parents to inform them a piece of bad news about Nadia.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833595'&amp;EntityType='LinearSchedule'&amp;EntityId='97708fc0-d614-43c4-a959-cfc733c2440b'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220606100000 +0200" stop="20220606103000 +0200" channel="Suria">
+    <title lang="en">Dino Trainers</title>
+    <desc lang="en">Ritchie is an 8-year-old boy. He lives in a world where humans and dinosaurs live in harmony. He loves being close to dinosaurs. To become a good dino trainer, he and his partner T-Rex go on an adventure. During the journey, T-Rex is targeted by the hunting team, a group of dinosaur hunters. They hunt dinosaurs and develop them into super dinosaurs, causing damage to dinosaurs and nature. To protect the dinosaurs and nature, Ritchie uses new powers to help T-Rex evolve into Dino-man.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833603'&amp;EntityType='LinearSchedule'&amp;EntityId='6ed781f2-944f-457e-8f21-46854335fb65'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220606103000 +0200" stop="20220606110000 +0200" channel="Suria">
+    <title lang="en">Rasa Anak Emak Anak Bapak</title>
+    <desc lang="en">Invites sparks of cooking ideas as well as welcoming audiences the idea of enjoying the fruits of labour with the entire family. Recipes are practical and easy to try, as it challenges your creativity in the kitchen.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833610'&amp;EntityType='LinearSchedule'&amp;EntityId='7159ad38-4712-4827-a04f-1e7cf574cfe8'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220606110000 +0200" stop="20220606120000 +0200" channel="Suria">
+    <title lang="en">Budak Intern</title>
+    <desc lang="en">Series SynopsisIzzy, Ryan, Karl and Bainun have been offered to undergo industrial training (internship) at a well-known advertising agency, NF Media. They put their friendship to the test when they must compete against each other for a chance to secure a permanent position after internship ends.Episode 1Izzy, Ryan, Karl and Bainun have been offered an internship at a well-known advertising agency, NF Media. Bainun has difficulty adjusting in a new environment whereas the rest of them.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833624'&amp;EntityType='LinearSchedule'&amp;EntityId='a8f6ec5c-a8c5-4540-bd0c-605140ad7412'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220606120000 +0200" stop="20220606123000 +0200" channel="Suria">
+    <title lang="en">Berita 2022-2023</title>
+    <desc lang="en">Berita 2022-2023.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833631'&amp;EntityType='LinearSchedule'&amp;EntityId='73ea9a08-2cd5-456b-8401-e51baeded4c3'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E606</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220606123000 +0200" stop="20220606133000 +0200" channel="Suria">
+    <title lang="en">Manja</title>
+    <desc lang="en">Manja is back for its 7th season with hosts Fadhli Abdullah, Syirah Jusni, Lydia Asyiqin, Hans Hamid and RZ. Manja S7 is set to kick off each week with its palette of lifestyle tips, fun activities, fashion trends, and delectable gourmet in and around Singapore.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833639'&amp;EntityType='LinearSchedule'&amp;EntityId='95a1e298-42a9-446e-9fe2-8700cd5b4dd8'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S7 E4</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220606133000 +0200" stop="20220606143000 +0200" channel="Suria">
+    <title lang="en">Ayahanda</title>
+    <desc lang="en">The siblings are worried about their parents after the collapse of the mosque. Mazni is unhappy to return to the village and finds a way to go home quickly. Haji Abdullah receives a piece of good news from his friends and sees what had happened as a blessing in disguise.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833646'&amp;EntityType='LinearSchedule'&amp;EntityId='a8e95d89-bd82-4754-88f1-f7e4a9a75d6c'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220606143000 +0200" stop="20220606153000 +0200" channel="Suria">
+    <title lang="en">Azam &amp; Johan</title>
+    <desc lang="en">Azam &amp; Johan aspire to be professional footballers. An accident renders Azam paralyzed, dashing his football dream. Their mother blames Johan for the accident. Azam feels his world has ended. Wrecked with guilt, Johan wants to give up football but his father stops him. Will the family be torn apart forever by the tragedy or overcome to find happiness again?</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833657'&amp;EntityType='LinearSchedule'&amp;EntityId='4f1a1ba6-e1e2-4684-af9c-bda6c75b5894'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220606153000 +0200" stop="20220606160000 +0200" channel="Suria">
+    <title lang="en">Berita 2022-2023</title>
+    <desc lang="en">Berita 2022-2023.</desc>
+    <icon src="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='4833667'&amp;EntityType='LinearSchedule'&amp;EntityId='a6614035-14b9-4ab5-9fe5-4d35b6f934e2'&amp;Width=1280&amp;Height=720&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <episode-num system="onscreen">S1 E606</episode-num>
     <rating>
       <value>G</value>
     </rating>
