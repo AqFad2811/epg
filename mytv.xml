@@ -348,11 +348,11 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220607153000 +0000" stop="20220607163000 +0000" channel="TV1">
-    <title lang="en">Seharum Rindu</title>
-    <desc lang="en">Mengisahkan tentang konflik perhubungan cinta yang diuji dengan persahabatan dan persaingan antara Helmi yang mengutamakan pelajaran mendapat tempat di hati Ameera dan Ilana.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Drama</category>
+  <programme start="20220607160000 +0000" stop="20220607163000 +0000" channel="TV1">
+    <title lang="en">Berita Tengah Malam</title>
+    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
     <rating system="MY">
       <value>U</value>
     </rating>
@@ -2574,6 +2574,130 @@
       <value>U</value>
     </rating>
   </programme>
+  <programme start="20220613150000 +0000" stop="20220613163000 +0000" channel="TV1">
+    <title lang="en">Opah</title>
+    <desc lang="en">Kisah Opah yang penyabar, penyayang dalam menghadapi pelbagai karenah anak-anaknya. Opah juga sering menjadi tempat rujukan keluarganya apabila menghadapi masalah.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Drama</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613163000 +0000" stop="20220613173000 +0000" channel="TV1">
+    <title lang="en">Sukan Lejen</title>
+    <desc lang="en">Program yang mengimbas detik-detik kegemilangan atlet dalam dunia sukan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613173000 +0000" stop="20220613180000 +0000" channel="TV1">
+    <title lang="en">Trek &amp; Rel</title>
+    <desc lang="en">Program berkonsepkan pengembaraan seorang anak muda dengan menaiki keretapi untuk menerokai kekayaan warisan dan khazanah yang ada dalam negara. Penonton dapat berkongsi banyak tempat-tempat menarik.</desc>
+    <category lang="en">Lifestyle</category>
+    <category lang="en">Travel</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613180000 +0000" stop="20220613181500 +0000" channel="TV1">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+    <category lang="en">Documentary</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613181500 +0000" stop="20220613183000 +0000" channel="TV1">
+    <title lang="en">Promo / PSA</title>
+    <desc lang="en">Saksikan paparan promo semasa, PSA, kapsul kenegaraan, kerohanian dan nilai-nilai murni.</desc>
+    <category lang="en">Documentary</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613183000 +0000" stop="20220613190000 +0000" channel="TV1">
+    <title lang="en">Destinasi Hijau</title>
+    <desc lang="en">Sebuah rancangan yang menarik khas untuk anda.</desc>
+    <category lang="en">Lifestyle</category>
+    <category lang="en">Travel</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613190000 +0000" stop="20220613193000 +0000" channel="TV1">
+    <title lang="en">Kembara Rimba Tropika</title>
+    <desc lang="en">Travelog bersama-sama hos Rhys Williams dan Boiy Nadz menyelami keindahan alam semulajadi dengan meneroka keindahan hutan hujan tropika dalam negara.</desc>
+    <category lang="en">Lifestyle</category>
+    <category lang="en">Travel</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613193000 +0000" stop="20220613213000 +0000" channel="TV1">
+    <title lang="en">Cinta Segera</title>
+    <desc lang="en">Telefilem romantik komedi khas perayaan Hari Gawai mengisahkan pemuda Cina,Harry yang berkunjung ke Sarawak.Dia turut serta ke kampung halaman kawan baiknya itu untuk meraikan sambutan perayaan Hari Gawai.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613213000 +0000" stop="20220613220000 +0000" channel="TV1">
+    <title lang="en">Bacaan Ar-Rahman</title>
+    <desc lang="en">Bacaan Ar-Rahman.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Religious</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613220000 +0000" stop="20220613223000 +0000" channel="TV1">
+    <title lang="en">Bacaan Yassin</title>
+    <desc lang="en">Saksikan siaran bacaan Yassin.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Religious</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613223000 +0000" stop="20220613230000 +0000" channel="TV1">
+    <title lang="en">Bicara Mufti</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Talk Show</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613230000 +0000" stop="20220613233000 +0000" channel="TV1">
+    <title lang="en">Berita Pagi Nasional</title>
+    <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613233000 +0000" stop="20220613234500 +0000" channel="TV1">
+    <title lang="en">Berita Pagi Sabah</title>
+    <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negeri Sabah.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613234500 +0000" stop="20220614000000 +0000" channel="TV1">
+    <title lang="en">Berita Pagi Sarawak</title>
+    <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negeri Sarawak.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
   <programme start="20220607000000 +0000" stop="20220607003000 +0000" channel="TV2">
     <title lang="en">Buzz</title>
     <desc lang="en">Sebuah animasi yang memaparkan persahabatan seekor lebah bernama Buzz dan Amin. Mereka sering bersama dan kehadiran Buzz banyak membantu Amin jika menghadapi masalah.</desc>
@@ -2763,13 +2887,13 @@
       <value>P13</value>
     </rating>
   </programme>
-  <programme start="20220607150000 +0000" stop="20220607163000 +0000" channel="TV2">
-    <title lang="en">Gelora Di Hati Sara</title>
-    <desc lang="en">Mengisahkan pergolakan rumah tangga dan kisah percintaan suami isteri yang terpaksa berhadapan dengan pelbagai cabaran untuk menemui kebahagiaan.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Drama</category>
+  <programme start="20220607160000 +0000" stop="20220607163000 +0000" channel="TV2">
+    <title lang="en">Saathanai Penn</title>
+    <desc lang="en">Episod minggu ini menceritakan tentang kejayaan Kalaih Selvi Chandran, seorang usahawan dalam bidang insuran di Seremban, Negeri Sembilan.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
     <rating system="MY">
-      <value>P13</value>
+      <value>U</value>
     </rating>
   </programme>
   <programme start="20220607163000 +0000" stop="20220607173000 +0000" channel="TV2">
@@ -4141,8 +4265,8 @@
     </rating>
   </programme>
   <programme start="20220612220000 +0000" stop="20220612230000 +0000" channel="TV2">
-    <title lang="en">Embok Belum Terbakar</title>
-    <desc lang="en">Mengisahkan Ku Iqram, seorang pemuda yang harus memikul amanah yang berat setelah diamanatkan oleh arwah moyangnya untuk mewarisi wasiat yang penuh misteri dan bermakna bagi keturunan ahli keluarganya.</desc>
+    <title lang="en">Kiambang</title>
+    <desc lang="en">Kisah kehidupan penduduk kampung berbilang kaum yang hidup dalam suasana aman dan harmoni.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Drama</category>
     <rating system="MY">
@@ -4150,8 +4274,8 @@
     </rating>
   </programme>
   <programme start="20220612230000 +0000" stop="20220612233000 +0000" channel="TV2">
-    <title lang="en">Chellup</title>
-    <desc lang="en">Siri animasi yang mengisahkan Chellup, si cicak yang menjalani kehidupan hariannya bersama rakan-rakannya.</desc>
+    <title lang="en">NINE P.I</title>
+    <desc lang="en">Zulkarnain (Nine),Pija dan Isaac tiga sahabat karib masing-masing berumur 12 tahun telah menubuhkan unit penyiasatan diberi nama Nine P.I bagi menyiasat aduan dan masalah penghuni-penghuni Kondo Mutiara.</desc>
     <category lang="en">Children</category>
     <category lang="en">Animation</category>
     <rating system="MY">
@@ -4168,8 +4292,8 @@
     </rating>
   </programme>
   <programme start="20220613000000 +0000" stop="20220613003000 +0000" channel="TV2">
-    <title lang="en">Sugar Pals</title>
-    <desc lang="en">Mengisahkan 'Sugar Pals' iaitu Lottie, Mint, Snap, Cheese Girl dan Mousse adalah pastry dan gula-gula yang dihidupkan oleh bapa Gloria seorang pembuat kek juga seorang saintis.</desc>
+    <title lang="en">Biskut Lemak</title>
+    <desc lang="en">Animasi tentang penduduk kampung dengan pelbagai ragam dan kisah menarik.</desc>
     <category lang="en">Children</category>
     <category lang="en">Animation</category>
     <rating system="MY">
@@ -4177,8 +4301,8 @@
     </rating>
   </programme>
   <programme start="20220613003000 +0000" stop="20220613010000 +0000" channel="TV2">
-    <title lang="en">Matt</title>
-    <desc lang="en">Ikuti kisah Tam, Achai, Dad dan Matt yang merupakan motor lumba berkuasa tinggi menangani pelbagai masalah yang sering mengganggu kawasan perumahan mereka.</desc>
+    <title lang="en">Misi Ady</title>
+    <desc lang="en">Ady menyangka dia akan mendapat A untuk semua subjek dalam peperiksaannya. Namun hampa apabila dimaklumkan oleh cikgunya bahawa dia telah gagal dalam subjek Sains.</desc>
     <category lang="en">Children</category>
     <category lang="en">Animation</category>
     <rating system="MY">
@@ -4312,8 +4436,8 @@
     </rating>
   </programme>
   <programme start="20220613103000 +0000" stop="20220613110000 +0000" channel="TV2">
-    <title lang="en">Upin &amp; Ipin</title>
-    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+    <title lang="en">Kuu Kuu Harajuru</title>
+    <desc lang="en">Kumpulan 'HJ5' sangat gembira apabila dijemput membuat persembahan di sebuah kelab di Newfunland.</desc>
     <category lang="en">Children</category>
     <category lang="en">Animation</category>
     <rating system="MY">
@@ -4339,8 +4463,8 @@
     </rating>
   </programme>
   <programme start="20220613120000 +0000" stop="20220613130000 +0000" channel="TV2">
-    <title lang="en">Secret Garden</title>
-    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+    <title lang="en">Maryam Qistina</title>
+    <desc lang="en">Ibu Adam menyuruh Qistina menyediakan makanan walaupun dia memberi alasan kurang sihat. Adam pula semakin kerap pulang lewat dan kurang memberi perhatian kepada isterinya.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Drama</category>
     <rating system="MY">
@@ -4348,12 +4472,111 @@
     </rating>
   </programme>
   <programme start="20220613130000 +0000" stop="20220613150000 +0000" channel="TV2">
-    <title lang="en">DRAMA on 2</title>
-    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+    <title lang="en">JAWAANI JAANEMAN</title>
+    <desc lang="en">Jazz, seorang lelaki berusia 40 tahun menjalani gaya hidup casanova di kota London. Namun, tiba-tiba Tia, seorang gadis muncul dalam hidupnya. Mengaku sebagai anak perempuannya dan masuk ke dalam hidupnya.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20220613150000 +0000" stop="20220613163000 +0000" channel="TV2">
+    <title lang="en">I-Popular</title>
+    <desc lang="en">Saksikan persembahan artis-artis popular tanah air dalam rancangan hiburan terbitan Unit Hiburan TV, RTM.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (Music)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613163000 +0000" stop="20220613173000 +0000" channel="TV2">
+    <title lang="en">Waris</title>
+    <desc lang="en">Kehidupan Ari yang tinggal bersama Mak Longnya di Ampang Batu setelah kejadian yang berlaku di Mendekar. Dia mendapat sokongan kakaknya, Kasma juga Tina, kawan baiknya.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Drama</category>
     <rating system="MY">
       <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20220613173000 +0000" stop="20220613180000 +0000" channel="TV2">
+    <title lang="en">Geng Zul Teksi</title>
+    <desc lang="en">Kisah komedi Zul dan rakan-rakannya yang bekerja sebagai pemandu teksi.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Drama</category>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20220613180000 +0000" stop="20220613183000 +0000" channel="TV2">
+    <title lang="en">Anbin Valai</title>
+    <desc lang="en">Drama kekeluargaan mengisahkan konflik yang berlaku dalam keluarga Rajan apabila dia membuat keputusan untuk membawa ayahnya tinggal bersama isteri dan juga anak-anaknya.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Drama</category>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20220613183000 +0000" stop="20220613190000 +0000" channel="TV2">
+    <title lang="en">Manasum Manasum</title>
+    <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Drama</category>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20220613190000 +0000" stop="20220613200000 +0000" channel="TV2">
+    <title lang="en">Vengeance Code</title>
+    <desc lang="en">Mengisahkan sepasukan pegawai polis yang menjalankan tugas menyelesaikan kes-kes jenayah yang berlaku dalam dunia korporat dan juga masyarakat tempatan.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Drama</category>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20220613200000 +0000" stop="20220613210000 +0000" channel="TV2">
+    <title lang="en">Metro Skuad</title>
+    <desc lang="en">Drama kepolisan yang memaparkan Unit Metro Skuad membanteras kes-kes jenayah yang sering berlaku seperti penculikan, penyeludupan, pembunuhan, rompakan, penipuan dadah dan sebagainya.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Drama</category>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20220613210000 +0000" stop="20220613220000 +0000" channel="TV2">
+    <title lang="en">Kanvas</title>
+    <desc lang="en">Ed dihantar ke hospital oleh 2 orang 'hikers' untuk mendapatkan rawatan kecemasan disebabkan luka di kakinya agak parah. Ibu Ed bergegas ke hospital selepas mendapat berita tersebut.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Drama</category>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20220613220000 +0000" stop="20220613230000 +0000" channel="TV2">
+    <title lang="en">Kiambang</title>
+    <desc lang="en">Kisah kehidupan penduduk kampung berbilang kaum yang hidup dalam suasana aman dan harmoni.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Drama</category>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20220613230000 +0000" stop="20220613233000 +0000" channel="TV2">
+    <title lang="en">NINE P.I</title>
+    <desc lang="en">Zulkarnain (Nine),Pija dan Isaac tiga sahabat karib masing-masing berumur 12 tahun telah menubuhkan unit penyiasatan diberi nama Nine P.I bagi menyiasat aduan dan masalah penghuni-penghuni Kondo Mutiara.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Animation</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613233000 +0000" stop="20220614000000 +0000" channel="TV2">
+    <title lang="en">Planet Saga</title>
+    <desc lang="en">Animasi yang mengisahkan kerenah pelbagai makhluk asing yang tinggal di sebuah planet bernama Planet Saga.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Animation</category>
+    <rating system="MY">
+      <value>U</value>
     </rating>
   </programme>
   <programme start="20220607000000 +0000" stop="20220607010000 +0000" channel="TV3">
@@ -4578,11 +4801,11 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220607150000 +0000" stop="20220607163000 +0000" channel="TV3">
-    <title lang="en">The Penthouse 2</title>
-    <desc lang="en">Seok Kyung menemui klip video Seo Jin yang tidak menyelamatkan ayahnya melalui telefon bimbit Eun Byeol.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
+  <programme start="20220607160000 +0000" stop="20220607163000 +0000" channel="TV3">
+    <title lang="en">Nightline</title>
+    <desc lang="en">News in English including business, financial and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
     <rating system="MY">
       <value>U</value>
     </rating>
@@ -6336,6 +6559,105 @@
       <value>U</value>
     </rating>
   </programme>
+  <programme start="20220613150000 +0000" stop="20220613163000 +0000" channel="TV3">
+    <title lang="en">Mem &amp; Bibik-bibik</title>
+    <desc lang="en">Puan Tini marahkan Bibik Ram kerana menyebabkan Long Kucing terjatuh dari pokok semasa cuba mengambil waunya yang tersangkut.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613163000 +0000" stop="20220613173000 +0000" channel="TV3">
+    <title lang="en">Kerana Aku Isteri Bidaan</title>
+    <desc lang="en">Akhirnya Farel mengalah dan membenarkan Raina bekerja dengan syarat ikut apa saja kerja yang diberikannya. Raina akur. Walaupun baru mula bekerja, Solleha terpaksa meminta cuti kerana ayahnya tidak sihat.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613173000 +0000" stop="20220613183000 +0000" channel="TV3">
+    <title lang="en">Hot Fm@tv3</title>
+    <desc lang="en">HOT FM@TV3.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613183000 +0000" stop="20220613190000 +0000" channel="TV3">
+    <title lang="en">Kapsul Surah</title>
+    <desc lang="en">Bacaan surah-surah Al-Quran serta terjemahannya.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613190000 +0000" stop="20220613192000 +0000" channel="TV3">
+    <title lang="en">Bacaan Yasin Tanyalah Ustaz</title>
+    <desc lang="en">Bacaan surah Yasin.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613192000 +0000" stop="20220613203000 +0000" channel="TV3">
+    <title lang="en">Tanyalah Ustaz</title>
+    <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613203000 +0000" stop="20220613213000 +0000" channel="TV3">
+    <title lang="en">Bisik-bisik Gelora</title>
+    <desc lang="en">Kerenah Nada sering menimbulkan kemarahan Ali sebab Nada kacau bos dia. Arumi didekati Zulkamal di pejabat.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613213000 +0000" stop="20220613223000 +0000" channel="TV3">
+    <title lang="en">Wow Shop</title>
+    <desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613223000 +0000" stop="20220613225000 +0000" channel="TV3">
+    <title lang="en">Bacaan Yasin Tanyalah Ustaz</title>
+    <desc lang="en">Bacaan surah Yasin.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613225000 +0000" stop="20220613235500 +0000" channel="TV3">
+    <title lang="en">Tanyalah Ustaz</title>
+    <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613235500 +0000" stop="20220614000000 +0000" channel="TV3">
+    <title lang="en">Berita Terkini</title>
+    <desc lang="en">Berita terbaru yang disiarkan dari bilik berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
   <programme start="20220607000000 +0000" stop="20220607020000 +0000" channel="DidikTVKPM">
     <title lang="en">Menengah Atas</title>
     <desc lang="en">Program pendidikan maya melangkaui bilik darjah untuk semua peringkat persekolahan yang dikendalikan bersama guru-guru berpengalaman.</desc>
@@ -6492,9 +6814,9 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220607150000 +0000" stop="20220607230000 +0000" channel="DidikTVKPM">
-    <title lang="en">Wow Shop</title>
-    <desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.</desc>
+  <programme start="20220607160000 +0000" stop="20220607230000 +0000" channel="DidikTVKPM">
+    <title lang="en">Hotfm@didiktv</title>
+    <desc lang="en">Hotfm@didiktv.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
     <rating system="MY">
@@ -7587,6 +7909,33 @@
       <value>U</value>
     </rating>
   </programme>
+  <programme start="20220613150000 +0000" stop="20220613230000 +0000" channel="DidikTVKPM">
+    <title lang="en">Wow Shop</title>
+    <desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613230000 +0000" stop="20220613233000 +0000" channel="DidikTVKPM">
+    <title lang="en">Wow Shop</title>
+    <desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613233000 +0000" stop="20220614000000 +0000" channel="DidikTVKPM">
+    <title lang="en">Cergas</title>
+    <desc lang="en">Program yang memaparkan pembelajaran, aktiviti dan kemahiran mengenai badan unit beruniform, kelab, persatuan dan juga kokurikulum koakedemik.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
   <programme start="20220607000000 +0000" stop="20220607003000 +0000" channel="8TV">
     <title lang="en">Old Is Gold</title>
     <desc lang="en">Xiang Rong and Sha Sha accompany SD Kang to pick up Gladys, but Gladys does not give SD Kang a chance to explain himself.</desc>
@@ -7758,9 +8107,9 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220607150000 +0000" stop="20220607173000 +0000" channel="8TV">
-    <title lang="en">Love in Between</title>
-    <desc lang="en">Wen Siyuan heard that Zhu Yan had left, but he didn't care too much, and went back to Wuerzhai with Su Yunluo.</desc>
+  <programme start="20220607163000 +0000" stop="20220607173000 +0000" channel="8TV">
+    <title lang="en">My Best Friend's Story</title>
+    <desc lang="en">This story revolves around two women with different backgrounds and personalities who forge a deep friendship as they support each other through hard times in life.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
     <rating system="MY">
@@ -8886,6 +9235,33 @@
       <value>U</value>
     </rating>
   </programme>
+  <programme start="20220613150000 +0000" stop="20220613173000 +0000" channel="8TV">
+    <title lang="en">Love in Between</title>
+    <desc lang="en">Su Yunluo took Zuo Qingci to see Songtao Yunhai and said that there were too many things to do before, and she couldn't be with him properly.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613173000 +0000" stop="20220613230000 +0000" channel="8TV">
+    <title lang="en">8FM @ 8TV</title>
+    <desc lang="en">8FM @ 8TV.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613230000 +0000" stop="20220614000000 +0000" channel="8TV">
+    <title lang="en">Living Delight</title>
+    <desc lang="en">This lively daily Chinese magazine talk show comprises topics pertaining to the Chinese community and focuses on issues close to the family.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
   <programme start="20220607000000 +0000" stop="20220607003000 +0000" channel="TV9">
     <title lang="en">Tanyalah Ustaz</title>
     <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
@@ -9034,9 +9410,12 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220607153000 +0000" stop="20220607170000 +0000" channel="TV9">
-    <title lang="en">The Sherry Show 2019</title>
-    <desc lang="en">Program bual bicara yang menjanjikan sesuatu luar biasa untuk mengisi kekosongan malam anda. Bersama hos Sherry Al-Hadad dan artis jemputan berbual topik-topik hangat yang pasti menghiburkan!</desc>
+  <programme start="20220607163000 +0000" stop="20220607170000 +0000" channel="TV9">
+    <title lang="en">Tauke Jamu</title>
+    <desc lang="en">Dazril mendapat bantuan daripada Iman. Abang Iman yang duduk di Yemen balik ke Malaysia dan memberitahu dia berminat untuk melabur dalam bidang kesihatan dan kecantikan. Dazril bersetuju untuk bekerjasama.</desc>
+    <credits>
+      <actor>Saharul Ridzwan Noreen Ashikin Bint</actor>
+    </credits>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
     <rating system="MY">
@@ -10620,6 +10999,120 @@
       <value>U</value>
     </rating>
   </programme>
+  <programme start="20220613153000 +0000" stop="20220613163000 +0000" channel="TV9">
+    <title lang="en">Aduan Jiwa</title>
+    <desc lang="en">Pengakuan remaja yang ketagih kepada pornografi seawal usia 8 tahun. Mengakui obses kepada bahan-bahan lucah sehingga mampu menghafal dan meneroka pelbagai informasi yang berkait rapat dengan dunia porno.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613163000 +0000" stop="20220613170000 +0000" channel="TV9">
+    <title lang="en">Tauke Jamu</title>
+    <desc lang="en">Di rumah Opah, ada Arman dan saudara yang lain sedang marah-marah sebab Opah jual tanah untuk bagi 300 ribu pada Dazril.</desc>
+    <credits>
+      <actor>Saharul Ridzwan Noreen Ashikin Bint</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613170000 +0000" stop="20220613180000 +0000" channel="TV9">
+    <title lang="en">Ada Apa Dengan Saka</title>
+    <desc lang="en">Sejak mengetahui Ain boleh nampak hantu, Madi mula berbaik-baik dengan Aina dan mempergunakan Aina untuk blognya. Aina kecewa dia tak berjaya dapat kerja.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613180000 +0000" stop="20220613190000 +0000" channel="TV9">
+    <title lang="en">Misteri Mona</title>
+    <desc lang="en">Mona menyatakan kepada Nadeem dia masih di situ kerana mahu menjaga adiknya kerana tahu Anom begitu memerlukannya.</desc>
+    <credits>
+      <actor>Janna Nick Redza Rosli Elisya Sandh</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613190000 +0000" stop="20220613193000 +0000" channel="TV9">
+    <title lang="en">Senario: Misteri Bamboo</title>
+    <desc lang="en">Kassim dan Salih muncul di kampung itu menyamar jadi waris tentera-tentera Inggeris yang pernah berkhidmat di situ pada zaman Jepun.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613193000 +0000" stop="20220613203000 +0000" channel="TV9">
+    <title lang="en">Buletin FM</title>
+    <desc lang="en">Buletin FM plays music only with no live or pre recorded announcer. Songs selected are of pop, ballad and rock genres from the 70's till now.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613203000 +0000" stop="20220613213000 +0000" channel="TV9">
+    <title lang="en">Ikatan Cinta</title>
+    <desc lang="en">Al berasa takut jika dia terpaksa kehilangan Rena sekali lagi. Papa Surya mempunyai perasaan yang tidak baik berlaku kepada Andy. Andin sangat sedih dan Hancur hati kerana terpaksa berpisah dengan Rena.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613213000 +0000" stop="20220613220000 +0000" channel="TV9">
+    <title lang="en">Jejak Rasul</title>
+    <desc lang="en">Di medan perang, dua penyair, penulis wahyu dan juga pejuang, Dirar bin Al-Azwar dan Abu Dardadi memainkan peranan menguatkan keazaman.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613220000 +0000" stop="20220613223000 +0000" channel="TV9">
+    <title lang="en">Kapsul Surah</title>
+    <desc lang="en">Bacaan AYAT KURSI serta terjemahannya.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613223000 +0000" stop="20220613225000 +0000" channel="TV9">
+    <title lang="en">Bacaan Yasin Tanyalah Ustaz</title>
+    <desc lang="en">Bacaan surah Yasin.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613225000 +0000" stop="20220613235500 +0000" channel="TV9">
+    <title lang="en">Tanyalah Ustaz</title>
+    <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613235500 +0000" stop="20220614000000 +0000" channel="TV9">
+    <title lang="en">Berita Terkini</title>
+    <desc lang="en">Laporan terkini berita tempatan dan antarabangsa termasuk berita ekonomi dan sukan.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
   <programme start="20220607000000 +0000" stop="20220607003000 +0000" channel="AwesomeTV">
     <title lang="en">Megaman: Fully Charged</title>
     <desc lang="en">Light membina robot bernama Mega Man dan penemuan lain untuk menolong manusia dan menghentikan rancangan Wily.</desc>
@@ -10818,13 +11311,14 @@
       <value>P13</value>
     </rating>
   </programme>
-  <programme start="20220607140000 +0000" stop="20220607163000 +0000" channel="AwesomeTV">
-    <title lang="en">Paul Blart: Mall Cop</title>
-    <desc lang="en">Paul, seorang ayah tunggal yang memenuhi keperluan harian dengan bekerja sebagai pengawal keselamatan di sebuah pusat membeli-belah, dia harus menyelamatkan pusat membeli-belah dari pencuri.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
+  <programme start="20220607160000 +0000" stop="20220607163000 +0000" channel="AwesomeTV">
+    <title lang="en">Sketsa Sketso</title>
+    <desc lang="en">Sebuah komedi berbentuk sketsa yang mengandungi kapsul-kapsul lawak dipisahkan oleh tema-tema yang berkait rapat dengan masyarakat yang berlaku dalam kehidupan seharian.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="onscreen">E2</episode-num>
     <rating system="MY">
-      <value>P13</value>
+      <value>U</value>
     </rating>
   </programme>
   <programme start="20220607163000 +0000" stop="20220607170000 +0000" channel="AwesomeTV">
@@ -12675,9 +13169,9 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220607153000 +0000" stop="20220607173000 +0000" channel="TVAlhijrah">
-    <title lang="en">Sinetron:Aku Bukan Ustadz</title>
-    <desc lang="en">Hati Fahri begitu pilu apabila keluar penjara kerana kes pergaduhan menolong rakannya namun kepulangannya tidak diterima oleh ibu kandung kerana dia bekas banduan.</desc>
+  <programme start="20220607163000 +0000" stop="20220607173000 +0000" channel="TVAlhijrah">
+    <title lang="en">Qalbu: Mariam</title>
+    <desc lang="en">Mariam anak yatim piatu yang tinggal bersama Idah dan keluarganya. Dia sangat teruja untuk bersekolah pada tahun hadapan.</desc>
     <category lang="en">Documentary</category>
     <category lang="en">Biography</category>
     <rating system="MY">
@@ -12793,12 +13287,12 @@
     </rating>
   </programme>
   <programme start="20220608060000 +0000" stop="20220608070000 +0000" channel="TVAlhijrah">
-    <title lang="en">No information available</title>
-    <desc lang="en">No information available.</desc>
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
     <rating system="MY">
-      <value>0</value>
+      <value>U</value>
     </rating>
   </programme>
   <programme start="20220608070000 +0000" stop="20220608073000 +0000" channel="TVAlhijrah">
@@ -13962,6 +14456,222 @@
       <value>U</value>
     </rating>
   </programme>
+  <programme start="20220612213000 +0000" stop="20220612220000 +0000" channel="TVAlhijrah">
+    <title lang="en">PANGGILAN AGUNG SUBUH</title>
+    <desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220612220000 +0000" stop="20220612230000 +0000" channel="TVAlhijrah">
+    <title lang="en">Not Available</title>
+    <desc lang="en">Program tadabbur al-Quran bermula surah al-Fatihah, al- Baqarah dari juzuk 1 hingga 30 iaitu sebanyak 604 muka surat.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220612230000 +0000" stop="20220613010000 +0000" channel="TVAlhijrah">
+    <title lang="en">Assalamualaikum (L)</title>
+    <desc lang="en">Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613010000 +0000" stop="20220613050000 +0000" channel="TVAlhijrah">
+    <title lang="en">Hafazan Al Quran Peringkat Keb. (L)</title>
+    <desc lang="en">Siaran Langsung Majlis Tilawah Dan Menghafaz Al -Quran Peringkat Kebangsaan 2022 dari 12 Jun hingga 17 Jun 2022.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613050000 +0000" stop="20220613053000 +0000" channel="TVAlhijrah">
+    <title lang="en">Panggilan Agung Zohor</title>
+    <desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613053000 +0000" stop="20220613060000 +0000" channel="TVAlhijrah">
+    <title lang="en">Alunan Bacaan Al Quran</title>
+    <desc lang="en">Program mengenai biografi mengenai para Nabi dan ilmuwan-ilmuwan.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613060000 +0000" stop="20220613083000 +0000" channel="TVAlhijrah">
+    <title lang="en">Hafazan Al Quran Peringkat Keb. (L)</title>
+    <desc lang="en">Saksikan Rancangan GoShopXAlhijrah.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613083000 +0000" stop="20220613090000 +0000" channel="TVAlhijrah">
+    <title lang="en">Panggilan Agung Asar</title>
+    <desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613090000 +0000" stop="20220613100000 +0000" channel="TVAlhijrah">
+    <title lang="en">Sinetron:Aku Bukan Ustadz</title>
+    <desc lang="en">Hati Fahri begitu pilu apabila keluar penjara kerana kes pergaduhan menolong rakannya namun kepulangannya tidak diterima oleh ibu kandung kerana dia bekas banduan.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613100000 +0000" stop="20220613110000 +0000" channel="TVAlhijrah">
+    <title lang="en">Qalbu: Mariam</title>
+    <desc lang="en">Mariam anak yatim piatu yang tinggal bersama Idah dan keluarganya. Dia sangat teruja untuk bersekolah pada tahun hadapan.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613110000 +0000" stop="20220613112500 +0000" channel="TVAlhijrah">
+    <title lang="en">Panggilan Agung Maghrib</title>
+    <desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613112500 +0000" stop="20220613113000 +0000" channel="TVAlhijrah">
+    <title lang="en">Kisah Sahabat</title>
+    <desc lang="en">Kapsul pendek yang padat dengan ilmu, pencerahan dan penerangan mengenai perkara yang kita lakukan setiap hari.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613113000 +0000" stop="20220613120000 +0000" channel="TVAlhijrah">
+    <title lang="en">Cinta Ilmu</title>
+    <desc lang="en">Sebuah program kerohanian yang menampilkan ilmuan Islam dari pelbagai bidang dalam mengupas kitab ilmu secara terperinci.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613120000 +0000" stop="20220613123000 +0000" channel="TVAlhijrah">
+    <title lang="en">Berita Alhijrah (L)</title>
+    <desc lang="en">Berita Utama Tv-Alhijrah terbahagi kepada beberapa segmen iaitu Berita Utama Harian, Berita Luar Negara, Laporan Khas, sukan, ramalan cuaca, saham and ekonomi.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613123000 +0000" stop="20220613130000 +0000" channel="TVAlhijrah">
+    <title lang="en">40 Kalam Junjungan</title>
+    <desc lang="en">Sebuah program menerangkan tentang ilmu daripada kalam suci yang boleh diterapkan dalam kehidupan harian kita.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613130000 +0000" stop="20220613150000 +0000" channel="TVAlhijrah">
+    <title lang="en">Tilawah Al Quran Peringkat Keb (L)</title>
+    <desc lang="en">Siaran Langsung Majlis Tilawah Dan Menghafaz Al -Quran Peringkat Kebangsaan 2022 dari 12 Jun hingga 17 Jun 2022.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613150000 +0000" stop="20220613153000 +0000" channel="TVAlhijrah">
+    <title lang="en">Cinta Ilmu</title>
+    <desc lang="en">Sebuah program kerohanian yang menampilkan ilmuan Islam dari pelbagai bidang dalam mengupas kitab ilmu secara terperinci.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613153000 +0000" stop="20220613173000 +0000" channel="TVAlhijrah">
+    <title lang="en">Sinetron:Aku Bukan Ustadz</title>
+    <desc lang="en">Hati Fahri begitu pilu apabila keluar penjara kerana kes pergaduhan menolong rakannya namun kepulangannya tidak diterima oleh ibu kandung kerana dia bekas banduan.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613173000 +0000" stop="20220613180000 +0000" channel="TVAlhijrah">
+    <title lang="en">Reflections</title>
+    <desc lang="en">Imam Suhaib Webb meneruskan tafsiran surah AlBaqarah dengan menyatakan dunia ini hanyalah sementara setiap dari kita akan mati.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613180000 +0000" stop="20220613183000 +0000" channel="TVAlhijrah">
+    <title lang="en">Saat Syahdu</title>
+    <desc lang="en">Zikir dan selawat.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613183000 +0000" stop="20220613213000 +0000" channel="TVAlhijrah">
+    <title lang="en">Alunan Bacaan Al Quran</title>
+    <desc lang="en">Alunan bacaan Al Quran untuk dibaca dan didengari bersama-sama.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613213000 +0000" stop="20220613220000 +0000" channel="TVAlhijrah">
+    <title lang="en">PANGGILAN AGUNG SUBUH</title>
+    <desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613220000 +0000" stop="20220613230000 +0000" channel="TVAlhijrah">
+    <title lang="en">Not Available</title>
+    <desc lang="en">Program tadabbur al-Quran bermula surah al-Fatihah, al- Baqarah dari juzuk 1 hingga 30 iaitu sebanyak 604 muka surat.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613230000 +0000" stop="20220614010000 +0000" channel="TVAlhijrah">
+    <title lang="en">Assalamualaikum (L)</title>
+    <desc lang="en">Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
   <programme start="20220607000000 +0000" stop="20220607010000 +0000" channel="GoShopMYTV">
     <title lang="en">Go Shop</title>
     <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
@@ -14097,7 +14807,7 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220607150000 +0000" stop="20220607170000 +0000" channel="GoShopMYTV">
+  <programme start="20220607160000 +0000" stop="20220607170000 +0000" channel="GoShopMYTV">
     <title lang="en">Go Shop</title>
     <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show/Series</category>
@@ -15270,11 +15980,11 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220607153000 +0000" stop="20220607170000 +0000" channel="BernamaTV">
-    <title lang="en">Tamil News</title>
-    <desc lang="en">Tamil news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics, as well as sports and entertainment.</desc>
+  <programme start="20220607160000 +0000" stop="20220607170000 +0000" channel="BernamaTV">
+    <title lang="en">Ruang Bicara</title>
+    <desc lang="en">Pemerkasaan Pentaksiran Berasaskan Sekolah - Bersama Dato' Hj. Pkharuddin Hj. Ghazali, Timbalan Ketua Pengarah Pendidikan Malaysia (Dasar dan Kurikulum).</desc>
     <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
+    <category lang="en">Others (TV Shows)</category>
     <rating system="MY">
       <value>U</value>
     </rating>
@@ -17691,6 +18401,150 @@
       <value>U</value>
     </rating>
   </programme>
+  <programme start="20220613153000 +0000" stop="20220613163000 +0000" channel="BernamaTV">
+    <title lang="en">Tamil News</title>
+    <desc lang="en">Tamil news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics, as well as sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613163000 +0000" stop="20220613170000 +0000" channel="BernamaTV">
+    <title lang="en">WHO Briefing</title>
+    <desc lang="en">WHO Daily Press Conference on Covid-19.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613170000 +0000" stop="20220613173000 +0000" channel="BernamaTV">
+    <title lang="en">Buletin Bernama</title>
+    <desc lang="en">Laporan terkini berita dari dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613173000 +0000" stop="20220613180000 +0000" channel="BernamaTV">
+    <title lang="en">Retrospektif</title>
+    <desc lang="en">Filem ini mengisahkan dua pasangan luar bandar. Kedua-duanya diberi peluang yang sama oleh Kerajaan dalam Skim Pemberi milikan Tanah untuk meningkatkan taraf hidup mereka.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613180000 +0000" stop="20220613190000 +0000" channel="BernamaTV">
+    <title lang="en">Ruang Bicara</title>
+    <desc lang="en">Bersama tetamu di studio mengupas topik semasa tanahair.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613190000 +0000" stop="20220613193000 +0000" channel="BernamaTV">
+    <title lang="en">Buletin Bernama</title>
+    <desc lang="en">Laporan terkini berita dari dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613193000 +0000" stop="20220613200000 +0000" channel="BernamaTV">
+    <title lang="en">Sinema 3.0</title>
+    <desc lang="en">SINEMA, sebuah program infotainment terbitan FINAS Malaysia yang padat dengan informasi terkini industri perfileman dan drama tanahair serta luar Negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613200000 +0000" stop="20220613201500 +0000" channel="BernamaTV">
+    <title lang="en">Su...Mana Doktor?</title>
+    <desc lang="en">Satu program bual bicara yang membincangkan isu semasa berkaitan medikal bersama pakar perubatan.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613201500 +0000" stop="20220613203000 +0000" channel="BernamaTV">
+    <title lang="en">Podium 360</title>
+    <desc lang="en">Bual Bicara Sukan mengetengahkan keseluruhan cerita dan aksi sukan merangkumi sudut 360 dalam pelbagai aspek antaranya reviu perlawanan, untold story dan kritik aksi.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613203000 +0000" stop="20220613210000 +0000" channel="BernamaTV">
+    <title lang="en">Banteras Covid-19</title>
+    <desc lang="en">Dokumentari yang memaparkan kemaskini tentang pelbagai sudut penceritaan berkaitan COVID-19.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613210000 +0000" stop="20220613213000 +0000" channel="BernamaTV">
+    <title lang="en">Buletin Bernama</title>
+    <desc lang="en">Laporan terkini berita dari dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613213000 +0000" stop="20220613220000 +0000" channel="BernamaTV">
+    <title lang="en">WHO Briefing</title>
+    <desc lang="en">WHO Daily Press Conference on Covid-19.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613220000 +0000" stop="20220613221500 +0000" channel="BernamaTV">
+    <title lang="en">Cucuk Duit</title>
+    <desc lang="en">Bual bicara berkaitan literasi kewangan dan pengurusan pelaburan peribadi serta tips perniagaan bersama Tawfiq Isa.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613221500 +0000" stop="20220613223000 +0000" channel="BernamaTV">
+    <title lang="en">Su...Mana Doktor?</title>
+    <desc lang="en">Satu program bual bicara yang membincangkan isu semasa berkaitan medikal bersama pakar perubatan.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613223000 +0000" stop="20220613233000 +0000" channel="BernamaTV">
+    <title lang="en">Ruang Bicara</title>
+    <desc lang="en">Bersama tetamu di studio mengupas topik semasa tanahair.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613233000 +0000" stop="20220614000000 +0000" channel="BernamaTV">
+    <title lang="en">Buletin Bernama</title>
+    <desc lang="en">Laporan terkini berita dari dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
   <programme start="20220607003000 +0000" stop="20220607010000 +0000" channel="TVS">
     <title lang="en">Merami Cinta</title>
     <desc lang="en">Merakamkan hari bahagia pasangan pengantin baru dari pelbagai etnik di Sarawak.</desc>
@@ -18002,11 +18856,11 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220607153000 +0000" stop="20220607163000 +0000" channel="TVS">
-    <title lang="en">(L) TVS Nightline</title>
-    <desc lang="en">Last English news of the day.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
+  <programme start="20220607160000 +0000" stop="20220607163000 +0000" channel="TVS">
+    <title lang="en">Order Up!</title>
+    <desc lang="en">This mini series is not only for writers or creators, but also for anyone who is interested in telling a good story. Where does a good idea come from? How can we structure a good story?</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
     <rating system="MY">
       <value>U</value>
     </rating>
@@ -20657,6 +21511,137 @@
       <value>U</value>
     </rating>
   </programme>
+  <programme start="20220613153000 +0000" stop="20220613163000 +0000" channel="TVS">
+    <title lang="en">(L) TVS Nightline</title>
+    <desc lang="en">Last English news of the day.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613163000 +0000" stop="20220613170000 +0000" channel="TVS">
+    <title lang="en">Design Nation</title>
+    <desc lang="en">Design Nation is a serial TV magazine that documents the architecture of buildings by well-renowned architects that have won various awards locally and internationally.</desc>
+    <category lang="en">Lifestyle</category>
+    <category lang="en">Home</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613170000 +0000" stop="20220613173000 +0000" channel="TVS">
+    <title lang="en">The Cloth Story</title>
+    <desc lang="en">Menceritakan tentang keunikan batik, tenun, songket, busana dari peradaban melayu diselitkan dengan sedikit sejarah serta asal usul penghasilan kain, bersama pengacara,Arabyrd membawa penonton menyelam.</desc>
+    <category lang="en">Lifestyle</category>
+    <category lang="en">Fashion</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613173000 +0000" stop="20220613180000 +0000" channel="TVS">
+    <title lang="en">Take Me To Sarawak</title>
+    <desc lang="en">This travelogue aims to take viewers, both locals and tourists, to places that you may not have heard of, but definitely have to see, experience and taste.</desc>
+    <category lang="en">Lifestyle</category>
+    <category lang="en">Travel</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613180000 +0000" stop="20220613183000 +0000" channel="TVS">
+    <title lang="en">Pertiwi: From Sarawak With Love</title>
+    <desc lang="en">Sebuah siri dokumentari 13 episod yang memaparkan kehidupan di perantauan (diaspora) masyarakat Sarawak pelbagai etnik yang merantau ke pelbagai tempat di luar Sarawak; khususnya di Semenanjung Malaysia.</desc>
+    <category lang="en">Documentary</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613183000 +0000" stop="20220613190000 +0000" channel="TVS">
+    <title lang="en">Ngajat Superstar</title>
+    <desc lang="en">Mencungkil bakat - bakat baru dalam tarian ngajat serta salah satu usaha memartabat dan memulihara salah satu tarian tradisional masyarakat etnik Negeri Sarawak.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Entertainment</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613190000 +0000" stop="20220613193000 +0000" channel="TVS">
+    <title lang="en">Anugerah</title>
+    <desc lang="en">Anugerah is a magazine program featuring the successful achievements of differently-abled persons. showcases how through determination, tenacity, persistence albeit their challenges and stereotyping.</desc>
+    <category lang="en">Documentary</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613193000 +0000" stop="20220613200000 +0000" channel="TVS">
+    <title lang="en">Ninjao</title>
+    <desc lang="en">Sekumpulan remaja/belia mengembara ke seluruh sarawak mencari lokasi pendakian mencabar untuk menguji ketahanan fizikal dan mental mereka.</desc>
+    <category lang="en">Lifestyle</category>
+    <category lang="en">Travel</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613200000 +0000" stop="20220613203000 +0000" channel="TVS">
+    <title lang="en">TVS Soundtraxx</title>
+    <desc lang="en">Lagu-lagu Original ciptaan penerbit penerbit TVS serta persembahan lagu cover dengan gubahan yang istimewa.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Entertainment</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613203000 +0000" stop="20220613210000 +0000" channel="TVS">
+    <title lang="en">Remarkable Living</title>
+    <desc lang="en">Remarkable Living is a series that travels the world to put the focus on lifestyle visionaries who are creating unique experiences that matter.</desc>
+    <category lang="en">Lifestyle</category>
+    <category lang="en">Travel</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613210000 +0000" stop="20220613220000 +0000" channel="TVS">
+    <title lang="en">Mark of Empire</title>
+    <desc lang="en">Singaporean curator and scholar Peter Lee explores the history of four Southeast Asian empires that made their mark on the world. Travelling from Thailand, Myanmar, Cambodia to Indonesia, Peter explores.</desc>
+    <category lang="en">Documentary</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613220000 +0000" stop="20220613223000 +0000" channel="TVS">
+    <title lang="en">Director's Cut</title>
+    <desc lang="en">Collection of short films and docu.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613223000 +0000" stop="20220613230000 +0000" channel="TVS">
+    <title lang="en">Design Nation</title>
+    <desc lang="en">Design Nation is a serial TV magazine that documents the architecture of buildings by well-renowned architects that have won various awards locally and internationally.</desc>
+    <category lang="en">Lifestyle</category>
+    <category lang="en">Home</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613230000 +0000" stop="20220613233000 +0000" channel="TVS">
+    <title lang="en">The Cloth Story</title>
+    <desc lang="en">Menceritakan tentang keunikan batik, tenun, songket, busana dari peradaban melayu diselitkan dengan sedikit sejarah serta asal usul penghasilan kain, bersama pengacara,Arabyrd membawa penonton menyelam.</desc>
+    <category lang="en">Lifestyle</category>
+    <category lang="en">Fashion</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613233000 +0000" stop="20220614003000 +0000" channel="TVS">
+    <title lang="en">(L) Sejahtera Asia</title>
+    <desc lang="en">Discuss major issues (hyperlocal) and two major stories (ASEAN).</desc>
+    <category lang="en">Documentary</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
   <programme start="20220607020000 +0000" stop="20220607060000 +0000" channel="NASFM">
     <title lang="en">Warna</title>
     <desc lang="en">Menumpukan kepada topik pembangunan keluarga dan masyarakat. Menghidangkan Lagu-lagu Terkini dan 'Flashback Hits'.</desc>
@@ -20684,9 +21669,9 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220607120000 +0000" stop="20220607190000 +0000" channel="NASFM">
-    <title lang="en">Seleksi</title>
-    <desc lang="en">Menyiarkan lagu-lagu popular pilihan pendengar sendiri.</desc>
+  <programme start="20220607160000 +0000" stop="20220607190000 +0000" channel="NASFM">
+    <title lang="en">Layan</title>
+    <desc lang="en">Segmen khusus untuk pendengar muda dengan selitan informasi ringkas dan padat.</desc>
     <category lang="en">Music</category>
     <category lang="en">Others (TV Shows)</category>
     <rating system="MY">
@@ -21008,6 +21993,33 @@
       <value>U</value>
     </rating>
   </programme>
+  <programme start="20220613120000 +0000" stop="20220613190000 +0000" channel="NASFM">
+    <title lang="en">Seleksi</title>
+    <desc lang="en">Menyiarkan lagu-lagu popular pilihan pendengar sendiri.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613190000 +0000" stop="20220613220000 +0000" channel="NASFM">
+    <title lang="en">Relaks</title>
+    <desc lang="en">Menyiarkan pilihan muzik tanpa henti dengan informasi ringkas yang disampaikan secara santai.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613220000 +0000" stop="20220614020000 +0000" channel="NASFM">
+    <title lang="en">Nadi</title>
+    <desc lang="en">Memberi tumpuan kepada isu-isu semasa dan maklumat terkini. Menghidangkan Lagu-lagu terkini dan 'Flashback Hits'.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
   <programme start="20220607000000 +0000" stop="20220607000300 +0000" channel="TRAXXFM">
     <title lang="en">Updates @ 8 am</title>
     <desc lang="en">Live from RTM News Centre.</desc>
@@ -21305,9 +22317,9 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220607150500 +0000" stop="20220607220000 +0000" channel="TRAXXFM">
-    <title lang="en">After Hours</title>
-    <desc lang="en">Best music to end the night.</desc>
+  <programme start="20220607160000 +0000" stop="20220607220000 +0000" channel="TRAXXFM">
+    <title lang="en">Sound Journey</title>
+    <desc lang="en">Songs from 90's to latest.</desc>
     <category lang="en">Music</category>
     <category lang="en">Others (TV Shows)</category>
     <rating system="MY">
@@ -23321,6 +24333,51 @@
       <value>U</value>
     </rating>
   </programme>
+  <programme start="20220613150500 +0000" stop="20220613220000 +0000" channel="TRAXXFM">
+    <title lang="en">After Hours</title>
+    <desc lang="en">Best music to end the night.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613220000 +0000" stop="20220613220200 +0000" channel="TRAXXFM">
+    <title lang="en">Negaraku</title>
+    <desc lang="en">Patriotic Song.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613220200 +0000" stop="20220613230000 +0000" channel="TRAXXFM">
+    <title lang="en">The Morning Show</title>
+    <desc lang="en">Start Your Day Right with the Morning Show.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613230000 +0000" stop="20220613231000 +0000" channel="TRAXXFM">
+    <title lang="en">Prime @ 7 am</title>
+    <desc lang="en">Live from RTM News Centre.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613231000 +0000" stop="20220614000000 +0000" channel="TRAXXFM">
+    <title lang="en">The Morning Show</title>
+    <desc lang="en">Music You Live For.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
   <programme start="20220607000000 +0000" stop="20220607000300 +0000" channel="MINNALFM">
     <title lang="en">Berita</title>
     <desc lang="en">Berita.</desc>
@@ -23672,9 +24729,9 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220607155500 +0000" stop="20220607190000 +0000" channel="MINNALFM">
-    <title lang="en">Nervali</title>
-    <desc lang="en">Rancangan Agama Islam.</desc>
+  <programme start="20220607160000 +0000" stop="20220607190000 +0000" channel="MINNALFM">
+    <title lang="en">Thaalattuthey Vaanam</title>
+    <desc lang="en">Lagu-lagu Baharu.</desc>
     <category lang="en">Music</category>
     <category lang="en">Others (TV Shows)</category>
     <rating system="MY">
@@ -26408,6 +27465,96 @@
       <value>U</value>
     </rating>
   </programme>
+  <programme start="20220613155500 +0000" stop="20220613190000 +0000" channel="MINNALFM">
+    <title lang="en">Nervali</title>
+    <desc lang="en">Rancangan Agama Islam.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613190000 +0000" stop="20220613200000 +0000" channel="MINNALFM">
+    <title lang="en">Udhaya Kaalam</title>
+    <desc lang="en">Lagu-lagu Popular Dari Semua Era.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613200000 +0000" stop="20220613203000 +0000" channel="MINNALFM">
+    <title lang="en">Udhaya Kaalam</title>
+    <desc lang="en">Lagu Hindi Retro.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613203000 +0000" stop="20220613210000 +0000" channel="MINNALFM">
+    <title lang="en">Udhaya Kaalam</title>
+    <desc lang="en">Muzik Instrumental Klasik.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613210000 +0000" stop="20220613220000 +0000" channel="MINNALFM">
+    <title lang="en">Udhaya Kaalam</title>
+    <desc lang="en">Lagu-lagu Moral.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613220000 +0000" stop="20220613220300 +0000" channel="MINNALFM">
+    <title lang="en">Berita</title>
+    <desc lang="en">Berita.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613220300 +0000" stop="20220613223000 +0000" channel="MINNALFM">
+    <title lang="en">Then Thuli</title>
+    <desc lang="en">Rancangan Agama Islam.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613223000 +0000" stop="20220613230000 +0000" channel="MINNALFM">
+    <title lang="en">Kaalai Kathir</title>
+    <desc lang="en">Sinar Pagi-Lagu-lagu Motivasi.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613230000 +0000" stop="20220613231000 +0000" channel="MINNALFM">
+    <title lang="en">Berita</title>
+    <desc lang="en">Berita.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613231000 +0000" stop="20220614000000 +0000" channel="MINNALFM">
+    <title lang="en">Kaalai Kathir</title>
+    <desc lang="en">Info Semasa / Lagu Baharu.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
   <programme start="20220607020000 +0000" stop="20220607040000 +0000" channel="AIFM">
     <title lang="en">Ai Ceria</title>
     <desc lang="en">Menumpukan kepada rancangan dan temubual tentang kesihatan, undang-undang, ekonomi , masakan , kekeluargaan, kecantikan, kaunseling, kanak-kanak dsb.Menyediakan dedikasi untuk pendengar melaui wechat dan FB.</desc>
@@ -26435,9 +27582,9 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220607120000 +0000" stop="20220607220000 +0000" channel="AIFM">
-    <title lang="en">Ai Blog</title>
-    <desc lang="en">Rancangan ini memberi satu ruang kepada pendengar untuk meluahkan perasaan hati mereka melalui whatsapp, FB &amp; telefon. Nasihat yang bermanafaat akan diberi oleh Dj dan kounselor jemputan.</desc>
+  <programme start="20220607160000 +0000" stop="20220607220000 +0000" channel="AIFM">
+    <title lang="en">Ai Muzik</title>
+    <desc lang="en">Segmen ini menyediakan pelbagai muzik dan lagu  secara automasi.Rancangan ulangan seperti Ai Sembang, Ai Ceria , Ai Blog &amp; melodi lama akan turut disiarkan .</desc>
     <category lang="en">Music</category>
     <category lang="en">Others (TV Shows)</category>
     <rating system="MY">
@@ -26687,6 +27834,24 @@
       <value>U</value>
     </rating>
   </programme>
+  <programme start="20220613120000 +0000" stop="20220613220000 +0000" channel="AIFM">
+    <title lang="en">Ai Blog</title>
+    <desc lang="en">Rancangan ini memberi satu ruang kepada pendengar untuk meluahkan perasaan hati mereka melalui whatsapp, FB &amp; telefon. Nasihat yang bermanafaat akan diberi oleh Dj dan kounselor jemputan.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613220000 +0000" stop="20220614020000 +0000" channel="AIFM">
+    <title lang="en">Ai Aksi</title>
+    <desc lang="en">Menyalurkan informasi melalui berita terkini dan mengulas tajuk utama semua surat khabar Cina, melayu dan Inggeris. Menyiarkan kapsul Belajar Bahasa Mandarin, ramalan cuaca dan laporan saham.Perbincangan isu semasa bersama DJ dengan penganalisa politik dan berinteraksi dengan pendengar melalui call-in, FB, wechat &amp; Whatsapp.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
   <programme start="20220607000000 +0000" stop="20220607030000 +0000" channel="ASYIKFM">
     <title lang="en">Gah Ju Asyik</title>
     <desc lang="en">Memberi tumpuan kepada isu-isu semasa dan maklumat terkini. Menghidangkan Lagu-lagu terkini dan 'Flashback Hits'.</desc>
@@ -26849,7 +28014,7 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220607150000 +0000" stop="20220608000000 +0000" channel="ASYIKFM">
+  <programme start="20220607160000 +0000" stop="20220608000000 +0000" channel="ASYIKFM">
     <title lang="en">SALAMfm</title>
     <desc lang="en">Siaran SALAMfm.</desc>
     <category lang="en">Music</category>
@@ -27848,6 +29013,15 @@
       <value>U</value>
     </rating>
   </programme>
+  <programme start="20220613150000 +0000" stop="20220614000000 +0000" channel="ASYIKFM">
+    <title lang="en">SALAMfm</title>
+    <desc lang="en">Siaran SALAMfm.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
   <programme start="20220607003000 +0000" stop="20220607003500 +0000" channel="VFM">
     <title lang="en">Berita Ringkas</title>
     <desc lang="en">Berita Ringkas.</desc>
@@ -28163,9 +29337,9 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220607150000 +0000" stop="20220607170000 +0000" channel="VFM">
-    <title lang="en">Segmen Orang Kita</title>
-    <desc lang="en">Info, Lagu, SMS.</desc>
+  <programme start="20220607160000 +0000" stop="20220607170000 +0000" channel="VFM">
+    <title lang="en">Dusun</title>
+    <desc lang="en">Lagu - Lagu Bahasa Dusun.</desc>
     <category lang="en">Music</category>
     <category lang="en">Others (TV Shows)</category>
     <rating system="MY">
@@ -30575,6 +31749,87 @@
       <value>U</value>
     </rating>
   </programme>
+  <programme start="20220613150000 +0000" stop="20220613170000 +0000" channel="VFM">
+    <title lang="en">Segmen Orang Kita</title>
+    <desc lang="en">Info, Lagu, SMS.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613170000 +0000" stop="20220613190000 +0000" channel="VFM">
+    <title lang="en">Cruising Before Dawn</title>
+    <desc lang="en">Retro/Evergreen?oldies.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613190000 +0000" stop="20220613200000 +0000" channel="VFM">
+    <title lang="en">Murut</title>
+    <desc lang="en">Local Murut Song's.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613200000 +0000" stop="20220613203000 +0000" channel="VFM">
+    <title lang="en">Bajau</title>
+    <desc lang="en">Local Bajau Song's.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613203000 +0000" stop="20220613220000 +0000" channel="VFM">
+    <title lang="en">Siaran Kadazan</title>
+    <desc lang="en">Lagu Hiburan Kadazan.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613220000 +0000" stop="20220613223000 +0000" channel="VFM">
+    <title lang="en">Segmen Ceria Selalu</title>
+    <desc lang="en">Open Slot 'Segmen Ceria Selalu'.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613223000 +0000" stop="20220613224500 +0000" channel="VFM">
+    <title lang="en">Berita Kadazan</title>
+    <desc lang="en">Id station / Berita.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613224500 +0000" stop="20220613233000 +0000" channel="VFM">
+    <title lang="en">Segmen Ceria Selalu</title>
+    <desc lang="en">Open Slot 'Segmen Ceria Selalu'.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613233000 +0000" stop="20220614003000 +0000" channel="VFM">
+    <title lang="en">Segmen Topik Santai</title>
+    <desc lang="en">Open Slot 'Segmen Topik Santai'.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
   <programme start="20220607010000 +0000" stop="20220607020000 +0000" channel="WAIFM">
     <title lang="en">Segment Indu</title>
     <desc lang="en">Khas untuk Wanita.</desc>
@@ -30629,9 +31884,9 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20220607130000 +0000" stop="20220607220000 +0000" channel="WAIFM">
-    <title lang="en">Merindang Malam</title>
-    <desc lang="en">Late night entertainments, country songs.</desc>
+  <programme start="20220607160000 +0000" stop="20220607220000 +0000" channel="WAIFM">
+    <title lang="en">Sambungsiar RN</title>
+    <desc lang="en">Sambungsiar rancangan dari Rangkaian Nasional hingga 6 pagi.</desc>
     <category lang="en">Music</category>
     <category lang="en">Others (TV Shows)</category>
     <rating system="MY">
@@ -31055,6 +32310,24 @@
   <programme start="20220613100000 +0000" stop="20220613130000 +0000" channel="WAIFM">
     <title lang="en">Sada Lemai</title>
     <desc lang="en">Evening serenade, berita lemai, info.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613130000 +0000" stop="20220613220000 +0000" channel="WAIFM">
+    <title lang="en">Merindang Malam</title>
+    <desc lang="en">Late night entertainments, country songs.</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Others (TV Shows)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20220613220000 +0000" stop="20220614010000 +0000" channel="WAIFM">
+    <title lang="en">Pengerak Pagi</title>
+    <desc lang="en">Pembukaan stesen, berita pagi, info, call.</desc>
     <category lang="en">Music</category>
     <category lang="en">Others (TV Shows)</category>
     <rating system="MY">
