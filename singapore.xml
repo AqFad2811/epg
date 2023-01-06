@@ -1949,8 +1949,8 @@
     <desc lang="en">24位年过半百的乐龄人士将在《黄金年华之斗歌竟艺2023年 第一系列》的舞台上尽情展现对歌唱的热诚，完成埋藏在心中的梦想。这系列的节目将延续团战形式，让参赛者通过挑战不同的歌曲主题，体验更多元有趣的舞台，展现自己的实力，过关斩将成为冠军。《黄金年华》赛情精彩，不容错过.</desc>
   </programme>
   <programme start="20230112070000 +0800" stop="20230112073000 +0800" channel="Ch 8">
-    <title lang="en">晚间新闻 2022/2023</title>
-    <desc lang="en">《晚间新闻》每日为您提供最全面的本地与全球新闻报道.</desc>
+    <title lang="en">晚间新闻</title>
+    <desc lang="en">(重)《晚间新闻》每日为您提供最全面的本地与全球新闻报道。.</desc>
   </programme>
   <programme start="20230112073000 +0800" stop="20230112080000 +0800" channel="Ch 8">
     <title lang="en">狮城有约精华版</title>
@@ -1961,8 +1961,8 @@
     <desc lang="en">晨光失去味觉，喜悦陪他到乌敏岛进行美食疗程。晚上，喜悦梦到小时候和她一起玩的男孩小星星就是Martius。喜悦得知Martius的公司出了事，还看到Martius满身红色颜料狼狈的照片，非常心疼，决定回本岛。归心似箭的她，终于确定了自己对Martius的心意.</desc>
   </programme>
   <programme start="20230112090000 +0800" stop="20230112093000 +0800" channel="Ch 8">
-    <title lang="en">晨光第一线 2022/2023</title>
-    <desc lang="en">（现场直播）全新新闻时段，每逢星期一至五，早上九点，准时送上.</desc>
+    <title lang="en">晨光第一线</title>
+    <desc lang="en">（现场直播）全新新闻时段，每逢星期一至五，早上九点，准时送上。.</desc>
   </programme>
   <programme start="20230112093000 +0800" stop="20230112100000 +0800" channel="Ch 8">
     <title lang="en">医生不是神</title>
@@ -1976,13 +1976,25 @@
     <title lang="en">春花望露</title>
     <desc lang="en">家辉怀疑有人潜入办公司想开他的保险箱。家辉要求柯议员放缓洗钱的动作，但柯议员认为现在是利用基金会洗钱的好时机，不想停止.</desc>
   </programme>
-  <programme start="20230112113000 +0800" stop="20230112130000 +0800" channel="Ch 8">
+  <programme start="20230112113000 +0800" stop="20230112123000 +0800" channel="Ch 8">
     <title lang="en">春花望露</title>
-    <desc lang="en">清秀从家辉的录音档案中得知，丽芬被家辉设计。清秀立刻通知建安，建安帮让丽芬解围。春生帮小美付清了全部贷款，小美很感动。.</desc>
+    <desc lang="en">(PG)(重) 清秀从家辉的录音档案中得知，丽芬被家辉设计。清秀立刻通知建安，建安帮让丽芬解围。春生帮小美付清了全部贷款，小美很感动。.</desc>
+  </programme>
+  <programme start="20230112123000 +0800" stop="20230112124400 +0800" channel="Ch 8">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">天天被面包香熏醒的滋味你能感受到吗？有了全能面包机，就能！.</desc>
+  </programme>
+  <programme start="20230112124400 +0800" stop="20230112125800 +0800" channel="Ch 8">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">时髦好用容量大的蜂巢炒锅，厚实耐用，导热均匀又快速！.</desc>
+  </programme>
+  <programme start="20230112125800 +0800" stop="20230112130000 +0800" channel="Ch 8">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">食物快速解冻板!</desc>
   </programme>
   <programme start="20230112130000 +0800" stop="20230112133000 +0800" channel="Ch 8">
-    <title lang="en">一点新闻 2022/2023</title>
-    <desc lang="en">《一点新闻》为您提供更新的本地与全球新闻头条.</desc>
+    <title lang="en">一点新闻</title>
+    <desc lang="en">《一点新闻》为您提供更新的本地与全球新闻头条。.</desc>
   </programme>
   <programme start="20230112133000 +0800" stop="20230112140000 +0800" channel="Ch 8">
     <title lang="en">帶你去走走</title>
@@ -1992,9 +2004,21 @@
     <title lang="en">神兽金刚3超变星甲</title>
     <desc lang="en">勇敢的神兽金刚战士团结起来保护地球免受邪恶的星王和他入侵的机甲外星人军队的侵害.</desc>
   </programme>
-  <programme start="20230112143000 +0800" stop="20230112153000 +0800" channel="Ch 8">
+  <programme start="20230112143000 +0800" stop="20230112150000 +0800" channel="Ch 8">
     <title lang="en">前线开讲 3</title>
-    <desc lang="en">上一代养儿防老的想法已过时了吗？下一代”顾全自己”的想法是否太自私？给父母家用是理所应当的吗？或者这是对年轻人的另一种道德绑架？两代之间该如何断开暧昧不清的沟通方式，并在孝义与现实间取得平衡.</desc>
+    <desc lang="en">(重) 上一代"养儿防老"的想法已过时了吗？下一代”顾全自己”的想法是否太自私？给父母家用是理所应当的吗？或者这是对年轻人的另一种道德绑架？两代之间该如何断开暧昧不清的沟通方式，并在孝义与现实间取得平衡？.</desc>
+  </programme>
+  <programme start="20230112150000 +0800" stop="20230112151400 +0800" channel="Ch 8">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">关节僵硬、不灵活？护节灵助你顾好关节,一定行!</desc>
+  </programme>
+  <programme start="20230112151400 +0800" stop="20230112152800 +0800" channel="Ch 8">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">来自韩国成分天然的人参花漱口水, 让你天天保持口气清新！.</desc>
+  </programme>
+  <programme start="20230112152800 +0800" stop="20230112153000 +0800" channel="Ch 8">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">BIU LED灯微风化妆镜-化妆, 修眉, 头发造型, 夜间护肤, 可携带的5倍放大镜!</desc>
   </programme>
   <programme start="20230112153000 +0800" stop="20230112163000 +0800" channel="Ch 8">
     <title lang="en">陀枪师姐 2021</title>
@@ -2025,12 +2049,12 @@
     <desc lang="en">喜悦决定回来做直播，借着平台解释锅子不会致癌。不料那对盗版夫妇再次上门，指责Martius的锅子有毒，也连累他们的盗版货遭殃，要求赔偿。Martius认为他们不可理喻，双方起争执，混乱中喜悦受了伤。Martius内疚喜悦一再被自己连累…….</desc>
   </programme>
   <programme start="20230112220000 +0800" stop="20230112223000 +0800" channel="Ch 8">
-    <title lang="en">晚间新闻 2022/2023</title>
-    <desc lang="en">《晚间新闻》每日为您提供最全面的本地与全球新闻报道.</desc>
+    <title lang="en">晚间新闻</title>
+    <desc lang="en">《晚间新闻》每日为您提供最全面的本地与全球新闻报道。.</desc>
   </programme>
   <programme start="20230112223000 +0800" stop="20230112230000 +0800" channel="Ch 8">
-    <title lang="en">焦点2022/2023</title>
-    <desc lang="en">《焦点》追踪国际时事，实地报道区域课题，以新加坡的视角分析时局发展的前因后果和潜在影响.</desc>
+    <title lang="en">焦点</title>
+    <desc lang="en">《焦点》追踪国际时事，实地报道区域课题，以新加坡的视角分析时局发展的前因后果和潜在影响。.</desc>
   </programme>
   <programme start="20230106003000 +0800" stop="20230106013000 +0800" channel="Ch U">
     <title lang="en">秘密的男人</title>
@@ -2868,9 +2892,101 @@
     <title lang="en">秘密的男人</title>
     <desc lang="en">(PG-部分画面令人不安)(重)(双声道-中/韩) 宥萝查出秀熙就是智淑，只是不知何故失忆了，才会不记得车会长。宥萝故意叫秀熙来车家送衣服，华妍见到熙秀出现，顿时吓得惊慌失措。.</desc>
   </programme>
-  <programme start="20230112023000 +0800" stop="20230112150000 +0800" channel="Ch U">
+  <programme start="20230112023000 +0800" stop="20230112110000 +0800" channel="Ch U">
     <title lang="en">收场</title>
     <desc lang="en">收场.</desc>
+  </programme>
+  <programme start="20230112110000 +0800" stop="20230112111500 +0800" channel="Ch U">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">营养价值丰富的谷粮饮料，为你补充体力、增强活力！.</desc>
+  </programme>
+  <programme start="20230112111500 +0800" stop="20230112112200 +0800" channel="Ch U">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">拖地很费事，脏水难处理？升级版拖把，为你解决拖地所有烦恼！.</desc>
+  </programme>
+  <programme start="20230112112200 +0800" stop="20230112113000 +0800" channel="Ch U">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">你的身体健康吗？你的肠胃还好吗？酵素饮有助健康好肠道！.</desc>
+  </programme>
+  <programme start="20230112113000 +0800" stop="20230112114400 +0800" channel="Ch U">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">隔水烹饪技术保留食材营养素的智能电炖锅！.</desc>
+  </programme>
+  <programme start="20230112114400 +0800" stop="20230112115800 +0800" channel="Ch U">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">诚信名厨山珍海味礼篮，精致美观，送礼大方！元气满满新年福袋为兔年提升元气，让你精力旺盛!</desc>
+  </programme>
+  <programme start="20230112115800 +0800" stop="20230112120000 +0800" channel="Ch U">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">食品塑料保鲜托盘，可让食物长时间保持新鲜!</desc>
+  </programme>
+  <programme start="20230112120000 +0800" stop="20230112121400 +0800" channel="Ch U">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">排毒健美果昔帮助体重管理，让你排便更顺畅顺！.</desc>
+  </programme>
+  <programme start="20230112121400 +0800" stop="20230112122800 +0800" channel="Ch U">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">有助舒缓腰部及膝盖疼痛，帮助强健骨骼的补腰精！.</desc>
+  </programme>
+  <programme start="20230112122800 +0800" stop="20230112123000 +0800" channel="Ch U">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">BIU LED灯微风化妆镜-化妆, 修眉, 头发造型, 夜间护肤, 可携带的5倍放大镜!</desc>
+  </programme>
+  <programme start="20230112123000 +0800" stop="20230112124400 +0800" channel="Ch U">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">先进低淀粉煮饭模式，减少含糖量的电饭锅！.</desc>
+  </programme>
+  <programme start="20230112124400 +0800" stop="20230112125800 +0800" channel="Ch U">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">Kinohimitsu富贵到兔年配套，新春送礼的最佳首选！.</desc>
+  </programme>
+  <programme start="20230112125800 +0800" stop="20230112130000 +0800" channel="Ch U">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">人体工学设计，帮助缓解背痛压力、可调整高度，座椅躺卧皆可用。.</desc>
+  </programme>
+  <programme start="20230112130000 +0800" stop="20230112131400 +0800" channel="Ch U">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">多用途刀具组，完美符合人体工学，备料摆盘，防滑好用.</desc>
+  </programme>
+  <programme start="20230112131400 +0800" stop="20230112132800 +0800" channel="Ch U">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">来自韩国成分天然的人参花漱口水, 让你天天保持口气清新！.</desc>
+  </programme>
+  <programme start="20230112132800 +0800" stop="20230112133000 +0800" channel="Ch U">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">按摩鞋垫,每走一步都能让您的双脚进行按摩和舒缓的革命性鞋垫。.</desc>
+  </programme>
+  <programme start="20230112133000 +0800" stop="20230112134400 +0800" channel="Ch U">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">吹、顺、卷，快速上手！三合一造型梳完成造型更快速！.</desc>
+  </programme>
+  <programme start="20230112134400 +0800" stop="20230112135800 +0800" channel="Ch U">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">非侵入性美容精华液，助你留住青春美肌！.</desc>
+  </programme>
+  <programme start="20230112135800 +0800" stop="20230112140000 +0800" channel="Ch U">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">Ultimo 增水压喷水器安装方便还实用!</desc>
+  </programme>
+  <programme start="20230112140000 +0800" stop="20230112141500 +0800" channel="Ch U">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">好的枕头能让你一觉醒来精神抖擞、容光焕发。来，躺躺看吧!</desc>
+  </programme>
+  <programme start="20230112141500 +0800" stop="20230112143000 +0800" channel="Ch U">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">想要身体更健康，精力一定要补充，金瓜王谷粮饮，就让健康伴随你！.</desc>
+  </programme>
+  <programme start="20230112143000 +0800" stop="20230112144400 +0800" channel="Ch U">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">拒绝疲惫过生活！拒绝月事不舒服！不妨喝白兰氏鸡精.</desc>
+  </programme>
+  <programme start="20230112144400 +0800" stop="20230112145800 +0800" channel="Ch U">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">蔬果饮料有助你排便更顺畅，身体更轻盈，营养更加分！.</desc>
+  </programme>
+  <programme start="20230112145800 +0800" stop="20230112150000 +0800" channel="Ch U">
+    <title lang="en">好货驾到</title>
+    <desc lang="en">放大眼镜，男女皆宜, 适合阅读小版画、标签、贴近的工作和工艺品!</desc>
   </programme>
   <programme start="20230112150000 +0800" stop="20230112160000 +0800" channel="Ch U">
     <title lang="en">绕着地球跑</title>
@@ -2905,8 +3021,8 @@
     <desc lang="en">姚子衿看见朱瞻基画上沾有污渍，她便好心把污渍擦干净了.</desc>
   </programme>
   <programme start="20230112230000 +0800" stop="20230112233000 +0800" channel="Ch U">
-    <title lang="en">晚间新闻 2022/2023</title>
-    <desc lang="en">U频道《晚间新闻》，在半小时里除深入报道本地与国际要闻，还有详尽的财经新闻和体坛动态。世界局势与经济动脉，让大家轻松掌握.</desc>
+    <title lang="en">晚间新闻</title>
+    <desc lang="en">U频道《晚间新闻》，在半小时里除深入报道本地与国际要闻，还有详尽的财经新闻和体坛动态。世界局势与经济动脉，让大家轻松掌握。.</desc>
   </programme>
   <programme start="20230106000000 +0800" stop="20230106090000 +0800" channel="Suria">
     <title lang="en">End of Transmission</title>
