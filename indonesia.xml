@@ -50,6 +50,21 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_14.png" />
     <url>http://www.mncvision.id</url>
   </channel>
+  <channel id="MyFamilyChannel">
+    <display-name lang="id">My Family Channel</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_15.jpg" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MyCinema">
+    <display-name lang="id">My Cinema</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_16.jpg" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MyCinemaAsia">
+    <display-name lang="id">My Cinema Asia</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_17.jpg" />
+    <url>http://www.mncvision.id</url>
+  </channel>
   <channel id="Thrill.hk">
     <display-name lang="id">Thrill</display-name>
     <icon src="https://mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" />
@@ -5618,6 +5633,1290 @@
   </programme>
   <programme start="20230518093000 +0700" stop="20230518103000 +0700" channel="IMC">
     <title lang="id">Hot Kiss</title>
+  </programme>
+  <programme start="20230512220000 +0700" stop="20230512230000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230512230000 +0700" stop="20230513010000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Filmstar Don't Die In Liverpool</title>
+    <desc lang="id">Percikan asmara muncul antara seorang aktor muda dan seorang aktris terkemuka Hollywood.</desc>
+  </programme>
+  <programme start="20230513010000 +0700" stop="20230513030000 +0700" channel="MyFamilyChannel">
+    <title lang="id">New In Town</title>
+    <desc lang="id">Seorang eksekutif papan atas asal Miami tiba di sebuah kota kecil di Minnesota. Awalnya, cuaca dan sambutan dingin membuatnya kesulitan di tempat kerja, tapi perlahan ia mulai jatuh hati pada kota itu dan penduduknya.</desc>
+  </programme>
+  <programme start="20230513030000 +0700" stop="20230513050000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Single By Contract</title>
+    <desc lang="id">Lila, yang pulang ke Berlin setelah berada di luar negeri, bertemu dan jatuh cinta pada Chris. Namun, Lila tidak tahu bahwa Chris adalah bintang rock terkenal yang dipuja banyak penggemar, termasuk adik perempuan Lila.</desc>
+  </programme>
+  <programme start="20230513050000 +0700" stop="20230513060000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230513060000 +0700" stop="20230513080000 +0700" channel="MyFamilyChannel">
+    <title lang="id">My Best Friend's Girl</title>
+    <desc lang="id">Tank mencoba membantu sahabatnya untuk mendapatkan kembali mantan kekasihnya dengan mengajaknya dalam sebuah kencan yang membosankan, namun Tank malah jatuh cinta pada gadis itu.</desc>
+  </programme>
+  <programme start="20230513080000 +0700" stop="20230513090000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230513090000 +0700" stop="20230513110000 +0700" channel="MyFamilyChannel">
+    <title lang="id">The Blue Butterfly</title>
+    <desc lang="id">Film ini bercerita tentang seorang anak laki-laki berusia 10 tahun yang sakit parah dan bermimpi untuk menangkap kupu-kupu terindah di Bumi, kupu-kupu Blue Morpho yang langka.</desc>
+  </programme>
+  <programme start="20230513110000 +0700" stop="20230513120000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230513120000 +0700" stop="20230513140000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Bad Moms</title>
+    <desc lang="id">Kala tiga orang ibu pekerja keras merasa muak karena tak dihargai, mereka meninggalkan kewajiban mereka untuk merasakan kebebasan, kebahagiaan dan kesenangan yang telah lama mereka dambakan.</desc>
+  </programme>
+  <programme start="20230513140000 +0700" stop="20230513150000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230513150000 +0700" stop="20230513170000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Les Visiteurs</title>
+    <desc lang="id">Seorang ksatria abad pertengahan dan pelayannya meminta seorang penyihir untuk membawa mereka kembali ke masa lalu demi mencegah kecelakaan yang menewaskan ayah mertuanya. Namun, mereka justru terdampar di abad ke-20.</desc>
+  </programme>
+  <programme start="20230513170000 +0700" stop="20230513180000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230513180000 +0700" stop="20230513200000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Mr. Holmes</title>
+    <desc lang="id">Detektif Sherlock Holmes yang sudah pensiun menderita demensia. Sambil mencoba mengingat dua kasus tak terpecahkan yang membuatnya memutuskan untuk pensiun, ia juga berusaha keras untuk belajar tentang masa lalunya.</desc>
+  </programme>
+  <programme start="20230513200000 +0700" stop="20230513220000 +0700" channel="MyFamilyChannel">
+    <title lang="id">A Bad Mom Christmas</title>
+    <desc lang="id">Saat ibu mereka tiba-tiba datang berkunjung, tiga ibu rumah tangga yang merasa kurang dihargai memberontak terhadap tantangan dan ekspektasi yang dimiliki ibu mereka tentang merayakan Natal.</desc>
+  </programme>
+  <programme start="20230513220000 +0700" stop="20230513230000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230513230000 +0700" stop="20230514010000 +0700" channel="MyFamilyChannel">
+    <title lang="id">The New Adventures Of Aladdin</title>
+    <desc lang="id">Sepasang pria pecundang yang bekerja sebagai Sinterklas di sebuah pusat perbelanjaan berencana untuk merampok tempat itu. Namun di sana, mereka menemukan hal yang mengubah hidup.</desc>
+  </programme>
+  <programme start="20230514010000 +0700" stop="20230514030000 +0700" channel="MyFamilyChannel">
+    <title lang="id">The Blue Butterfly</title>
+    <desc lang="id">Film ini bercerita tentang seorang anak laki-laki berusia 10 tahun yang sakit parah dan bermimpi untuk menangkap kupu-kupu terindah di Bumi, kupu-kupu Blue Morpho yang langka.</desc>
+  </programme>
+  <programme start="20230514030000 +0700" stop="20230514050000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Bad Moms</title>
+    <desc lang="id">Kala tiga orang ibu pekerja keras merasa muak karena tak dihargai, mereka meninggalkan kewajiban mereka untuk merasakan kebebasan, kebahagiaan dan kesenangan yang telah lama mereka dambakan.</desc>
+  </programme>
+  <programme start="20230514050000 +0700" stop="20230514060000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230514060000 +0700" stop="20230514080000 +0700" channel="MyFamilyChannel">
+    <title lang="id">The New Adventures Of Aladdin</title>
+    <desc lang="id">Sepasang pria pecundang yang bekerja sebagai Sinterklas di sebuah pusat perbelanjaan berencana untuk merampok tempat itu. Namun di sana, mereka menemukan hal yang mengubah hidup.</desc>
+  </programme>
+  <programme start="20230514080000 +0700" stop="20230514090000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230514090000 +0700" stop="20230514110000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Holiday Wishes</title>
+    <desc lang="id">Britney, seorang anak kaya raya yang manja, dan Rachel, seorang yatim piatu, bertukar tubuh setelah mengunjungi seorang Sinterklas di mal.</desc>
+  </programme>
+  <programme start="20230514110000 +0700" stop="20230514120000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230514120000 +0700" stop="20230514141300 +0700" channel="MyFamilyChannel">
+    <title lang="id">I'm Not There</title>
+    <desc lang="id">Perenungan tentang kehidupan Bob Dylan yang digambarkan oleh enam karakter yang mencerminkan aspek berbeda dalam kehidupan dan karya sang musisi. Dibintangi oleh Christian Bale, Cate Blanchett dan Heath Ledger.</desc>
+  </programme>
+  <programme start="20230514141300 +0700" stop="20230514151300 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230514151300 +0700" stop="20230514171300 +0700" channel="MyFamilyChannel">
+    <title lang="id">Les Visiteurs 2</title>
+    <desc lang="id">Ksatria Godefroy dari tahun 1023 harus kembali ke zaman modern untuk mendapatkan kembali permata suci yang dibawa Jacquouille ke abad ke-20.</desc>
+  </programme>
+  <programme start="20230514171300 +0700" stop="20230514181300 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230514181300 +0700" stop="20230514200000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Lucky Trouble</title>
+    <desc lang="id">Seorang guru sekolah dari sebuah kota kecil di Rusia jatuh cinta pada seorang wanita cantik asal Moskow yang sudah bertunangan dan akan menikah.</desc>
+  </programme>
+  <programme start="20230514200000 +0700" stop="20230514220000 +0700" channel="MyFamilyChannel">
+    <title lang="id">A Few Best Men</title>
+    <desc lang="id">Seorang pengantin pria dan tiga pendamping pengantinnya pergi ke pedalaman Australia untuk menghadiri pernikahan.</desc>
+  </programme>
+  <programme start="20230514220000 +0700" stop="20230514230000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230514230000 +0700" stop="20230515010000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Caf  Society</title>
+    <desc lang="id">Pada tahun 1930-an, seorang warga Bronx pindah ke Hollywood dan jatuh cinta pada seorang wanita muda yang berkencan dengan pria beristri.</desc>
+  </programme>
+  <programme start="20230515010000 +0700" stop="20230515030000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Absolutely Anything</title>
+    <desc lang="id">Sekelompok alien eksentrik melakukan eksperimen dengan menganugerahkan seorang manusia dengan kekuatan super yang bisa membuatnya melakukan apa pun.</desc>
+  </programme>
+  <programme start="20230515030000 +0700" stop="20230515050000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Dog Soldier</title>
+    <desc lang="id">Seekor anjing Gembala Jerman bernama Rain dilatih untuk bertarung dalam Perang Vietnam. Kecerdasan serta keberaniannya dalam menghadapi bahaya membuat Rain dihormati dan disayangi rekan-rekan peletonnya.</desc>
+  </programme>
+  <programme start="20230515050000 +0700" stop="20230515060000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515060000 +0700" stop="20230515080000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Filmstar Don't Die In Liverpool</title>
+    <desc lang="id">Percikan asmara muncul antara seorang aktor muda dan seorang aktris terkemuka Hollywood.</desc>
+  </programme>
+  <programme start="20230515080000 +0700" stop="20230515090000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515090000 +0700" stop="20230515110000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Fast Food Nation</title>
+    <desc lang="id">Sebuah film drama yang menyelidiki risiko kesehatan yang melibatkan industri makanan cepat saji serta dampaknya terhadap lingkungan dan masyarakat.</desc>
+  </programme>
+  <programme start="20230515110000 +0700" stop="20230515120000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515120000 +0700" stop="20230515140000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Happy Go Lucky</title>
+    <desc lang="id">Kisah kehidupan seorang guru sekolah di London Utara bernama Poppy nan ceria dan penuh warna, yang sifat optimismenya cenderung membuat jengkel orang-orang di sekitarnya.</desc>
+  </programme>
+  <programme start="20230515140000 +0700" stop="20230515150000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515150000 +0700" stop="20230515170000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Best Friends</title>
+    <desc lang="id">Seorang wanita kejam meneror temannya yang memiliki kehidupan nan tampak sempurna.</desc>
+  </programme>
+  <programme start="20230515170000 +0700" stop="20230515180000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515180000 +0700" stop="20230515200000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Russel Madness</title>
+    <desc lang="id">Seekor anjing peliharaan nan menggemaskan dilatih untuk bergulat oleh sebuah keluarga yang mewarisi sebuah gelanggang arena dan berusaha menghidupkan kembali bisnis gulat mendiang kakek mereka.</desc>
+  </programme>
+  <programme start="20230515200000 +0700" stop="20230515220000 +0700" channel="MyFamilyChannel">
+    <title lang="id">I Could Never Be Your Woman</title>
+    <desc lang="id">Seorang wanita paruh baya jatuh hati pada pria yang lebih muda, sementara sang putri jatuh cinta untuk pertama kalinya. Serangkaian konflik lucu pun menanti mereka berdua.</desc>
+  </programme>
+  <programme start="20230515220000 +0700" stop="20230515230000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515230000 +0700" stop="20230516010000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Greenberg</title>
+    <desc lang="id">Setelah mengalami guncangan mental, Roger bersedia menjaga rumah saudara laki-lakinya di Los Angeles. Dia pun bertemu Florence, asisten pribadi saudaranya dan menjalin hubungan yang tidak biasa dengan Florence.</desc>
+  </programme>
+  <programme start="20230516010000 +0700" stop="20230516030000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Fast Food Nation</title>
+    <desc lang="id">Sebuah film drama yang menyelidiki risiko kesehatan yang melibatkan industri makanan cepat saji serta dampaknya terhadap lingkungan dan masyarakat.</desc>
+  </programme>
+  <programme start="20230516030000 +0700" stop="20230516050000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Happy Go Lucky</title>
+    <desc lang="id">Kisah kehidupan seorang guru sekolah di London Utara bernama Poppy nan ceria dan penuh warna, yang sifat optimismenya cenderung membuat jengkel orang-orang di sekitarnya.</desc>
+  </programme>
+  <programme start="20230516050000 +0700" stop="20230516060000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516060000 +0700" stop="20230516080000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Greenberg</title>
+    <desc lang="id">Setelah mengalami guncangan mental, Roger bersedia menjaga rumah saudara laki-lakinya di Los Angeles. Dia pun bertemu Florence, asisten pribadi saudaranya dan menjalin hubungan yang tidak biasa dengan Florence.</desc>
+  </programme>
+  <programme start="20230516080000 +0700" stop="20230516090000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516090000 +0700" stop="20230516110000 +0700" channel="MyFamilyChannel">
+    <title lang="id">La Pere Noel</title>
+    <desc lang="id">Suatu malam, seorang pencuri berkostum Sinterklas dikejutkan oleh seorang anak laki-laki yang percaya jika ia adalah Sinterklas sungguhan. Keduanya pun terlibat petualangan tak terduga yang akan mengubah hidup mereka.</desc>
+  </programme>
+  <programme start="20230516110000 +0700" stop="20230516120000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516120000 +0700" stop="20230516140000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Single By Contract</title>
+    <desc lang="id">Lila, yang pulang ke Berlin setelah berada di luar negeri, bertemu dan jatuh cinta pada Chris. Namun, Lila tidak tahu bahwa Chris adalah bintang rock terkenal yang dipuja banyak penggemar, termasuk adik perempuan Lila.</desc>
+  </programme>
+  <programme start="20230516140000 +0700" stop="20230516150000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516150000 +0700" stop="20230516170000 +0700" channel="MyFamilyChannel">
+    <title lang="id">It's Kind Of Funny Story</title>
+    <desc lang="id">Craig dirawat di sebuah RSJ ketika dia menyadari bahwa dirinya ingin bunuh diri. Dia lalu mengalami perubahan saat bertemu dengan orang-orang yang kurang beruntung.</desc>
+  </programme>
+  <programme start="20230516170000 +0700" stop="20230516180000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516180000 +0700" stop="20230516200000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Imaginaerum</title>
+    <desc lang="id">Seorang pria tua yang sedang terbaring koma memasuki dunia fantasi masa kecilnya yang menyeramkan, dia pun harus melawan demensia dan mendapatkan kembali ingatannya sebelum terlambat.</desc>
+  </programme>
+  <programme start="20230516200000 +0700" stop="20230516220000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Filmstar Don't Die In Liverpool</title>
+    <desc lang="id">Percikan asmara muncul antara seorang aktor muda dan seorang aktris terkemuka Hollywood.</desc>
+  </programme>
+  <programme start="20230516220000 +0700" stop="20230516230000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516230000 +0700" stop="20230517010000 +0700" channel="MyFamilyChannel">
+    <title lang="id">My Best Friend's Girl</title>
+    <desc lang="id">Tank mencoba membantu sahabatnya untuk mendapatkan kembali mantan kekasihnya dengan mengajaknya dalam sebuah kencan yang membosankan, namun Tank malah jatuh cinta pada gadis itu.</desc>
+  </programme>
+  <programme start="20230517010000 +0700" stop="20230517030000 +0700" channel="MyFamilyChannel">
+    <title lang="id">La Pere Noel</title>
+    <desc lang="id">Suatu malam, seorang pencuri berkostum Sinterklas dikejutkan oleh seorang anak laki-laki yang percaya jika ia adalah Sinterklas sungguhan. Keduanya pun terlibat petualangan tak terduga yang akan mengubah hidup mereka.</desc>
+  </programme>
+  <programme start="20230517030000 +0700" stop="20230517050000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Single By Contract</title>
+    <desc lang="id">Lila, yang pulang ke Berlin setelah berada di luar negeri, bertemu dan jatuh cinta pada Chris. Namun, Lila tidak tahu bahwa Chris adalah bintang rock terkenal yang dipuja banyak penggemar, termasuk adik perempuan Lila.</desc>
+  </programme>
+  <programme start="20230517050000 +0700" stop="20230517060000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517060000 +0700" stop="20230517080000 +0700" channel="MyFamilyChannel">
+    <title lang="id">My Best Friend's Girl</title>
+    <desc lang="id">Tank mencoba membantu sahabatnya untuk mendapatkan kembali mantan kekasihnya dengan mengajaknya dalam sebuah kencan yang membosankan, namun Tank malah jatuh cinta pada gadis itu.</desc>
+  </programme>
+  <programme start="20230517080000 +0700" stop="20230517090000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517090000 +0700" stop="20230517110000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Lucky Luke</title>
+    <desc lang="id">Penembak yang tak kenal takut, Lucky Luke, diperintahkan oleh Presiden untuk menegakkan perdamaian di Kota Daisy.</desc>
+  </programme>
+  <programme start="20230517110000 +0700" stop="20230517120000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517120000 +0700" stop="20230517140000 +0700" channel="MyFamilyChannel">
+    <title lang="id">New In Town</title>
+    <desc lang="id">Seorang eksekutif papan atas asal Miami tiba di sebuah kota kecil di Minnesota. Awalnya, cuaca dan sambutan dingin membuatnya kesulitan di tempat kerja, tapi perlahan ia mulai jatuh hati pada kota itu dan penduduknya.</desc>
+  </programme>
+  <programme start="20230517140000 +0700" stop="20230517150000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517150000 +0700" stop="20230517170000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Les Visiteurs</title>
+    <desc lang="id">Seorang ksatria abad pertengahan dan pelayannya meminta seorang penyihir untuk membawa mereka kembali ke masa lalu demi mencegah kecelakaan yang menewaskan ayah mertuanya. Namun, mereka justru terdampar di abad ke-20.</desc>
+  </programme>
+  <programme start="20230517170000 +0700" stop="20230517180000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517180000 +0700" stop="20230517200000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Les Visiteurs 2</title>
+    <desc lang="id">Ksatria Godefroy dari tahun 1023 harus kembali ke zaman modern untuk mendapatkan kembali permata suci yang dibawa Jacquouille ke abad ke-20.</desc>
+  </programme>
+  <programme start="20230517200000 +0700" stop="20230517220000 +0700" channel="MyFamilyChannel">
+    <title lang="id">A Bad Mom Christmas</title>
+    <desc lang="id">Saat ibu mereka tiba-tiba datang berkunjung, tiga ibu rumah tangga yang merasa kurang dihargai memberontak terhadap tantangan dan ekspektasi yang dimiliki ibu mereka tentang merayakan Natal.</desc>
+  </programme>
+  <programme start="20230517220000 +0700" stop="20230517230000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517230000 +0700" stop="20230518010000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Caf  Society</title>
+    <desc lang="id">Pada tahun 1930-an, seorang warga Bronx pindah ke Hollywood dan jatuh cinta pada seorang wanita muda yang berkencan dengan pria beristri.</desc>
+  </programme>
+  <programme start="20230518010000 +0700" stop="20230518030000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Lucky Luke</title>
+    <desc lang="id">Penembak yang tak kenal takut, Lucky Luke, diperintahkan oleh Presiden untuk menegakkan perdamaian di Kota Daisy.</desc>
+  </programme>
+  <programme start="20230518030000 +0700" stop="20230518050000 +0700" channel="MyFamilyChannel">
+    <title lang="id">New In Town</title>
+    <desc lang="id">Seorang eksekutif papan atas asal Miami tiba di sebuah kota kecil di Minnesota. Awalnya, cuaca dan sambutan dingin membuatnya kesulitan di tempat kerja, tapi perlahan ia mulai jatuh hati pada kota itu dan penduduknya.</desc>
+  </programme>
+  <programme start="20230518050000 +0700" stop="20230518060000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518060000 +0700" stop="20230518080000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Caf  Society</title>
+    <desc lang="id">Pada tahun 1930-an, seorang warga Bronx pindah ke Hollywood dan jatuh cinta pada seorang wanita muda yang berkencan dengan pria beristri.</desc>
+  </programme>
+  <programme start="20230518080000 +0700" stop="20230518090000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518090000 +0700" stop="20230518110000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Mr. Bones</title>
+    <desc lang="id">Seorang raja suku mengirim seorang dukun untuk mencari putranya. Sang dukun pulang dengan membawa seorang pemain golf asal Amerika dan sekelompok preman yang memaksa sang pemain golf untuk mengikuti sebuah turnamen.</desc>
+  </programme>
+  <programme start="20230518110000 +0700" stop="20230518120000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518120000 +0700" stop="20230518140000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Mr. Bones 2</title>
+    <desc lang="id">Seorang dukun Afrika berkulit putih harus pergi ke India untuk mengembalikan sebuah batu terkutuk ke tempat asalnya.</desc>
+  </programme>
+  <programme start="20230518140000 +0700" stop="20230518150000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518150000 +0700" stop="20230518170000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Lucky Trouble</title>
+    <desc lang="id">Seorang guru sekolah dari sebuah kota kecil di Rusia jatuh cinta pada seorang wanita cantik asal Moskow yang sudah bertunangan dan akan menikah.</desc>
+  </programme>
+  <programme start="20230518170000 +0700" stop="20230518180000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518180000 +0700" stop="20230518200000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Captain Fantastic</title>
+    <desc lang="id">Seorang ayah yang bertekad membesarkan keenam anaknya dengan pendidikan fisik dan intelektual ketat terpaksa memasuki dunia nyata yang menantang pemikirannya tentang makna menjadi orang tua.</desc>
+  </programme>
+  <programme start="20230518200000 +0700" stop="20230518220000 +0700" channel="MyFamilyChannel">
+    <title lang="id">A Few Best Men</title>
+    <desc lang="id">Seorang pengantin pria dan tiga pendamping pengantinnya pergi ke pedalaman Australia untuk menghadiri pernikahan.</desc>
+  </programme>
+  <programme start="20230518220000 +0700" stop="20230518230000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518230000 +0700" stop="20230519010000 +0700" channel="MyFamilyChannel">
+    <title lang="id">I Hate Valentine's Day</title>
+    <desc lang="id">Seorang penjual bunga, yang memiliki peraturan ketat bahwa ia hanya akan berkencan lima kali dengan pria mana pun, menyadari jika dirinya mulai jatuh hati pada seorang pemilik restoran baru di kota.</desc>
+  </programme>
+  <programme start="20230519010000 +0700" stop="20230519030000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Mr. Bones</title>
+    <desc lang="id">Seorang raja suku mengirim seorang dukun untuk mencari putranya. Sang dukun pulang dengan membawa seorang pemain golf asal Amerika dan sekelompok preman yang memaksa sang pemain golf untuk mengikuti sebuah turnamen.</desc>
+  </programme>
+  <programme start="20230519030000 +0700" stop="20230519050000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Mr. Bones 2</title>
+    <desc lang="id">Seorang dukun Afrika berkulit putih harus pergi ke India untuk mengembalikan sebuah batu terkutuk ke tempat asalnya.</desc>
+  </programme>
+  <programme start="20230519050000 +0700" stop="20230519060000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519060000 +0700" stop="20230519080000 +0700" channel="MyFamilyChannel">
+    <title lang="id">I Hate Valentine's Day</title>
+    <desc lang="id">Seorang penjual bunga, yang memiliki peraturan ketat bahwa ia hanya akan berkencan lima kali dengan pria mana pun, menyadari jika dirinya mulai jatuh hati pada seorang pemilik restoran baru di kota.</desc>
+  </programme>
+  <programme start="20230519080000 +0700" stop="20230519090000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519090000 +0700" stop="20230519110000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Slumdog Millionaire</title>
+    <desc lang="id">Sebuah kisah yang luar biasa tentang seorang remaja di Mumbai yang dibesarkan di daerah kumuh dan menjadi kontestan 'Who Wants To Be A Millionaire?' versi India.</desc>
+  </programme>
+  <programme start="20230519110000 +0700" stop="20230519120000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519120000 +0700" stop="20230519140000 +0700" channel="MyFamilyChannel">
+    <title lang="id">To Hell With Love</title>
+    <desc lang="id">Saat seorang pria mengalami kesialan bertubi-tubi dengan kehilangan pekerjaan, mobil, pacar dan sebuah manuskrip dalam waktu 48 jam, dia merenungkan kembali hidupnya dengan bantuan saudara laki-laki dan sepupunya.</desc>
+  </programme>
+  <programme start="20230519140000 +0700" stop="20230519150000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519150000 +0700" stop="20230519170000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Mr. Holmes</title>
+    <desc lang="id">Detektif Sherlock Holmes yang sudah pensiun menderita demensia. Sambil mencoba mengingat dua kasus tak terpecahkan yang membuatnya memutuskan untuk pensiun, ia juga berusaha keras untuk belajar tentang masa lalunya.</desc>
+  </programme>
+  <programme start="20230519170000 +0700" stop="20230519180000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519180000 +0700" stop="20230519200000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Whip It</title>
+    <desc lang="id">Dalam film karya Drew Barrymore yang berlatar di Bodeen, Texas ini, seorang gadis canggung menemukan cara untuk mengatasi kesedihan akibat tinggal di kota kecil dengan bergabung dalam liga roller derby di dekat Austin.</desc>
+  </programme>
+  <programme start="20230519200000 +0700" stop="20230519220000 +0700" channel="MyFamilyChannel">
+    <title lang="id">The New Adventures Of Aladdin</title>
+    <desc lang="id">Sepasang pria pecundang yang bekerja sebagai Sinterklas di sebuah pusat perbelanjaan berencana untuk merampok tempat itu. Namun di sana, mereka menemukan hal yang mengubah hidup.</desc>
+  </programme>
+  <programme start="20230519220000 +0700" stop="20230519230000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519230000 +0700" stop="20230520010000 +0700" channel="MyFamilyChannel">
+    <title lang="id">Love Happens</title>
+    <desc lang="id">Seorang duda, yang menulis buku laris tentang cara mengatasi duka, jatuh cinta pada seorang perangkai bunga di hotel tempatnya memberi seminar. Namun, ia menyadari jika ia belum benar-benar menerima kematian istrinya.</desc>
+  </programme>
+  <programme start="20230512220000 +0700" stop="20230512230000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230512230000 +0700" stop="20230513010000 +0700" channel="MyCinema">
+    <title lang="id">Gallowwalkers</title>
+    <desc lang="id">Aman, seorang pria yang dikutuk, harus menghadapi konsekuensi dari pilihan ibunya saat semua orang yang dia bunuh bangkit dari kematian. Dia pun meminta bantuan seorang prajurit muda untuk melawan para zombie.</desc>
+  </programme>
+  <programme start="20230513010000 +0700" stop="20230513030000 +0700" channel="MyCinema">
+    <title lang="id">I Know What I Saw</title>
+    <desc lang="id">Mackenzie, seorang mahasiswi hukum yang cantik dan cerdas, dihantui oleh gambaran peristiwa pembunuhan yang tidak dia lakukan.</desc>
+  </programme>
+  <programme start="20230513030000 +0700" stop="20230513050600 +0700" channel="MyCinema">
+    <title lang="id">In The Name Of The King</title>
+    <desc lang="id">Farmer, seorang pria sederhana, memulai perjalanan berbahaya untuk menyelamatkan istrinya yang diculik oleh pasukan prajurit kejam serta membalas dendam atas kematian putranya.</desc>
+  </programme>
+  <programme start="20230513050600 +0700" stop="20230513060600 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230513060600 +0700" stop="20230513080000 +0700" channel="MyCinema">
+    <title lang="id">The Untold</title>
+    <desc lang="id">Sekelompok regu penolong yang berusaha mencari penumpang yang selamat dari pesawat terbang yang jatuh di daerah pegunungan terpencil mengalami kejadian menegangkan karena harus berhadapan dengan makhluk mengerikan.</desc>
+  </programme>
+  <programme start="20230513080000 +0700" stop="20230513090000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230513090000 +0700" stop="20230513110700 +0700" channel="MyCinema">
+    <title lang="id">Arn: The Knight Templar</title>
+    <desc lang="id">Arn, putra seorang bangsawan Swedia berpangkat tinggi, dididik di sebuah biara dan dikirim ke Tanah Suci sebagai ksatria templar untuk menebus dosa cinta terlarang.</desc>
+  </programme>
+  <programme start="20230513110700 +0700" stop="20230513120700 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230513120700 +0700" stop="20230513140000 +0700" channel="MyCinema">
+    <title lang="id">Alexander: The Neva Battle</title>
+    <desc lang="id">Setelah kematian ayahnya, Pangeran Alexander muda yang naik takhta menjadi raja, mencoba untuk mempertahankan negaranya dari penjajah asal timur dan barat.</desc>
+  </programme>
+  <programme start="20230513140000 +0700" stop="20230513150000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230513150000 +0700" stop="20230513170000 +0700" channel="MyCinema">
+    <title lang="id">Goodbye World</title>
+    <desc lang="id">Saat serangan teroris misterius menyebabkan kekacauan di berbagai kota, sekelompok teman berlindung di kabin mereka. Namun, tantangan untuk hidup di dunia pasca-apokaliptik sangat berdampak pada kelompok tersebut.</desc>
+  </programme>
+  <programme start="20230513170000 +0700" stop="20230513180000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230513180000 +0700" stop="20230513200000 +0700" channel="MyCinema">
+    <title lang="id">2:22</title>
+    <desc lang="id">Kehidupan seorang pria hancur berantakan ketika serangkaian kejadian yang tak menyenangkan berulang dengan cara yang persis sama setiap harinya, dan berakhir pada pukul 2:22 siang.</desc>
+  </programme>
+  <programme start="20230513200000 +0700" stop="20230513220000 +0700" channel="MyCinema">
+    <title lang="id">Cold Prey 2</title>
+    <desc lang="id">Jannicke terbangun di rumah sakit dan semua temannya sudah tak bernyawa. Saat dia berjalan melewati koridor gelap, dia mengira jika dia sendirian. Namun, mimpi buruknya belum berakhir.</desc>
+  </programme>
+  <programme start="20230513220000 +0700" stop="20230513230000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230513230000 +0700" stop="20230514010000 +0700" channel="MyCinema">
+    <title lang="id">100 Feet</title>
+    <desc lang="id">Setelah Marnie Watson membunuh suaminya yang kasar demi membela diri, dia dijatuhi hukuman tahanan rumah. Namun, dia menyadari bahwa rumah itu dihantui oleh arwah sang suami yang pendendam.</desc>
+  </programme>
+  <programme start="20230514010000 +0700" stop="20230514030700 +0700" channel="MyCinema">
+    <title lang="id">Arn: The Knight Templar</title>
+    <desc lang="id">Arn, putra seorang bangsawan Swedia berpangkat tinggi, dididik di sebuah biara dan dikirim ke Tanah Suci sebagai ksatria templar untuk menebus dosa cinta terlarang.</desc>
+  </programme>
+  <programme start="20230514030700 +0700" stop="20230514050000 +0700" channel="MyCinema">
+    <title lang="id">Alexander: The Neva Battle</title>
+    <desc lang="id">Setelah kematian ayahnya, Pangeran Alexander muda yang naik takhta menjadi raja, mencoba untuk mempertahankan negaranya dari penjajah asal timur dan barat.</desc>
+  </programme>
+  <programme start="20230514050000 +0700" stop="20230514060000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230514060000 +0700" stop="20230514080000 +0700" channel="MyCinema">
+    <title lang="id">100 Feet</title>
+    <desc lang="id">Setelah Marnie Watson membunuh suaminya yang kasar demi membela diri, dia dijatuhi hukuman tahanan rumah. Namun, dia menyadari bahwa rumah itu dihantui oleh arwah sang suami yang pendendam.</desc>
+  </programme>
+  <programme start="20230514080000 +0700" stop="20230514090000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230514090000 +0700" stop="20230514110000 +0700" channel="MyCinema">
+    <title lang="id">Damned By Dawn</title>
+    <desc lang="id">Sesosok arwah Banshee bangkit dari kubur dan mencoba untuk merenggut roh seorang wanita. Dibintangi oleh Renee Willner, Bridget Neval dan Dawn Klingberg.</desc>
+  </programme>
+  <programme start="20230514110000 +0700" stop="20230514120000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230514120000 +0700" stop="20230514140000 +0700" channel="MyCinema">
+    <title lang="id">Dark Tides</title>
+    <desc lang="id">Sepasang suami istri menemukan sesuatu yang mengejutkan saat bepergian di New England, yaitu uang tunai sebesar 500.000 dolar yang disembunyikan di dalam pelampung di dekat pantai.</desc>
+  </programme>
+  <programme start="20230514140000 +0700" stop="20230514150000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230514150000 +0700" stop="20230514170000 +0700" channel="MyCinema">
+    <title lang="id">24 Hours To Live</title>
+    <desc lang="id">Setelah Travis Conrad, seorang mantan marinir yang kini menjadi pembunuh bayaran, terbunuh dalam baku tembak, sebuah operasi regenerasi baru memberinya kesempatan untuk hidup dan membalas dendam.</desc>
+  </programme>
+  <programme start="20230514170000 +0700" stop="20230514180000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230514180000 +0700" stop="20230514200000 +0700" channel="MyCinema">
+    <title lang="id">Kill Your Friends</title>
+    <desc lang="id">Seorang pria yang bekerja di puncak industri musik Britpop melakukan tindakan ekstrem untuk menemukan bakat berikutnya.</desc>
+  </programme>
+  <programme start="20230514200000 +0700" stop="20230514220000 +0700" channel="MyCinema">
+    <title lang="id">Deadly Run</title>
+    <desc lang="id">Seorang pembunuh psikopat melepaskan wanita yang diculiknya di hutan belantara di gunung lalu memburu mereka.</desc>
+  </programme>
+  <programme start="20230514220000 +0700" stop="20230514230000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230514230000 +0700" stop="20230515010000 +0700" channel="MyCinema">
+    <title lang="id">Cold Prey 3</title>
+    <desc lang="id">Berlatar di tahun 80-an tentang sekelompok remaja yang mengunjungi sebuah hotel terbengkalai, tetapi mereka justru diburu oleh seorang pembunuh psikopat di hutan Norwegia.</desc>
+  </programme>
+  <programme start="20230515010000 +0700" stop="20230515030000 +0700" channel="MyCinema">
+    <title lang="id">Fishing Naked</title>
+    <desc lang="id">Empat remaja mendapat masalah di hutan karena melakukan lelucon hingga keempatnya menyadari bahwa mereka membahayakan sesosok makhluk asing dengan semua kekacauan yang mereka buat.</desc>
+  </programme>
+  <programme start="20230515030000 +0700" stop="20230515050000 +0700" channel="MyCinema">
+    <title lang="id">Burning Bright</title>
+    <desc lang="id">Sebuah film thriller yang bercerita tentang seorang wanita muda dan adik laki-lakinya yang mengidap autis yang terjebak di sebuah rumah dengan seekor harimau buas saat terjadi badai.</desc>
+  </programme>
+  <programme start="20230515050000 +0700" stop="20230515060000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515060000 +0700" stop="20230515080000 +0700" channel="MyCinema">
+    <title lang="id">Gallowwalkers</title>
+    <desc lang="id">Aman, seorang pria yang dikutuk, harus menghadapi konsekuensi dari pilihan ibunya saat semua orang yang dia bunuh bangkit dari kematian. Dia pun meminta bantuan seorang prajurit muda untuk melawan para zombie.</desc>
+  </programme>
+  <programme start="20230515080000 +0700" stop="20230515090000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515090000 +0700" stop="20230515110000 +0700" channel="MyCinema">
+    <title lang="id">Dark Floor</title>
+    <desc lang="id">Seorang pria dengan putrinya yang mengidap autis dan tiga orang lainnya yang berada di lift rumah sakit menemukan diri mereka terperangkap di dalam gedung bersama monster jahat.</desc>
+  </programme>
+  <programme start="20230515110000 +0700" stop="20230515120000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515120000 +0700" stop="20230515140000 +0700" channel="MyCinema">
+    <title lang="id">Dark Storm</title>
+    <desc lang="id">Sekelompok ilmuwan menemukan sebuah alat yang mampu memanipulasi materi gelap, namun mereka tidak menyadari jika alat tersebut akan menimbulkan kekacauan besar.</desc>
+  </programme>
+  <programme start="20230515140000 +0700" stop="20230515150000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515150000 +0700" stop="20230515170000 +0700" channel="MyCinema">
+    <title lang="id">The Eagle</title>
+    <desc lang="id">Di wilayah Inggris yang dikuasai bangsa Romawi, seorang prajurit Romawi muda bertekad untuk menghormati kenangan atas sang ayah dengan menemukan lencana emas legiunnya yang hilang.</desc>
+  </programme>
+  <programme start="20230515170000 +0700" stop="20230515180000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515180000 +0700" stop="20230515200000 +0700" channel="MyCinema">
+    <title lang="id">Franklyn</title>
+    <desc lang="id">Berlatar di dunia paralel antara London kontemporer dan Meanwhile City nan futuristik, 'Franklyn' memaparkan kisah tentang empat orang kehilangan arah yang hidupnya dipertemukan oleh nasib, asmara dan tragedi.</desc>
+  </programme>
+  <programme start="20230515200000 +0700" stop="20230515220000 +0700" channel="MyCinema">
+    <title lang="id">Combustion</title>
+    <desc lang="id">Dalam pesta perayaan pertunangannya dengan Julia, Mikel bertemu seorang pelayan bernama Ari. Ketertarikan yang timbul di antara mereka membuat Mikel menaruh minat pada bidang yang digeluti Ari: balap mobil ilegal.</desc>
+  </programme>
+  <programme start="20230515220000 +0700" stop="20230515230000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515230000 +0700" stop="20230516010000 +0700" channel="MyCinema">
+    <title lang="id">The Ninth Passenger</title>
+    <desc lang="id">Delapan orang mahasiswa yang berpesta di atas sebuah kapal pesiar mewah di tengah laut diteror oleh seorang penumpang tak diundang.</desc>
+  </programme>
+  <programme start="20230516010000 +0700" stop="20230516030000 +0700" channel="MyCinema">
+    <title lang="id">Dark Floor</title>
+    <desc lang="id">Seorang pria dengan putrinya yang mengidap autis dan tiga orang lainnya yang berada di lift rumah sakit menemukan diri mereka terperangkap di dalam gedung bersama monster jahat.</desc>
+  </programme>
+  <programme start="20230516030000 +0700" stop="20230516050000 +0700" channel="MyCinema">
+    <title lang="id">Dark Storm</title>
+    <desc lang="id">Sekelompok ilmuwan menemukan sebuah alat yang mampu memanipulasi materi gelap, namun mereka tidak menyadari jika alat tersebut akan menimbulkan kekacauan besar.</desc>
+  </programme>
+  <programme start="20230516050000 +0700" stop="20230516060000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516060000 +0700" stop="20230516080000 +0700" channel="MyCinema">
+    <title lang="id">The Ninth Passenger</title>
+    <desc lang="id">Delapan orang mahasiswa yang berpesta di atas sebuah kapal pesiar mewah di tengah laut diteror oleh seorang penumpang tak diundang.</desc>
+  </programme>
+  <programme start="20230516080000 +0700" stop="20230516090000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516090000 +0700" stop="20230516110000 +0700" channel="MyCinema">
+    <title lang="id">The Ghosts Of Dickens' Past</title>
+    <desc lang="id">Kisah tentang kehidupan awal Charles Dickens dan peristiwa-peristiwa yang memberinya inspirasi untuk menulis karya-karya terhebatnya.</desc>
+  </programme>
+  <programme start="20230516110000 +0700" stop="20230516120000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516120000 +0700" stop="20230516140000 +0700" channel="MyCinema">
+    <title lang="id">Hush</title>
+    <desc lang="id">Seorang penulis tuna rungu wicara yang tinggal di hutan untuk hidup menyendiri harus berjuang untuk mempertahankan hidupnya ketika seorang pembunuh bertopeng muncul di rumahnya.</desc>
+  </programme>
+  <programme start="20230516140000 +0700" stop="20230516150000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516150000 +0700" stop="20230516170000 +0700" channel="MyCinema">
+    <title lang="id">Blindness</title>
+    <desc lang="id">Suatu epidemi yang dikenal sebagai 'penyakit putih' membuat semua orang buta. Seorang istri pun berpura-pura terjangkit penyakit itu demi menjaga suaminya, serta membawanya dan keluarga ke tempat aman.</desc>
+  </programme>
+  <programme start="20230516170000 +0700" stop="20230516180000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516180000 +0700" stop="20230516200000 +0700" channel="MyCinema">
+    <title lang="id">The Guardians</title>
+    <desc lang="id">Saat Perang Dingin, suatu organisasi bernama "Patriot" menciptakan pasukan pahlawan super. Selama bertahun-tahun, mereka harus menyembunyikan identitas mereka, tapi suatu ketika mereka terpanggil untuk kembali beraksi.</desc>
+  </programme>
+  <programme start="20230516200000 +0700" stop="20230516220000 +0700" channel="MyCinema">
+    <title lang="id">Gallowwalkers</title>
+    <desc lang="id">Aman, seorang pria yang dikutuk, harus menghadapi konsekuensi dari pilihan ibunya saat semua orang yang dia bunuh bangkit dari kematian. Dia pun meminta bantuan seorang prajurit muda untuk melawan para zombie.</desc>
+  </programme>
+  <programme start="20230516220000 +0700" stop="20230516230000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516230000 +0700" stop="20230517010000 +0700" channel="MyCinema">
+    <title lang="id">The Tortured</title>
+    <desc lang="id">Kehidupan sepasang suami istri dari kelas menengah ke atas hancur ketika anak tunggal mereka diculik dan dibunuh. Terobsesi dengan balas dendam, pasangan itu memanfaatkan kesempatan dan menculik sang pembunuh.</desc>
+  </programme>
+  <programme start="20230517010000 +0700" stop="20230517030000 +0700" channel="MyCinema">
+    <title lang="id">The Ghosts Of Dickens' Past</title>
+    <desc lang="id">Kisah tentang kehidupan awal Charles Dickens dan peristiwa-peristiwa yang memberinya inspirasi untuk menulis karya-karya terhebatnya.</desc>
+  </programme>
+  <programme start="20230517030000 +0700" stop="20230517050000 +0700" channel="MyCinema">
+    <title lang="id">Hush</title>
+    <desc lang="id">Seorang penulis tuna rungu wicara yang tinggal di hutan untuk hidup menyendiri harus berjuang untuk mempertahankan hidupnya ketika seorang pembunuh bertopeng muncul di rumahnya.</desc>
+  </programme>
+  <programme start="20230517050000 +0700" stop="20230517060000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517060000 +0700" stop="20230517080000 +0700" channel="MyCinema">
+    <title lang="id">The Tortured</title>
+    <desc lang="id">Kehidupan sepasang suami istri dari kelas menengah ke atas hancur ketika anak tunggal mereka diculik dan dibunuh. Terobsesi dengan balas dendam, pasangan itu memanfaatkan kesempatan dan menculik sang pembunuh.</desc>
+  </programme>
+  <programme start="20230517080000 +0700" stop="20230517090000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517090000 +0700" stop="20230517110000 +0700" channel="MyCinema">
+    <title lang="id">Grave Encounters</title>
+    <desc lang="id">Sebuah tim produksi reality show bertema pemburu hantu mengunci diri mereka di dalam sebuah bangunan bekas rumah sakit jiwa yang konon berhantu, dan ternyata hal itu bukan isapan jempol belaka.</desc>
+  </programme>
+  <programme start="20230517110000 +0700" stop="20230517120000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517120000 +0700" stop="20230517140000 +0700" channel="MyCinema">
+    <title lang="id">Hurlyburly</title>
+    <desc lang="id">Tokoh-tokoh berpengaruh di Hollywood membedah kehidupan pribadi mereka sendiri ketika semuanya tampak sarat masalah.</desc>
+  </programme>
+  <programme start="20230517140000 +0700" stop="20230517150000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517150000 +0700" stop="20230517170000 +0700" channel="MyCinema">
+    <title lang="id">Goodbye World</title>
+    <desc lang="id">Saat serangan teroris misterius menyebabkan kekacauan di berbagai kota, sekelompok teman berlindung di kabin mereka. Namun, tantangan untuk hidup di dunia pasca-apokaliptik sangat berdampak pada kelompok tersebut.</desc>
+  </programme>
+  <programme start="20230517170000 +0700" stop="20230517180000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517180000 +0700" stop="20230517200000 +0700" channel="MyCinema">
+    <title lang="id">24 Hours To Live</title>
+    <desc lang="id">Setelah Travis Conrad, seorang mantan marinir yang kini menjadi pembunuh bayaran, terbunuh dalam baku tembak, sebuah operasi regenerasi baru memberinya kesempatan untuk hidup dan membalas dendam.</desc>
+  </programme>
+  <programme start="20230517200000 +0700" stop="20230517220000 +0700" channel="MyCinema">
+    <title lang="id">Cold Prey 2</title>
+    <desc lang="id">Jannicke terbangun di rumah sakit dan semua temannya sudah tak bernyawa. Saat dia berjalan melewati koridor gelap, dia mengira jika dia sendirian. Namun, mimpi buruknya belum berakhir.</desc>
+  </programme>
+  <programme start="20230517220000 +0700" stop="20230517230000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517230000 +0700" stop="20230518010000 +0700" channel="MyCinema">
+    <title lang="id">Cold Prey 3</title>
+    <desc lang="id">Berlatar di tahun 80-an tentang sekelompok remaja yang mengunjungi sebuah hotel terbengkalai, tetapi mereka justru diburu oleh seorang pembunuh psikopat di hutan Norwegia.</desc>
+  </programme>
+  <programme start="20230518010000 +0700" stop="20230518030000 +0700" channel="MyCinema">
+    <title lang="id">Grave Encounters</title>
+    <desc lang="id">Sebuah tim produksi reality show bertema pemburu hantu mengunci diri mereka di dalam sebuah bangunan bekas rumah sakit jiwa yang konon berhantu, dan ternyata hal itu bukan isapan jempol belaka.</desc>
+  </programme>
+  <programme start="20230518030000 +0700" stop="20230518050000 +0700" channel="MyCinema">
+    <title lang="id">Hurlyburly</title>
+    <desc lang="id">Tokoh-tokoh berpengaruh di Hollywood membedah kehidupan pribadi mereka sendiri ketika semuanya tampak sarat masalah.</desc>
+  </programme>
+  <programme start="20230518050000 +0700" stop="20230518060000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518060000 +0700" stop="20230518080000 +0700" channel="MyCinema">
+    <title lang="id">Cold Prey 3</title>
+    <desc lang="id">Berlatar di tahun 80-an tentang sekelompok remaja yang mengunjungi sebuah hotel terbengkalai, tetapi mereka justru diburu oleh seorang pembunuh psikopat di hutan Norwegia.</desc>
+  </programme>
+  <programme start="20230518080000 +0700" stop="20230518090000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518090000 +0700" stop="20230518110000 +0700" channel="MyCinema">
+    <title lang="id">I Know What I Saw</title>
+    <desc lang="id">Mackenzie, seorang mahasiswi hukum yang cantik dan cerdas, dihantui oleh gambaran peristiwa pembunuhan yang tidak dia lakukan.</desc>
+  </programme>
+  <programme start="20230518110000 +0700" stop="20230518120000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518120000 +0700" stop="20230518140000 +0700" channel="MyCinema">
+    <title lang="id">Lighthouse</title>
+    <desc lang="id">Para penumpang kapal penjara yang tenggelam berlindung di sebuah mercusuar tua tanpa menyadari jika seorang penjahat sadis telah lebih dulu bersembunyi di tempat itu.</desc>
+  </programme>
+  <programme start="20230518140000 +0700" stop="20230518150000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518150000 +0700" stop="20230518170000 +0700" channel="MyCinema">
+    <title lang="id">Kill Your Friends</title>
+    <desc lang="id">Seorang pria yang bekerja di puncak industri musik Britpop melakukan tindakan ekstrem untuk menemukan bakat berikutnya.</desc>
+  </programme>
+  <programme start="20230518170000 +0700" stop="20230518180000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518180000 +0700" stop="20230518200000 +0700" channel="MyCinema">
+    <title lang="id">The Girl With All The Gifts</title>
+    <desc lang="id">Seorang ilmuwan dan seorang guru yang tinggal di masa depan memulai sebuah perjalanan untuk bertahan hidup bersama dengan seorang gadis muda istimewa yang bernama Melanie.</desc>
+  </programme>
+  <programme start="20230518200000 +0700" stop="20230518220000 +0700" channel="MyCinema">
+    <title lang="id">Deadly Run</title>
+    <desc lang="id">Seorang pembunuh psikopat melepaskan wanita yang diculiknya di hutan belantara di gunung lalu memburu mereka.</desc>
+  </programme>
+  <programme start="20230518220000 +0700" stop="20230518230000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518230000 +0700" stop="20230519010000 +0700" channel="MyCinema">
+    <title lang="id">The Spirit</title>
+    <desc lang="id">Polisi baru, Denny Colt, mulai beraksi sebagai The Spirit, seorang pahlawan yang memiliki misi untuk melawan kekuatan jahat di Central City.</desc>
+  </programme>
+  <programme start="20230519010000 +0700" stop="20230519030000 +0700" channel="MyCinema">
+    <title lang="id">I Know What I Saw</title>
+    <desc lang="id">Mackenzie, seorang mahasiswi hukum yang cantik dan cerdas, dihantui oleh gambaran peristiwa pembunuhan yang tidak dia lakukan.</desc>
+  </programme>
+  <programme start="20230519030000 +0700" stop="20230519050000 +0700" channel="MyCinema">
+    <title lang="id">Lighthouse</title>
+    <desc lang="id">Para penumpang kapal penjara yang tenggelam berlindung di sebuah mercusuar tua tanpa menyadari jika seorang penjahat sadis telah lebih dulu bersembunyi di tempat itu.</desc>
+  </programme>
+  <programme start="20230519050000 +0700" stop="20230519060000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519060000 +0700" stop="20230519080000 +0700" channel="MyCinema">
+    <title lang="id">The Spirit</title>
+    <desc lang="id">Polisi baru, Denny Colt, mulai beraksi sebagai The Spirit, seorang pahlawan yang memiliki misi untuk melawan kekuatan jahat di Central City.</desc>
+  </programme>
+  <programme start="20230519080000 +0700" stop="20230519090000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519090000 +0700" stop="20230519110600 +0700" channel="MyCinema">
+    <title lang="id">In The Name Of The King</title>
+    <desc lang="id">Farmer, seorang pria sederhana, memulai perjalanan berbahaya untuk menyelamatkan istrinya yang diculik oleh pasukan prajurit kejam serta membalas dendam atas kematian putranya.</desc>
+  </programme>
+  <programme start="20230519110600 +0700" stop="20230519120600 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519120600 +0700" stop="20230519140000 +0700" channel="MyCinema">
+    <title lang="id">La Cucaracha</title>
+    <desc lang="id">Seorang penulis yang putus asa berjuang untuk bertahan hidup ketika anggota geng Meksiko melibatkannya dalam aksi pembunuhan.</desc>
+  </programme>
+  <programme start="20230519140000 +0700" stop="20230519150000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519150000 +0700" stop="20230519170000 +0700" channel="MyCinema">
+    <title lang="id">2:22</title>
+    <desc lang="id">Kehidupan seorang pria hancur berantakan ketika serangkaian kejadian yang tak menyenangkan berulang dengan cara yang persis sama setiap harinya, dan berakhir pada pukul 2:22 siang.</desc>
+  </programme>
+  <programme start="20230519170000 +0700" stop="20230519180000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519180000 +0700" stop="20230519200000 +0700" channel="MyCinema">
+    <title lang="id">Triage</title>
+    <desc lang="id">Istri seorang jurnalis foto menyelidiki alasan sang suami pulang sendirian tanpa rekannya saat ia kembali dari tugas terakhirnya.</desc>
+  </programme>
+  <programme start="20230519200000 +0700" stop="20230519220000 +0700" channel="MyCinema">
+    <title lang="id">100 Feet</title>
+    <desc lang="id">Setelah Marnie Watson membunuh suaminya yang kasar demi membela diri, dia dijatuhi hukuman tahanan rumah. Namun, dia menyadari bahwa rumah itu dihantui oleh arwah sang suami yang pendendam.</desc>
+  </programme>
+  <programme start="20230519220000 +0700" stop="20230519230000 +0700" channel="MyCinema">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519230000 +0700" stop="20230520010000 +0700" channel="MyCinema">
+    <title lang="id">The Untold</title>
+    <desc lang="id">Sekelompok regu penolong yang berusaha mencari penumpang yang selamat dari pesawat terbang yang jatuh di daerah pegunungan terpencil mengalami kejadian menegangkan karena harus berhadapan dengan makhluk mengerikan.</desc>
+  </programme>
+  <programme start="20230512220000 +0700" stop="20230512230000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230512230000 +0700" stop="20230513010000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Intruder</title>
+    <desc lang="id">The Intruder menampilkan pertarungan antara para penghuni sebuah gedung apartemen di Bangkok melawan ular-ular kobra ganas yang menyerbu tempat tinggal mereka.</desc>
+  </programme>
+  <programme start="20230513010000 +0700" stop="20230513030000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Sanctuary</title>
+    <desc lang="id">Krit berusaha melindungi sebuah benda pusaka yang tengah menjadi buruan kelompok pencuri internasional.</desc>
+  </programme>
+  <programme start="20230513030000 +0700" stop="20230513050000 +0700" channel="MyCinemaAsia">
+    <title lang="id">BTS Happy Ever After, Pt 2</title>
+    <desc lang="id">Kumpulan cerita konser dan pertemuan penggemar dari grup asal Korea, BTS.</desc>
+  </programme>
+  <programme start="20230513050000 +0700" stop="20230513060000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230513060000 +0700" stop="20230513080000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Cursed House</title>
+    <desc lang="id">Ann pindah ke rumah baru bersama suami, anak perempuan, dan ibunya demi kehidupan yang lebih baik. Namun, kehidupan mereka berubah secara tak terduga ketika hal-hal aneh mulai terjadi di rumah itu.</desc>
+  </programme>
+  <programme start="20230513080000 +0700" stop="20230513090000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230513090000 +0700" stop="20230513110000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Speed Master</title>
+    <desc lang="id">Hayato Akaboshi berhenti menjadi pembalap dan menetap di suatu desa usai secara tak sengaja menewaskan pengemudi lain. Dia lalu bekerja di sebuah bengkel dan mengubah nasibnya, yang membuat iri pemilik bengkel lain.</desc>
+  </programme>
+  <programme start="20230513110000 +0700" stop="20230513120000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230513120000 +0700" stop="20230513140400 +0700" channel="MyCinemaAsia">
+    <title lang="id">Seventeen K-Pop Group, Pt 1</title>
+    <desc lang="id">Saksikan konser group K-Pop Seventeen di Seoul.</desc>
+  </programme>
+  <programme start="20230513140400 +0700" stop="20230513150400 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230513150400 +0700" stop="20230513170000 +0700" channel="MyCinemaAsia">
+    <title lang="id">102</title>
+    <desc lang="id">Ketika pemerintah Thailand mengumumkan rencana untuk mengosongkan brankas negara demi membayar pinjaman pada IMF, sekelompok mafia lokal menyusun rencana pencurian akbar, yaitu mencuri cadangan emas negara itu.</desc>
+  </programme>
+  <programme start="20230513170000 +0700" stop="20230513180000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230513180000 +0700" stop="20230513200000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Gravity Of Love</title>
+    <desc lang="id">Dua orang pria tergila-gila pada Fah. Siapakah yang akan dipilihnya?</desc>
+  </programme>
+  <programme start="20230513200000 +0700" stop="20230513222000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Single Lady</title>
+    <desc lang="id">Bright, sang penulis idola, merupakan contoh sempurna dari wanita lajang. Namun, ia harus mencari mantan-mantan kekasihnya setelah seorang peramal memperingatkannya akan dampak dari masalah-masalah yang belum usai.</desc>
+  </programme>
+  <programme start="20230513222000 +0700" stop="20230513232000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230513232000 +0700" stop="20230514011000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Blind</title>
+    <desc lang="id">Min Soo-ah yang tuna netra membantu polisi menyelidiki kasus hilangnya seorang siswi. Sopir taksi, yang menyebabkan Soo-ah kecelakaan mobil dan membuatnya buta, menjadi tersangka kasus tersebut.</desc>
+  </programme>
+  <programme start="20230514011000 +0700" stop="20230514030000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Speed Master</title>
+    <desc lang="id">Hayato Akaboshi berhenti menjadi pembalap dan menetap di suatu desa usai secara tak sengaja menewaskan pengemudi lain. Dia lalu bekerja di sebuah bengkel dan mengubah nasibnya, yang membuat iri pemilik bengkel lain.</desc>
+  </programme>
+  <programme start="20230514030000 +0700" stop="20230514050400 +0700" channel="MyCinemaAsia">
+    <title lang="id">Seventeen K-Pop Group, Pt 1</title>
+    <desc lang="id">Saksikan konser group K-Pop Seventeen di Seoul.</desc>
+  </programme>
+  <programme start="20230514050400 +0700" stop="20230514060400 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230514060400 +0700" stop="20230514080000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Blind</title>
+    <desc lang="id">Min Soo-ah yang tuna netra membantu polisi menyelidiki kasus hilangnya seorang siswi. Sopir taksi, yang menyebabkan Soo-ah kecelakaan mobil dan membuatnya buta, menjadi tersangka kasus tersebut.</desc>
+  </programme>
+  <programme start="20230514080000 +0700" stop="20230514090000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230514090000 +0700" stop="20230514110000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Beast</title>
+    <desc lang="id">Tae-Hoon dipanggil untuk bergabung dalam pasukan elit Angkatan Darat Korea, tapi ia meninggalkan panggilan tugasnya untuk memburu pelaku perbudakan seks yang telah menculik adik perempuannya.</desc>
+  </programme>
+  <programme start="20230514110000 +0700" stop="20230514120000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230514120000 +0700" stop="20230514140000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Seventeen K-Pop Group, Pt 2</title>
+    <desc lang="id">Saksikan konser group K-Pop Seventeen di Seoul.</desc>
+  </programme>
+  <programme start="20230514140000 +0700" stop="20230514150000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230514150000 +0700" stop="20230514170000 +0700" channel="MyCinemaAsia">
+    <title lang="id">30+: Single On Sale</title>
+    <desc lang="id">Sebuah film komedi romantis yang mengisahkan seorang wanita berusia 30-an yang kurang beruntung dalam percintaan, serta perjuangannya untuk menemukan sang belahan jiwa.</desc>
+  </programme>
+  <programme start="20230514170000 +0700" stop="20230514180000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230514180000 +0700" stop="20230514200000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Happy Birthday</title>
+    <desc lang="id">Ketika Ten akhirnya bertemu Pao, mereka berjanji untuk bersama selamanya. Namun suatu saat, Ten tidak menerima hadiah ulang tahun yang dikirimkan Pao. Bisakah pasangan itu menepati janji yang mereka buat?</desc>
+  </programme>
+  <programme start="20230514200000 +0700" stop="20230514220000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Take Me Home</title>
+    <desc lang="id">Setelah kehilangan ingatan karena kecelakaan, Tan berusaha mencari jati dirinya. Ketika dia akhirnya kembali ke rumah, rahasia-rahasia yang perlahan terkuak membuatnya merasa takut dan ragu akan keluarganya itu.</desc>
+  </programme>
+  <programme start="20230514220000 +0700" stop="20230514230000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230514230000 +0700" stop="20230515010000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Cadaver</title>
+    <desc lang="id">Di Bangkok, mahasiswa kedokteran Mai melakukan kontak pertamanya dengan mayat di kelas anatomi. Namun, setelah menyentuh mayat itu, dia dihantui oleh arwah seorang wanita.</desc>
+  </programme>
+  <programme start="20230515010000 +0700" stop="20230515030000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Siam Square</title>
+    <desc lang="id">Film ini menceritakan anak-anak SMA yang mencoba membuktikan keberadaan legenda urban yang justru malah menjadi bumerang, dan kini mereka tewas satu per satu.</desc>
+  </programme>
+  <programme start="20230515030000 +0700" stop="20230515050000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Shutter One</title>
+    <desc lang="id">Seorang fotografer muda dan kekasihnya menemukan bayangan misterius di dalam foto-foto mereka usai suatu kecelakaan tragis. Keduanya pun segera mengetahui jika mereka tidak dapat melarikan diri dari masa lalu.</desc>
+  </programme>
+  <programme start="20230515050000 +0700" stop="20230515060000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515060000 +0700" stop="20230515080000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Intruder</title>
+    <desc lang="id">The Intruder menampilkan pertarungan antara para penghuni sebuah gedung apartemen di Bangkok melawan ular-ular kobra ganas yang menyerbu tempat tinggal mereka.</desc>
+  </programme>
+  <programme start="20230515080000 +0700" stop="20230515090000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515090000 +0700" stop="20230515110000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Teana: 10,000 Years Later</title>
+    <desc lang="id">Zhuma dan anjingnya dipilih oleh seorang dewi untuk mengumpulkan sekutu dari suku yang masih hidup demi melawan Wushen, hantu yang mengancam untuk menghancurkan umat manusia.</desc>
+  </programme>
+  <programme start="20230515110000 +0700" stop="20230515120000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515120000 +0700" stop="20230515140000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Mother</title>
+    <desc lang="id">Sebuah keluarga pindah ke sebuah rumah bergaya kolonial yang memiliki koleksi foto kuno demi bisa membesarkan sang putri pengidap autis dengan tenang. Namun sejak tiba di rumah, sang putri mulai bertingkah aneh.</desc>
+  </programme>
+  <programme start="20230515140000 +0700" stop="20230515150000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515150000 +0700" stop="20230515170000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Norah</title>
+    <desc lang="id">Kisah cinta epik tentang seorang gadis yang melakukan perjalanan dari masa kini ke kerajaan mitos di masa lalu, dan bertemu dengan seorang pemuda tampan yang menguasai tarian tradisional.</desc>
+  </programme>
+  <programme start="20230515170000 +0700" stop="20230515180000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515180000 +0700" stop="20230515200000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Reside</title>
+    <desc lang="id">Setelah upacara ritual misterius dilakukan di sebuah rumah, terjadi beberapa peristiwa mengerikan dan tidak dapat dijelaskan yang diduga terkait dengan arwah jahat yang merasuki para penghuni rumah.</desc>
+  </programme>
+  <programme start="20230515200000 +0700" stop="20230515220100 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Grand Heist</title>
+    <desc lang="id">Es tiba-tiba menjadi komoditas yang lebih berharga dari emas pada Dinasti Joseon dan suatu kelompok beranggotakan 11 orang ditugaskan untuk melindungi situasi pasar dari orang-orang yang tidak bertanggung jawab.</desc>
+  </programme>
+  <programme start="20230515220100 +0700" stop="20230515230100 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515230100 +0700" stop="20230516010000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Fatality</title>
+    <desc lang="id">Entah bagaimana, seorang pria berusia 30 tahun dari Taipei yang mengalami gangguan mental, mendapati dirinya terbangun dari koma di sebuah rumah sakit di kota pantai kecil di Thailand.</desc>
+  </programme>
+  <programme start="20230516010000 +0700" stop="20230516030000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Teana: 10,000 Years Later</title>
+    <desc lang="id">Zhuma dan anjingnya dipilih oleh seorang dewi untuk mengumpulkan sekutu dari suku yang masih hidup demi melawan Wushen, hantu yang mengancam untuk menghancurkan umat manusia.</desc>
+  </programme>
+  <programme start="20230516030000 +0700" stop="20230516050000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Mother</title>
+    <desc lang="id">Sebuah keluarga pindah ke sebuah rumah bergaya kolonial yang memiliki koleksi foto kuno demi bisa membesarkan sang putri pengidap autis dengan tenang. Namun sejak tiba di rumah, sang putri mulai bertingkah aneh.</desc>
+  </programme>
+  <programme start="20230516050000 +0700" stop="20230516060000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516060000 +0700" stop="20230516080000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Fatality</title>
+    <desc lang="id">Entah bagaimana, seorang pria berusia 30 tahun dari Taipei yang mengalami gangguan mental, mendapati dirinya terbangun dari koma di sebuah rumah sakit di kota pantai kecil di Thailand.</desc>
+  </programme>
+  <programme start="20230516080000 +0700" stop="20230516090000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516090000 +0700" stop="20230516110000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Tae Guk Gi, Pt 1</title>
+    <desc lang="id">Ketika dua bersaudara dipaksa untuk bertempur dalam Perang Korea, sang kakak memutuskan untuk mengambil misi paling berisiko demi melindungi sang adik dari pertempuran.</desc>
+  </programme>
+  <programme start="20230516110000 +0700" stop="20230516120000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516120000 +0700" stop="20230516140000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Tae Guk Gi, Pt 2</title>
+    <desc lang="id">Ketika dua bersaudara dipaksa untuk bertempur dalam Perang Korea, sang kakak memutuskan untuk mengambil misi paling berisiko demi melindungi sang adik dari pertempuran.</desc>
+  </programme>
+  <programme start="20230516140000 +0700" stop="20230516150000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516150000 +0700" stop="20230516170000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Love And Run</title>
+    <desc lang="id">Seorang anak laki-laki tumbuh bersama ayah dan bibinya yang cantik. Dia akan menyingkirkan siapa pun yang berani menggoda sang bibi. Namun, ini justru menyulitkan bibinya yang sangat ingin memiliki pacar.</desc>
+  </programme>
+  <programme start="20230516170000 +0700" stop="20230516180000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516180000 +0700" stop="20230516200000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Rock Angels</title>
+    <desc lang="id">Film ini berkisah tentang seorang pria bernama Tik yang mengubah penampilannya menjadi sosok wanita agar ia dapat keluar dari sekolah militer di Thailand.</desc>
+  </programme>
+  <programme start="20230516200000 +0700" stop="20230516220000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Intruder</title>
+    <desc lang="id">The Intruder menampilkan pertarungan antara para penghuni sebuah gedung apartemen di Bangkok melawan ular-ular kobra ganas yang menyerbu tempat tinggal mereka.</desc>
+  </programme>
+  <programme start="20230516220000 +0700" stop="20230516230000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516230000 +0700" stop="20230517010000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Cursed House</title>
+    <desc lang="id">Ann pindah ke rumah baru bersama suami, anak perempuan, dan ibunya demi kehidupan yang lebih baik. Namun, kehidupan mereka berubah secara tak terduga ketika hal-hal aneh mulai terjadi di rumah itu.</desc>
+  </programme>
+  <programme start="20230517010000 +0700" stop="20230517030000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Tae Guk Gi, Pt 1</title>
+    <desc lang="id">Ketika dua bersaudara dipaksa untuk bertempur dalam Perang Korea, sang kakak memutuskan untuk mengambil misi paling berisiko demi melindungi sang adik dari pertempuran.</desc>
+  </programme>
+  <programme start="20230517030000 +0700" stop="20230517050000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Tae Guk Gi, Pt 2</title>
+    <desc lang="id">Ketika dua bersaudara dipaksa untuk bertempur dalam Perang Korea, sang kakak memutuskan untuk mengambil misi paling berisiko demi melindungi sang adik dari pertempuran.</desc>
+  </programme>
+  <programme start="20230517050000 +0700" stop="20230517060000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517060000 +0700" stop="20230517080000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Cursed House</title>
+    <desc lang="id">Ann pindah ke rumah baru bersama suami, anak perempuan, dan ibunya demi kehidupan yang lebih baik. Namun, kehidupan mereka berubah secara tak terduga ketika hal-hal aneh mulai terjadi di rumah itu.</desc>
+  </programme>
+  <programme start="20230517080000 +0700" stop="20230517090000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517090000 +0700" stop="20230517110000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Protector 2</title>
+    <desc lang="id">Ketika pemilik sebuah perkemahan gajah besar dibunuh, Kham menjadi tersangka utama dan ia pun harus melarikan dari kejaran polisi dan keponakan kembar sang mendiang yang ingin membalas dendam.</desc>
+  </programme>
+  <programme start="20230517110000 +0700" stop="20230517120000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517120000 +0700" stop="20230517140000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Sanctuary</title>
+    <desc lang="id">Krit berusaha melindungi sebuah benda pusaka yang tengah menjadi buruan kelompok pencuri internasional.</desc>
+  </programme>
+  <programme start="20230517140000 +0700" stop="20230517150000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517150000 +0700" stop="20230517170000 +0700" channel="MyCinemaAsia">
+    <title lang="id">102</title>
+    <desc lang="id">Ketika pemerintah Thailand mengumumkan rencana untuk mengosongkan brankas negara demi membayar pinjaman pada IMF, sekelompok mafia lokal menyusun rencana pencurian akbar, yaitu mencuri cadangan emas negara itu.</desc>
+  </programme>
+  <programme start="20230517170000 +0700" stop="20230517180000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517180000 +0700" stop="20230517200000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Happy Birthday</title>
+    <desc lang="id">Ketika Ten akhirnya bertemu Pao, mereka berjanji untuk bersama selamanya. Namun suatu saat, Ten tidak menerima hadiah ulang tahun yang dikirimkan Pao. Bisakah pasangan itu menepati janji yang mereka buat?</desc>
+  </programme>
+  <programme start="20230517200000 +0700" stop="20230517222000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Single Lady</title>
+    <desc lang="id">Bright, sang penulis idola, merupakan contoh sempurna dari wanita lajang. Namun, ia harus mencari mantan-mantan kekasihnya setelah seorang peramal memperingatkannya akan dampak dari masalah-masalah yang belum usai.</desc>
+  </programme>
+  <programme start="20230517222000 +0700" stop="20230517232000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517232000 +0700" stop="20230518010000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Cadaver</title>
+    <desc lang="id">Di Bangkok, mahasiswa kedokteran Mai melakukan kontak pertamanya dengan mayat di kelas anatomi. Namun, setelah menyentuh mayat itu, dia dihantui oleh arwah seorang wanita.</desc>
+  </programme>
+  <programme start="20230518010000 +0700" stop="20230518030000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Protector 2</title>
+    <desc lang="id">Ketika pemilik sebuah perkemahan gajah besar dibunuh, Kham menjadi tersangka utama dan ia pun harus melarikan dari kejaran polisi dan keponakan kembar sang mendiang yang ingin membalas dendam.</desc>
+  </programme>
+  <programme start="20230518030000 +0700" stop="20230518050000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Sanctuary</title>
+    <desc lang="id">Krit berusaha melindungi sebuah benda pusaka yang tengah menjadi buruan kelompok pencuri internasional.</desc>
+  </programme>
+  <programme start="20230518050000 +0700" stop="20230518060000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518060000 +0700" stop="20230518080000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Cadaver</title>
+    <desc lang="id">Di Bangkok, mahasiswa kedokteran Mai melakukan kontak pertamanya dengan mayat di kelas anatomi. Namun, setelah menyentuh mayat itu, dia dihantui oleh arwah seorang wanita.</desc>
+  </programme>
+  <programme start="20230518080000 +0700" stop="20230518090000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518090000 +0700" stop="20230518110000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Scout</title>
+    <desc lang="id">Tidak ada yang menyangka jika acara kemah pramuka biasa di suatu hutan yang berdekatan dengan sebuah kastil kuno akan berubah menjadi petualangan luar biasa yang tidak akan pernah dilupakan anak-anak.</desc>
+  </programme>
+  <programme start="20230518110000 +0700" stop="20230518120000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518120000 +0700" stop="20230518140000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Wicked Dolls</title>
+    <desc lang="id">Seorang dokter dan perawat yang bekerja di rumah sakit pedesaan bersumpah saling setia di hadapan dua boneka kecil yang mereka pakai sebagai kalung. Namun, sang pria tidak setia dan hal-hal buruk mulai terjadi.</desc>
+  </programme>
+  <programme start="20230518140000 +0700" stop="20230518150000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518150000 +0700" stop="20230518170000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Premika</title>
+    <desc lang="id">Orang-orang yang menyanyi dengan sumbang akan dihantui oleh hantu bernama Premika yang bergentayangan di tempat karaoke.</desc>
+  </programme>
+  <programme start="20230518170000 +0700" stop="20230518180000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518180000 +0700" stop="20230518200000 +0700" channel="MyCinemaAsia">
+    <title lang="id">30+: Single On Sale</title>
+    <desc lang="id">Sebuah film komedi romantis yang mengisahkan seorang wanita berusia 30-an yang kurang beruntung dalam percintaan, serta perjuangannya untuk menemukan sang belahan jiwa.</desc>
+  </programme>
+  <programme start="20230518200000 +0700" stop="20230518220000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Train Of The Dead</title>
+    <desc lang="id">Lima remaja yang melarikan diri dari polisi bersembunyi di gerbong kereta. Namun, gerbong itu ternyata dihuni oleh hantu yang sedang menuju ke neraka dan mereka berniat untuk membawa serta kelima remaja itu.</desc>
+  </programme>
+  <programme start="20230518220000 +0700" stop="20230518230000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518230000 +0700" stop="20230519010000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Take Me Home</title>
+    <desc lang="id">Setelah kehilangan ingatan karena kecelakaan, Tan berusaha mencari jati dirinya. Ketika dia akhirnya kembali ke rumah, rahasia-rahasia yang perlahan terkuak membuatnya merasa takut dan ragu akan keluarganya itu.</desc>
+  </programme>
+  <programme start="20230519010000 +0700" stop="20230519030000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Scout</title>
+    <desc lang="id">Tidak ada yang menyangka jika acara kemah pramuka biasa di suatu hutan yang berdekatan dengan sebuah kastil kuno akan berubah menjadi petualangan luar biasa yang tidak akan pernah dilupakan anak-anak.</desc>
+  </programme>
+  <programme start="20230519030000 +0700" stop="20230519050000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Wicked Dolls</title>
+    <desc lang="id">Seorang dokter dan perawat yang bekerja di rumah sakit pedesaan bersumpah saling setia di hadapan dua boneka kecil yang mereka pakai sebagai kalung. Namun, sang pria tidak setia dan hal-hal buruk mulai terjadi.</desc>
+  </programme>
+  <programme start="20230519050000 +0700" stop="20230519060000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519060000 +0700" stop="20230519080000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Take Me Home</title>
+    <desc lang="id">Setelah kehilangan ingatan karena kecelakaan, Tan berusaha mencari jati dirinya. Ketika dia akhirnya kembali ke rumah, rahasia-rahasia yang perlahan terkuak membuatnya merasa takut dan ragu akan keluarganya itu.</desc>
+  </programme>
+  <programme start="20230519080000 +0700" stop="20230519090000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519090000 +0700" stop="20230519110000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Vanquisher</title>
+    <desc lang="id">Seorang agen Operasi Khusus harus berhadapan dengan agen CIA yang mencoba membunuhnya dan seorang ekstrimis yang berencana melakukan aksi bom bunuh diri besar-besaran.</desc>
+  </programme>
+  <programme start="20230519110000 +0700" stop="20230519120000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519120000 +0700" stop="20230519140000 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Swordsman</title>
+    <desc lang="id">Saat sebuah kitab suci kungfu dicuri dari perpustakaan Kaisar, pasukan tentara pun dikerahkan untuk mencarinya. Sementara itu, seorang pendekar pedang muda dan rekannya secara tak sengaja ikut terseret kekacauan itu.</desc>
+  </programme>
+  <programme start="20230519140000 +0700" stop="20230519150000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519150000 +0700" stop="20230519170000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Love H2O</title>
+    <desc lang="id">Nam baru-baru ini dicampakkan oleh pacarnya yang ternyata akan menikahi wanita lain. Nam pun melanjutkan hidupnya dengan bantuan tiga pria, tetapi dia justru jatuh cinta pada ketiganya.</desc>
+  </programme>
+  <programme start="20230519170000 +0700" stop="20230519180000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519180000 +0700" stop="20230519200000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Gravity Of Love</title>
+    <desc lang="id">Dua orang pria tergila-gila pada Fah. Siapakah yang akan dipilihnya?</desc>
+  </programme>
+  <programme start="20230519200000 +0700" stop="20230519220100 +0700" channel="MyCinemaAsia">
+    <title lang="id">The Tower</title>
+    <desc lang="id">Pesta malam Natal di sebuah gedung pemukiman mewah berubah menjadi peristiwa mengerikan ketika terjadi kebakaran.</desc>
+  </programme>
+  <programme start="20230519220100 +0700" stop="20230519230100 +0700" channel="MyCinemaAsia">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519230100 +0700" stop="20230520010000 +0700" channel="MyCinemaAsia">
+    <title lang="id">Blind</title>
+    <desc lang="id">Min Soo-ah yang tuna netra membantu polisi menyelidiki kasus hilangnya seorang siswi. Sopir taksi, yang menyebabkan Soo-ah kecelakaan mobil dan membuatnya buta, menjadi tersangka kasus tersebut.</desc>
   </programme>
   <programme start="20230511000500 +0700" stop="20230511020000 +0700" channel="Thrill.hk">
     <title lang="id">Nuuk</title>
