@@ -85,6 +85,11 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_46.png" />
     <url>http://www.mncvision.id</url>
   </channel>
+  <channel id="MyKidz">
+    <display-name lang="id">My Kidz</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_50.jpg" />
+    <url>http://www.mncvision.id</url>
+  </channel>
   <channel id="Indosiar.id">
     <display-name lang="id">Indosiar</display-name>
     <icon src="https://mncvision.id/userfiles/image/channel/Indosiar.png" />
@@ -2628,7 +2633,7 @@
     <desc lang="id">Home Shopping.(n)</desc>
   </programme>
   <programme start="20230520061300 +0700" stop="20230520080000 +0700" channel="MyFamilyChannel">
-    <title lang="id">Caf� Society</title>
+    <title lang="id">Caf  Society</title>
     <desc lang="id">Pada tahun 1930-an, seorang warga Bronx pindah ke Hollywood dan jatuh cinta pada seorang wanita muda yang berkencan dengan pria beristri.(n)</desc>
   </programme>
   <programme start="20230520080000 +0700" stop="20230520090000 +0700" channel="MyFamilyChannel">
@@ -18465,6 +18470,658 @@
   </programme>
   <programme start="20230521233000 +0700" stop="20230522000000 +0700" channel="KidsTV.id">
     <title lang="id">Larva S3</title>
+  </programme>
+  <programme start="20230514080000 +0700" stop="20230514090000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230514090000 +0700" stop="20230514110000 +0700" channel="MyKidz">
+    <title lang="id">Snowflake: The White Gorilla</title>
+    <desc lang="id">Demi bisa menyesuaikan diri dengan para gorila lainnya, Snowflake memulai petualangan mengasyikkan untuk menemukan sebuah ramuan ajaib yang dapat menjadikannya sebagai "gorila normal".</desc>
+  </programme>
+  <programme start="20230514110000 +0700" stop="20230514120000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230514120000 +0700" stop="20230514140000 +0700" channel="MyKidz">
+    <title lang="id">Norm Of The North</title>
+    <desc lang="id">Norm dan ketiga temannya menuju ke New York City untuk melindungi kampung halamannya setelah rumah mereka di Arktika dihancurkan oleh sebuah perusahaan real estate.</desc>
+  </programme>
+  <programme start="20230514140000 +0700" stop="20230514150000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230514150000 +0700" stop="20230514170000 +0700" channel="MyKidz">
+    <title lang="id">Thor: Legend Of Valhalla</title>
+    <desc lang="id">Thor, seorang remaja pemilik senjata ajaib yang terlalu percaya diri, bertarung melawan seorang ratu jahat dan pasukan raksasanya.</desc>
+  </programme>
+  <programme start="20230514170000 +0700" stop="20230514180000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230514180000 +0700" stop="20230514200000 +0700" channel="MyKidz">
+    <title lang="id">Yellowbird</title>
+    <desc lang="id">Yellowbird adalah burung yatim piatu mungil yang tidak pernah meninggalkan sarang dan sangat ingin memiliki keluarga. Tanpa sengaja, dia mendapati dirinya memimpin sekawanan burung bermigrasi ke Afrika.</desc>
+  </programme>
+  <programme start="20230514200000 +0700" stop="20230514220000 +0700" channel="MyKidz">
+    <title lang="id">A Turtle's Tale 2: Escape</title>
+    <desc lang="id">Sammy, Ray, Ricky, dan Ella tertangkap oleh seorang pemburu liar dan dikirim ke sebuah akuarium di Dubai. Namun, Big D, pemimpin di sana, memiliki sebuah rencana untuk kabur.</desc>
+  </programme>
+  <programme start="20230514220000 +0700" stop="20230514223000 +0700" channel="MyKidz">
+    <title lang="id">Vicky And Johnny</title>
+    <desc lang="id">Vicky dan Johnny tinggal di rumah yang sama, tetapi mereka sering bertengkar.</desc>
+    <episode-num system="onscreen">E46</episode-num>
+  </programme>
+  <programme start="20230514223000 +0700" stop="20230514230000 +0700" channel="MyKidz">
+    <title lang="id">Vicky And Johnny</title>
+    <desc lang="id">Vicky dan Johnny tinggal di rumah yang sama, tetapi mereka sering bertengkar.</desc>
+    <episode-num system="onscreen">E47</episode-num>
+  </programme>
+  <programme start="20230514230000 +0700" stop="20230515000000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515000000 +0700" stop="20230515020000 +0700" channel="MyKidz">
+    <title lang="id">Betizu &amp; Mysterious Monster</title>
+    <desc lang="id">Akibat kecelakaan, anggota Tim Betizu terdampar di sebuah planet terpencil. Mereka lalu bertemu sekelompok alien yang bertujuan mencari harta karun dan menguasai planet itu.</desc>
+  </programme>
+  <programme start="20230515020000 +0700" stop="20230515040000 +0700" channel="MyKidz">
+    <title lang="id">Winx Club 3: Secret Abbys</title>
+    <desc lang="id">Sekelompok penyihir bekerja sama dengan sesosok makhluk jahat untuk menemukan sumber kekuatan peri di Samudra Tak Terbatas demi bisa mengalahkan mereka.</desc>
+  </programme>
+  <programme start="20230515040000 +0700" stop="20230515050000 +0700" channel="MyKidz">
+    <title lang="id">Highlight Sunday-Monday</title>
+    <desc lang="id">Ringkasan Minggu-Senin.</desc>
+  </programme>
+  <programme start="20230515050000 +0700" stop="20230515053000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515053000 +0700" stop="20230515060000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515060000 +0700" stop="20230515063000 +0700" channel="MyKidz">
+    <title lang="id">Oscar Oasis</title>
+    <desc lang="id">Ikuti petualangan Oscar, seekor kadal di padang pasir tandus yang mengalami kesialan ke mana pun dia pergi, mulai dari menemukan air hingga melarikan diri dari sekelompok makhluk aneh.</desc>
+    <episode-num system="onscreen">E54</episode-num>
+  </programme>
+  <programme start="20230515063000 +0700" stop="20230515070000 +0700" channel="MyKidz">
+    <title lang="id">Oscar Oasis</title>
+    <desc lang="id">Ikuti petualangan Oscar, seekor kadal di padang pasir tandus yang mengalami kesialan ke mana pun dia pergi, mulai dari menemukan air hingga melarikan diri dari sekelompok makhluk aneh.</desc>
+    <episode-num system="onscreen">E55</episode-num>
+  </programme>
+  <programme start="20230515070000 +0700" stop="20230515073000 +0700" channel="MyKidz">
+    <title lang="id">Gon</title>
+    <desc lang="id">Gon menampilkan petualangan seekor dinosaurus kecil dan interaksinya dengan alam. Gon selamat dari kepunahan yang menimpa dinosaurus dan berteman dengan hewan-hewan paleolitik.</desc>
+    <episode-num system="onscreen">E85</episode-num>
+  </programme>
+  <programme start="20230515073000 +0700" stop="20230515080000 +0700" channel="MyKidz">
+    <title lang="id">Gon</title>
+    <desc lang="id">Gon menampilkan petualangan seekor dinosaurus kecil dan interaksinya dengan alam. Gon selamat dari kepunahan yang menimpa dinosaurus dan berteman dengan hewan-hewan paleolitik.</desc>
+    <episode-num system="onscreen">E86</episode-num>
+  </programme>
+  <programme start="20230515080000 +0700" stop="20230515090000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515090000 +0700" stop="20230515110000 +0700" channel="MyKidz">
+    <title lang="id">Legend Of A Rabbit</title>
+    <desc lang="id">Fu diberikan kekuatan kung fu hebat lewat telepati setelah ia menyelamatkan seorang guru seni bela diri dari serangan maut. Akan tetapi, ia harus berjanji untuk mewariskan kekuatan itu pada putri sang guru, Penny.</desc>
+  </programme>
+  <programme start="20230515110000 +0700" stop="20230515120000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515120000 +0700" stop="20230515140000 +0700" channel="MyKidz">
+    <title lang="id">Space Dogs: Tropical Adventure</title>
+    <desc lang="id">Saat sebuah fenomena pusaran air misterius dan berbahaya muncul di daerah tropis Samudra Atlantik, Belka dan Strelka, sepasang anjing astronot, dikirim untuk melakukan penyelidikan.</desc>
+  </programme>
+  <programme start="20230515140000 +0700" stop="20230515150000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515150000 +0700" stop="20230515170000 +0700" channel="MyKidz">
+    <title lang="id">Bolts &amp; Blip</title>
+    <desc lang="id">Dua robot berusaha menghentikan rencana seorang dokter jahat yang mengancam Bumi dan Bulan.</desc>
+  </programme>
+  <programme start="20230515170000 +0700" stop="20230515180000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230515180000 +0700" stop="20230515200000 +0700" channel="MyKidz">
+    <title lang="id">The Reef 1</title>
+    <desc lang="id">Pi, seekor ikan yatim piatu yang tinggal di terumbu karang, bertemu dan jatuh cinta dengan Cordelia, seekor ikan merah muda. Pi lalu mengetahui bahwa Cordelia sering diganggu oleh seekor hiu macan menakutkan.</desc>
+  </programme>
+  <programme start="20230515200000 +0700" stop="20230515220000 +0700" channel="MyKidz">
+    <title lang="id">Harlock: Space Pirates</title>
+    <desc lang="id">Kapten Harlock harus menyelamatkan umat manusia dari bahaya yang akan datang ketika Koalisi Gaia nan korup mengambil alih kendali Bumi dan mengatur umat manusia.</desc>
+  </programme>
+  <programme start="20230515220000 +0700" stop="20230515223000 +0700" channel="MyKidz">
+    <title lang="id">Vicky And Johnny</title>
+    <desc lang="id">Vicky dan Johnny tinggal di rumah yang sama, tetapi mereka sering bertengkar.</desc>
+    <episode-num system="onscreen">E48</episode-num>
+  </programme>
+  <programme start="20230515223000 +0700" stop="20230515230000 +0700" channel="MyKidz">
+    <title lang="id">Vicky And Johnny</title>
+    <desc lang="id">Vicky dan Johnny tinggal di rumah yang sama, tetapi mereka sering bertengkar.</desc>
+    <episode-num system="onscreen">E49</episode-num>
+  </programme>
+  <programme start="20230515230000 +0700" stop="20230516000000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516000000 +0700" stop="20230516020000 +0700" channel="MyKidz">
+    <title lang="id">Ploddy The Police Car</title>
+    <desc lang="id">Sebuah kabel listrik menyetrum Ploddy Si Mobil Polisi dan memberinya kekuatan khusus. Kekuatan barunya membawa tanggung jawab yang lebih besar dan membuat Ploddy merasa mampu menghentikan Badger Brothers.</desc>
+  </programme>
+  <programme start="20230516020000 +0700" stop="20230516040000 +0700" channel="MyKidz">
+    <title lang="id">Olentzero: The Magic Log</title>
+    <desc lang="id">Olentzero dan teman-temannya berusaha mencegah seorang pengusaha jahat yang berusaha menipu penduduk untuk membeli tanah mereka demi membangun resor ski.</desc>
+  </programme>
+  <programme start="20230516040000 +0700" stop="20230516050000 +0700" channel="MyKidz">
+    <title lang="id">Highlight Sunday-Monday</title>
+    <desc lang="id">Ringkasan Minggu-Senin.</desc>
+  </programme>
+  <programme start="20230516050000 +0700" stop="20230516053000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516053000 +0700" stop="20230516060000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516060000 +0700" stop="20230516063000 +0700" channel="MyKidz">
+    <title lang="id">Oscar Oasis</title>
+    <desc lang="id">Ikuti petualangan Oscar, seekor kadal di padang pasir tandus yang mengalami kesialan ke mana pun dia pergi, mulai dari menemukan air hingga melarikan diri dari sekelompok makhluk aneh.</desc>
+    <episode-num system="onscreen">E56</episode-num>
+  </programme>
+  <programme start="20230516063000 +0700" stop="20230516070000 +0700" channel="MyKidz">
+    <title lang="id">Oscar Oasis</title>
+    <desc lang="id">Ikuti petualangan Oscar, seekor kadal di padang pasir tandus yang mengalami kesialan ke mana pun dia pergi, mulai dari menemukan air hingga melarikan diri dari sekelompok makhluk aneh.</desc>
+    <episode-num system="onscreen">E57</episode-num>
+  </programme>
+  <programme start="20230516070000 +0700" stop="20230516073000 +0700" channel="MyKidz">
+    <title lang="id">Gon</title>
+    <desc lang="id">Gon menampilkan petualangan seekor dinosaurus kecil dan interaksinya dengan alam. Gon selamat dari kepunahan yang menimpa dinosaurus dan berteman dengan hewan-hewan paleolitik.</desc>
+    <episode-num system="onscreen">E87</episode-num>
+  </programme>
+  <programme start="20230516073000 +0700" stop="20230516080000 +0700" channel="MyKidz">
+    <title lang="id">Gon</title>
+    <desc lang="id">Gon menampilkan petualangan seekor dinosaurus kecil dan interaksinya dengan alam. Gon selamat dari kepunahan yang menimpa dinosaurus dan berteman dengan hewan-hewan paleolitik.</desc>
+    <episode-num system="onscreen">E88</episode-num>
+  </programme>
+  <programme start="20230516080000 +0700" stop="20230516090000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516090000 +0700" stop="20230516110000 +0700" channel="MyKidz">
+    <title lang="id">Postman Pat</title>
+    <desc lang="id">Seorang tukang pos berencana mengajak sang istri berbulan madu dengan memakai uang bonus dari bosnya. Namun, setelah bonus dibatalkan, ia mengikuti kontes menyanyi untuk membiayai perjalanan tersebut.</desc>
+  </programme>
+  <programme start="20230516110000 +0700" stop="20230516120000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516120000 +0700" stop="20230516140000 +0700" channel="MyKidz">
+    <title lang="id">Legend Of A Rabbit: Martial</title>
+    <desc lang="id">Tu si kelinci melindungi desa dengan keahliannya bertarung kung fu, tetapi semua berubah ketika Zhan yang jahat merampas keahlian kung fu Tu. Bisakah dia mendapatkan kembali kemampuannya sebelum kejahatan berkuasa?</desc>
+  </programme>
+  <programme start="20230516140000 +0700" stop="20230516150000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516150000 +0700" stop="20230516170000 +0700" channel="MyKidz">
+    <title lang="id">The Olsen Gang</title>
+    <desc lang="id">Geng Olsen diperintahkan untuk mencuri pena bulu H.C. Andersen dari museum karena Perdana Menteri Denmark membutuhkannya untuk memuluskan kesepakatan senjata dengan pemimpin Tiongkok.</desc>
+  </programme>
+  <programme start="20230516170000 +0700" stop="20230516180000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230516180000 +0700" stop="20230516200000 +0700" channel="MyKidz">
+    <title lang="id">The Littlest Angel</title>
+    <desc lang="id">Saat seorang anak laki-laki tiba lebih awal di surga, dia mulai merasa kesepian. Dia pun pergi kembali ke bumi dengan Halo anak anjingnya untuk mendapatkan hadiah paling berharga untuk bayi Yesus.</desc>
+  </programme>
+  <programme start="20230516200000 +0700" stop="20230516220000 +0700" channel="MyKidz">
+    <title lang="id">The Reef 2</title>
+    <desc lang="id">Pi yang kuat dan terampil mampu melawan hiu, menenggelamkan cumi-cumi, atau menghajar predator yang mengancam teman dan tetangganya. Namun, menjadi satu-satunya pahlawan di kota membawa resiko tersendiri.</desc>
+  </programme>
+  <programme start="20230516220000 +0700" stop="20230516223000 +0700" channel="MyKidz">
+    <title lang="id">Vicky And Johnny</title>
+    <desc lang="id">Vicky dan Johnny tinggal di rumah yang sama, tetapi mereka sering bertengkar.</desc>
+    <episode-num system="onscreen">E50</episode-num>
+  </programme>
+  <programme start="20230516223000 +0700" stop="20230516230000 +0700" channel="MyKidz">
+    <title lang="id">Vicky And Johnny</title>
+    <desc lang="id">Vicky dan Johnny tinggal di rumah yang sama, tetapi mereka sering bertengkar.</desc>
+    <episode-num system="onscreen">E51</episode-num>
+  </programme>
+  <programme start="20230516230000 +0700" stop="20230517000000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517000000 +0700" stop="20230517020000 +0700" channel="MyKidz">
+    <title lang="id">Winx Club 3: Secret Abbys</title>
+    <desc lang="id">Sekelompok penyihir bekerja sama dengan sesosok makhluk jahat untuk menemukan sumber kekuatan peri di Samudra Tak Terbatas demi bisa mengalahkan mereka.</desc>
+  </programme>
+  <programme start="20230517020000 +0700" stop="20230517040000 +0700" channel="MyKidz">
+    <title lang="id">Ploddy The Police Car 2</title>
+    <desc lang="id">Ploddy si Mobil Polisi berhadapan dengan penjahat lingkungan yang mengancam hewan-hewan langka ketika dia akan bertemu dengan Putri Mahkota.</desc>
+  </programme>
+  <programme start="20230517040000 +0700" stop="20230517050000 +0700" channel="MyKidz">
+    <title lang="id">Highlight Sunday-Monday</title>
+    <desc lang="id">Ringkasan Minggu-Senin.</desc>
+  </programme>
+  <programme start="20230517050000 +0700" stop="20230517053000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517053000 +0700" stop="20230517060000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517060000 +0700" stop="20230517063000 +0700" channel="MyKidz">
+    <title lang="id">Oscar Oasis</title>
+    <desc lang="id">Ikuti petualangan Oscar, seekor kadal di padang pasir tandus yang mengalami kesialan ke mana pun dia pergi, mulai dari menemukan air hingga melarikan diri dari sekelompok makhluk aneh.</desc>
+    <episode-num system="onscreen">E58</episode-num>
+  </programme>
+  <programme start="20230517063000 +0700" stop="20230517070000 +0700" channel="MyKidz">
+    <title lang="id">Oscar Oasis</title>
+    <desc lang="id">Ikuti petualangan Oscar, seekor kadal di padang pasir tandus yang mengalami kesialan ke mana pun dia pergi, mulai dari menemukan air hingga melarikan diri dari sekelompok makhluk aneh.</desc>
+    <episode-num system="onscreen">E59</episode-num>
+  </programme>
+  <programme start="20230517070000 +0700" stop="20230517073000 +0700" channel="MyKidz">
+    <title lang="id">Gon</title>
+    <desc lang="id">Gon menampilkan petualangan seekor dinosaurus kecil dan interaksinya dengan alam. Gon selamat dari kepunahan yang menimpa dinosaurus dan berteman dengan hewan-hewan paleolitik.</desc>
+    <episode-num system="onscreen">E89</episode-num>
+  </programme>
+  <programme start="20230517073000 +0700" stop="20230517080000 +0700" channel="MyKidz">
+    <title lang="id">Gon</title>
+    <desc lang="id">Gon menampilkan petualangan seekor dinosaurus kecil dan interaksinya dengan alam. Gon selamat dari kepunahan yang menimpa dinosaurus dan berteman dengan hewan-hewan paleolitik.</desc>
+    <episode-num system="onscreen">E90</episode-num>
+  </programme>
+  <programme start="20230517080000 +0700" stop="20230517090000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517090000 +0700" stop="20230517110000 +0700" channel="MyKidz">
+    <title lang="id">Donkey Xote</title>
+    <desc lang="id">Rucio si keledai menceritakan kisah yang sebenarnya tentang Don Quixote dan menjelaskan bahwa Quixote tidak gila, tetapi justru orang yang sangat cerdas, bersemangat, dan penuh antusias.</desc>
+  </programme>
+  <programme start="20230517110000 +0700" stop="20230517120000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517120000 +0700" stop="20230517140000 +0700" channel="MyKidz">
+    <title lang="id">Norm Of The North</title>
+    <desc lang="id">Norm dan ketiga temannya menuju ke New York City untuk melindungi kampung halamannya setelah rumah mereka di Arktika dihancurkan oleh sebuah perusahaan real estate.</desc>
+  </programme>
+  <programme start="20230517140000 +0700" stop="20230517150000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517150000 +0700" stop="20230517170000 +0700" channel="MyKidz">
+    <title lang="id">Ninja Kids 1</title>
+    <desc lang="id">Film ini menceritakan tentang petualangan Rantaro dan para murid ninja lainnya di sebuah akademi ninjutsu elit.</desc>
+  </programme>
+  <programme start="20230517170000 +0700" stop="20230517180000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230517180000 +0700" stop="20230517200000 +0700" channel="MyKidz">
+    <title lang="id">A Turtle's Tale: Sammy's Adv.</title>
+    <desc lang="id">Seekor penyu, yang menetas pada tahun 1959, menghabiskan lima puluh tahun hidupnya mengelilingi dunia, yang perlahan mulai berubah akibat pemanasan global.</desc>
+  </programme>
+  <programme start="20230517200000 +0700" stop="20230517220000 +0700" channel="MyKidz">
+    <title lang="id">A Turtle's Tale 2: Escape</title>
+    <desc lang="id">Sammy, Ray, Ricky, dan Ella tertangkap oleh seorang pemburu liar dan dikirim ke sebuah akuarium di Dubai. Namun, Big D, pemimpin di sana, memiliki sebuah rencana untuk kabur.</desc>
+  </programme>
+  <programme start="20230517220000 +0700" stop="20230517223000 +0700" channel="MyKidz">
+    <title lang="id">Vicky And Johnny</title>
+    <desc lang="id">Vicky dan Johnny tinggal di rumah yang sama, tetapi mereka sering bertengkar.</desc>
+    <episode-num system="onscreen">E52</episode-num>
+  </programme>
+  <programme start="20230517223000 +0700" stop="20230517230000 +0700" channel="MyKidz">
+    <title lang="id">Vicky And Johnny</title>
+    <desc lang="id">Vicky dan Johnny tinggal di rumah yang sama, tetapi mereka sering bertengkar.</desc>
+    <episode-num system="onscreen">E53</episode-num>
+  </programme>
+  <programme start="20230517230000 +0700" stop="20230518000000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518000000 +0700" stop="20230518020000 +0700" channel="MyKidz">
+    <title lang="id">Winx Club 1: Lost Kingdom</title>
+    <desc lang="id">Bloom menyaksikan teman-temannya lulus, meski ia belum bisa lulus karena kekuatannya tidak lengkap. Lalu, Bloom pergi mencari orang tuanya bersama teman-temannya.</desc>
+  </programme>
+  <programme start="20230518020000 +0700" stop="20230518040000 +0700" channel="MyKidz">
+    <title lang="id">Winx Club 2: Magical Adv.</title>
+    <desc lang="id">Di pesta sekolah, sekelompok penyihir mencuri sebuah kompas. Lalu, Bloom dan teman-temannya berupaya menemukan orang tua kandungnya dan menghentikan para penyihir yang ingin menghancurkan dunia.</desc>
+  </programme>
+  <programme start="20230518040000 +0700" stop="20230518050000 +0700" channel="MyKidz">
+    <title lang="id">Highlight Sunday-Monday</title>
+    <desc lang="id">Ringkasan Minggu-Senin.</desc>
+  </programme>
+  <programme start="20230518050000 +0700" stop="20230518053000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518053000 +0700" stop="20230518060000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518060000 +0700" stop="20230518063000 +0700" channel="MyKidz">
+    <title lang="id">Oscar Oasis</title>
+    <desc lang="id">Ikuti petualangan Oscar, seekor kadal di padang pasir tandus yang mengalami kesialan ke mana pun dia pergi, mulai dari menemukan air hingga melarikan diri dari sekelompok makhluk aneh.</desc>
+    <episode-num system="onscreen">E60</episode-num>
+  </programme>
+  <programme start="20230518063000 +0700" stop="20230518070000 +0700" channel="MyKidz">
+    <title lang="id">Oscar Oasis</title>
+    <desc lang="id">Ikuti petualangan Oscar, seekor kadal di padang pasir tandus yang mengalami kesialan ke mana pun dia pergi, mulai dari menemukan air hingga melarikan diri dari sekelompok makhluk aneh.</desc>
+    <episode-num system="onscreen">E61</episode-num>
+  </programme>
+  <programme start="20230518070000 +0700" stop="20230518073000 +0700" channel="MyKidz">
+    <title lang="id">Gon</title>
+    <desc lang="id">Gon menampilkan petualangan seekor dinosaurus kecil dan interaksinya dengan alam. Gon selamat dari kepunahan yang menimpa dinosaurus dan berteman dengan hewan-hewan paleolitik.</desc>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20230518073000 +0700" stop="20230518080000 +0700" channel="MyKidz">
+    <title lang="id">Gon</title>
+    <desc lang="id">Gon menampilkan petualangan seekor dinosaurus kecil dan interaksinya dengan alam. Gon selamat dari kepunahan yang menimpa dinosaurus dan berteman dengan hewan-hewan paleolitik.</desc>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20230518080000 +0700" stop="20230518090000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518090000 +0700" stop="20230518110000 +0700" channel="MyKidz">
+    <title lang="id">Snowflake: The White Gorilla</title>
+    <desc lang="id">Demi bisa menyesuaikan diri dengan para gorila lainnya, Snowflake memulai petualangan mengasyikkan untuk menemukan sebuah ramuan ajaib yang dapat menjadikannya sebagai "gorila normal".</desc>
+  </programme>
+  <programme start="20230518110000 +0700" stop="20230518120000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518120000 +0700" stop="20230518140000 +0700" channel="MyKidz">
+    <title lang="id">Dolphin: Story Of A Dreamer</title>
+    <desc lang="id">Kisah menakjubkan tentang Daniel, seekor lumba-lumba yang meninggalkan tempat tinggalnya untuk menjelajahi lautan dan menemukan tujuan hidupnya.</desc>
+  </programme>
+  <programme start="20230518140000 +0700" stop="20230518150000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518150000 +0700" stop="20230518170000 +0700" channel="MyKidz">
+    <title lang="id">Thor: Legend Of Valhalla</title>
+    <desc lang="id">Thor, seorang remaja pemilik senjata ajaib yang terlalu percaya diri, bertarung melawan seorang ratu jahat dan pasukan raksasanya.</desc>
+  </programme>
+  <programme start="20230518170000 +0700" stop="20230518180000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230518180000 +0700" stop="20230518200000 +0700" channel="MyKidz">
+    <title lang="id">Yellowbird</title>
+    <desc lang="id">Yellowbird adalah burung yatim piatu mungil yang tidak pernah meninggalkan sarang dan sangat ingin memiliki keluarga. Tanpa sengaja, dia mendapati dirinya memimpin sekawanan burung bermigrasi ke Afrika.</desc>
+  </programme>
+  <programme start="20230518200000 +0700" stop="20230518220000 +0700" channel="MyKidz">
+    <title lang="id">Quackerz</title>
+    <desc lang="id">Kehidupan biasa sekelompok bebek mandarin berubah drastis ketika sekawanan bebek liar tak sengaja mendarat di pulau mereka nan damai di pedalaman Tiongkok yang cerah.</desc>
+  </programme>
+  <programme start="20230518220000 +0700" stop="20230518223000 +0700" channel="MyKidz">
+    <title lang="id">Vicky And Johnny</title>
+    <desc lang="id">Vicky dan Johnny tinggal di rumah yang sama, tetapi mereka sering bertengkar.</desc>
+    <episode-num system="onscreen">E54</episode-num>
+  </programme>
+  <programme start="20230518223000 +0700" stop="20230518230000 +0700" channel="MyKidz">
+    <title lang="id">Vicky And Johnny</title>
+    <desc lang="id">Vicky dan Johnny tinggal di rumah yang sama, tetapi mereka sering bertengkar.</desc>
+    <episode-num system="onscreen">E55</episode-num>
+  </programme>
+  <programme start="20230518230000 +0700" stop="20230519000000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519000000 +0700" stop="20230519020000 +0700" channel="MyKidz">
+    <title lang="id">Olentzero: A Christmas Tale</title>
+    <desc lang="id">Olentzero tinggal di sebuah desa yang tenang bersama para tetangganya di lingkungan yang masih asri dan jauh dari polusi. Suatu hari, muncul seorang pengusaha yang ingin mengubah desa mereka jadi lahan industri.</desc>
+  </programme>
+  <programme start="20230519020000 +0700" stop="20230519040000 +0700" channel="MyKidz">
+    <title lang="id">Betizu &amp; Mysterious Monster</title>
+    <desc lang="id">Akibat kecelakaan, anggota Tim Betizu terdampar di sebuah planet terpencil. Mereka lalu bertemu sekelompok alien yang bertujuan mencari harta karun dan menguasai planet itu.</desc>
+  </programme>
+  <programme start="20230519040000 +0700" stop="20230519050000 +0700" channel="MyKidz">
+    <title lang="id">Highlight Sunday-Monday</title>
+    <desc lang="id">Ringkasan Minggu-Senin.</desc>
+  </programme>
+  <programme start="20230519050000 +0700" stop="20230519053000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519053000 +0700" stop="20230519060000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519060000 +0700" stop="20230519063000 +0700" channel="MyKidz">
+    <title lang="id">Oscar Oasis</title>
+    <desc lang="id">Ikuti petualangan Oscar, seekor kadal di padang pasir tandus yang mengalami kesialan ke mana pun dia pergi, mulai dari menemukan air hingga melarikan diri dari sekelompok makhluk aneh.</desc>
+    <episode-num system="onscreen">E62</episode-num>
+  </programme>
+  <programme start="20230519063000 +0700" stop="20230519070000 +0700" channel="MyKidz">
+    <title lang="id">Oscar Oasis</title>
+    <desc lang="id">Ikuti petualangan Oscar, seekor kadal di padang pasir tandus yang mengalami kesialan ke mana pun dia pergi, mulai dari menemukan air hingga melarikan diri dari sekelompok makhluk aneh.</desc>
+    <episode-num system="onscreen">E63</episode-num>
+  </programme>
+  <programme start="20230519070000 +0700" stop="20230519073000 +0700" channel="MyKidz">
+    <title lang="id">Gon</title>
+    <desc lang="id">Gon menampilkan petualangan seekor dinosaurus kecil dan interaksinya dengan alam. Gon selamat dari kepunahan yang menimpa dinosaurus dan berteman dengan hewan-hewan paleolitik.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20230519073000 +0700" stop="20230519080000 +0700" channel="MyKidz">
+    <title lang="id">Gon</title>
+    <desc lang="id">Gon menampilkan petualangan seekor dinosaurus kecil dan interaksinya dengan alam. Gon selamat dari kepunahan yang menimpa dinosaurus dan berteman dengan hewan-hewan paleolitik.</desc>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20230519080000 +0700" stop="20230519090000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519090000 +0700" stop="20230519110000 +0700" channel="MyKidz">
+    <title lang="id">The House Of Magic</title>
+    <desc lang="id">Thunder masuk ke sebuah rumah ajaib saat mencoba berlindung dari badai. Para penghuni rumah itu bersekongkol melawan Thunder, tetapi dia justru menyelamatkan rumah sang pemilik yang hendak dijual oleh keponakannya.</desc>
+  </programme>
+  <programme start="20230519110000 +0700" stop="20230519120000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519120000 +0700" stop="20230519130000 +0700" channel="MyKidz">
+    <title lang="id">Alpha And Omega 2</title>
+    <desc lang="id">Kate dan Humphrey bersiap untuk merayakan Natal bersama anak-anak mereka, tetapi saat si bungsu Runt menghilang tanpa jejak, mereka harus menghabiskan waktu liburan dengan melindungi keluarga mereka dan menemukan Runt.</desc>
+  </programme>
+  <programme start="20230519130000 +0700" stop="20230519140000 +0700" channel="MyKidz">
+    <title lang="id">Alpha And Omega 3</title>
+    <desc lang="id">Kawanan Alpha mengalami kecelakaan dan tidak dapat mengikuti kompetisi. Pelatih pun membentuk tim baru yang terdiri dari serigala kawanan lain dan harus memastikan agar mereka memenangkan kompetisi.</desc>
+  </programme>
+  <programme start="20230519140000 +0700" stop="20230519150000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519150000 +0700" stop="20230519170000 +0700" channel="MyKidz">
+    <title lang="id">Zarafa</title>
+    <desc lang="id">Setelah melarikan diri dari perbudakan, seorang anak lelaki berusia 10 tahun asal Sudan berteman dengan seekor jerapah dan seorang anak baik hati yang membawa mereka dalam perjalanan balon udara nan luar biasa.</desc>
+  </programme>
+  <programme start="20230519170000 +0700" stop="20230519180000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230519180000 +0700" stop="20230519200000 +0700" channel="MyKidz">
+    <title lang="id">SeeFood</title>
+    <desc lang="id">Pup mengetahui jika para manusia pemburu mencuri telur dari karang yang menjadi rumahnya. Saat dia meninggalkan laut untuk menyelamatkan telur-telur itu, dia pun memasuki dunia manusia nan berbahaya.</desc>
+  </programme>
+  <programme start="20230519200000 +0700" stop="20230519220000 +0700" channel="MyKidz">
+    <title lang="id">Monster Family 2</title>
+    <desc lang="id">Saat teman-temannya ditangkap seorang pemburu monster, keluarga Wishbone kembali berubah wujud menjadi makhluk menyeramkan demi menyelamatkan mereka.</desc>
+  </programme>
+  <programme start="20230519220000 +0700" stop="20230519223000 +0700" channel="MyKidz">
+    <title lang="id">Vicky And Johnny</title>
+    <desc lang="id">Vicky dan Johnny tinggal di rumah yang sama, tetapi mereka sering bertengkar.</desc>
+    <episode-num system="onscreen">E56</episode-num>
+  </programme>
+  <programme start="20230519223000 +0700" stop="20230519230000 +0700" channel="MyKidz">
+    <title lang="id">Vicky And Johnny</title>
+    <desc lang="id">Vicky dan Johnny tinggal di rumah yang sama, tetapi mereka sering bertengkar.</desc>
+    <episode-num system="onscreen">E57</episode-num>
+  </programme>
+  <programme start="20230519230000 +0700" stop="20230520000000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230520000000 +0700" stop="20230520020000 +0700" channel="MyKidz">
+    <title lang="id">Olentzero: A Christmas Tale</title>
+    <desc lang="id">Olentzero tinggal di sebuah desa yang tenang bersama para tetangganya di lingkungan yang masih asri dan jauh dari polusi. Suatu hari, muncul seorang pengusaha yang ingin mengubah desa mereka jadi lahan industri.</desc>
+  </programme>
+  <programme start="20230520020000 +0700" stop="20230520040000 +0700" channel="MyKidz">
+    <title lang="id">Winx Club 2: Magical Adv.</title>
+    <desc lang="id">Di pesta sekolah, sekelompok penyihir mencuri sebuah kompas. Lalu, Bloom dan teman-temannya berupaya menemukan orang tua kandungnya dan menghentikan para penyihir yang ingin menghancurkan dunia.</desc>
+  </programme>
+  <programme start="20230520040000 +0700" stop="20230520050000 +0700" channel="MyKidz">
+    <title lang="id">Highlight Sunday-Monday</title>
+    <desc lang="id">Ringkasan Minggu-Senin.</desc>
+  </programme>
+  <programme start="20230520050000 +0700" stop="20230520053000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230520053000 +0700" stop="20230520060000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230520060000 +0700" stop="20230520080000 +0700" channel="MyKidz">
+    <title lang="id">Norm Of The North</title>
+    <desc lang="id">Norm dan ketiga temannya menuju ke New York City untuk melindungi kampung halamannya setelah rumah mereka di Arktika dihancurkan oleh sebuah perusahaan real estate.</desc>
+  </programme>
+  <programme start="20230520080000 +0700" stop="20230520090000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230520090000 +0700" stop="20230520110000 +0700" channel="MyKidz">
+    <title lang="id">Legend Of A Rabbit</title>
+    <desc lang="id">Fu diberikan kekuatan kung fu hebat lewat telepati setelah ia menyelamatkan seorang guru seni bela diri dari serangan maut. Akan tetapi, ia harus berjanji untuk mewariskan kekuatan itu pada putri sang guru, Penny.</desc>
+  </programme>
+  <programme start="20230520110000 +0700" stop="20230520120000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230520120000 +0700" stop="20230520140000 +0700" channel="MyKidz">
+    <title lang="id">Postman Pat</title>
+    <desc lang="id">Seorang tukang pos berencana mengajak sang istri berbulan madu dengan memakai uang bonus dari bosnya. Namun, setelah bonus dibatalkan, ia mengikuti kontes menyanyi untuk membiayai perjalanan tersebut.</desc>
+  </programme>
+  <programme start="20230520140000 +0700" stop="20230520150000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230520150000 +0700" stop="20230520170000 +0700" channel="MyKidz">
+    <title lang="id">Bolts &amp; Blip</title>
+    <desc lang="id">Dua robot berusaha menghentikan rencana seorang dokter jahat yang mengancam Bumi dan Bulan.</desc>
+  </programme>
+  <programme start="20230520170000 +0700" stop="20230520180000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230520180000 +0700" stop="20230520200000 +0700" channel="MyKidz">
+    <title lang="id">The Reef 1</title>
+    <desc lang="id">Pi, seekor ikan yatim piatu yang tinggal di terumbu karang, bertemu dan jatuh cinta dengan Cordelia, seekor ikan merah muda. Pi lalu mengetahui bahwa Cordelia sering diganggu oleh seekor hiu macan menakutkan.</desc>
+  </programme>
+  <programme start="20230520200000 +0700" stop="20230520220000 +0700" channel="MyKidz">
+    <title lang="id">The Littlest Angel</title>
+    <desc lang="id">Saat seorang anak laki-laki tiba lebih awal di surga, dia mulai merasa kesepian. Dia pun pergi kembali ke bumi dengan Halo anak anjingnya untuk mendapatkan hadiah paling berharga untuk bayi Yesus.</desc>
+  </programme>
+  <programme start="20230520220000 +0700" stop="20230520223000 +0700" channel="MyKidz">
+    <title lang="id">Vicky And Johnny</title>
+    <desc lang="id">Vicky dan Johnny tinggal di rumah yang sama, tetapi mereka sering bertengkar.</desc>
+    <episode-num system="onscreen">E58</episode-num>
+  </programme>
+  <programme start="20230520223000 +0700" stop="20230520230000 +0700" channel="MyKidz">
+    <title lang="id">Vicky And Johnny</title>
+    <desc lang="id">Vicky dan Johnny tinggal di rumah yang sama, tetapi mereka sering bertengkar.</desc>
+    <episode-num system="onscreen">E59</episode-num>
+  </programme>
+  <programme start="20230520230000 +0700" stop="20230521000000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230521000000 +0700" stop="20230521020000 +0700" channel="MyKidz">
+    <title lang="id">Ploddy The Police Car</title>
+    <desc lang="id">Sebuah kabel listrik menyetrum Ploddy Si Mobil Polisi dan memberinya kekuatan khusus. Kekuatan barunya membawa tanggung jawab yang lebih besar dan membuat Ploddy merasa mampu menghentikan Badger Brothers.</desc>
+  </programme>
+  <programme start="20230521020000 +0700" stop="20230521040000 +0700" channel="MyKidz">
+    <title lang="id">Winx Club 3: Secret Abbys</title>
+    <desc lang="id">Sekelompok penyihir bekerja sama dengan sesosok makhluk jahat untuk menemukan sumber kekuatan peri di Samudra Tak Terbatas demi bisa mengalahkan mereka.</desc>
+  </programme>
+  <programme start="20230521040000 +0700" stop="20230521050000 +0700" channel="MyKidz">
+    <title lang="id">Highlight Sunday-Monday</title>
+    <desc lang="id">Ringkasan Minggu-Senin.</desc>
+  </programme>
+  <programme start="20230521050000 +0700" stop="20230521053000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230521053000 +0700" stop="20230521060000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230521060000 +0700" stop="20230521080000 +0700" channel="MyKidz">
+    <title lang="id">Postman Pat</title>
+    <desc lang="id">Seorang tukang pos berencana mengajak sang istri berbulan madu dengan memakai uang bonus dari bosnya. Namun, setelah bonus dibatalkan, ia mengikuti kontes menyanyi untuk membiayai perjalanan tersebut.</desc>
+  </programme>
+  <programme start="20230521080000 +0700" stop="20230521090000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230521090000 +0700" stop="20230521110000 +0700" channel="MyKidz">
+    <title lang="id">Space Dogs: Tropical Adventure</title>
+    <desc lang="id">Saat sebuah fenomena pusaran air misterius dan berbahaya muncul di daerah tropis Samudra Atlantik, Belka dan Strelka, sepasang anjing astronot, dikirim untuk melakukan penyelidikan.</desc>
+  </programme>
+  <programme start="20230521110000 +0700" stop="20230521120000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230521120000 +0700" stop="20230521140000 +0700" channel="MyKidz">
+    <title lang="id">Legend Of A Rabbit: Martial</title>
+    <desc lang="id">Tu si kelinci melindungi desa dengan keahliannya bertarung kung fu, tetapi semua berubah ketika Zhan yang jahat merampas keahlian kung fu Tu. Bisakah dia mendapatkan kembali kemampuannya sebelum kejahatan berkuasa?</desc>
+  </programme>
+  <programme start="20230521140000 +0700" stop="20230521150000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230521150000 +0700" stop="20230521170000 +0700" channel="MyKidz">
+    <title lang="id">Yugo And Lala</title>
+    <desc lang="id">Mengisahkan petualangan seorang gadis pemberani di dunia hewan nan menakjubkan.</desc>
+  </programme>
+  <programme start="20230521170000 +0700" stop="20230521180000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
+  </programme>
+  <programme start="20230521180000 +0700" stop="20230521200000 +0700" channel="MyKidz">
+    <title lang="id">Harlock: Space Pirates</title>
+    <desc lang="id">Kapten Harlock harus menyelamatkan umat manusia dari bahaya yang akan datang ketika Koalisi Gaia nan korup mengambil alih kendali Bumi dan mengatur umat manusia.</desc>
+  </programme>
+  <programme start="20230521200000 +0700" stop="20230521220000 +0700" channel="MyKidz">
+    <title lang="id">The Reef 2</title>
+    <desc lang="id">Pi yang kuat dan terampil mampu melawan hiu, menenggelamkan cumi-cumi, atau menghajar predator yang mengancam teman dan tetangganya. Namun, menjadi satu-satunya pahlawan di kota membawa resiko tersendiri.</desc>
+  </programme>
+  <programme start="20230521220000 +0700" stop="20230521223000 +0700" channel="MyKidz">
+    <title lang="id">Vicky And Johnny</title>
+    <desc lang="id">Vicky dan Johnny tinggal di rumah yang sama, tetapi mereka sering bertengkar.</desc>
+    <episode-num system="onscreen">E60</episode-num>
+  </programme>
+  <programme start="20230521223000 +0700" stop="20230521230000 +0700" channel="MyKidz">
+    <title lang="id">Vicky And Johnny</title>
+    <desc lang="id">Vicky dan Johnny tinggal di rumah yang sama, tetapi mereka sering bertengkar.</desc>
+    <episode-num system="onscreen">E61</episode-num>
+  </programme>
+  <programme start="20230521230000 +0700" stop="20230522000000 +0700" channel="MyKidz">
+    <title lang="id">Home Shopping</title>
+    <desc lang="id">Home Shopping.</desc>
   </programme>
   <programme start="20230514013000 +0700" stop="20230514033000 +0700" channel="Indosiar.id">
     <title lang="id">Mega Film Asia</title>
