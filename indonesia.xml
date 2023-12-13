@@ -1,18 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <programme start="20231212221800 +0700" stop="20231212234500 +0700" channel="Cinemachi">
-    <title lang="id">Cinemachi Platinum</title>
-  </programme>
-  <programme start="20231212234500 +0700" stop="20231212235900 +0700" channel="Cinemachi">
-    <title lang="id">73 Questions With Gal Gadot</title>
-  </programme>
-  <programme start="20231212235900 +0700" stop="20231213000900 +0700" channel="Cinemachi">
-    <title lang="id">24 Hours With Sofia Carson</title>
-  </programme>
-  <programme start="20231212233000 +0700" stop="20231213013000 +0700" channel="HitsMovies.sg">
-    <title lang="id">Fun With Dick And Jane</title>
-    <desc lang="id">Saat sepasang suami istri nan kaya raya kehilangan semua uang mereka setelah serangkaian kesalahan ceroboh.(n)</desc>
-  </programme>
   <channel id="VisionPrime.id">
     <display-name lang="id">Vision Prime HD</display-name>
     <icon src="https://mncvision.id/userfiles/image/channel/channel_1.png" />
@@ -491,209 +478,234 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_357.png" />
     <url>http://www.mncvision.id</url>
   </channel>
-  <programme start="20231212233000 +0700" stop="20231213005000 +0700" channel="Thrill.hk">
-    <title lang="id">The Occupant</title>
-    <desc lang="id">Setelah sang ibu meninggal, empat kakak beradik berjuang untuk warisan dan kehidupan mereka kala sesosok orang asing datang dan mengklaim bahwa rumah masa kecil mereka tersebut telah diwariskan kepadanya.(c)</desc>
+  <programme start="20231213222500 +0700" stop="20231213235000 +0700" channel="Thrill.hk">
+    <title lang="id">Friendsssss</title>
+    <desc lang="id">Saat pulang ke kampung halamannya di pedesaan untuk liburan musim panas, seorang pemuda bernama Sense mendapati bahwa temannya telah menghilang selama dua tahun.(c)</desc>
   </programme>
-  <programme start="20231212233000 +0700" stop="20231212235500 +0700" channel="NickJr.id">
+  <programme start="20231214233000 +0700" stop="20231215000000 +0700" channel="Thrill.hk">
+    <title lang="id">Trans7</title>
+  </programme>
+  <programme start="20231215235000 +0700" stop="20231216004000 +0700" channel="Thrill.hk">
+    <title lang="id">3AM</title>
+    <desc lang="id">Seorang pegawai baru mengusik keberadaan hantu-hantu di kantornya pada hari pertama bekerja. Ia pun segera merenungkan perbuatannya usai mengalami sejumlah peristiwa nan menyeramkan saat bertugas di malam hari.(n)</desc>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20231213233000 +0700" stop="20231214023000 +0700" channel="ZeeBioskop.id">
+    <title lang="id">Tamasha</title>
+    <desc lang="id">Ved dan Tara jatuh cinta saat sedang berlibur di Corsica dan memutuskan untuk merahasiakan identitas asli mereka. Kemudian, saat Tara kembali ke Delhi, ia bertemu Ved yang tengah berusaha menemukan jati dirinya.(n)</desc>
+  </programme>
+  <programme start="20231213233000 +0700" stop="20231213235500 +0700" channel="NickJr.id">
     <title lang="id">Rubble And Crew</title>
   </programme>
-  <programme start="20231212235500 +0700" stop="20231213000000 +0700" channel="NickJr.id">
+  <programme start="20231213235500 +0700" stop="20231214000000 +0700" channel="NickJr.id">
     <title lang="id">Peppa Pig</title>
   </programme>
-  <programme start="20231212233000 +0700" stop="20231212234500 +0700" channel="ZooMoo.id">
-    <title lang="id">Jelly Jamm</title>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20231212234500 +0700" stop="20231213000000 +0700" channel="ZooMoo.id">
-    <title lang="id">Jelly Jamm</title>
-    <episode-num system="onscreen">S1 E8</episode-num>
-  </programme>
-  <programme start="20231212232500 +0700" stop="20231212234000 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Messy Goes To Okido</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20231212234000 +0700" stop="20231212235000 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Kazoops!</title>
-    <episode-num system="onscreen">S1 E60</episode-num>
-  </programme>
-  <programme start="20231212235000 +0700" stop="20231213000000 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Bluey</title>
-    <episode-num system="onscreen">S1 E20</episode-num>
-  </programme>
-  <programme start="20231212233000 +0700" stop="20231213000000 +0700" channel="KidsTV.id">
-    <title lang="id">Rat A Tat</title>
-  </programme>
-  <programme start="20231212232000 +0700" stop="20231212234500 +0700" channel="DreamWorks.id">
-    <title lang="id">Kung Fu Panda: Paws Of Destiny</title>
-  </programme>
-  <programme start="20231212234500 +0700" stop="20231213001000 +0700" channel="DreamWorks.id">
-    <title lang="id">Trolls: The Beat Goes On!</title>
-  </programme>
-  <programme start="20231212231500 +0700" stop="20231212234000 +0700" channel="Nickelodeon.id">
-    <title lang="id">Middlemost Post</title>
-  </programme>
-  <programme start="20231212234000 +0700" stop="20231213000000 +0700" channel="Nickelodeon.id">
-    <title lang="id">Avatar: The Last Airbender</title>
-  </programme>
-  <programme start="20231212224500 +0700" stop="20231212234500 +0700" channel="iNews.id">
-    <title lang="id">New Top Files</title>
-  </programme>
-  <programme start="20231212234500 +0700" stop="20231213003000 +0700" channel="iNews.id">
-    <title lang="id">Sergap</title>
-  </programme>
-  <programme start="20231212233000 +0700" stop="20231213003000 +0700" channel="MNCNews.id">
-    <title lang="id">iNews Prime</title>
-  </programme>
-  <programme start="20231212233000 +0700" stop="20231213000000 +0700" channel="Ent.id">
-    <title lang="id">World Of Moslem</title>
-  </programme>
-  <programme start="20231212233000 +0700" stop="20231213000000 +0700" channel="OKTV.id">
-    <title lang="id">Seleb On News</title>
-  </programme>
-  <programme start="20231212233000 +0700" stop="20231213000000 +0700" channel="tvOne.id">
-    <title lang="id">Kabar Arena Malam</title>
-  </programme>
-  <programme start="20231212233000 +0700" stop="20231213000000 +0700" channel="SoccerChannel.id">
-    <title lang="id">World Classic League</title>
-  </programme>
-  <programme start="20231212233000 +0700" stop="20231213003000 +0700" channel="TawafTV.id">
-    <title lang="id">Risalah Dunia</title>
-  </programme>
-  <programme start="20231212233000 +0700" stop="20231213000000 +0700" channel="KompasTV.id">
-    <title lang="id">Kilas Kompas</title>
-  </programme>
-  <programme start="20231212233000 +0700" stop="20231213000500 +0700" channel="MetroTV.id">
-    <title lang="id">Follow Up</title>
-  </programme>
-  <programme start="20231212233000 +0700" stop="20231213000000 +0700" channel="Trans7.id">
-    <title lang="id">Redaksi Malam</title>
-  </programme>
-  <programme start="20231212211500 +0700" stop="20231212234500 +0700" channel="MusicTV.id">
-    <title lang="id">X-Factor Indonesia 2023 (L)</title>
-  </programme>
-  <programme start="20231212234500 +0700" stop="20231213014500 +0700" channel="MusicTV.id">
-    <title lang="id">Indonesian Idol 2022</title>
-  </programme>
-  <programme start="20231212233000 +0700" stop="20231213000000 +0700" channel="TVRI.id">
-    <title lang="id">Monitor Olahraga</title>
-  </programme>
-  <programme start="20231212233000 +0700" stop="20231213000000 +0700" channel="MTVLive.id">
-    <title lang="id">Hot Right Now!</title>
-  </programme>
-  <programme start="20231212233000 +0700" stop="20231213002500 +0700" channel="AXN.id">
-    <title lang="id">American Ninja...</title>
-    <desc lang="id">Hampir sama dengan dua musim sebelumnya, di kompetisi kali ini 96 anak rentang usia 9 dan 14 tahun dari seluruh penjuru AS akan bersaing dalam tiga kelompok usia yang berbeda.(n)</desc>
+  <programme start="20231213233000 +0700" stop="20231213234500 +0700" channel="ZooMoo.id">
+    <title lang="id">Counting With Paula</title>
     <episode-num system="onscreen">S3 E7</episode-num>
   </programme>
-  <programme start="20231212233000 +0700" stop="20231213000000 +0700" channel="Animax.id">
-    <title lang="id">Black Clover</title>
-    <episode-num system="onscreen">S2 E97</episode-num>
+  <programme start="20231213234500 +0700" stop="20231214000000 +0700" channel="ZooMoo.id">
+    <title lang="id">Counting With Paula</title>
+    <episode-num system="onscreen">S3 E8</episode-num>
   </programme>
-  <programme start="20231212233000 +0700" stop="20231213004000 +0700" channel="KIX.id">
+  <programme start="20231213232500 +0700" stop="20231213234000 +0700" channel="CBeebiesAsia.uk">
+    <title lang="id">Messy Goes To Okido</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20231213234000 +0700" stop="20231213235000 +0700" channel="CBeebiesAsia.uk">
+    <title lang="id">Kazoops!</title>
+    <episode-num system="onscreen">S1 E61</episode-num>
+  </programme>
+  <programme start="20231213235000 +0700" stop="20231214000000 +0700" channel="CBeebiesAsia.uk">
+    <title lang="id">Bluey</title>
+    <episode-num system="onscreen">S1 E21</episode-num>
+  </programme>
+  <programme start="20231213233000 +0700" stop="20231214000000 +0700" channel="KidsTV.id">
+    <title lang="id">Rat A Tat</title>
+  </programme>
+  <programme start="20231213232000 +0700" stop="20231213234500 +0700" channel="DreamWorks.id">
+    <title lang="id">Kung Fu Panda: Paws Of Destiny</title>
+  </programme>
+  <programme start="20231213234500 +0700" stop="20231214001000 +0700" channel="DreamWorks.id">
+    <title lang="id">Trolls: The Beat Goes On!</title>
+  </programme>
+  <programme start="20231213231500 +0700" stop="20231213234000 +0700" channel="Nickelodeon.id">
+    <title lang="id">Middlemost Post</title>
+  </programme>
+  <programme start="20231213234000 +0700" stop="20231214000000 +0700" channel="Nickelodeon.id">
+    <title lang="id">Avatar: The Last Airbender</title>
+  </programme>
+  <programme start="20231213214500 +0700" stop="20231213234500 +0700" channel="RCTI.id">
+    <title lang="id">Jangan Bercerai Bunda</title>
+  </programme>
+  <programme start="20231213234500 +0700" stop="20231214013000 +0700" channel="RCTI.id">
+    <title lang="id">Mamiku Rivalku</title>
+  </programme>
+  <programme start="20231213233000 +0700" stop="20231214003000 +0700" channel="GTV.id">
+    <title lang="id">Buletin iNews Malam</title>
+  </programme>
+  <programme start="20231213233000 +0700" stop="20231214003000 +0700" channel="MNCNews.id">
+    <title lang="id">iNews Prime</title>
+  </programme>
+  <programme start="20231213233000 +0700" stop="20231214000000 +0700" channel="Ent.id">
+    <title lang="id">World Of Moslem</title>
+  </programme>
+  <programme start="20231213233000 +0700" stop="20231214000000 +0700" channel="LifestyleandFashion.id">
+    <title lang="id">Celebrity Top 10</title>
+  </programme>
+  <programme start="20231213224000 +0700" stop="20231213233500 +0700" channel="OKTV.id">
+    <title lang="id">Curhatan Orang Dalam</title>
+  </programme>
+  <programme start="20231213233500 +0700" stop="20231214000000 +0700" channel="OKTV.id">
+    <title lang="id">Seleb On News</title>
+  </programme>
+  <programme start="20231213233000 +0700" stop="20231214000000 +0700" channel="tvOne.id">
+    <title lang="id">Kabar Arena Malam</title>
+  </programme>
+  <programme start="20231213233000 +0700" stop="20231214000000 +0700" channel="MNCSports2.id">
+    <title lang="id">The Ultimate Goals</title>
+  </programme>
+  <programme start="20231213233000 +0700" stop="20231214003000 +0700" channel="TawafTV.id">
+    <title lang="id">Risalah Dunia</title>
+  </programme>
+  <programme start="20231213233000 +0700" stop="20231214000000 +0700" channel="KompasTV.id">
+    <title lang="id">Kilas Kompas</title>
+  </programme>
+  <programme start="20231213233000 +0700" stop="20231214000500 +0700" channel="MetroTV.id">
+    <title lang="id">Follow Up</title>
+  </programme>
+  <programme start="20231213233000 +0700" stop="20231214000000 +0700" channel="Trans7.id">
+    <title lang="id">Redaksi Malam</title>
+  </programme>
+  <programme start="20231213221500 +0700" stop="20231213234500 +0700" channel="MusicTV.id">
+    <title lang="id">The Best Of Adi</title>
+  </programme>
+  <programme start="20231213234500 +0700" stop="20231214014500 +0700" channel="MusicTV.id">
+    <title lang="id">Indonesian Idol 2022</title>
+  </programme>
+  <programme start="20231213233000 +0700" stop="20231214000000 +0700" channel="TVRI.id">
+    <title lang="id">Monitor Olahraga</title>
+  </programme>
+  <programme start="20231213233000 +0700" stop="20231214000000 +0700" channel="MTVLive.id">
+    <title lang="id">Hot Right Now!</title>
+  </programme>
+  <programme start="20231213233000 +0700" stop="20231214002500 +0700" channel="AXN.id">
+    <title lang="id">American Ninja...</title>
+    <desc lang="id">Hampir sama dengan dua musim sebelumnya, di kompetisi kali ini 96 anak rentang usia 9 dan 14 tahun dari seluruh penjuru AS akan bersaing dalam tiga kelompok usia yang berbeda.(n)</desc>
+    <episode-num system="onscreen">S3 E8</episode-num>
+  </programme>
+  <programme start="20231213233000 +0700" stop="20231214000000 +0700" channel="Animax.id">
+    <title lang="id">Black Clover</title>
+    <episode-num system="onscreen">S2 E99</episode-num>
+  </programme>
+  <programme start="20231213223000 +0700" stop="20231213233500 +0700" channel="KIX.id">
+    <title lang="id">10 Fight 10</title>
+    <desc lang="id">Musim ini menghadirkan petarung baru, termasuk bintang Thailand, penyanyi, petinju, model, dan penyanyi rap ke dalam ring tinju, serta menampilkan dua peraih medali emas Olimpiade yang bersaing untuk kejuaraan.(n)</desc>
+    <episode-num system="onscreen">S3 E3</episode-num>
+  </programme>
+  <programme start="20231213233500 +0700" stop="20231214004500 +0700" channel="KIX.id">
     <title lang="id">Dunia: Into A New World</title>
     <desc lang="id">Dalam variety show yang tampak tak nyata ini, sepuluh karakter terdampar ke dalam dunia virtual bernama Dunia. Di sana, mereka harus bertahan hidup, sementara para pemirsa mengetahui tentang kisah dramatis mereka.(n)</desc>
-    <episode-num system="onscreen">E9</episode-num>
+    <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20231212213500 +0700" stop="20231212235000 +0700" channel="ParamountNetwork.id">
-    <title lang="id">Dreamgirls</title>
-    <desc lang="id">Berdasarkan drama musikal Broadway, tiga penyanyi yang bercita-cita tinggi menyadari bahwa ketenaran harus dibayar dengan harga yang sangat mahal.(n)</desc>
+  <programme start="20231213233000 +0700" stop="20231213235500 +0700" channel="ParamountNetwork.id">
+    <title lang="id">Digman!</title>
+    <desc lang="id">Rip Digman mencoba terjun kembali ke sebuah dunia tempat para arkeolog menjadi selebritas papan atas dengan bantuan asistennya yang berani bernama Saltine.(n)</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20231212235000 +0700" stop="20231213001500 +0700" channel="ParamountNetwork.id">
-    <title lang="id">The Good Place</title>
-    <desc lang="id">Eleanor berusaha membuktikan kepada Chidi bahwa ia layak untuk dibantu. Sementara itu, Tahani dan Jianyu mencoba membantu Michael untuk merasa lebih baik terkait kekurangan yang tidak ia ketahui di lingkungannya.(n)</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
+  <programme start="20231213235500 +0700" stop="20231214002000 +0700" channel="ParamountNetwork.id">
+    <title lang="id">Most Ridiculous</title>
+    <desc lang="id">Most Ridiculous dinarasikan oleh DJ Radio 1, Greg James, dan menampilkan video-video paling bodoh dan paling gila yang pernah ditemukan secara daring.(n)</desc>
+    <episode-num system="onscreen">S5 E8</episode-num>
   </programme>
-  <programme start="20231212213000 +0700" stop="20231212234000 +0700" channel="ONE.id">
-    <title lang="id">Universe Ticket</title>
-    <desc lang="id">Ikuti perjalanan 82 kontestan dari seluruh dunia yang akan bersaing untuk mendapatkan kesempatan debut dalam program audisi grup wanita K-Pop global pertama di SBS.(n)</desc>
-    <episode-num system="onscreen">E4</episode-num>
+  <programme start="20231213223500 +0700" stop="20231213234000 +0700" channel="BBCEarth.id">
+    <title lang="id">Planet Earth</title>
+    <desc lang="id">Sir David Attenborough mempersembahkan Planet Earth III, yang merupakan seri ke-tiga dari serial peraih penghargaan ini. Dimulai dari pantai, jelajahi berbagai kehidupan di tempat lautan bertemu dengan pantai.(n)</desc>
+    <episode-num system="onscreen">S3 E7</episode-num>
   </programme>
-  <programme start="20231212234000 +0700" stop="20231213010000 +0700" channel="ONE.id">
-    <title lang="id">Coffee Prince</title>
-    <desc lang="id">Han-kyul membuka sebuah kafe dan hanya mempekerjakan pria-pria yang tampan. Namun, segalanya menjadi rumit ketika Eun-chan yang tomboi bergabung dengan tim dan Han-kyul mengira dirinya sebagai seorang pria.(n)</desc>
-    <episode-num system="onscreen">E3</episode-num>
+  <programme start="20231213234000 +0700" stop="20231214003500 +0700" channel="BBCEarth.id">
+    <title lang="id">Extreme Treks</title>
+    <desc lang="id">Ikuti perjalanan Ryan saat ia menjelajahi area dramatis dari deretan pegunungan Al Hajar Barat yang membentang ke arah barat hingga Muscat dan mencapai ketinggian lebih dari 3.000 meter.(n)</desc>
+    <episode-num system="onscreen">S2 E6</episode-num>
   </programme>
-  <programme start="20231212230500 +0700" stop="20231212234000 +0700" channel="BBCEarth.id">
-    <title lang="id">Deadly Mission Shark</title>
-    <desc lang="id">Tim penyelamat hiu muda telah sampai pada akhir masa tugas mereka di sebuah suaka hiu di sekitar pulau Bimini, Bahama. Kini, mereka melakukan penyelaman terakhir untuk melihat hiu martil.(n)</desc>
-    <episode-num system="onscreen">S1 E10</episode-num>
+  <programme start="20231213225000 +0700" stop="20231213234000 +0700" channel="GlobalTrekker.id">
+    <title lang="id">Air Warriors</title>
+    <desc lang="id">Pesawat B-52 mampu terbang sejauh 14.484 km dan membawa hingga 31.751 kg senjata sekaligus, serta telah memimpin dalam setiap kampanye pengeboman besar AS selama 50 tahun terakhir.(n)</desc>
+    <episode-num system="onscreen">S4 E2</episode-num>
   </programme>
-  <programme start="20231212234000 +0700" stop="20231213003000 +0700" channel="BBCEarth.id">
-    <title lang="id">Coastal Britain</title>
-    <desc lang="id">Kate berjalan di pesisir pantai Barat Daya. Pemberhentian pertamanya adalah Charmouth, yang terkenal dengan perburuan fosilnya tempat gadis setempat, Mary Anning, menemukan fosil ichthyosaurus di awal abad ke-19.(n)</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
+  <programme start="20231213234000 +0700" stop="20231214003000 +0700" channel="GlobalTrekker.id">
+    <title lang="id">Air Warriors</title>
+    <desc lang="id">Terbanglah bersama pesawat yang melambangkan kekuatan dan romantisme dari pesawat tempur. Cari tahu bagaimana pesawat yang gesit dan kokoh ini dirancang untuk mendominasi langit dan caranya membantu mengakhiri PD II.(n)</desc>
+    <episode-num system="onscreen">S4 E3</episode-num>
   </programme>
-  <programme start="20231212232000 +0700" stop="20231212235000 +0700" channel="LoveNature">
+  <programme start="20231213232000 +0700" stop="20231213235000 +0700" channel="LoveNature">
     <title lang="id">Wild Wild East</title>
-    <episode-num system="onscreen">S1 E13</episode-num>
+    <episode-num system="onscreen">S1 E14</episode-num>
   </programme>
-  <programme start="20231212235000 +0700" stop="20231213004000 +0700" channel="LoveNature">
-    <title lang="id">Wildlife Icons</title>
+  <programme start="20231213235000 +0700" stop="20231214004000 +0700" channel="LoveNature">
+    <title lang="id">Big Cat Country</title>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20231212224500 +0700" stop="20231212234000 +0700" channel="History.id">
-    <title lang="id">Curse Of Oak Island</title>
-    <desc lang="id">Tim merasa yakin bahwa mereka semakin dekat dengan ruang rahasia ketika operasi penyelidikan pengeboran di Lubang Uang akhirnya mulai dilakukan.(n)</desc>
-    <episode-num system="onscreen">S10 E17</episode-num>
+  <programme start="20231213224500 +0700" stop="20231213234000 +0700" channel="History.id">
+    <title lang="id">Toys That Built World</title>
+    <desc lang="id">Setelah menyetujui kesepakatan terbesar dalam sejarah industri mainan, Presiden Mattel Ray Wagner malah mendapati dirinya kurang sukses dibanding mantan rekannya, Bernie Loomis, yang kini menjadi saingannya.(n)</desc>
+    <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
-  <programme start="20231212234000 +0700" stop="20231213003500 +0700" channel="History.id">
-    <title lang="id">Ancient Aliens</title>
-    <desc lang="id">Beberapa kuil suci paling ikonik di dunia didirikan di atas reruntuhan bangunan yang jauh lebih tua. Apakah yang mendorong manusia purba mendirikan bangunan di tempat yang sama berulang kali?(n)</desc>
-    <episode-num system="onscreen">S14 E203</episode-num>
+  <programme start="20231213234000 +0700" stop="20231214003500 +0700" channel="History.id">
+    <title lang="id">Swamp People</title>
+    <desc lang="id">Daniel bertaruh pada sebuah lokasi nan potensial di tengah hawa dingin. Joey dan Zak berburu seekor buaya raksasa hingga ke kolam udang karang. Sementara itu, Troy mengajari Pickle memancing menggunakan tiga kail.(n)</desc>
+    <episode-num system="onscreen">S13 E11</episode-num>
   </programme>
-  <programme start="20231212230500 +0700" stop="20231212233500 +0700" channel="CrimeInvestigation.id">
-    <title lang="id">My Ghost Story Asia</title>
-    <desc lang="id">My Ghost Story Asia musim ke-3 kembali menampilkan kisah nyata pengalaman gaib yang diceritakan oleh mereka yang mengalaminya, seperti pertemuan dengan arwah di tempat berhantu hingga pengalaman pribadi yang mencekam.(n)</desc>
-    <episode-num system="onscreen">S3 E6</episode-num>
+  <programme start="20231213214000 +0700" stop="20231213234000 +0700" channel="ROCKAction.id">
+    <title lang="id">Spider-Man: Into Spider-Verse</title>
+    <desc lang="id">Spider-Man: Into The Spider-Verse berkisah tentang seorang remaja asal Brooklyn bernama Miles Morales serta berbagai kemungkinan tak terbatas dari Dunia Laba-Laba, tempat semua orang bisa menjadi pahlawan.(n)</desc>
   </programme>
-  <programme start="20231212233500 +0700" stop="20231213002500 +0700" channel="CrimeInvestigation.id">
-    <title lang="id">#TextMeWhenYouGetHome</title>
-    <desc lang="id">Becky Koster mengirim pesan ke ibunya, Barbara, bahwa ia telah pulang ke rumah usai pergi berkencan, tapi Barbara tidak menemukan keberadaan Becky saat ia tiba di rumah.(n)</desc>
-    <episode-num system="onscreen">E8</episode-num>
+  <programme start="20231213234000 +0700" stop="20231214020000 +0700" channel="ROCKAction.id">
+    <title lang="id">Angels &amp; Demons</title>
+    <desc lang="id">Tom Hanks kembali berperan sebagai ahli simbologi Harvard, Robert Langdon, yang kembali menemukan bahwa sejumlah kelompok dengan tradisi kuno bersedia melakukan apa pun, bahkan pembunuhan, demi mencapai tujuan mereka.(n)</desc>
   </programme>
-  <programme start="20231212233000 +0700" stop="20231213000000 +0700" channel="BBCNews.id">
+  <programme start="20231213233000 +0700" stop="20231214000000 +0700" channel="BBCNews.id">
     <title lang="id">Verified Live</title>
   </programme>
-  <programme start="20231212233000 +0700" stop="20231213000000 +0700" channel="Euronews.id">
+  <programme start="20231213233000 +0700" stop="20231213234600 +0700" channel="Euronews.id">
     <title lang="id">Euronews Now</title>
   </programme>
-  <programme start="20231212233000 +0700" stop="20231213000000 +0700" channel="SEAToday">
+  <programme start="20231213234600 +0700" stop="20231214000000 +0700" channel="Euronews.id">
+    <title lang="id">Explore Angola</title>
+  </programme>
+  <programme start="20231213233000 +0700" stop="20231214000000 +0700" channel="SEAToday">
     <title lang="id">Lady Killers</title>
   </programme>
-  <programme start="20231212233000 +0700" stop="20231213000000 +0700" channel="ABCAustralia.id">
-    <title lang="id">7.30</title>
+  <programme start="20231213233000 +0700" stop="20231214000000 +0700" channel="ABCAustralia.id">
+    <title lang="id">That Pacific Sports Show</title>
   </programme>
-  <programme start="20231212233000 +0700" stop="20231212234500 +0700" channel="France24English">
+  <programme start="20231213233000 +0700" stop="20231213234500 +0700" channel="France24English">
     <title lang="id">News (L)</title>
   </programme>
-  <programme start="20231212234500 +0700" stop="20231212234600 +0700" channel="France24English">
+  <programme start="20231213234500 +0700" stop="20231213234600 +0700" channel="France24English">
     <title lang="id">Headlines (L)</title>
   </programme>
-  <programme start="20231212234600 +0700" stop="20231212235100 +0700" channel="France24English">
+  <programme start="20231213234600 +0700" stop="20231213235100 +0700" channel="France24English">
     <title lang="id">Business (L)</title>
   </programme>
-  <programme start="20231212235100 +0700" stop="20231213000000 +0700" channel="France24English">
+  <programme start="20231213235100 +0700" stop="20231214000000 +0700" channel="France24English">
     <title lang="id">Sports (L)</title>
   </programme>
-  <programme start="20231212233000 +0700" stop="20231212234500 +0700" channel="NHKWorldJapan">
-    <title lang="id">Deeper Look</title>
+  <programme start="20231213233000 +0700" stop="20231214000000 +0700" channel="NHKWorldJapan">
+    <title lang="id">Kabuki Kool</title>
   </programme>
-  <programme start="20231212234500 +0700" stop="20231212235500 +0700" channel="NHKWorldJapan">
-    <title lang="id">Dig More Japan</title>
+  <programme start="20231213233000 +0700" stop="20231214000000 +0700" channel="DWEnglish">
+    <title lang="id">Eco India: Environment</title>
   </programme>
-  <programme start="20231212235500 +0700" stop="20231213000000 +0700" channel="NHKWorldJapan">
-    <title lang="id">The Seasons Of Yamato</title>
+  <programme start="20231213233000 +0700" stop="20231214005500 +0700" channel="GALAXY">
+    <title lang="id">Don't Kill It</title>
+    <desc lang="id">Sesosok iblis kuno meneror sebuah kota kecil di Mississippi.(n)</desc>
   </programme>
-  <programme start="20231212233000 +0700" stop="20231213000000 +0700" channel="DWEnglish">
-    <title lang="id">Kick Off!: The Bundesliga HL</title>
+  <programme start="20231213233000 +0700" stop="20231214014500 +0700" channel="HitsMovies.sg">
+    <title lang="id">Clash Of The Titans</title>
+    <desc lang="id">Perseus harus melawan Medusa dan Kraken demi menyelamatkan Putri Andromeda.(n)</desc>
   </programme>
-  <programme start="20231212233000 +0700" stop="20231213023000 +0700" channel="ZeeBioskop.id">
-    <title lang="id">Lakshya</title>
-    <desc lang="id">Seorang pria pengangguran yang tidak bertanggung jawab bergabung dengan Angkatan Darat dan menjelma menjadi sosok pahlawan di medan perang.(n)</desc>
-  </programme>
-  <programme start="20231213234500 +0700" stop="20231214010500 +0700" channel="Thrill.hk">
-    <title lang="id">Zombie Island</title>
-    <desc lang="id">Jeff pergi ke sebuah pulau terpencil nan misterius bersama teman-temannya untuk berpetualang. Namun, perjalanan tersebut berubah menjadi mengerikan saat mereka terjebak dan diserang oleh sekawanan zombie!</desc>
+  <programme start="20231213233000 +0700" stop="20231214003000 +0700" channel="VisionPrime.id">
+    <title lang="id">Inside</title>
   </programme>
 </tv>
