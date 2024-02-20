@@ -2,97 +2,78 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="VisionPrime.id">
     <display-name lang="id">Vision Prime HD</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_1.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="CinemachiXtra">
     <display-name lang="id">Cinemachi Xtra</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_6.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="Cinemachi">
     <display-name lang="id">Cinemachi</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_7.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="CinemachiAction">
     <display-name lang="id">Cinemachi Action</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_8.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="CinemachiKids">
     <display-name lang="id">Cinemachi Kids</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_9.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="CinemachiMax">
     <display-name lang="id">Cinemachi Max</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_10.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="HitsMovies.sg">
     <display-name lang="id">HITS Movies</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_169.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="GALAXYPremium">
     <display-name lang="id">GALAXY Premium</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_12.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="GALAXY">
     <display-name lang="id">GALAXY</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_13.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="IMC">
     <display-name lang="id">IMC</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_14.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="MyFamilyChannel">
     <display-name lang="id">My Family Channel</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_15.jpg" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="MyCinema">
     <display-name lang="id">My Cinema</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_16.jpg" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="MyCinemaAsia">
     <display-name lang="id">My Cinema Asia</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_17.jpg" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="Thrill.hk">
     <display-name lang="id">Thrill</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="CelestialMovies.hk">
     <display-name lang="id">Celestial Movies</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/celestial.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="CCM.hk">
     <display-name lang="id">CCM</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_22.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="ZeeBioskop.id">
     <display-name lang="id">Zee Bioskop</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_23.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="tvNMovies.kr">
     <display-name lang="id">tvN Movies</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_25.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="NickJr.id">
     <display-name lang="id">Nick Jr</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_37.jpg" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="MiaoMi.hk">
@@ -101,172 +82,138 @@
   </channel>
   <channel id="ZooMoo.id">
     <display-name lang="id">ZooMoo</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_39.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="CBeebiesAsia.uk">
     <display-name lang="id">CBeebies</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/cbeebies_150.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="KidsTV.id">
     <display-name lang="id">Kids TV</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_46.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="DreamWorks.id">
     <display-name lang="id">DreamWorks</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_47.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="Nickelodeon.id">
     <display-name lang="id">Nickelodeon</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_49.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="MyKidz">
     <display-name lang="id">My Kidz</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_50.jpg" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="Indosiar.id">
     <display-name lang="id">Indosiar</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/Indosiar.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="RCTI.id">
     <display-name lang="id">RCTI</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_80.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="GTV.id">
     <display-name lang="id">GTV</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_81.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="MNCTV.id">
     <display-name lang="id">MNCTV</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_82.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="iNews.id">
     <display-name lang="id">iNews</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_83.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="MNCNews.id">
     <display-name lang="id">MNC News</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_84.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="Ent.id">
     <display-name lang="id">Entertainment</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_86.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="TransTV.id">
     <display-name lang="id">Trans TV</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_87.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="Sportstars4">
     <display-name lang="id">Sportstars 4</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_88.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="SCTV.id">
     <display-name lang="id">SCTV</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/sctv.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="LifestyleandFashion.id">
     <display-name lang="id">Lifestyle &amp; Fashion</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_90.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="LIFE.id">
     <display-name lang="id">LIFE</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_91.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="MuslimTV.id">
     <display-name lang="id">Muslim TV</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_92.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="AlQuranKareem.id">
     <display-name lang="id">Al Quran Al Kareem</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_93.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="OKTV.id">
     <display-name lang="id">OK TV</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_95.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="Ie.id">
     <display-name lang="id">Infotaiment</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_96.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="tvOne.id">
     <display-name lang="id">tvOne</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/tvone.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="MNCSports2.id">
     <display-name lang="id">MNC Sports 2</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_98.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="MNCSports3.id">
     <display-name lang="id">MNC Sports 3</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_99.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="IDX.id">
     <display-name lang="id">IDX</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/iBcm_IDX.jpg" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="SoccerChannel.id">
     <display-name lang="id">Soccer Channel</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_101.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="MNCSports.id">
     <display-name lang="id">MNC Sports</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_102.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="BeritaSatuNewsChannel.id">
     <display-name lang="id">Berita Satu</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_103.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="TawafTV.id">
     <display-name lang="id">Tawaf TV</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_105.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="KompasTV.id">
     <display-name lang="id">Kompas TV</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_106.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="MetroTV.id">
     <display-name lang="id">Metro TV</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/metro_tv.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="Trans7.id">
     <display-name lang="id">Trans 7</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_110.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="MusicTV.id">
     <display-name lang="id">Music TV</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_111.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="besmart.id">
@@ -275,1878 +222,166 @@
   </channel>
   <channel id="JakTV.id">
     <display-name lang="id">JAKTV</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_113.jpg" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="ANTV.id">
     <display-name lang="id">ANTV</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_115.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="NET.id">
     <display-name lang="id">Net TV</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_116.jpg" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="TVRI.id">
     <display-name lang="id">TVRI</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_118.jpg" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="MTVLive.id">
     <display-name lang="id">MTV Live</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_148.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="MTV90s">
     <display-name lang="id">MTV 90s</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_149.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="FMN.id">
     <display-name lang="id">FMN</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/150x150fmn.jpg" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="AXN.id">
     <display-name lang="id">AXN</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/axn_150x150.jpg" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="Animax.id">
     <display-name lang="id">Animax</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/Animax_150x150.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="tvN.id">
     <display-name lang="id">tvN</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_158.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="HITS.id">
     <display-name lang="id">HITS</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_160.jpg" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="KIX.id">
     <display-name lang="id">KIX</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="ParamountNetwork.id">
     <display-name lang="id">Paramount Network</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_163.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="ONE.id">
     <display-name lang="id">ONE</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_164.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="Lifetime.id">
     <display-name lang="id">Lifetime</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_167.jpg" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="BBCEarth.id">
     <display-name lang="id">BBC Earth</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="GlobalTrekker.id">
     <display-name lang="id">Global Trekker</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_201.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="OutdoorChannel">
     <display-name lang="id">Outdoor</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_202.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="LoveNature">
     <display-name lang="id">Love Nature</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_204.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="CGTNDocumentary">
     <display-name lang="id">CGTN Documentary</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_205.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="History.id">
     <display-name lang="id">History</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_206.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="CrimeInvestigation.id">
     <display-name lang="id">Crime Investigation</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_207.jpg" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="ROCKEntertainment.id">
     <display-name lang="id">ROCK Entertainment</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_240.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="ROCKAction.id">
     <display-name lang="id">ROCK Action</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_248.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="FightSports">
     <display-name lang="id">Fight Sports</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="SPOTV.id">
     <display-name lang="id">SPOTV</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_307.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="SPOTV2.id">
     <display-name lang="id">SPOTV2</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_308.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="CNA.id">
     <display-name lang="id">CNA</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_330.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="AlJazeeraEnglish.id">
     <display-name lang="id">Al Jazeera English</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_331.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="BBCNews.id">
     <display-name lang="id">BBC News</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_332.jpg" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="Euronews.id">
     <display-name lang="id">Euronews</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_333.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="FOXNews">
     <display-name lang="id">FOX News</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/fox_news_channel.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="SEAToday">
     <display-name lang="id">SEA Today</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_336.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="CNBCAsia.id">
     <display-name lang="id">CNBC Asia</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/cnbc.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="BloombergTV.id">
     <display-name lang="id">Bloomberg TV</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/bloomberg.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="ABCAustralia.id">
     <display-name lang="id">ABC Australia</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_350.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="Arirang">
     <display-name lang="id">Arirang TV</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_351.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="France24English">
     <display-name lang="id">France 24 English</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/france_150px.jpg" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="CGTN.id">
     <display-name lang="id">CGTN</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_353.png" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="NHKWorldJapan">
     <display-name lang="id">NHK World</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" />
     <url>http://www.mncvision.id</url>
   </channel>
   <channel id="DWEnglish">
     <display-name lang="id">DW English</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_357.png" />
     <url>http://www.mncvision.id</url>
   </channel>
-  <programme start="20240220193000 +0700" stop="20240220213000 +0700" channel="VisionPrime.id">
-    <title lang="id">TOP Masih Ngojek</title>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220220000 +0700" channel="VisionPrime.id">
-    <title lang="id">Arab Maklum</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220233000 +0700" channel="VisionPrime.id">
-    <title lang="id">Silet</title>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240221003000 +0700" channel="VisionPrime.id">
-    <title lang="id">Inside</title>
-  </programme>
-  <programme start="20240220182200 +0700" stop="20240220203700 +0700" channel="CinemachiXtra">
-    <title lang="id">Cinemachi Gold</title>
-  </programme>
-  <programme start="20240220203700 +0700" stop="20240220220200 +0700" channel="CinemachiXtra">
-    <title lang="id">September</title>
-  </programme>
-  <programme start="20240220220200 +0700" stop="20240220235900 +0700" channel="CinemachiXtra">
-    <title lang="id">Cinemachi Platinum</title>
-  </programme>
-  <programme start="20240220235900 +0700" stop="20240221015600 +0700" channel="CinemachiXtra">
-    <title lang="id">Repeater</title>
-  </programme>
-  <programme start="20240220183700 +0700" stop="20240220203900 +0700" channel="Cinemachi">
-    <title lang="id">The Frame</title>
-  </programme>
-  <programme start="20240220203900 +0700" stop="20240220204500 +0700" channel="Cinemachi">
-    <title lang="id">24 Hours With Burna Boy</title>
-  </programme>
-  <programme start="20240220204500 +0700" stop="20240220205400 +0700" channel="Cinemachi">
-    <title lang="id">73 Questions With Emma Stone</title>
-  </programme>
-  <programme start="20240220205400 +0700" stop="20240220221700 +0700" channel="Cinemachi">
-    <title lang="id">Cinemachi Silver</title>
-  </programme>
-  <programme start="20240220221700 +0700" stop="20240220222000 +0700" channel="Cinemachi">
-    <title lang="id">4 Celebrities: Serial Cheaters</title>
-  </programme>
-  <programme start="20240220222000 +0700" stop="20240220222500 +0700" channel="Cinemachi">
-    <title lang="id">24 Hours With Megan Thee</title>
-  </programme>
-  <programme start="20240220222500 +0700" stop="20240221003200 +0700" channel="Cinemachi">
-    <title lang="id">Cinemachi Gold</title>
-  </programme>
-  <programme start="20240220201900 +0700" stop="20240220222100 +0700" channel="CinemachiAction">
-    <title lang="id">Out Of The Furnace</title>
-  </programme>
-  <programme start="20240220222100 +0700" stop="20240221000500 +0700" channel="CinemachiAction">
-    <title lang="id">Cinemachi Platinum</title>
-  </programme>
-  <programme start="20240220200100 +0700" stop="20240220214400 +0700" channel="CinemachiKids">
-    <title lang="id">Fireheart</title>
-  </programme>
-  <programme start="20240220214400 +0700" stop="20240220231800 +0700" channel="CinemachiKids">
-    <title lang="id">Cinemachi Silver</title>
-  </programme>
-  <programme start="20240220231800 +0700" stop="20240221005900 +0700" channel="CinemachiKids">
-    <title lang="id">Dogtanian &amp; Three Muskehounds</title>
-  </programme>
-  <programme start="20240220192100 +0700" stop="20240220214400 +0700" channel="CinemachiMax">
-    <title lang="id">Cinemachi Platinum</title>
-  </programme>
-  <programme start="20240220214400 +0700" stop="20240220233800 +0700" channel="CinemachiMax">
-    <title lang="id">Moon Rock For Monday</title>
-  </programme>
-  <programme start="20240220233800 +0700" stop="20240221012400 +0700" channel="CinemachiMax">
-    <title lang="id">Cinemachi Gold</title>
-  </programme>
-  <programme start="20240220190000 +0700" stop="20240220210000 +0700" channel="HitsMovies.sg">
-    <title lang="id">The Polar Express</title>
-    <desc lang="id">Seorang bocah laki-laki memulai perjalanan ajaibnya ke Kutub Utara dengan kereta Polar Express. Dalam petualangannya ini, ia belajar tentang kesetiakawanan, keberanian, dan juga semangat Natal.(n)</desc>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220230000 +0700" channel="HitsMovies.sg">
-    <title lang="id">Guess Who</title>
-    <desc lang="id">Seorang ayah yang sarkastik sangat ingin berbicara dengan putrinya yang ingin menikah dengan seorang pria berkulit putih.(n)</desc>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221011500 +0700" channel="HitsMovies.sg">
-    <title lang="id">Spider-Man</title>
-    <desc lang="id">Tobey Maguire adalah Spider-Man, seorang siswa dengan kekuatan super baru dan kemampuan mirip laba-laba. Dia bersumpah untuk melawan kejahatan dan membantu orang yang tidak bersalah.(n)</desc>
-  </programme>
-  <programme start="20240220192000 +0700" stop="20240220210000 +0700" channel="GALAXYPremium">
-    <title lang="id">Cell</title>
-    <desc lang="id">Di tengah-tengah kekacauan nan hebat yang terjadi akibat sebuah sinyal telepon genggam misterius, seorang seniman bertekad untuk bertemu dengan putranya di New England.(n)</desc>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220231500 +0700" channel="GALAXYPremium">
-    <title lang="id">Bad Boys 2</title>
-    <desc lang="id">Duo detektif Mike Lowrey and Marcus Burnett yang kocak hadir kembali. Kali ini, mereka menyelidiki penyelundupan ekstasi ke Florida.(n)</desc>
-  </programme>
-  <programme start="20240220231500 +0700" stop="20240221005500 +0700" channel="GALAXYPremium">
-    <title lang="id">Escape Room</title>
-    <desc lang="id">Enam orang asing menemukan diri mereka berada dalam labirin ruang misteri yang mematikan dan harus menggunakan kecerdikan mereka untuk bertahan hidup.(n)</desc>
-  </programme>
-  <programme start="20240220190000 +0700" stop="20240220203500 +0700" channel="GALAXY">
-    <title lang="id">Armed Response</title>
-    <desc lang="id">Para pemilik perusahaan keamanan yang gagal dalam sebuah komunitas nan tidak melakukan tindakan ilegal memutuskan untuk meningkatkan bisnis dengan merampok rumah tetangga mereka.(n)</desc>
-  </programme>
-  <programme start="20240220203500 +0700" stop="20240220222000 +0700" channel="GALAXY">
-    <title lang="id">Frozen Ground</title>
-    <desc lang="id">Film yang diangkat dari kisah nyata ini menceritakan upaya seorang detektif di Alaska untuk menangkap pembunuh berantai Robert Hansen dengan bantuan seorang wanita yang pernah lolos dari cengkeraman sang pembunuh.(n)</desc>
-  </programme>
-  <programme start="20240220222000 +0700" stop="20240221001000 +0700" channel="GALAXY">
-    <title lang="id">Pele</title>
-    <desc lang="id">Drama biografi ini mengisahkan kebangkitan Pele si pemuda dari wilayah kumuh di Sao Paulo yang memimpin Brasil meraih kemenangan pertama di ajang Piala Dunia pada usia 17 tahun.(n)</desc>
-  </programme>
-  <programme start="20240220200000 +0700" stop="20240220213000 +0700" channel="IMC">
-    <title lang="id">Pohon Keramat</title>
-    <desc lang="id">Sebuah keluarga kecil menempati rumah baru di tepi kota nan sejuk. Suatu hari, sang ibu dikejutkan oleh sosok orang gila yang mengikutinya ke kantor dan berteriak menyuruh keluarganya untuk meninggalkan rumah tersebut.(n)</desc>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220224500 +0700" channel="IMC">
-    <title lang="id">Skandal</title>
-    <desc lang="id">Mischa, yang jenuh dengan pernikahannya, merasa bahagia ketika bertemu Vincent, sang mantan kekasih. Namun, Vincent nan posesif bersikeras untuk melanjutkan hubungan mereka dan mulai mengancam keluarga Mischa.(n)</desc>
-  </programme>
-  <programme start="20240220224500 +0700" stop="20240221001500 +0700" channel="IMC">
-    <title lang="id">Bidadari Pulau Hantu</title>
-    <desc lang="id">Evan dan Gesti melakukan sebuah pemotretan pernikahan di pulau yang terkenal dengan hantu pengantin wanita pembawa celurit. Hantu tersebut pun meneror rombongan Evan dan Gesti pada hari pertama syuting.(n)</desc>
-  </programme>
-  <programme start="20240220190000 +0700" stop="20240220210000 +0700" channel="MyFamilyChannel">
-    <title lang="id">Love, Wedding, Marriage</title>
-    <desc lang="id">Kehidupan seorang penasihat pernikahan berubah drastis ketika ia mengetahui bahwa pernikahan bahagia kedua orangtuanya tengah dihantam badai perceraian, dan ia pun harus berusaha untuk mempersatukan mereka kembali.(n)</desc>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220220000 +0700" channel="MyFamilyChannel">
-    <title lang="id">Home Shopping</title>
-    <desc lang="id">Home Shopping.(n)</desc>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220230000 +0700" channel="MyFamilyChannel">
-    <title lang="id">Home Shopping</title>
-    <desc lang="id">Home Shopping.(n)</desc>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221010000 +0700" channel="MyFamilyChannel">
-    <title lang="id">My Father's Angel</title>
-    <desc lang="id">Seorang pria muslim berkebangsaan Bosnia pergi ke kota Vancouver bersama keluarganya untuk memulai hidup baru yang tenang. Namun ternyata mereka masih mengalami trauma dari konflik yang mereka tinggalkan.(n)</desc>
-  </programme>
-  <programme start="20240220200000 +0700" stop="20240220220000 +0700" channel="MyCinema">
-    <title lang="id">Kill Game</title>
-    <desc lang="id">Lima tahun setelah lelucon di sekolah yang mengakibatkan kematian seorang teman sekelas, sekelompok sahabat diteror oleh seorang pembunuh bertopeng.(n)</desc>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220230000 +0700" channel="MyCinema">
-    <title lang="id">Home Shopping</title>
-    <desc lang="id">Home Shopping.(n)</desc>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221010000 +0700" channel="MyCinema">
-    <title lang="id">02:22</title>
-    <desc lang="id">Kehidupan seorang pria hancur berantakan ketika serangkaian kejadian yang tak menyenangkan berulang dengan cara yang persis sama setiap harinya, dan berakhir pada pukul 2:22 siang.(n)</desc>
-  </programme>
-  <programme start="20240220190000 +0700" stop="20240220210000 +0700" channel="MyCinemaAsia">
-    <title lang="id">The Python</title>
-    <desc lang="id">Pei Yuan mempunyai ketakutan terhadap ular karena menyaksikan ayahnya dibunuh oleh seekor ular raksasa saat masih kecil. Kini, ia harus menghadapi seekor ular legendaris yang mengancam keselamatan desanya.(n)</desc>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220230000 +0700" channel="MyCinemaAsia">
-    <title lang="id">Confession Of Murder</title>
-    <desc lang="id">Setelah kasus-kasus pembunuhan yang telah ia lakukan telah memasuki masa kedaluwarsa, Lee Du-seok menerbitkan sebuah buku autobiografi yang menjelaskan semua aksi pembunuhannya secara terperinci.(n)</desc>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221010000 +0700" channel="MyCinemaAsia">
-    <title lang="id">Howling</title>
-    <desc lang="id">Seorang detektif dan rekan barunya menyelidiki korban peristiwa pembunuhan yang tampaknya memiliki bekas gigitan aneh di tubuhnya.(n)</desc>
-  </programme>
-  <programme start="20240220200000 +0700" stop="20240220213000 +0700" channel="Thrill.hk">
-    <title lang="id">Exorcism: The Haunted Child</title>
-    <desc lang="id">Thien Tam dan kekasihnya menewaskan seorang wanita hamil dan sang bayi dalam suatu kecelakaan mobil. Mereka pun dihantui oleh sejumlah insiden mengerikan yang ternyata berkaitan dengan lelucon Thien Tam sebelumnya.(n)</desc>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220231500 +0700" channel="Thrill.hk">
-    <title lang="id">Bahay Na Pula</title>
-    <desc lang="id">Jane dan suaminya, Marco, pergi ke rumah leluhur yang diwarisi Jane dari neneknya. Saat mereka pindah ke rumah itu, Jane mulai mengalami berbagai kejadian mengerikan dan perutnya secara misterius membesar setiap hari.(n)</desc>
-  </programme>
-  <programme start="20240220231500 +0700" stop="20240221005500 +0700" channel="Thrill.hk">
-    <title lang="id">Midnight Ruins</title>
-    <desc lang="id">Seorang teman lama meminta Cheng Zihao untuk menyelidiki sejumlah kejadian aneh yang terjadi saat latihan drama. Ia pun dikejutkan oleh kisah cinta yang sama beberapa tahun yang lalu kala menyelidiki fakta di baliknya.(n)</desc>
-  </programme>
-  <programme start="20240220192000 +0700" stop="20240220210000 +0700" channel="CelestialMovies.hk">
-    <title lang="id">You Are The One</title>
-    <desc lang="id">Seorang pedagang licik namun berbakat mengalami perubahan 180 derajat saat ia bertemu seorang gadis yang tidak percaya bahwa hal-hal baik akan terjadi padanya. Akankah mereka jatuh cinta?(n)</desc>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220225500 +0700" channel="CelestialMovies.hk">
-    <title lang="id">Mad Fate</title>
-    <desc lang="id">Tung berupaya mengubah takdirnya usai diramal akan dipenjara karena pembunuhan. Namun, seorang detektif percaya bahwa Tung merupakan seorang pembunuh berantai nan gila usai melihatnya membunuh seekor kucing.(n)</desc>
-  </programme>
-  <programme start="20240220225500 +0700" stop="20240221005000 +0700" channel="CelestialMovies.hk">
-    <title lang="id">Keep Rolling</title>
-    <desc lang="id">Man Lim Chung menghabiskan waktu selama tiga tahun untuk membuat film dokumenter perdananya ini yang bercerita tentang kehidupan dan filosofi karier Ann Hui, salah satu pembuat film terkenal di Hong Kong.(n)</desc>
-  </programme>
-  <programme start="20240220200000 +0700" stop="20240220215000 +0700" channel="CCM.hk">
-    <title lang="id">Rear Entrance</title>
-    <desc lang="id">Nyonya Xu melihat seorang gadis kecil bermain sendirian di pintu masuk dari jauh setiap hari. Ia dengan hangat mengasuh gadis itu, lalu mengadopsinya dari orang tuanya yang tak memedulikannya.(n)</desc>
-  </programme>
-  <programme start="20240220215000 +0700" stop="20240220233500 +0700" channel="CCM.hk">
-    <title lang="id">Notorious Eight</title>
-    <desc lang="id">Chen Chi-chin kalah banyak dari penjudi berpengalaman Hu Kuan-ten. Ayahnya kalah dalam permainan kartu dan mati karena kaget. Chen meminta bantuan pamannya yang memanggil 7 rekan penjudi untuk melampiaskan dendam.(n)</desc>
-  </programme>
-  <programme start="20240220233500 +0700" stop="20240221010000 +0700" channel="CCM.hk">
-    <title lang="id">Tales Of Larceny</title>
-    <desc lang="id">Berperan sebagai bos,biksu, pengemis, dan pencuri adalah upaya licik dari tiga pencopet yang begitu mahir dalam keterampilan mereka sehingga mereka bahkan dapat menipu tiga wanita cantik.(n)</desc>
-  </programme>
-  <programme start="20240220203000 +0700" stop="20240220233000 +0700" channel="ZeeBioskop.id">
-    <title lang="id">Gadar: Ek Prem Katha</title>
-    <desc lang="id">Berlatar pemisahan wilayah antara India dan Pakistan, film ini menceritakan tentang kisah cinta seorang pria India yang menikah dengan seorang gadis Pakistan, serta sejumlah konsekuensi yang harus mereka hadapi.(n)</desc>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240221023000 +0700" channel="ZeeBioskop.id">
-    <title lang="id">Dabangg 3</title>
-    <desc lang="id">ASP Chulbul Pandey bertemu dengan musuh lamanya setelah menangkap seorang muncikari bernama Chinti Walia. Ia pun harus menghadapi dan mengalahkan musuhnya tersebut sebelum terlambat.(n)</desc>
-  </programme>
-  <programme start="20240220192500 +0700" stop="20240220210000 +0700" channel="tvNMovies.kr">
-    <title lang="id">Gate</title>
-    <desc lang="id">Sebuah kelompok beranggotakan lima orang bersekongkol untuk melakukan pencurian terakhir. Namun, rahasia yang mereka temukan di dalam brankas cukup besar untuk menggulingkan negara.(n)</desc>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220225500 +0700" channel="tvNMovies.kr">
-    <title lang="id">Deranged</title>
-    <desc lang="id">Seorang tenaga penjualan farmasi berpacu dengan waktu untuk menyelamatkan keluarganya ketika mereka mulai mengalami gejala-gejala suatu wabah mematikan yang telah menyebabkan epidemi tenggelam.(n)</desc>
-  </programme>
-  <programme start="20240220225500 +0700" stop="20240221003000 +0700" channel="tvNMovies.kr">
-    <title lang="id">Search Out</title>
-    <desc lang="id">Saat seorang bintang media sosial menemukan jejak penindasan di dunia maya yang menyebabkan tetangganya bunuh diri, ia bekerja sama dengan seorang peretas untuk mengungkap misteri kematian tetangganya.(n)</desc>
-  </programme>
-  <programme start="20240220202500 +0700" stop="20240220204500 +0700" channel="NickJr.id">
-    <title lang="id">The Adventures Of Paddington</title>
-  </programme>
-  <programme start="20240220204500 +0700" stop="20240220211000 +0700" channel="NickJr.id">
-    <title lang="id">Blue's Clues &amp; You</title>
-  </programme>
-  <programme start="20240220211000 +0700" stop="20240220213000 +0700" channel="NickJr.id">
-    <title lang="id">Rubble And Crew</title>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220215500 +0700" channel="NickJr.id">
-    <title lang="id">Blaze And The Monster Machines</title>
-  </programme>
-  <programme start="20240220215500 +0700" stop="20240220221500 +0700" channel="NickJr.id">
-    <title lang="id">Santiago Of The Seas</title>
-  </programme>
-  <programme start="20240220221500 +0700" stop="20240220224500 +0700" channel="NickJr.id">
-    <title lang="id">Baby Shark's Big Show!</title>
-  </programme>
-  <programme start="20240220224500 +0700" stop="20240220225000 +0700" channel="NickJr.id">
-    <title lang="id">Bossy Bear</title>
-  </programme>
-  <programme start="20240220225000 +0700" stop="20240220225500 +0700" channel="NickJr.id">
-    <title lang="id">Bossy Bear</title>
-  </programme>
-  <programme start="20240220225500 +0700" stop="20240220230500 +0700" channel="NickJr.id">
-    <title lang="id">Bossy Bear</title>
-  </programme>
-  <programme start="20240220230500 +0700" stop="20240220232500 +0700" channel="NickJr.id">
-    <title lang="id">PAW Patrol</title>
-  </programme>
-  <programme start="20240220232500 +0700" stop="20240220233500 +0700" channel="NickJr.id">
-    <title lang="id">PAW Patrol</title>
-  </programme>
-  <programme start="20240220233500 +0700" stop="20240221000000 +0700" channel="NickJr.id">
-    <title lang="id">Rubble And Crew</title>
-  </programme>
-  <programme start="20240220203000 +0700" stop="20240220210000 +0700" channel="ZooMoo.id">
-    <title lang="id">ZooMoo's Wild Friends</title>
-    <episode-num system="onscreen">S1 E88</episode-num>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220211500 +0700" channel="ZooMoo.id">
-    <title lang="id">Animal All Stars</title>
-    <episode-num system="onscreen">S2 E5</episode-num>
-  </programme>
-  <programme start="20240220211500 +0700" stop="20240220213000 +0700" channel="ZooMoo.id">
-    <title lang="id">Animal All Stars</title>
-    <episode-num system="onscreen">S2 E6</episode-num>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220214500 +0700" channel="ZooMoo.id">
-    <title lang="id">Animal All Stars</title>
-    <episode-num system="onscreen">S2 E7</episode-num>
-  </programme>
-  <programme start="20240220214500 +0700" stop="20240220220000 +0700" channel="ZooMoo.id">
-    <title lang="id">Animal All Stars</title>
-    <episode-num system="onscreen">S2 E8</episode-num>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220221500 +0700" channel="ZooMoo.id">
-    <title lang="id">Animal All Stars</title>
-    <episode-num system="onscreen">S2 E9</episode-num>
-  </programme>
-  <programme start="20240220221500 +0700" stop="20240220223000 +0700" channel="ZooMoo.id">
-    <title lang="id">Animal All Stars</title>
-    <episode-num system="onscreen">S2 E10</episode-num>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220224500 +0700" channel="ZooMoo.id">
-    <title lang="id">Animal All Stars</title>
-    <episode-num system="onscreen">S2 E11</episode-num>
-  </programme>
-  <programme start="20240220224500 +0700" stop="20240220230000 +0700" channel="ZooMoo.id">
-    <title lang="id">Animal All Stars</title>
-    <episode-num system="onscreen">S2 E12</episode-num>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240220230500 +0700" channel="ZooMoo.id">
-    <title lang="id">Download This</title>
-    <episode-num system="onscreen">S1 E38</episode-num>
-  </programme>
-  <programme start="20240220230500 +0700" stop="20240220231000 +0700" channel="ZooMoo.id">
-    <title lang="id">Download This</title>
-    <episode-num system="onscreen">S1 E39</episode-num>
-  </programme>
-  <programme start="20240220231000 +0700" stop="20240220231500 +0700" channel="ZooMoo.id">
-    <title lang="id">Download This</title>
-    <episode-num system="onscreen">S1 E40</episode-num>
-  </programme>
-  <programme start="20240220231500 +0700" stop="20240220232000 +0700" channel="ZooMoo.id">
-    <title lang="id">Download This</title>
-    <episode-num system="onscreen">S1 E41</episode-num>
-  </programme>
-  <programme start="20240220232000 +0700" stop="20240220232500 +0700" channel="ZooMoo.id">
-    <title lang="id">Download This</title>
-    <episode-num system="onscreen">S1 E42</episode-num>
-  </programme>
-  <programme start="20240220232500 +0700" stop="20240220233000 +0700" channel="ZooMoo.id">
-    <title lang="id">Download This</title>
-    <episode-num system="onscreen">S1 E43</episode-num>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240220233500 +0700" channel="ZooMoo.id">
-    <title lang="id">Download This</title>
-    <episode-num system="onscreen">S1 E44</episode-num>
-  </programme>
-  <programme start="20240220233500 +0700" stop="20240220234000 +0700" channel="ZooMoo.id">
-    <title lang="id">Download This</title>
-    <episode-num system="onscreen">S1 E45</episode-num>
-  </programme>
-  <programme start="20240220234000 +0700" stop="20240220234500 +0700" channel="ZooMoo.id">
-    <title lang="id">Download This</title>
-    <episode-num system="onscreen">S1 E46</episode-num>
-  </programme>
-  <programme start="20240220234500 +0700" stop="20240220235000 +0700" channel="ZooMoo.id">
-    <title lang="id">Download This</title>
-    <episode-num system="onscreen">S1 E47</episode-num>
-  </programme>
-  <programme start="20240220235000 +0700" stop="20240220235500 +0700" channel="ZooMoo.id">
-    <title lang="id">Download This</title>
-    <episode-num system="onscreen">S1 E48</episode-num>
-  </programme>
-  <programme start="20240220235500 +0700" stop="20240221000000 +0700" channel="ZooMoo.id">
-    <title lang="id">Download This</title>
-    <episode-num system="onscreen">S1 E49</episode-num>
-  </programme>
-  <programme start="20240220202500 +0700" stop="20240220204000 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Go Jetters</title>
-    <episode-num system="onscreen">S3 E12</episode-num>
-  </programme>
-  <programme start="20240220204000 +0700" stop="20240220205000 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Thomas &amp; Friends</title>
-    <episode-num system="onscreen">S15 E18</episode-num>
-  </programme>
-  <programme start="20240220205000 +0700" stop="20240220205700 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Sarah And Duck</title>
-    <episode-num system="onscreen">S2 E17</episode-num>
-  </programme>
-  <programme start="20240220205700 +0700" stop="20240220210500 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Sarah And Duck</title>
-    <episode-num system="onscreen">S2 E16</episode-num>
-  </programme>
-  <programme start="20240220210500 +0700" stop="20240220211000 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Nelly And Nora</title>
-    <episode-num system="onscreen">S1 E30</episode-num>
-  </programme>
-  <programme start="20240220211000 +0700" stop="20240220212000 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Dog Loves Books</title>
-    <episode-num system="onscreen">S1 E38</episode-num>
-  </programme>
-  <programme start="20240220212000 +0700" stop="20240220212500 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Kazoops!</title>
-    <episode-num system="onscreen">S1 E33</episode-num>
-  </programme>
-  <programme start="20240220212500 +0700" stop="20240220213800 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Jojo &amp; Gran Gran</title>
-    <episode-num system="onscreen">S1 E37</episode-num>
-  </programme>
-  <programme start="20240220213800 +0700" stop="20240220214500 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Tinpo</title>
-    <episode-num system="onscreen">S1 E69</episode-num>
-  </programme>
-  <programme start="20240220214500 +0700" stop="20240220215000 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Tinpo</title>
-    <episode-num system="onscreen">S1 E68</episode-num>
-  </programme>
-  <programme start="20240220215000 +0700" stop="20240220220000 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Bluey</title>
-    <episode-num system="onscreen">S1 E20</episode-num>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220220700 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Hey Duggee</title>
-    <episode-num system="onscreen">S2 E46</episode-num>
-  </programme>
-  <programme start="20240220220700 +0700" stop="20240220221400 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Hey Duggee</title>
-    <episode-num system="onscreen">S2 E45</episode-num>
-  </programme>
-  <programme start="20240220221400 +0700" stop="20240220222000 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Hey Duggee</title>
-    <episode-num system="onscreen">S2 E44</episode-num>
-  </programme>
-  <programme start="20240220222000 +0700" stop="20240220223000 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Go Jetters</title>
-    <episode-num system="onscreen">S3 E11</episode-num>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220224500 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Go Jetters</title>
-    <episode-num system="onscreen">S3 E10</episode-num>
-  </programme>
-  <programme start="20240220224500 +0700" stop="20240220230000 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">The Numtums</title>
-    <episode-num system="onscreen">S1 E41</episode-num>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240220231000 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Teletubbies</title>
-    <episode-num system="onscreen">S1 E62</episode-num>
-  </programme>
-  <programme start="20240220231000 +0700" stop="20240220231500 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Yakka Dee</title>
-    <episode-num system="onscreen">S5 E7</episode-num>
-  </programme>
-  <programme start="20240220231500 +0700" stop="20240220232500 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Pop Paper City</title>
-    <episode-num system="onscreen">S1 E24</episode-num>
-  </programme>
-  <programme start="20240220232500 +0700" stop="20240220234000 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Messy Goes To Okido</title>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20240220234000 +0700" stop="20240220235000 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Kazoops!</title>
-    <episode-num system="onscreen">S1 E34</episode-num>
-  </programme>
-  <programme start="20240220235000 +0700" stop="20240221000000 +0700" channel="CBeebiesAsia.uk">
-    <title lang="id">Bluey</title>
-    <episode-num system="onscreen">S2 E20</episode-num>
-  </programme>
-  <programme start="20240220203000 +0700" stop="20240220210000 +0700" channel="KidsTV.id">
-    <title lang="id">Adit Sopo Jarwo</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220213000 +0700" channel="KidsTV.id">
-    <title lang="id">Om Nom Stories</title>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220220000 +0700" channel="KidsTV.id">
-    <title lang="id">Om Nom Stories</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220223000 +0700" channel="KidsTV.id">
-    <title lang="id">BIMA-S</title>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220230000 +0700" channel="KidsTV.id">
-    <title lang="id">Sherazade</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240220233000 +0700" channel="KidsTV.id">
-    <title lang="id">Rat A Tat</title>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240221000000 +0700" channel="KidsTV.id">
-    <title lang="id">Cat &amp; Keet</title>
-  </programme>
-  <programme start="20240220202500 +0700" stop="20240220205000 +0700" channel="DreamWorks.id">
-    <title lang="id">Kung Fu Panda: Paws Of Destiny</title>
-  </programme>
-  <programme start="20240220205000 +0700" stop="20240220211500 +0700" channel="DreamWorks.id">
-    <title lang="id">Kung Fu Panda: Paws Of Destiny</title>
-  </programme>
-  <programme start="20240220211500 +0700" stop="20240220214000 +0700" channel="DreamWorks.id">
-    <title lang="id">The Epic Tales Of Captain...</title>
-  </programme>
-  <programme start="20240220214000 +0700" stop="20240220220500 +0700" channel="DreamWorks.id">
-    <title lang="id">The Epic Tales Of Captain...</title>
-  </programme>
-  <programme start="20240220220500 +0700" stop="20240220223000 +0700" channel="DreamWorks.id">
-    <title lang="id">The Epic Tales Of Captain...</title>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220225500 +0700" channel="DreamWorks.id">
-    <title lang="id">Boss Baby: Back In Business</title>
-  </programme>
-  <programme start="20240220225500 +0700" stop="20240220232000 +0700" channel="DreamWorks.id">
-    <title lang="id">Boss Baby: Back In Business</title>
-  </programme>
-  <programme start="20240220232000 +0700" stop="20240220234500 +0700" channel="DreamWorks.id">
-    <title lang="id">Boss Baby: Back In Business</title>
-  </programme>
-  <programme start="20240220234500 +0700" stop="20240221001000 +0700" channel="DreamWorks.id">
-    <title lang="id">Dragons: Race To The Edge</title>
-  </programme>
-  <programme start="20240220203000 +0700" stop="20240220205500 +0700" channel="Nickelodeon.id">
-    <title lang="id">SpongeBob SquarePants</title>
-  </programme>
-  <programme start="20240220205500 +0700" stop="20240220211000 +0700" channel="Nickelodeon.id">
-    <title lang="id">SpongeBob SquarePants</title>
-  </programme>
-  <programme start="20240220211000 +0700" stop="20240220213000 +0700" channel="Nickelodeon.id">
-    <title lang="id">Kung Fu Panda: Awesomeness</title>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220215500 +0700" channel="Nickelodeon.id">
-    <title lang="id">Kung Fu Panda: Awesomeness</title>
-  </programme>
-  <programme start="20240220215500 +0700" stop="20240220222000 +0700" channel="Nickelodeon.id">
-    <title lang="id">Avatar: The Last Airbender</title>
-  </programme>
-  <programme start="20240220222000 +0700" stop="20240220223000 +0700" channel="Nickelodeon.id">
-    <title lang="id">The Penguins Of Madagascar</title>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220225500 +0700" channel="Nickelodeon.id">
-    <title lang="id">The Penguins Of Madagascar</title>
-  </programme>
-  <programme start="20240220225500 +0700" stop="20240220231500 +0700" channel="Nickelodeon.id">
-    <title lang="id">The Penguins Of Madagascar</title>
-  </programme>
-  <programme start="20240220231500 +0700" stop="20240220234000 +0700" channel="Nickelodeon.id">
-    <title lang="id">Middlemost Post</title>
-  </programme>
-  <programme start="20240220234000 +0700" stop="20240221000000 +0700" channel="Nickelodeon.id">
-    <title lang="id">Avatar: The Last Airbender</title>
-  </programme>
-  <programme start="20240220200000 +0700" stop="20240220220000 +0700" channel="MyKidz">
-    <title lang="id">Pororo: Snow Fairy Adventure</title>
-    <desc lang="id">Pororo dan teman-temannya bermain salju di luar hingga masuk ke desa peri salju. Di sana, monster lava raksasa menangkap semua peri salju dan mengancam untuk melelehkan mereka dengan lava.(n)</desc>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220223000 +0700" channel="MyKidz">
-    <title lang="id">Vicky And Johnny</title>
-    <desc lang="id">Vicky dan Johnny tinggal di rumah yang sama, tetapi mereka sering bertengkar.(n)</desc>
-    <episode-num system="onscreen">E70</episode-num>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220230000 +0700" channel="MyKidz">
-    <title lang="id">Vicky And Johnny</title>
-    <desc lang="id">Vicky dan Johnny tinggal di rumah yang sama, tetapi mereka sering bertengkar.(n)</desc>
-    <episode-num system="onscreen">E71</episode-num>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221000000 +0700" channel="MyKidz">
-    <title lang="id">Home Shopping</title>
-    <desc lang="id">Home Shopping.(n)</desc>
-  </programme>
-  <programme start="20240220193000 +0700" stop="20240220233000 +0700" channel="Indosiar.id">
-    <title lang="id">D'Academy S6</title>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240221013000 +0700" channel="Indosiar.id">
-    <title lang="id">Mega Film Asia</title>
-  </programme>
-  <programme start="20240220200000 +0700" stop="20240220214500 +0700" channel="RCTI.id">
-    <title lang="id">Cinta Tanpa Karena</title>
-  </programme>
-  <programme start="20240220214500 +0700" stop="20240220234500 +0700" channel="RCTI.id">
-    <title lang="id">Jangan Bercerai Bunda</title>
-  </programme>
-  <programme start="20240220234500 +0700" stop="20240221014500 +0700" channel="RCTI.id">
-    <title lang="id">Komeng &amp; Putra Petir</title>
-  </programme>
-  <programme start="20240220193000 +0700" stop="20240220210000 +0700" channel="GTV.id">
-    <title lang="id">Snake 3</title>
-    <desc lang="id">Suatu tim konstruksi melakukan pembangunan di sebuah pulau yang tak berpenghuni. Namun ternyata, pekerjaan mereka mengancam keberadaan dua makhluk ganas di pulau itu.(n)</desc>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220220000 +0700" channel="GTV.id">
-    <title lang="id">Ever Night</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220230000 +0700" channel="GTV.id">
-    <title lang="id">Crime KV</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221000000 +0700" channel="GTV.id">
-    <title lang="id">KV Crime</title>
-  </programme>
-  <programme start="20240220190000 +0700" stop="20240220210000 +0700" channel="MNCTV.id">
-    <title lang="id">Family 100</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220230000 +0700" channel="MNCTV.id">
-    <title lang="id">Take Me Out Indonesia</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221010000 +0700" channel="MNCTV.id">
-    <title lang="id">Uang Kaget Lagi</title>
-  </programme>
-  <programme start="20240220190000 +0700" stop="20240220210000 +0700" channel="iNews.id">
-    <title lang="id">Rakyat Bersuara (L)</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220220000 +0700" channel="iNews.id">
-    <title lang="id">iNews Prime (L)</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220230000 +0700" channel="iNews.id">
-    <title lang="id">iNews Malam (L)</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221000000 +0700" channel="iNews.id">
-    <title lang="id">New Top Files</title>
-  </programme>
-  <programme start="20240220203000 +0700" stop="20240220213000 +0700" channel="MNCNews.id">
-    <title lang="id">AB+</title>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220223000 +0700" channel="MNCNews.id">
-    <title lang="id">SINDO Malam</title>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220233000 +0700" channel="MNCNews.id">
-    <title lang="id">iNews Room</title>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240221003000 +0700" channel="MNCNews.id">
-    <title lang="id">iNews Prime</title>
-  </programme>
-  <programme start="20240220193000 +0700" stop="20240220210000 +0700" channel="Ent.id">
-    <title lang="id">Super Deal Indonesia</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220220000 +0700" channel="Ent.id">
-    <title lang="id">Koalisi Tawa</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220233000 +0700" channel="Ent.id">
-    <title lang="id">The Indonesian Next Big Star</title>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240221000000 +0700" channel="Ent.id">
-    <title lang="id">World Of Moslem</title>
-  </programme>
-  <programme start="20240220201500 +0700" stop="20240220210000 +0700" channel="TransTV.id">
-    <title lang="id">Tanpa Batas</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220230000 +0700" channel="TransTV.id">
-    <title lang="id">Bioskop Trans TV</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221010000 +0700" channel="TransTV.id">
-    <title lang="id">Bioskop Trans TV</title>
-  </programme>
-  <programme start="20240220190000 +0700" stop="20240220210000 +0700" channel="Sportstars4">
-    <title lang="id">BRI Liga 1: BAL Vs PBY</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240221000000 +0700" channel="Sportstars4">
-    <title lang="id">Sportstars4</title>
-  </programme>
-  <programme start="20240220200000 +0700" stop="20240220214500 +0700" channel="SCTV.id">
-    <title lang="id">Tertawan Hati</title>
-  </programme>
-  <programme start="20240220214500 +0700" stop="20240220231500 +0700" channel="SCTV.id">
-    <title lang="id">Di Antara Dua Cinta</title>
-  </programme>
-  <programme start="20240220231500 +0700" stop="20240221013000 +0700" channel="SCTV.id">
-    <title lang="id">Delivery Order</title>
-  </programme>
-  <programme start="20240220203000 +0700" stop="20240220210000 +0700" channel="LifestyleandFashion.id">
-    <title lang="id">Dear Diary</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220213000 +0700" channel="LifestyleandFashion.id">
-    <title lang="id">Okezone Updates</title>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220220000 +0700" channel="LifestyleandFashion.id">
-    <title lang="id">Guest Star</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220230000 +0700" channel="LifestyleandFashion.id">
-    <title lang="id">Koalisi Tawa</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240220233000 +0700" channel="LifestyleandFashion.id">
-    <title lang="id">Food Diary</title>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240221000000 +0700" channel="LifestyleandFashion.id">
-    <title lang="id">Chief Talk</title>
-  </programme>
-  <programme start="20240220200000 +0700" stop="20240220210000 +0700" channel="LIFE.id">
-    <title lang="id">Sentuhan Ilahi</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220220000 +0700" channel="LIFE.id">
-    <title lang="id">GEBADA: Gerakan Baca Dengar...</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220223000 +0700" channel="LIFE.id">
-    <title lang="id">Semua Kitab Suci</title>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220230000 +0700" channel="LIFE.id">
-    <title lang="id">Today Breakthrough</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221000000 +0700" channel="LIFE.id">
-    <title lang="id">Good News</title>
-  </programme>
-  <programme start="20240220200000 +0700" stop="20240220210000 +0700" channel="MuslimTV.id">
-    <title lang="id">Kun Anta</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220220000 +0700" channel="MuslimTV.id">
-    <title lang="id">Pura-Pura Haji</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220223000 +0700" channel="MuslimTV.id">
-    <title lang="id">KSNS The Journey</title>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220230000 +0700" channel="MuslimTV.id">
-    <title lang="id">World Of Moslem</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221000000 +0700" channel="MuslimTV.id">
-    <title lang="id">Siraman Qolbu, Mamah Dedeh</title>
-  </programme>
-  <programme start="20240220200000 +0700" stop="20240220220000 +0700" channel="AlQuranKareem.id">
-    <title lang="id">Live From Mekkah</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240221000000 +0700" channel="AlQuranKareem.id">
-    <title lang="id">Live From Mekkah</title>
-  </programme>
-  <programme start="20240220193000 +0700" stop="20240220203500 +0700" channel="OKTV.id">
-    <title lang="id">Amanah Wali S6</title>
-  </programme>
-  <programme start="20240220203500 +0700" stop="20240220214000 +0700" channel="OKTV.id">
-    <title lang="id">Tukang Bubur Pengen Naik Haji</title>
-  </programme>
-  <programme start="20240220214000 +0700" stop="20240220224500 +0700" channel="OKTV.id">
-    <title lang="id">TOP: Masih Ngojek</title>
-  </programme>
-  <programme start="20240220224500 +0700" stop="20240220233000 +0700" channel="OKTV.id">
-    <title lang="id">Asisten Rumah Tangga S2</title>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240221000000 +0700" channel="OKTV.id">
-    <title lang="id">Seleb On News</title>
-  </programme>
-  <programme start="20240220203000 +0700" stop="20240220210000 +0700" channel="Ie.id">
-    <title lang="id">Behind The Song</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220213000 +0700" channel="Ie.id">
-    <title lang="id">Obsesi</title>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220221500 +0700" channel="Ie.id">
-    <title lang="id">Intens Reborn</title>
-  </programme>
-  <programme start="20240220221500 +0700" stop="20240220233000 +0700" channel="Ie.id">
-    <title lang="id">Go Spot</title>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240221003000 +0700" channel="Ie.id">
-    <title lang="id">Trending Banget Loh (TBL)</title>
-  </programme>
-  <programme start="20240220200000 +0700" stop="20240220213000 +0700" channel="tvOne.id">
-    <title lang="id">Catatan Demokrasi</title>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220220000 +0700" channel="tvOne.id">
-    <title lang="id">Kabar Utama</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220223000 +0700" channel="tvOne.id">
-    <title lang="id">Buru Sergap</title>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220233000 +0700" channel="tvOne.id">
-    <title lang="id">Kabar Hari Ini</title>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240221000000 +0700" channel="tvOne.id">
-    <title lang="id">Kabar Arena Malam</title>
-  </programme>
-  <programme start="20240220200000 +0700" stop="20240220220000 +0700" channel="MNCSports2.id">
-    <title lang="id">BRI Liga 1: BAL Vs PBY</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220234500 +0700" channel="MNCSports2.id">
-    <title lang="id">Road To Euro: GER Vs ITA</title>
-  </programme>
-  <programme start="20240220234500 +0700" stop="20240221013000 +0700" channel="MNCSports2.id">
-    <title lang="id">VNL: JPN Vs ITA</title>
-  </programme>
-  <programme start="20240220190000 +0700" stop="20240220210000 +0700" channel="MNCSports3.id">
-    <title lang="id">BRI Liga 1: BAL Vs PBY</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240221000000 +0700" channel="MNCSports3.id">
-    <title lang="id">Sportstars3</title>
-  </programme>
-  <programme start="20240220200000 +0700" stop="20240220210000 +0700" channel="IDX.id">
-    <title lang="id">IDX 2nd Closing Market</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220220000 +0700" channel="IDX.id">
-    <title lang="id">Market Review</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220223000 +0700" channel="IDX.id">
-    <title lang="id">News Screen Evening</title>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220230000 +0700" channel="IDX.id">
-    <title lang="id">Market Highlight</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240220233000 +0700" channel="IDX.id">
-    <title lang="id">Special Dialog</title>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240221000000 +0700" channel="IDX.id">
-    <title lang="id">Women's Talk</title>
-  </programme>
-  <programme start="20240220193000 +0700" stop="20240220213000 +0700" channel="SoccerChannel.id">
-    <title lang="id">AFC Champions League</title>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220220000 +0700" channel="SoccerChannel.id">
-    <title lang="id">Extra Time</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220223000 +0700" channel="SoccerChannel.id">
-    <title lang="id">World Classic Football</title>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220225500 +0700" channel="SoccerChannel.id">
-    <title lang="id">Europe 2020</title>
-  </programme>
-  <programme start="20240220225500 +0700" stop="20240221010000 +0700" channel="SoccerChannel.id">
-    <title lang="id">AFC Cup: Kahrabaa Vs Ahed (L)</title>
-  </programme>
-  <programme start="20240220203000 +0700" stop="20240220223000 +0700" channel="MNCSports.id">
-    <title lang="id">VNL: POL Vs USA</title>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240221013000 +0700" channel="MNCSports.id">
-    <title lang="id">Best Of Ginting</title>
-  </programme>
-  <programme start="20240220193000 +0700" stop="20240220210000 +0700" channel="BeritaSatuNewsChannel.id">
-    <title lang="id">Berita Viral</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220213000 +0700" channel="BeritaSatuNewsChannel.id">
-    <title lang="id">Mitos</title>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220220000 +0700" channel="BeritaSatuNewsChannel.id">
-    <title lang="id">Catatan Kriminal</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220230000 +0700" channel="BeritaSatuNewsChannel.id">
-    <title lang="id">Berita Satu Malam</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221000000 +0700" channel="BeritaSatuNewsChannel.id">
-    <title lang="id">ONE Championship</title>
-  </programme>
-  <programme start="20240220203000 +0700" stop="20240220210000 +0700" channel="TawafTV.id">
-    <title lang="id">Ziswaf Lifestyle</title>
-    <episode-num system="onscreen">E4</episode-num>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220220000 +0700" channel="TawafTV.id">
-    <title lang="id">Majelis Ilmu</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220223000 +0700" channel="TawafTV.id">
-    <title lang="id">Celeb Muslim</title>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220230000 +0700" channel="TawafTV.id">
-    <title lang="id">Tawaf Update</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240220233000 +0700" channel="TawafTV.id">
-    <title lang="id">Dakwah Late Night</title>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240221003000 +0700" channel="TawafTV.id">
-    <title lang="id">Risalah Dunia</title>
-  </programme>
-  <programme start="20240220203000 +0700" stop="20240220213000 +0700" channel="KompasTV.id">
-    <title lang="id">Kompas Malam</title>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220220000 +0700" channel="KompasTV.id">
-    <title lang="id">Laporan Khusus</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220230000 +0700" channel="KompasTV.id">
-    <title lang="id">B-Talk</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240220233000 +0700" channel="KompasTV.id">
-    <title lang="id">Berkas Kompas</title>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240221000000 +0700" channel="KompasTV.id">
-    <title lang="id">Kilas Kompas</title>
-  </programme>
-  <programme start="20240220203000 +0700" stop="20240220210000 +0700" channel="MetroTV.id">
-    <title lang="id">Top News</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220210500 +0700" channel="MetroTV.id">
-    <title lang="id">Headline News</title>
-  </programme>
-  <programme start="20240220210500 +0700" stop="20240220213000 +0700" channel="MetroTV.id">
-    <title lang="id">Editorial Malam</title>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220220000 +0700" channel="MetroTV.id">
-    <title lang="id">Realitas</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220220500 +0700" channel="MetroTV.id">
-    <title lang="id">Headline News</title>
-  </programme>
-  <programme start="20240220220500 +0700" stop="20240220223000 +0700" channel="MetroTV.id">
-    <title lang="id">Untold Story</title>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220230000 +0700" channel="MetroTV.id">
-    <title lang="id">Metro Xin Wen</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240220230500 +0700" channel="MetroTV.id">
-    <title lang="id">Headline News</title>
-  </programme>
-  <programme start="20240220230500 +0700" stop="20240220233000 +0700" channel="MetroTV.id">
-    <title lang="id">Top News</title>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240221000000 +0700" channel="MetroTV.id">
-    <title lang="id">Top News</title>
-  </programme>
-  <programme start="20240220201500 +0700" stop="20240220213000 +0700" channel="Trans7.id">
-    <title lang="id">Arisan</title>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220224500 +0700" channel="Trans7.id">
-    <title lang="id">Lapor Pak!</title>
-  </programme>
-  <programme start="20240220224500 +0700" stop="20240220233000 +0700" channel="Trans7.id">
-    <title lang="id">Krim Malam</title>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240221000000 +0700" channel="Trans7.id">
-    <title lang="id">Redaksi Malam</title>
-  </programme>
-  <programme start="20240220203000 +0700" stop="20240220220000 +0700" channel="MusicTV.id">
-    <title lang="id">IdoLyfe</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220224500 +0700" channel="MusicTV.id">
-    <title lang="id">FWB</title>
-  </programme>
-  <programme start="20240220224500 +0700" stop="20240220231500 +0700" channel="MusicTV.id">
-    <title lang="id">Behind The Song</title>
-  </programme>
-  <programme start="20240220231500 +0700" stop="20240220234500 +0700" channel="MusicTV.id">
-    <title lang="id">Celebrity Top 10</title>
-  </programme>
-  <programme start="20240220234500 +0700" stop="20240221021500 +0700" channel="MusicTV.id">
-    <title lang="id">Indonesian Idol X</title>
-  </programme>
-  <programme start="20240220200000 +0700" stop="20240220210000 +0700" channel="JakTV.id">
-    <title lang="id">Terapi Garang Arang</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220220000 +0700" channel="JakTV.id">
-    <title lang="id">Skena</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220230000 +0700" channel="JakTV.id">
-    <title lang="id">Kabar Misteri</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221060000 +0700" channel="JakTV.id">
-    <title lang="id">News Room</title>
-  </programme>
-  <programme start="20240220190000 +0700" stop="20240220210000 +0700" channel="ANTV.id">
-    <title lang="id">Banteng Mataram</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220230000 +0700" channel="ANTV.id">
-    <title lang="id">The Killer</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221010000 +0700" channel="ANTV.id">
-    <title lang="id">Kuntilanak Kamar Mayat</title>
-  </programme>
-  <programme start="20240220201500 +0700" stop="20240220210000 +0700" channel="NET.id">
-    <title lang="id">Bahagia Langsung Tunai</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220220000 +0700" channel="NET.id">
-    <title lang="id">Main Hakim Sendiri</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240221000000 +0700" channel="NET.id">
-    <title lang="id">Wewe</title>
-  </programme>
-  <programme start="20240220200000 +0700" stop="20240220210000 +0700" channel="TVRI.id">
-    <title lang="id">Warung Pengkolan</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220213000 +0700" channel="TVRI.id">
-    <title lang="id">Dunia Dalam Berita</title>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220223000 +0700" channel="TVRI.id">
-    <title lang="id">Jazz Corner</title>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220233000 +0700" channel="TVRI.id">
-    <title lang="id">Pengen Beken</title>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240221000000 +0700" channel="TVRI.id">
-    <title lang="id">GOAT: The Greatest Of All Time</title>
-  </programme>
-  <programme start="20240220193000 +0700" stop="20240220210000 +0700" channel="MTVLive.id">
-    <title lang="id">HD Hits!</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220220000 +0700" channel="MTVLive.id">
-    <title lang="id">MTV Rewind: 2012</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220233000 +0700" channel="MTVLive.id">
-    <title lang="id">Adore U... MTV Loves Love</title>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240221000000 +0700" channel="MTVLive.id">
-    <title lang="id">Hot Right Now!</title>
-  </programme>
-  <programme start="20240220170000 +0700" stop="20240220210000 +0700" channel="MTV90s">
-    <title lang="id">Top 50 Worldwide No.1s Of 90s!</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240221000000 +0700" channel="MTV90s">
-    <title lang="id">2 For 1: 90s Double Drop!</title>
-  </programme>
-  <programme start="20240220202000 +0700" stop="20240220211500 +0700" channel="FMN.id">
-    <title lang="id">Champs 12</title>
-    <desc lang="id">Gonzalo terkejut mendengar Charlotte menjual klubnya. Santiago mengaku kepada Charlotte bahwa Santiago meminta Charlotte menjual klubnya karena tidak ingin Gonzalo menjadi penghalang hubungan mereka.(n)</desc>
-    <episode-num system="onscreen">E107</episode-num>
-  </programme>
-  <programme start="20240220211500 +0700" stop="20240220221000 +0700" channel="FMN.id">
-    <title lang="id">Juanita Is Single</title>
-    <desc lang="id">Rebeca cemburu saat Mechi mengatakan bahwa ia melihat Tomy bersama seorang wanita di pesta. Juanita lapor ke polisi karena merasa diculik oleh seseorang. Rebeca ingin merayakan pesta ulang tahun kejutan untuk Tomy.(n)</desc>
-    <episode-num system="onscreen">E20</episode-num>
-  </programme>
-  <programme start="20240220221000 +0700" stop="20240220230500 +0700" channel="FMN.id">
-    <title lang="id">My Lovely Hope</title>
-    <desc lang="id">Tomas begitu bangga dengan pekerjaan Hope dan tidak bisa berhenti memujinya. Mereka mengumpulkan cukup banyak sumbangan, tetapi beberapa orang dari lingkungan itu mencurinya.(n)</desc>
-    <episode-num system="onscreen">E87</episode-num>
-  </programme>
-  <programme start="20240220230500 +0700" stop="20240221000000 +0700" channel="FMN.id">
-    <title lang="id">The Emerald Necklace</title>
-    <desc lang="id">Lucas sengaja menyusun sebuah rencana agar Abril bertemu dengan Eva, tapi hal tersebut malah membuat Abril marah karena ia belum siap menemui kakaknya. Marina dilarang Roby untuk datang lagi ke rumah keluarga Martin.(n)</desc>
-    <episode-num system="onscreen">E69</episode-num>
-  </programme>
-  <programme start="20240220195000 +0700" stop="20240220204500 +0700" channel="AXN.id">
-    <title lang="id">FBI: Most Wanted</title>
-    <desc lang="id">Tim beraksi untuk menemukan dua mahasiswi yang hilang setelah kakak laki-laki teman sekamar mereka yang bernama Carly Cassidy terlibat dalam sebuah kasus pembunuhan.(n)</desc>
-    <episode-num system="onscreen">S4 E17</episode-num>
-  </programme>
-  <programme start="20240220204500 +0700" stop="20240220214000 +0700" channel="AXN.id">
-    <title lang="id">NCIS: Hawai'i</title>
-    <desc lang="id">Tennant terkejut saat melihat Sam Hanna melakukan wawancara terakhir guna kembali ke kantor. Di sisi lain, Sam bergabung dengan Tennant di Las Vegas untuk memburu peretas yang menerobos basis data Marshal AS.(n)</desc>
-    <episode-num system="onscreen">S3 E1</episode-num>
-  </programme>
-  <programme start="20240220214000 +0700" stop="20240220223500 +0700" channel="AXN.id">
-    <title lang="id">NCIS: Hawai'i</title>
-    <desc lang="id">Jane Tennant, agen khusus yang bertanggung jawab atas NCIS di Pearl Harbor, bersama tim spesialisnya menyelidiki sejumlah kejahatan yang berisiko tinggi sembari menyeimbangkan antara karier, keluarga, dan negara.(n)</desc>
-    <episode-num system="onscreen">S3 E2</episode-num>
-  </programme>
-  <programme start="20240220223500 +0700" stop="20240220233000 +0700" channel="AXN.id">
-    <title lang="id">Wipeout</title>
-    <desc lang="id">Setiap minggu di Wipeout, sejumlah tim akan berpartisipasi dalam babak kualifikasi dan harus menyelesaikan rintangan dalam waktu tercepat.(n)</desc>
-    <episode-num system="onscreen">S9 E4</episode-num>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240221002500 +0700" channel="AXN.id">
-    <title lang="id">NCIS: Hawai'i</title>
-    <desc lang="id">Tennant terkejut saat melihat Sam Hanna melakukan wawancara terakhir guna kembali ke kantor. Di sisi lain, Sam bergabung dengan Tennant di Las Vegas untuk memburu peretas yang menerobos basis data Marshal AS.(n)</desc>
-    <episode-num system="onscreen">S3 E1</episode-num>
-  </programme>
-  <programme start="20240220203000 +0700" stop="20240220210000 +0700" channel="Animax.id">
-    <title lang="id">Spooky Kitaro</title>
-    <episode-num system="onscreen">S6 E77</episode-num>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220213000 +0700" channel="Animax.id">
-    <title lang="id">Mushoku Tensei...</title>
-    <episode-num system="onscreen">E21</episode-num>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220220000 +0700" channel="Animax.id">
-    <title lang="id">Mushoku Tensei...</title>
-    <episode-num system="onscreen">E22</episode-num>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220223000 +0700" channel="Animax.id">
-    <title lang="id">Haikyu!!</title>
-    <episode-num system="onscreen">S1 E11</episode-num>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220230000 +0700" channel="Animax.id">
-    <title lang="id">Haikyu!!</title>
-    <episode-num system="onscreen">S1 E12</episode-num>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240220233000 +0700" channel="Animax.id">
-    <title lang="id">D.Gray-Man</title>
-    <episode-num system="onscreen">E69</episode-num>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240221000000 +0700" channel="Animax.id">
-    <title lang="id">D.Gray-Man</title>
-    <episode-num system="onscreen">E70</episode-num>
-  </programme>
-  <programme start="20240220201500 +0700" stop="20240220213000 +0700" channel="tvN.id">
-    <title lang="id">Yumi's Cells</title>
-    <desc lang="id">Diadaptasi dari webtun populer dengan judul yang sama, drama ini berkisah tentang seorang pekerja kantoran bernama Yumi lewat kehidupan sel-sel di otaknya, yang mengendalikan pikiran, perasaan, dan tindakannya.(n)</desc>
-    <episode-num system="onscreen">E9</episode-num>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220234000 +0700" channel="tvN.id">
-    <title lang="id">EXchange</title>
-    <desc lang="id">Acara reality kencan, Exchange, kembali di musim ke-tiga! Sejumlah mantan kekasih bertemu dan membangun hubungan satu sama lain. Akankah mereka kembali bersama atau malah berkencan dengan orang baru?(n)</desc>
-    <episode-num system="onscreen">S3 E7</episode-num>
-  </programme>
-  <programme start="20240220234000 +0700" stop="20240220235500 +0700" channel="tvN.id">
-    <title lang="id">You Can Cook, Sam Kim</title>
-    <desc lang="id">Chef terkenal Sam Kim akan mengajarkan cara memasak semua jenis masakan lezat, mulai dari pasta Italia, hidangan Spanyol, hingga hidangan pencuci mulut! Ikuti resepnya dan selamat memasak!(n)</desc>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20240220235500 +0700" stop="20240221013500 +0700" channel="tvN.id">
-    <title lang="id">The Genius Paik</title>
-    <desc lang="id">Pemilik restoran papan atas Korea, Baek Jong-won, bersama sejumlah selebritas papan atas kembali menerima tantangan untuk membuka sebuah restoran sekaligus memperkenalkan masakan Korea ke dunia di sebuah negara asing.(n)</desc>
-    <episode-num system="onscreen">S2 E14</episode-num>
-  </programme>
-  <programme start="20240220200000 +0700" stop="20240220210000 +0700" channel="HITS.id">
-    <title lang="id">The Waltons</title>
-    <desc lang="id">Mencoba menulis cerita pendek, John-Boy meninggalkan rumah sebentar untuk mencari privasi, tetapi ia malah mendapati dirinya dalam posisi canggung karena harus membantu temannya melahirkan.(n)</desc>
-    <episode-num system="onscreen">S2 E2</episode-num>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220220000 +0700" channel="HITS.id">
-    <title lang="id">The Incredible Hulk</title>
-    <desc lang="id">Ketika bekerja di tempat cuci mobil di lingkungan warga kulit hitam, David berteman dengan seorang rekan kerja yang tengah dieksploitasi oleh seorang gembong narkotika.(n)</desc>
-    <episode-num system="onscreen">S2 E12</episode-num>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220230000 +0700" channel="HITS.id">
-    <title lang="id">Quantum Leap</title>
-    <desc lang="id">Sam adalah seorang pemain Trapeze yang memiliki seorang saudara perempuan yang mungkin bisa tewas saat melakukan aksi tanpa jaring pengaman. Namun Sam tidak bisa berbuat banyak karena ia takut ketinggian.(n)</desc>
-    <episode-num system="onscreen">S2 E19</episode-num>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221000000 +0700" channel="HITS.id">
-    <title lang="id">Remington Steele</title>
-    <desc lang="id">Suatu kasus sederhana untuk melacak seseorang yang memasang iklan menyesatkan di sebuah majalah dewasa menjadi lebih rumit usai Laura dan Remington mendapati si tersangka utama dalam kondisi tak bernyawa.(n)</desc>
-    <episode-num system="onscreen">S2 E18</episode-num>
-  </programme>
-  <programme start="20240220200000 +0700" stop="20240220210000 +0700" channel="KIX.id">
-    <title lang="id">10 Fight 10</title>
-    <desc lang="id">Musim ini menghadirkan petarung baru, termasuk bintang Thailand, penyanyi, petinju, model, dan penyanyi rap ke dalam ring tinju, serta menampilkan dua peraih medali emas Olimpiade yang bersaing untuk kejuaraan.(n)</desc>
-    <episode-num system="onscreen">S3 E4</episode-num>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220223000 +0700" channel="KIX.id">
-    <title lang="id">Hangout With Yoo</title>
-    <desc lang="id">Saksikan acara variety populer Korea yang dibintangi oleh MC Yoo Jae Seok ini. Di setiap episode, para selebritas bergabung dengan Yoo untuk melakukan tugas dan tantangan yang berbeda.(n)</desc>
-    <episode-num system="onscreen">E100</episode-num>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240221003500 +0700" channel="KIX.id">
-    <title lang="id">The Fishermen &amp; Sea</title>
-    <desc lang="id">Acara ini menampilkan para selebritas yang hobi memancing, dan memberikan mereka kesempatan untuk mengunjungi sejumlah tempat memancing rahasia yang indah dan menghabiskan waktu bersama.(n)</desc>
-    <episode-num system="onscreen">S3 E13</episode-num>
-  </programme>
-  <programme start="20240220202500 +0700" stop="20240220205000 +0700" channel="ParamountNetwork.id">
-    <title lang="id">The Good Place</title>
-    <desc lang="id">Eleanor menghadapi ujian terberatnya saat berusaha untuk tetap bersembunyi. Sementara itu, Michael meminta Tahani untuk membantu seorang tetangganya mewujudkan tujuan hidupnya.(n)</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20240220205000 +0700" stop="20240220225500 +0700" channel="ParamountNetwork.id">
-    <title lang="id">The Untouchables</title>
-    <desc lang="id">The Untouchables menceritakan tentang pimpinan mafia yang memerintah Chicago di era Prohibition dan seorang penegak hukum yang bersumpah untuk menjatuhkannya.(n)</desc>
-  </programme>
-  <programme start="20240220225500 +0700" stop="20240220232000 +0700" channel="ParamountNetwork.id">
-    <title lang="id">Digman!</title>
-    <desc lang="id">Rip dan Saltine sangat antusias untuk menghadiri The Arky Gala di The Met, malam terbesar dalam setahun bagi para Arkies. Namun, acara ini dibajak oleh sekelompok perusuh yang menentang rencana perluasan museum.(n)</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20240220232000 +0700" stop="20240220234500 +0700" channel="ParamountNetwork.id">
-    <title lang="id">Brotherhood</title>
-    <desc lang="id">Dan dan Toby yang berusia dua puluh tahunan menjadi orang tua pengganti bagi adik mereka, Jamie, setelah ibu mereka meninggal dunia. Mereka kerap berselisih saat menjalani sebuah dunia baru yang penuh tanggung jawab.(n)</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20240220234500 +0700" stop="20240221001000 +0700" channel="ParamountNetwork.id">
-    <title lang="id">Beavis &amp; Butt-Head</title>
-    <desc lang="id">Beavis dan Butt-Head yang sudah paruh baya menghadiri rapat dewan kota untuk menghancurkan apartemen mereka. Keduanya juga berusaha untuk menjahili rumah tetangga.(n)</desc>
-    <episode-num system="onscreen">S2 E3</episode-num>
-  </programme>
-  <programme start="20240220200600 +0700" stop="20240220204600 +0700" channel="ONE.id">
-    <title lang="id">Game Of Witches</title>
-    <desc lang="id">Yoo Kyung berdiskusi dengan para pemegang saham utama tentang cara menggulingkan Hyun Deok. Di sisi lain, Hyun Deok mengumumkan Ji Ho sebagai ketua baru di pesta ulang tahunnya yang ke-80.(n)</desc>
-    <episode-num system="onscreen">E66</episode-num>
-  </programme>
-  <programme start="20240220204600 +0700" stop="20240220213000 +0700" channel="ONE.id">
-    <title lang="id">Game Of Witches</title>
-    <desc lang="id">Karena Ji Ho masih hidup, Se Young memutuskan untuk tidak menceraikannya. In Ha mengusulkan agar Yoo Kyung dipilih kembali menjadi ketua Cheonha untuk menggantikan Ji Ho.(n)</desc>
-    <episode-num system="onscreen">E67</episode-num>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220232000 +0700" channel="ONE.id">
-    <title lang="id">I Am Solo</title>
-    <desc lang="id">Saksikan sejumlah pria dan wanita lajang yang berkumpul dalam acara reality ini dengan harapan dapat menemukan pasangan sejati mereka.(n)</desc>
-    <episode-num system="onscreen">E11</episode-num>
-  </programme>
-  <programme start="20240220232000 +0700" stop="20240221004000 +0700" channel="ONE.id">
-    <title lang="id">The Last Empress</title>
-    <desc lang="id">Selama perebutan kekuasaan yang sengit demi mendapatkan takhta, aktris musikal Sunny Oh mendapati dirinya dinobatkan sebagai seorang Permaisuri dalam sebuah pernikahan politik.(n)</desc>
-    <episode-num system="onscreen">E6</episode-num>
-  </programme>
-  <programme start="20240220190000 +0700" stop="20240220210000 +0700" channel="Lifetime.id">
-    <title lang="id">MasterChef Australia</title>
-    <desc lang="id">Tahun ini, 12 peserta favorit MasterChef Australia kembali ke dapur, dan dua belas wajah baru yang merupakan koki rumahan terbaik di Australia saat ini, hadir di acara MasterChef Australia yang bertema Fans &amp; Favorit.(n)</desc>
-    <episode-num system="onscreen">S14 E1</episode-num>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220223500 +0700" channel="Lifetime.id">
-    <title lang="id">The Joneses: The Wrong Letter</title>
-    <desc lang="id">Robin Jones dan keempat anak tirinya berhasil selamat dari sejumlah upaya pembunuhan yang dilakukan oleh seorang anggota keluarga. Selepas dari kejadian tersebut, mereka menyadari bahwa masalah mereka belum hilang.(n)</desc>
-  </programme>
-  <programme start="20240220223500 +0700" stop="20240221000000 +0700" channel="Lifetime.id">
-    <title lang="id">Married At 1st... AUS</title>
-    <desc lang="id">Pagi hari usai Upacara Komitmen nan intens, tiga pasangan yakni Beth dan Russell, Samantha dan Cameron, serta Coco dan Sam, memutuskan untuk pergi. Lalu, Jo terbangun karena drama yang terjadi.(n)</desc>
-    <episode-num system="onscreen">S8 E14</episode-num>
-  </programme>
-  <programme start="20240220200500 +0700" stop="20240220205500 +0700" channel="BBCEarth.id">
-    <title lang="id">Coastal Britain</title>
-    <desc lang="id">Kate menjelajahi tebing putih ikonik di Dover dengan berjalan kaki sejauh 24 km. Perjalanan Kate dimulai di atas Pelabuhan Folkestone di Martello Tower 3, yang dibangun untuk bertahan melawan Napoleon.(n)</desc>
-    <episode-num system="onscreen">S2 E7</episode-num>
-  </programme>
-  <programme start="20240220205500 +0700" stop="20240220214500 +0700" channel="BBCEarth.id">
-    <title lang="id">How Did They Build That?</title>
-    <desc lang="id">Kali ini, kita akan mengunjungi jembatan terpanjang di dunia yang membentang di dataran lembah, sebuah hotel mewah yang dibangun terbalik di Tiongkok, dan sebuah hutan langit yang dibangun di tengah-tengah kota.(n)</desc>
-    <episode-num system="onscreen">E4</episode-num>
-  </programme>
-  <programme start="20240220214500 +0700" stop="20240220223500 +0700" channel="BBCEarth.id">
-    <title lang="id">Extreme Fishing</title>
-    <desc lang="id">Di Amerika Serikat, Robson menuju ke laut untuk menangkap ikan hiu banteng, ikan tilapia biru, ikan remora dan sejumlah ikan lainnya.(n)</desc>
-    <episode-num system="onscreen">S3 E11</episode-num>
-  </programme>
-  <programme start="20240220223500 +0700" stop="20240220233500 +0700" channel="BBCEarth.id">
-    <title lang="id">Equator From The Air</title>
-    <desc lang="id">Di Amerika Selatan, Gordon terbang melintasi Amazon untuk mencari penebang liar, dan di Andes ia menemui para aktivis pecinta lingkungan yang tengah mencari sejumlah spesies baru sebelum habitat mereka dihancurkan.(n)</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20240220233500 +0700" stop="20240221002500 +0700" channel="BBCEarth.id">
-    <title lang="id">Coastal Britain</title>
-    <desc lang="id">Kate menjelajahi tebing putih ikonik di Dover dengan berjalan kaki sejauh 24 km. Perjalanan Kate dimulai di atas Pelabuhan Folkestone di Martello Tower 3, yang dibangun untuk bertahan melawan Napoleon.(n)</desc>
-    <episode-num system="onscreen">S2 E7</episode-num>
-  </programme>
-  <programme start="20240220200500 +0700" stop="20240220205500 +0700" channel="GlobalTrekker.id">
-    <title lang="id">Yorkshire: A Year In...</title>
-    <desc lang="id">Musim semi tiba di Taman Nasional Dales dan North York Moors. Di musim ini, para hewan harus mencari makanan, pasangan, dan berkembang biak.(n)</desc>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20240220205500 +0700" stop="20240220214000 +0700" channel="GlobalTrekker.id">
-    <title lang="id">Atlantic: In The Wild</title>
-    <desc lang="id">Musim semi di Atlantik tiba menjelang berakhirnya musim dingin. Ikan-ikan yang menghabiskan musim dingin di perairan dalam telah kembali. Sepasang elang juga telah bersarang di atas tempat memancing yang sempurna.(n)</desc>
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20240220214000 +0700" stop="20240220222500 +0700" channel="GlobalTrekker.id">
-    <title lang="id">Canada: Year In The Wild</title>
-    <desc lang="id">Musim semi tahun ini datang terlambat. Namun saat ia tiba, para satwa liar di Kanada memiliki satu tujuan yang sama, yaitu bergegas mencari pasangan untuk berkembang biak.(n)</desc>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20240220222500 +0700" stop="20240220232000 +0700" channel="GlobalTrekker.id">
-    <title lang="id">The Hunt For Eagle 56</title>
-    <desc lang="id">Ikuti sejumlah pemburu kapal karam yang menyisir dasar lautan dan mempelajari sejumlah laporan saksi mata guna memecahkan misteri kapal perang Angkatan Laut AS Eagle 56 yang berusia 75 tahun ini.(n)</desc>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20240220232000 +0700" stop="20240221001500 +0700" channel="GlobalTrekker.id">
-    <title lang="id">The Hunt For Eagle 56</title>
-    <desc lang="id">Setelah menemukan haluan kapal Eagle 56 di dasar Atlantik, sejumlah penyidik sipil mencari sisa-sisa kapal lainnya untuk memahami kasus tersebut dan berharap dapat mengubah kisah versi Angkatan Laut.(n)</desc>
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20240220200000 +0700" stop="20240220210000 +0700" channel="OutdoorChannel">
-    <title lang="id">Gold Fever</title>
-    <desc lang="id">Di episode kali ini, Tom pergi ke Arizona untuk mencari harta karun Dutchman yang hilang.(n)</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220220000 +0700" channel="OutdoorChannel">
-    <title lang="id">Turquoise Fever</title>
-    <desc lang="id">Saat mencari sebuah tambang pirus baru, keluarga Otteson menemukan variscite dalam jumlah besar, yaitu batu permata yang belakangan ini semakin populer.(n)</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220230000 +0700" channel="OutdoorChannel">
-    <title lang="id">Turquoise Fever</title>
-    <desc lang="id">Tekanan semakin besar bagi keluarga Otteson kala salah satu klien terpenting mereka, Yasu, seorang desainer mewah asal Jepang, kembali meminta lebih banyak batu 'White Buffalo'.(n)</desc>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221000000 +0700" channel="OutdoorChannel">
-    <title lang="id">Running Wild</title>
-    <desc lang="id">Aktor James Marsden dan Bear menjelajah ke jantung Rattlesnake Canyon di Utah, tempat mereka berhadapan dengan seekor kadal chuckwalla.(n)</desc>
-    <episode-num system="onscreen">S2 E6</episode-num>
-  </programme>
-  <programme start="20240220194000 +0700" stop="20240220203500 +0700" channel="LoveNature">
-    <title lang="id">Dawn To Dusk</title>
-    <desc lang="id">Saksikan bagaimana hewan-hewan di dataran tinggi Tibet, hutan hujan di Thailand, hingga yang berada di hutan bakau di Vietnam bertahan lebih lama empat jam di siang hari untuk mencari makan dan mengurus keluarga.(n)</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20240220203500 +0700" stop="20240220213000 +0700" channel="LoveNature">
-    <title lang="id">The Enchanted Forests</title>
-    <desc lang="id">Kita akan mengelilingi garis khatulistiwa untuk melihat beragam spesies yang hidup di hutan tropis, seperti seekor kungkang yang menciptakan hutan kecil, lemur yang suka berbagi, dan gajah yang merawat hutan mereka.(n)</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220222500 +0700" channel="LoveNature">
-    <title lang="id">The Enchanted Forests</title>
-    <desc lang="id">Saksikan bagaimana pepohonan dan hewan saling membantu untuk bertahan hidup saat perubahan musim, seperti kunang-kunang yang menari setelah gelap dan hewan yang bersiap untuk migrasi saat dedaunan mulai berguguran.(n)</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20240220222500 +0700" stop="20240220232000 +0700" channel="LoveNature">
-    <title lang="id">Undiscovered Vistas</title>
-    <desc lang="id">Hutan hujan di semenanjung Yukatan tak memiliki aliran sungai dan hujan jarang turun. Namun di bawah tanah, terdapat sebuah ekosistem nan misterius, yaitu jaringan gua bawah laut nan luas yang dikenal sebagai 'cenote'.(n)</desc>
-    <episode-num system="onscreen">S3 E1</episode-num>
-  </programme>
-  <programme start="20240220232000 +0700" stop="20240220235000 +0700" channel="LoveNature">
-    <title lang="id">Mysteries Of Evolution</title>
-    <desc lang="id">Temukan bagaimana para hewan berhasil bertahan hidup dengan mengembangkan bagian kepala mereka, seperti monyet dukun dengan wajah yang berwarna-warni, burung nasar yang botak, atau hiu dengan kepala berbentuk martil.(n)</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20240220235000 +0700" stop="20240221001500 +0700" channel="LoveNature">
-    <title lang="id">Battle Of The Alphas</title>
-    <desc lang="id">Gajah laut raksasa saling berhadapan untuk mendapat gelar 'pemimpin pantai'. Sementara itu, seekor paus bungkuk betina melakukan segala upaya untuk melindungi anaknya dari kawanan paus jantan.(n)</desc>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20240220203000 +0700" stop="20240220210000 +0700" channel="CGTNDocumentary">
-    <title lang="id">Rising From Adversity</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220220000 +0700" channel="CGTNDocumentary">
-    <title lang="id">Homeland Of Literature</title>
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220223000 +0700" channel="CGTNDocumentary">
-    <title lang="id">My Warm World: Dear Life</title>
-    <episode-num system="onscreen">E4</episode-num>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220230000 +0700" channel="CGTNDocumentary">
-    <title lang="id">The Bay Area Sanctuary</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221000000 +0700" channel="CGTNDocumentary">
-    <title lang="id">Aerial China S4: Qinghai</title>
-  </programme>
-  <programme start="20240220200000 +0700" stop="20240220205500 +0700" channel="History.id">
-    <title lang="id">Secret Skinwalker...</title>
-    <desc lang="id">Saat menggali Mesa di Perternakan Skinwalker, tim menemukan sesuatu yang mengejutkan.(n)</desc>
-    <episode-num system="onscreen">S4 E6</episode-num>
-  </programme>
-  <programme start="20240220205500 +0700" stop="20240220215000 +0700" channel="History.id">
-    <title lang="id">Greatest Mysteries</title>
-    <desc lang="id">Pada tahun 1930, seorang hakim Mahkamah Agung New York yang memiliki hubungan dekat dengan Tammany Hall dan presiden Franklin Delano Roosevelt, melangkah keluar dari sebuah restoran steak dan menghilang.(n)</desc>
-    <episode-num system="onscreen">S4 E7</episode-num>
-  </programme>
-  <programme start="20240220215000 +0700" stop="20240220224500 +0700" channel="History.id">
-    <title lang="id">The Bermuda Triangle</title>
-    <desc lang="id">Dengan kapal selam, tim menjelajahi salah satu bagian terdalam Segitiga Bermuda guna mencari kapal yang hilang pada tahun 1921. Benarkah gelembung-gelembung besar menyebabkan kapal dan pesawat tenggelam ke dasar laut?(n)</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20240220224500 +0700" stop="20240220234000 +0700" channel="History.id">
-    <title lang="id">Curse Of Oak Island</title>
-    <desc lang="id">Berbekal bukti ilmiah bahwa terdapat kandungan perak dalam jumlah besar di tanah dekat Lubang Uang, Rick, Mary dan tim kembali ke Pulau Oak dan menjelajah lebih jauh untuk memecahkan misteri berabad-abad ini.(n)</desc>
-    <episode-num system="onscreen">S9 E1</episode-num>
-  </programme>
-  <programme start="20240220234000 +0700" stop="20240221003500 +0700" channel="History.id">
-    <title lang="id">Ancient Aliens</title>
-    <desc lang="id">Tim Ancient Aliens menemui para peneliti di seluruh dunia yang pernah berkunjung secara langsung ke sejumah situs yang dilaporkan sebagai lokasi terjadinya berbagai peristiwa yang tak dapat dijelaskan.(n)</desc>
-    <episode-num system="onscreen">S14 E213</episode-num>
-  </programme>
-  <programme start="20240220200500 +0700" stop="20240220205500 +0700" channel="CrimeInvestigation.id">
-    <title lang="id">Bloodline Detectives</title>
-    <desc lang="id">Ikuti sebuah penyelidikan polisi selama 17 tahun untuk melihat bagaimana para detektif dapat melacak dan menangkap seorang pemerkosa berantai dengan bantuan DNA keluarga.(n)</desc>
-    <episode-num system="onscreen">S1 E20</episode-num>
-  </programme>
-  <programme start="20240220205500 +0700" stop="20240220212000 +0700" channel="CrimeInvestigation.id">
-    <title lang="id">I Survived A Serial...</title>
-    <desc lang="id">Pada September 1992, Jennifer Asbenson yang berusia 17 tahun diculik dan dibawa ke Palm Desert. Penyerangnya telah membunuh banyak wanita sebelumnya. Ia menceritakan perjuangannya untuk tetap hidup dan kabur.(n)</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20240220212000 +0700" stop="20240220214500 +0700" channel="CrimeInvestigation.id">
-    <title lang="id">I Survived A Serial...</title>
-    <desc lang="id">Pada November 2011, Scott Davis yang berusia 48 tahun pergi ke Ohio. Ia akan bekerja sebagai penjaga pertanian yang ia dapatkan di Craigslist, tetapi pekerjaan itu adalah jebakan yang dibuat oleh pembunuh berantai.(n)</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20240220214500 +0700" stop="20240220223500 +0700" channel="CrimeInvestigation.id">
-    <title lang="id">Cold Case Files</title>
-    <desc lang="id">Rumah yang terbakar merenggut nyawa suatu keluarga. Para penyelidik mencurigai adanya unsur kesengajaan dan membuat seorang ibu melakukan pencarian selama beberapa dekade guna mencari putri dan sahabatnya yang hilang.(n)</desc>
-    <episode-num system="onscreen">S3 E36</episode-num>
-  </programme>
-  <programme start="20240220223500 +0700" stop="20240220232500 +0700" channel="CrimeInvestigation.id">
-    <title lang="id">Phrogging: My House</title>
-    <desc lang="id">Setelah pindah ke kota besar, celana dalam milik Heidi Lane mulai menghilang. Saat Jordan Buranskas tidak dapat menemukan dompetnya, pacarnya memutar ulang rekaman CCTV dan melihat seseorang mendekati mereka.(n)</desc>
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20240220232500 +0700" stop="20240221002000 +0700" channel="CrimeInvestigation.id">
-    <title lang="id">Bloodline Detectives</title>
-    <desc lang="id">Ikuti sebuah penyelidikan polisi selama 17 tahun untuk melihat bagaimana para detektif dapat melacak dan menangkap seorang pemerkosa berantai dengan bantuan DNA keluarga.(n)</desc>
-    <episode-num system="onscreen">S1 E20</episode-num>
-  </programme>
-  <programme start="20240220184500 +0700" stop="20240220204500 +0700" channel="ROCKEntertainment.id">
-    <title lang="id">49th People's Choice Awards '24</title>
-    <desc lang="id">The People's Choice Awards memberi penghargaan pada pihak yang terlibat di dunia hiburan, dan dipilih oleh masyarakat umum. Para pengemar mengumpulkan suara dalam berbagai kategori, termasuk film, album, dan lainnya.(n)</desc>
-  </programme>
-  <programme start="20240220204500 +0700" stop="20240220213000 +0700" channel="ROCKEntertainment.id">
-    <title lang="id">Magnum P.I.</title>
-    <desc lang="id">Magnum dan Rick menemukan suatu fakta mengejutkan dalam kasus Kapten Greene. Sementara itu, Higgins dan TC pergi ke Maui untuk membantu seorang miliarder eksentrik menemukan pemilik drone yang mengganggunya.(n)</desc>
-    <episode-num system="onscreen">S5 E8</episode-num>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220221500 +0700" channel="ROCKEntertainment.id">
-    <title lang="id">The Tonight Show</title>
-    <desc lang="id">Komedian peraih penghargaan Emmy dan Grammy, Jimmy Fallon, membawa humor uniknya ke program NBC ini dengan gaya wawancaranya yang ramah, kecintaannya akan partisipasi penonton, dan sketsa komedi yang inovatif.(n)</desc>
-    <episode-num system="onscreen">S11 E79</episode-num>
-  </programme>
-  <programme start="20240220221500 +0700" stop="20240220230000 +0700" channel="ROCKEntertainment.id">
-    <title lang="id">Late Night With...</title>
-    <desc lang="id">Late Night With Seth Meyers yang diproduseri oleh pemenang penghargaan Emmy, Lorne Michaels, akan menjamu para bintang papan atas, menghadirkan aksi komedi yang tak terlupakan, dan bakat musik terbaik.(n)</desc>
-    <episode-num system="onscreen">S11 E60</episode-num>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221005000 +0700" channel="ROCKEntertainment.id">
-    <title lang="id">Grown Ups</title>
-    <desc lang="id">Setelah pelatih basket mereka semasa SMA meninggal, lima sahabat yang sekaligus mantan rekan satu tim berkumpul kembali untuk menghabiskan liburan Hari Kemerdekaan Amerika bersama-sama.(n)</desc>
-  </programme>
-  <programme start="20240220190500 +0700" stop="20240220212000 +0700" channel="ROCKAction.id">
-    <title lang="id">The Next Three Days</title>
-    <desc lang="id">Kehidupan sepasang suami istri berubah drastis ketika sang istri dituduh melakukan sebuah pembunuhan.(n)</desc>
-  </programme>
-  <programme start="20240220212000 +0700" stop="20240220225500 +0700" channel="ROCKAction.id">
-    <title lang="id">Money Monster</title>
-    <desc lang="id">Seorang pembawa acara finansial di televisi dan sang produser menghadapi sebuah situasi berbahaya ketika seorang investor yang marah mengambil alih studio mereka.(n)</desc>
-  </programme>
-  <programme start="20240220225500 +0700" stop="20240221004000 +0700" channel="ROCKAction.id">
-    <title lang="id">Desperado</title>
-    <desc lang="id">Antonio Banderas berperan sebagai seorang musisi yang beralih profesi menjadi penembak jitu yang kembali ke sebuah kota kecil di Meksiko untuk membalas dendam kepada seorang bandar narkoba nan kejam.(n)</desc>
-  </programme>
-  <programme start="20240220190000 +0700" stop="20240220210000 +0700" channel="FightSports">
-    <title lang="id">Greatest Classics</title>
-    <episode-num system="onscreen">S1 E47</episode-num>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220213000 +0700" channel="FightSports">
-    <title lang="id">Knockouts!: Alvarez Vs Cintron</title>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220220000 +0700" channel="FightSports">
-    <title lang="id">FS Grand Sumo</title>
-    <episode-num system="onscreen">S22 E5</episode-num>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220223000 +0700" channel="FightSports">
-    <title lang="id">Karate 1 Premiere League 2023</title>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220230000 +0700" channel="FightSports">
-    <title lang="id">MMA 30</title>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221000000 +0700" channel="FightSports">
-    <title lang="id">FS MMA: Sonnen Vs McKenzie</title>
-  </programme>
-  <programme start="20240220200000 +0700" stop="20240220210000 +0700" channel="SPOTV.id">
-    <title lang="id">Extreme E S4: Desert X Prix HL</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220220000 +0700" channel="SPOTV.id">
-    <title lang="id">Extreme E S4: Desert X Prix HL</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240221000000 +0700" channel="SPOTV.id">
-    <title lang="id">2023-2024 KOVO V-League</title>
-  </programme>
-  <programme start="20240220200000 +0700" stop="20240220210000 +0700" channel="SPOTV2.id">
-    <title lang="id">Hyundai World Archery C'ships</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220220000 +0700" channel="SPOTV2.id">
-    <title lang="id">ITTF World Team C'ships</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240221003000 +0700" channel="SPOTV2.id">
-    <title lang="id">ITTF World Team C'ships</title>
-  </programme>
-  <programme start="20240220200200 +0700" stop="20240220210000 +0700" channel="CNA.id">
-    <title lang="id">Dare To Dream</title>
-    <episode-num system="onscreen">E4</episode-num>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220220000 +0700" channel="CNA.id">
-    <title lang="id">Singapore Tonight</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220220200 +0700" channel="CNA.id">
-    <title lang="id">Headline News</title>
-  </programme>
-  <programme start="20240220220200 +0700" stop="20240220230000 +0700" channel="CNA.id">
-    <title lang="id">Dare To Dream</title>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221000000 +0700" channel="CNA.id">
-    <title lang="id">World Tonight</title>
-  </programme>
-  <programme start="20240220200000 +0700" stop="20240220210000 +0700" channel="AlJazeeraEnglish.id">
-    <title lang="id">NewsHour</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220213000 +0700" channel="AlJazeeraEnglish.id">
-    <title lang="id">News (L)</title>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220220000 +0700" channel="AlJazeeraEnglish.id">
-    <title lang="id">The Stream</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220230000 +0700" channel="AlJazeeraEnglish.id">
-    <title lang="id">NewsHour</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221000000 +0700" channel="AlJazeeraEnglish.id">
-    <title lang="id">NewsHour</title>
-  </programme>
-  <programme start="20240220203000 +0700" stop="20240220210000 +0700" channel="BBCNews.id">
-    <title lang="id">BBC News Now</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220213000 +0700" channel="BBCNews.id">
-    <title lang="id">BBC News Now</title>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220214500 +0700" channel="BBCNews.id">
-    <title lang="id">World Business Report</title>
-  </programme>
-  <programme start="20240220214500 +0700" stop="20240220220000 +0700" channel="BBCNews.id">
-    <title lang="id">BBC News Now</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220223000 +0700" channel="BBCNews.id">
-    <title lang="id">Verified Live</title>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220230000 +0700" channel="BBCNews.id">
-    <title lang="id">Verified Live</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240220233000 +0700" channel="BBCNews.id">
-    <title lang="id">Verified Live</title>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240221000000 +0700" channel="BBCNews.id">
-    <title lang="id">Verified Live</title>
-  </programme>
-  <programme start="20240220203000 +0700" stop="20240220204600 +0700" channel="Euronews.id">
-    <title lang="id">Euronews Now</title>
-  </programme>
-  <programme start="20240220204600 +0700" stop="20240220210000 +0700" channel="Euronews.id">
-    <title lang="id">The Exchange</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220211500 +0700" channel="Euronews.id">
-    <title lang="id">Euronews Now</title>
-  </programme>
-  <programme start="20240220211500 +0700" stop="20240220213000 +0700" channel="Euronews.id">
-    <title lang="id">Euronews Now</title>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220220000 +0700" channel="Euronews.id">
-    <title lang="id">Euronews Now</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220221500 +0700" channel="Euronews.id">
-    <title lang="id">Euronews Now</title>
-  </programme>
-  <programme start="20240220221500 +0700" stop="20240220223000 +0700" channel="Euronews.id">
-    <title lang="id">Euronews Now</title>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220230000 +0700" channel="Euronews.id">
-    <title lang="id">Euronews Now</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240220231500 +0700" channel="Euronews.id">
-    <title lang="id">Euronews Now</title>
-  </programme>
-  <programme start="20240220231500 +0700" stop="20240220233000 +0700" channel="Euronews.id">
-    <title lang="id">Euronews Now</title>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240221000000 +0700" channel="Euronews.id">
-    <title lang="id">Euronews Now</title>
-  </programme>
-  <programme start="20240220200000 +0700" stop="20240220210000 +0700" channel="FOXNews">
-    <title lang="id">Fox &amp; Friends</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220220000 +0700" channel="FOXNews">
-    <title lang="id">America's Newsroom</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220230000 +0700" channel="FOXNews">
-    <title lang="id">America's Newsroom</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221000000 +0700" channel="FOXNews">
-    <title lang="id">The Faulkner Focus</title>
-  </programme>
-  <programme start="20240220200000 +0700" stop="20240220210000 +0700" channel="SEAToday">
-    <title lang="id">Buddy Talk</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220220000 +0700" channel="SEAToday">
-    <title lang="id">PodSEA</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220223000 +0700" channel="SEAToday">
-    <title lang="id">The Bikes Of Wrath</title>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220230000 +0700" channel="SEAToday">
-    <title lang="id">Bulletproof</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240220233000 +0700" channel="SEAToday">
-    <title lang="id">Earth On Edge</title>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240221000000 +0700" channel="SEAToday">
-    <title lang="id">Date With Nature S1</title>
-  </programme>
-  <programme start="20240220180000 +0700" stop="20240220210000 +0700" channel="CNBCAsia.id">
-    <title lang="id">US Squawk Box</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220230000 +0700" channel="CNBCAsia.id">
-    <title lang="id">Squawk On The Street</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221000000 +0700" channel="CNBCAsia.id">
-    <title lang="id">Money Movers</title>
-  </programme>
-  <programme start="20240220180000 +0700" stop="20240220210000 +0700" channel="BloombergTV.id">
-    <title lang="id">Bloomberg Surveillance</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220220000 +0700" channel="BloombergTV.id">
-    <title lang="id">Bloomberg: The Open</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220230000 +0700" channel="BloombergTV.id">
-    <title lang="id">Bloomberg Markets</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221000000 +0700" channel="BloombergTV.id">
-    <title lang="id">Bloomberg Technology</title>
-  </programme>
-  <programme start="20240220193000 +0700" stop="20240220210000 +0700" channel="ABCAustralia.id">
-    <title lang="id">Nemesis</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220213000 +0700" channel="ABCAustralia.id">
-    <title lang="id">ABC Late News</title>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220220000 +0700" channel="ABCAustralia.id">
-    <title lang="id">7.30</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220225500 +0700" channel="ABCAustralia.id">
-    <title lang="id">Grand Designs Australia</title>
-  </programme>
-  <programme start="20240220225500 +0700" stop="20240220235500 +0700" channel="ABCAustralia.id">
-    <title lang="id">Gardening Australia</title>
-  </programme>
-  <programme start="20240220235500 +0700" stop="20240221001000 +0700" channel="ABCAustralia.id">
-    <title lang="id">ABC Late News</title>
-  </programme>
-  <programme start="20240220203000 +0700" stop="20240220210000 +0700" channel="Arirang">
-    <title lang="id">Arirang</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220220000 +0700" channel="Arirang">
-    <title lang="id">Arirang</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220223000 +0700" channel="Arirang">
-    <title lang="id">Arirang</title>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220224000 +0700" channel="Arirang">
-    <title lang="id">Arirang</title>
-  </programme>
-  <programme start="20240220224000 +0700" stop="20240220230000 +0700" channel="Arirang">
-    <title lang="id">Arirang</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221000000 +0700" channel="Arirang">
-    <title lang="id">Arirang</title>
-  </programme>
-  <programme start="20240220203000 +0700" stop="20240220204000 +0700" channel="France24English">
-    <title lang="id">Bulletin (L)</title>
-  </programme>
-  <programme start="20240220204000 +0700" stop="20240220210000 +0700" channel="France24English">
-    <title lang="id">Revisited</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220211500 +0700" channel="France24English">
-    <title lang="id">News (L)</title>
-  </programme>
-  <programme start="20240220211500 +0700" stop="20240220213000 +0700" channel="France24English">
-    <title lang="id">Down To Earth</title>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220214500 +0700" channel="France24English">
-    <title lang="id">Bulletin (L)</title>
-  </programme>
-  <programme start="20240220214500 +0700" stop="20240220220000 +0700" channel="France24English">
-    <title lang="id">France In Focus</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220221500 +0700" channel="France24English">
-    <title lang="id">News (L)</title>
-  </programme>
-  <programme start="20240220221500 +0700" stop="20240220223000 +0700" channel="France24English">
-    <title lang="id">Arts24</title>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220224500 +0700" channel="France24English">
-    <title lang="id">Bulletin (L)</title>
-  </programme>
-  <programme start="20240220224500 +0700" stop="20240220230000 +0700" channel="France24English">
-    <title lang="id">French Connections Plus</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240220231500 +0700" channel="France24English">
-    <title lang="id">News (L)</title>
-  </programme>
-  <programme start="20240220231500 +0700" stop="20240220233000 +0700" channel="France24English">
-    <title lang="id">The 51%</title>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240220234500 +0700" channel="France24English">
-    <title lang="id">Bulletin (L)</title>
-  </programme>
-  <programme start="20240220234500 +0700" stop="20240220235100 +0700" channel="France24English">
-    <title lang="id">You Are Here</title>
-  </programme>
-  <programme start="20240220235100 +0700" stop="20240221000000 +0700" channel="France24English">
-    <title lang="id">Fashion</title>
-  </programme>
-  <programme start="20240220203000 +0700" stop="20240220210000 +0700" channel="CGTN.id">
-    <title lang="id">The Hub With Wang Guan</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220213000 +0700" channel="CGTN.id">
-    <title lang="id">The World Today</title>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220220000 +0700" channel="CGTN.id">
-    <title lang="id">World Insight With Tian Wei</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220223000 +0700" channel="CGTN.id">
-    <title lang="id">The World Today</title>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220230000 +0700" channel="CGTN.id">
-    <title lang="id">The Vibe</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240221000000 +0700" channel="CGTN.id">
-    <title lang="id">Global Business</title>
-  </programme>
-  <programme start="20240220203000 +0700" stop="20240220210000 +0700" channel="NHKWorldJapan">
-    <title lang="id">Document 72 Hours</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220211500 +0700" channel="NHKWorldJapan">
-    <title lang="id">NHK Newsline</title>
-  </programme>
-  <programme start="20240220211500 +0700" stop="20240220213000 +0700" channel="NHKWorldJapan">
-    <title lang="id">Newsline In Depth</title>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220220000 +0700" channel="NHKWorldJapan">
-    <title lang="id">Science View</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220221500 +0700" channel="NHKWorldJapan">
-    <title lang="id">NHK Newsline</title>
-  </programme>
-  <programme start="20240220221500 +0700" stop="20240220223000 +0700" channel="NHKWorldJapan">
-    <title lang="id">Newsline In Depth</title>
-  </programme>
-  <programme start="20240220223000 +0700" stop="20240220230000 +0700" channel="NHKWorldJapan">
-    <title lang="id">Journeys In Japan</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240220231500 +0700" channel="NHKWorldJapan">
-    <title lang="id">NHK Newsline</title>
-  </programme>
-  <programme start="20240220231500 +0700" stop="20240220233000 +0700" channel="NHKWorldJapan">
-    <title lang="id">Direct Talk</title>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240220234500 +0700" channel="NHKWorldJapan">
-    <title lang="id">Deeper Look</title>
-  </programme>
-  <programme start="20240220234500 +0700" stop="20240220235500 +0700" channel="NHKWorldJapan">
-    <title lang="id">Dig More Japan</title>
-  </programme>
-  <programme start="20240220235500 +0700" stop="20240221000000 +0700" channel="NHKWorldJapan">
-    <title lang="id">The Seasons Of Yamato</title>
-  </programme>
-  <programme start="20240220203000 +0700" stop="20240220210000 +0700" channel="DWEnglish">
-    <title lang="id">Eco India: Environment</title>
-  </programme>
-  <programme start="20240220210000 +0700" stop="20240220213000 +0700" channel="DWEnglish">
-    <title lang="id">DW News</title>
-  </programme>
-  <programme start="20240220213000 +0700" stop="20240220220000 +0700" channel="DWEnglish">
-    <title lang="id">Global Us: What Connects Us All</title>
-  </programme>
-  <programme start="20240220220000 +0700" stop="20240220221500 +0700" channel="DWEnglish">
-    <title lang="id">DW News</title>
-  </programme>
-  <programme start="20240220221500 +0700" stop="20240220224500 +0700" channel="DWEnglish">
-    <title lang="id">Close Up: The Current Affairs</title>
-  </programme>
-  <programme start="20240220224500 +0700" stop="20240220230000 +0700" channel="DWEnglish">
-    <title lang="id">Reporter: On Location</title>
-  </programme>
-  <programme start="20240220230000 +0700" stop="20240220233000 +0700" channel="DWEnglish">
-    <title lang="id">DW News</title>
-  </programme>
-  <programme start="20240220233000 +0700" stop="20240221000000 +0700" channel="DWEnglish">
-    <title lang="id">Eco Africa: Environment</title>
-  </programme>
 </tv>
