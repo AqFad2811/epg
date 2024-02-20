@@ -5,6 +5,12 @@ And I do not allowed people to change the epg name to anything else like [this](
 # About
 This is a collection of my EPG's. Feel free to use it.
 
+# What to put on XMLTV ID on your playlist?
+If you have a playlist to use with this XMLTV EPG data, add `tvg-id="(XMLTV ID HERE)"` before the comma before the channel name. Example:
+```
+#EXTINF:-1 tvg-id="101",TV1
+```
+
 ## EPG
 Mixxed files of all epg files except for Unifi TV.
 
