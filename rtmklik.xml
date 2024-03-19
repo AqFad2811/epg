@@ -200,192 +200,6 @@
     <icon src="https://rtm-images.glueapi.io/480x0/live_channel/TawauFM.png" />
     <url>http://www.rtmklik.rtm.gov.my</url>
   </channel>
-  <programme start="20240318000000 +0000" stop="20240318003000 +0000" channel="TV1">
-    <title lang="en">Berita Tengah Malam</title>
-    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara.</desc>
-  </programme>
-  <programme start="20240318003000 +0000" stop="20240318020000 +0000" channel="TV1">
-    <title lang="en">Tadarus Al-Quran</title>
-    <desc lang="en">Mendengar bacaan Al-quran mari bersama-sama menyaksikan Tadarus Al-Quran sepanjang Ramadan ini.</desc>
-  </programme>
-  <programme start="20240318020000 +0000" stop="20240318033000 +0000" channel="TV1">
-    <title lang="en">SIARAN LANGSUNG: Solat Tarawih Dari Mekah</title>
-    <desc lang="en">Saksikan siaran secara langsung Solat Tarawih dari Masjidil Haram, Mekah Al-Mukarramah.</desc>
-  </programme>
-  <programme start="20240318033000 +0000" stop="20240318040000 +0000" channel="TV1">
-    <title lang="en">Kapsul Ramadan / Promo / PSA</title>
-    <desc lang="en">Saksikan paparan kapsul ramadan / promo semasa, PSA, kerohanian dan nilai-nilai murni.</desc>
-  </programme>
-  <programme start="20240318040000 +0000" stop="20240318043000 +0000" channel="TV1">
-    <title lang="en">Syahadah 2023</title>
-    <title lang="xx">Syahadah</title>
-    <desc lang="en">Sebuah dokumentari bertemakan Islam Kontemporari dengan rujukan ayat Al-Quran yang berkaitan dengan masyarakat Islam di seluruh negara.</desc>
-    <episode-num system="onscreen">E12</episode-num>
-  </programme>
-  <programme start="20240318043000 +0000" stop="20240318053000 +0000" channel="TV1">
-    <title lang="en">Borak Dulu Baru Buka</title>
-    <desc lang="en">Berkongsi pelbagai topik menarik berkenaan ibadah puasa sebelum berbuka bersama personaliti jemputan.</desc>
-  </programme>
-  <programme start="20240318053000 +0000" stop="20240318055800 +0000" channel="TV1">
-    <title lang="en">Bacaan Ar-Rahman</title>
-    <desc lang="en">Bacaan Ar-Rahman.</desc>
-  </programme>
-  <programme start="20240318055800 +0000" stop="20240318060200 +0000" channel="TV1">
-    <title lang="en">Lagu Negaraku</title>
-    <desc lang="en">Nyanyian lagu Negaraku.</desc>
-  </programme>
-  <programme start="20240318060200 +0000" stop="20240318070000 +0000" channel="TV1">
-    <title lang="en">WIDURI KHAS RAMADAN: Dia Dari Syurga</title>
-    <desc lang="en">Rancangan khas ramadan slot Widuri : Dia Dari Syurga khas untuk tontonan anda di tv1. #SebuahCintaAgung.</desc>
-  </programme>
-  <programme start="20240318070000 +0000" stop="20240318071000 +0000" channel="TV1">
-    <title lang="en">Berita Pagi Semenanjung</title>
-    <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negara.</desc>
-  </programme>
-  <programme start="20240318071000 +0000" stop="20240318072000 +0000" channel="TV1">
-    <title lang="en">Berita Pagi Sabah</title>
-    <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negeri Sabah.</desc>
-  </programme>
-  <programme start="20240318072000 +0000" stop="20240318073000 +0000" channel="TV1">
-    <title lang="en">Berita Pagi Sarawak</title>
-    <desc lang="en">Memaparkan perkembangan berita di Sarawak.</desc>
-  </programme>
-  <programme start="20240318073000 +0000" stop="20240318074400 +0000" channel="TV1">
-    <title lang="en">Stadium RTM Pagi</title>
-    <desc lang="en">Memaparkan perkembangan terkini berita sukan dari dalam dan luar negara.</desc>
-  </programme>
-  <programme start="20240318074400 +0000" stop="20240318080000 +0000" channel="TV1">
-    <title lang="en">Kanta 744</title>
-    <desc lang="en">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
-  </programme>
-  <programme start="20240318080000 +0000" stop="20240318100000 +0000" channel="TV1">
-    <title lang="en">SIARAN LANGSUNG: Selamat Pagi Malaysia</title>
-    <desc lang="en">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).</desc>
-  </programme>
-  <programme start="20240318100000 +0000" stop="20240318120000 +0000" channel="TV1">
-    <title lang="en">Langsung Dari Parlimen</title>
-    <title lang="xx">Dunia 10</title>
-    <desc lang="en">Memaparkan berita dan peristiwa yang berlaku di seluruh dunia.</desc>
-  </programme>
-  <programme start="20240318120000 +0000" stop="20240318120500 +0000" channel="TV1">
-    <title lang="en">Berita Semasa</title>
-    <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
-  </programme>
-  <programme start="20240318120500 +0000" stop="20240318130000 +0000" channel="TV1">
-    <title lang="en">WIDURI KHAS RAMADAN: Dia Dari Syurga</title>
-    <desc lang="en">Rancangan khas ramadan slot Widuri : Dia Dari Syurga khas untuk tontonan anda di tv1. #SebuahCintaAgung.</desc>
-  </programme>
-  <programme start="20240318130000 +0000" stop="20240318133000 +0000" channel="TV1">
-    <title lang="en">Berita Tengah Hari</title>
-    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan dan berita hiburan.</desc>
-  </programme>
-  <programme start="20240318133000 +0000" stop="20240318140000 +0000" channel="TV1">
-    <title lang="en">TV1 KIDS: Caitie's Classroom</title>
-    <desc lang="en">Rancangan pendidikan yang menyeronokkan yang digemari oleh kanak-kanak dan ibu bapa. Sertai Caitie di dalam bilik darjah yang menjadi tempat menyanyi, menari, belajar, meneroka, bermain dan mencipta sesuatu yang baharu bersama-sama.</desc>
-  </programme>
-  <programme start="20240318140000 +0000" stop="20240318143000 +0000" channel="TV1">
-    <title lang="en">CUIT-CUIT: Kami Budak Flat</title>
-    <desc lang="en">Saksikan Kami Budak Flat dalam slot CUIT-CUIT di tv1.</desc>
-  </programme>
-  <programme start="20240318143000 +0000" stop="20240318150000 +0000" channel="TV1">
-    <title lang="en">Smart Parents</title>
-    <desc lang="en">Sebuah rancangan motivasi TV yang akan membincangkan tentang tips ibu bapa bijak anak hebat.</desc>
-  </programme>
-  <programme start="20240318150000 +0000" stop="20240318150500 +0000" channel="TV1">
-    <title lang="en">Berita Semasa</title>
-    <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
-  </programme>
-  <programme start="20240318150500 +0000" stop="20240318155500 +0000" channel="TV1">
-    <title lang="en">SIARAN LANGSUNG: Kami Bah Ini</title>
-    <desc lang="en">Saksikan Siaran Langsung Kami Bah Ini, Informasi dan cerita menarik dan terkini dari pelbagai latarbelakang budaya Negeri Sabah.</desc>
-  </programme>
-  <programme start="20240318155500 +0000" stop="20240318160000 +0000" channel="TV1">
-    <title lang="en">Pengumuman Waktu Berbuka Puasa &amp; Imsak</title>
-    <desc lang="en">Saksikan Pengumuman Waktu Berbuka Puasa dan Imsak mengikut negeri.</desc>
-  </programme>
-  <programme start="20240318160000 +0000" stop="20240318160500 +0000" channel="TV1">
-    <title lang="en">Parlimen Semasa</title>
-    <desc lang="en">Mesyuarat Pertama Penggal Ketiga Parlimen Ke-15, 2024.</desc>
-  </programme>
-  <programme start="20240318160500 +0000" stop="20240318163000 +0000" channel="TV1">
-    <title lang="en">Agrotek</title>
-    <desc lang="en">Saksikan paparan 'Inovasi Jana Produktiviti' tentang kajian dan penyelidikan yang dilakukan untuk menghasilkan galah dan sistem penapisan bio.</desc>
-  </programme>
-  <programme start="20240318163000 +0000" stop="20240318164500 +0000" channel="TV1">
-    <title lang="en">SIARAN LANGSUNG: Pastikan Sahih</title>
-    <desc lang="en">Saksikan rancangan bual bicara santai untuk berkongsi maklumat yang benar dan membetulkan berita-berita palsu yang viral di media sosial.</desc>
-  </programme>
-  <programme start="20240318164500 +0000" stop="20240318170000 +0000" channel="TV1">
-    <title lang="en">SIARAN LANGSUNG : Biz Malaysia</title>
-    <desc lang="en">Saksikan perkembangan terkini dunia ekonomi Malaysia.</desc>
-  </programme>
-  <programme start="20240318170000 +0000" stop="20240318180000 +0000" channel="TV1">
-    <title lang="en">Berita Wilayah</title>
-    <desc lang="en">Memaparkan perkembangan berita dari negeri-negeri di seluruh negara.</desc>
-  </programme>
-  <programme start="20240318180000 +0000" stop="20240318183000 +0000" channel="TV1">
-    <title lang="en">Syahadah 2023</title>
-    <title lang="xx">Syahadah</title>
-    <desc lang="en">Sebuah dokumentari bertemakan Islam Kontemporari dengan rujukan ayat Al-Quran yang berkaitan dengan masyarakat Islam di seluruh negara.</desc>
-    <episode-num system="onscreen">E17</episode-num>
-  </programme>
-  <programme start="20240318183000 +0000" stop="20240318183200 +0000" channel="TV1">
-    <title lang="en">Kapsul PERKESO</title>
-    <desc lang="en">Kapsul PERKESO.</desc>
-  </programme>
-  <programme start="20240318183200 +0000" stop="20240318183700 +0000" channel="TV1">
-    <title lang="en">Pengumuman Waktu Berbuka Puasa &amp; Imsak</title>
-    <desc lang="en">Saksikan Pengumuman Waktu Berbuka Puasa dan Imsak mengikut negeri.</desc>
-  </programme>
-  <programme start="20240318183700 +0000" stop="20240318184500 +0000" channel="TV1">
-    <title lang="en">Kapsul Ramadan / Promo / PSA</title>
-    <desc lang="en">Saksikan paparan kapsul ramadan / promo semasa, PSA, kerohanian dan nilai-nilai murni.</desc>
-  </programme>
-  <programme start="20240318184500 +0000" stop="20240318194400 +0000" channel="TV1">
-    <title lang="en">SIARAN LANGSUNG: Borak Dulu Baru Buka</title>
-    <desc lang="en">memaparkan program menarik sembang santai Borak Dulu Baru Buka sempena bulan ramadan khas untuk anda.</desc>
-  </programme>
-  <programme start="20240318194400 +0000" stop="20240318200000 +0000" channel="TV1">
-    <title lang="en">Kanta 744</title>
-    <desc lang="en">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
-  </programme>
-  <programme start="20240318200000 +0000" stop="20240318203000 +0000" channel="TV1">
-    <title lang="en">Berita Perdana</title>
-    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan serta berita hiburan.</desc>
-  </programme>
-  <programme start="20240318203000 +0000" stop="20240318210000 +0000" channel="TV1">
-    <title lang="en">Malaysia Tonight</title>
-    <desc lang="en">Ikuti Malaysia Tonight, berita berbahasa Inggeris yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
-  </programme>
-  <programme start="20240318210000 +0000" stop="20240318220000 +0000" channel="TV1">
-    <title lang="en">Bicara Naratif</title>
-    <title lang="xx">SIARAN LANGSUNG: Bicara Naratif</title>
-    <desc lang="en">Program bicarawara bertema Naratif bersama tetamu undangan dan membincangkan isu semasa sebagai topik pilihan.</desc>
-  </programme>
-  <programme start="20240318220000 +0000" stop="20240318221500 +0000" channel="TV1">
-    <title lang="en">Dunia 10</title>
-    <desc lang="en">Memaparkan berita dan peristiwa yang berlaku di seluruh dunia.</desc>
-  </programme>
-  <programme start="20240318221500 +0000" stop="20240318223000 +0000" channel="TV1">
-    <title lang="en">Berita Parlimen</title>
-    <desc lang="en">Memaparkan perkembangan Berita PARLIMEN.</desc>
-  </programme>
-  <programme start="20240318223000 +0000" stop="20240318230000 +0000" channel="TV1">
-    <title lang="en">Panorama</title>
-    <desc lang="en">Rancangan yang akan mengupas pelbagai topik dan juga isu berkaitan alam, kesihatan dan juga isu semasa.</desc>
-  </programme>
-  <programme start="20240318230000 +0000" stop="20240318233000 +0000" channel="TV1">
-    <title lang="en">Smart Home Nation</title>
-    <desc lang="en">Saksikan rancangan menarik penggunaan teknologi pintar dan berinovasi untuk tontonan anda.</desc>
-  </programme>
-  <programme start="20240318233000 +0000" stop="20240318235500 +0000" channel="TV1">
-    <title lang="en">Retro @ RTM</title>
-    <desc lang="en">Retro@RTM merupakan rancangan bual bicara santai bersama artis-artis veteran terkenal tanah air era 80-an, 90-an dan 2000-an serta turut memaparkan futej lama persembahan artis.</desc>
-  </programme>
-  <programme start="20240318235500 +0000" stop="20240319000000 +0000" channel="TV1">
-    <title lang="en">Pengumuman Waktu Imsak</title>
-    <desc lang="en">Saksikan Pengumuman Waktu Imsak mengikut negeri.</desc>
-  </programme>
   <programme start="20240319000000 +0000" stop="20240319003000 +0000" channel="TV1">
     <title lang="en">Berita Tengah Malam</title>
     <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara.</desc>
@@ -503,7 +317,8 @@
     <desc lang="en">Saksikan rancangan bual bicara santai untuk berkongsi maklumat yang benar dan membetulkan berita-berita palsu yang viral di media sosial.</desc>
   </programme>
   <programme start="20240319164500 +0000" stop="20240319170000 +0000" channel="TV1">
-    <title lang="en">SIARAN LANGSUNG : Biz Malaysia</title>
+    <title lang="en">Biz Malaysia</title>
+    <title lang="xx">SIARAN LANGSUNG : Biz Malaysia</title>
     <desc lang="en">Saksikan perkembangan terkini dunia ekonomi Malaysia.</desc>
   </programme>
   <programme start="20240319170000 +0000" stop="20240319180000 +0000" channel="TV1">
@@ -1636,161 +1451,77 @@
     <title lang="en">Dunia 10</title>
     <desc lang="en">Memaparkan berita dan peristiwa yang berlaku di seluruh dunia.</desc>
   </programme>
-  <programme start="20240318000000 +0000" stop="20240318003000 +0000" channel="TV2">
-    <title lang="en">Radar Skrin</title>
-    <desc lang="en">Sebuah rancangan majalah hiburan terbitan Unit Hiburan TV, RTM.</desc>
+  <programme start="20240326000000 +0000" stop="20240326055800 +0000" channel="TV1">
+    <title lang="en">Berita Tengah Malam</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara.</desc>
   </programme>
-  <programme start="20240318003000 +0000" stop="20240318012000 +0000" channel="TV2">
-    <title lang="en">Di Hujung Ranting</title>
-    <desc lang="en">Mawar, anak yatim piatu yang dibesarkan oleh ibu saudaranya. Dia mengusahakan perusahaan batik milik keluarga di Terengganu. Amar, seorang pemuda dari Kuala Lumpur juga berada di Terengganu sedang menguruskan satu projek pembinaan milik syarikat bapanya, Dato' Hashim. Dalam satu insiden, Amar telah terlanggar kereta Mawar dan sejak kejadian itu mereka mula berkawan. Lakonan : Shukri Yahaya, Dayang Areeda, Nad Zainal dan Amar Asyraf.</desc>
+  <programme start="20240326055800 +0000" stop="20240326070000 +0000" channel="TV1">
+    <title lang="en">Lagu Negaraku</title>
+    <desc lang="en">Nyanyian lagu Negaraku.</desc>
   </programme>
-  <programme start="20240318012000 +0000" stop="20240318013000 +0000" channel="TV2">
-    <title lang="en">PENGUMUMAN WAKTU IMSAK (7 RAMADAN)</title>
+  <programme start="20240326070000 +0000" stop="20240326071000 +0000" channel="TV1">
+    <title lang="en">Berita Pagi Semenanjung</title>
+    <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negara.</desc>
   </programme>
-  <programme start="20240318013000 +0000" stop="20240318020000 +0000" channel="TV2">
-    <title lang="en">La Tahzan</title>
-    <desc lang="en">Doku-drama yang memaparkan kisah-kisah kehidupan manusia yang tersasar daripada kebenaran namun cuba untuk memperbaiki sahsiah juga akidah berlandaskan ajaran agama Islam.</desc>
+  <programme start="20240326071000 +0000" stop="20240326072000 +0000" channel="TV1">
+    <title lang="en">Berita Pagi Sabah</title>
+    <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negeri Sabah.</desc>
   </programme>
-  <programme start="20240318020000 +0000" stop="20240318030000 +0000" channel="TV2">
-    <title lang="en">Nijam Thedum Nizhal</title>
-    <desc lang="en">Kisah penyiasatan seorang Pegawai Polis bernama Karthigayen terhadap pelbagai kes-kes jenayah. Lakonan : Gantheeban, Chitambaram, Punitha, Navina, Datuk Jalaluddin Hassan dan Gunasekaran.</desc>
-    <episode-num system="onscreen">E11</episode-num>
+  <programme start="20240326072000 +0000" stop="20240326073000 +0000" channel="TV1">
+    <title lang="en">Berita Pagi Sarawak</title>
+    <desc lang="en">Memaparkan perkembangan berita di Sarawak.</desc>
   </programme>
-  <programme start="20240318030000 +0000" stop="20240318040000 +0000" channel="TV2">
-    <title lang="en">Life Without Regret</title>
-    <desc lang="en">You Pang bertambah rapat dengan Sharifah setelah menjalankan perniagaan kedai runcit dan terlibat dalam aktiviti-aktiviti sukarelawan bersama. Zi Ming pula semakin tamak dan boros serta terlibat dalam urusan jual beli saham hingga terjebak meminjam wang daripada along. Dia juga cuba menyeleweng wang dari kedai runcit yang diuruskannya. Lakonan : Jordan Voon, Li Yang, Remon Lim dan Joyce Koid.</desc>
-    <episode-num system="onscreen">E10</episode-num>
+  <programme start="20240326073000 +0000" stop="20240326074400 +0000" channel="TV1">
+    <title lang="en">Stadium RTM Pagi</title>
+    <desc lang="en">Memaparkan perkembangan terkini berita sukan dari dalam dan luar negara.</desc>
   </programme>
-  <programme start="20240318040000 +0000" stop="20240318043000 +0000" channel="TV2">
-    <title lang="en">Kedai Kerja</title>
-    <desc lang="en">Zali, Muthu dan Stephen baru pindah masuk di kedai baharu mereka. Tetapi, tuan kedai telah memberi kunci yang salah. Mereka terpaksa menunggu kedatangan tuan kedai. Dalam masa yang sama, Uncle B, peniaga Mee Rebus yang berdekatan menyangka bahawa yang tiga lelaki tersebut adalah pencuri. Lakonan : Farid Azmier, Phoon Chi Ho, Prakash Daniel dan Azri Iskandar.</desc>
+  <programme start="20240326074400 +0000" stop="20240326080000 +0000" channel="TV1">
+    <title lang="en">Kanta 744</title>
+    <desc lang="en">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
   </programme>
-  <programme start="20240318043000 +0000" stop="20240318050000 +0000" channel="TV2">
-    <title lang="en">Ronda-Ronda Ramadan</title>
-    <desc lang="en">Ronda-Ronda Ramadan adalah sebuah program travelog yang mencari apa yang viral, apa yang menarik dan apa yang popular di seluruh Malaysia sepanjang bulan puasa. Nen Tebabo akan membawa penonton menjelajahi tanah air kita dengan juadah berbuka dan sahur yang menarik bersama chef berkaliber dan rakan-rakan artis.</desc>
+  <programme start="20240326080000 +0000" stop="20240326100000 +0000" channel="TV1">
+    <title lang="en">SIARAN LANGSUNG: Selamat Pagi Malaysia</title>
+    <desc lang="en">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).</desc>
   </programme>
-  <programme start="20240318050000 +0000" stop="20240318060000 +0000" channel="TV2">
-    <title lang="en">Geng Tadarus</title>
-    <desc lang="en">Drama komedi yang memaparkan Arlene, bekas ratu cantik yang kehilangan suami dan anak dalam nahas kapal terbang. Arlene sunyi lalu dia menghubungi rakan-rakan sekolahnya melalui media sosial. Arlene yang sudah berhijab 5 tahun lalu sering menghabiskan masa bersama rakan-rakannya. Arlene mahu memantapkan lagi ilmu agama seiring penghijrahannya lalu mereka bersepakat untuk menubuhkan ‘Geng Tadarus’. Lakonan : Reen Rahim, Syakilla Khoriri, Tasya Yong, Ieda Moin, Harris Baba, Liza Abdullah, Tash Yong dan Ashraf Muslim.</desc>
+  <programme start="20240326100000 +0000" stop="20240326130000 +0000" channel="TV1">
+    <title lang="en">Dunia 10</title>
+    <desc lang="en">Memaparkan berita dan peristiwa yang berlaku di seluruh dunia.</desc>
   </programme>
-  <programme start="20240318060000 +0000" stop="20240318060200 +0000" channel="TV2">
-    <title lang="en">Pembukaan - Negaraku</title>
-    <desc lang="en">Lagu Negaraku.</desc>
+  <programme start="20240326130000 +0000" stop="20240326150000 +0000" channel="TV1">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan dan berita hiburan.</desc>
   </programme>
-  <programme start="20240318060200 +0000" stop="20240318070000 +0000" channel="TV2">
-    <title lang="en">Nyawa Berganti Cinta</title>
-    <desc lang="en">Drama Khas Ramadan ini mengisahkan seorang doktor pakar pemindahan organ yang berdepan cabaran profesionalisme iaitu antara mengutamakan pesakit dalam senarai menunggu atau mengutamakan nyawa isteri sendiri dalam pemindahan jantung bagi meneruskan kehidupan. Lakonan : Azlee Khairi, Aishah Azman, Norkhiriah, Azhari Khairudin, Shiela Mambo dan Raja Nur Farhana.</desc>
+  <programme start="20240326150000 +0000" stop="20240326163000 +0000" channel="TV1">
+    <title lang="en">Berita Semasa</title>
+    <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
   </programme>
-  <programme start="20240318070000 +0000" stop="20240318073000 +0000" channel="TV2">
-    <title lang="en">Megatik</title>
-    <desc lang="en">Profesor Hitam menggunakan hasil penyelidikannya untuk menghuru-harakan kota Unggas. Walau bagaimanapun tindakannya berjaya dihalang oleh Mat Pos dan Jojo yang bertukar menjadi Megatik iaitu Mega Merah dan Mega Unggu yang mempunyai kuasa luar biasa.</desc>
+  <programme start="20240326163000 +0000" stop="20240326164500 +0000" channel="TV1">
+    <title lang="en">SIARAN LANGSUNG: Pastikan Sahih</title>
+    <desc lang="en">Saksikan rancangan bual bicara santai untuk berkongsi maklumat yang benar dan membetulkan berita-berita palsu yang viral di media sosial.</desc>
   </programme>
-  <programme start="20240318073000 +0000" stop="20240318080000 +0000" channel="TV2">
-    <title lang="en">Planet Saga</title>
-    <desc lang="en">Animasi yang mengisahkan kerenah pelbagai makhluk asing yang tinggal di sebuah planet bernama Planet Saga.</desc>
+  <programme start="20240326164500 +0000" stop="20240326170000 +0000" channel="TV1">
+    <title lang="en">SIARAN LANGSUNG : Biz Malaysia</title>
+    <desc lang="en">Saksikan perkembangan terkini dunia ekonomi Malaysia.</desc>
   </programme>
-  <programme start="20240318080000 +0000" stop="20240318083000 +0000" channel="TV2">
-    <title lang="en">Matt</title>
-    <desc lang="en">Ikuti kisah Tam, Achai, Dad dan Matt yang merupakan motor lumba berkuasa tinggi menangani pelbagai masalah yang sering mengganggu kawasan perumahan mereka.</desc>
+  <programme start="20240326170000 +0000" stop="20240326194400 +0000" channel="TV1">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Memaparkan perkembangan berita dari negeri-negeri di seluruh negara.</desc>
   </programme>
-  <programme start="20240318083000 +0000" stop="20240318090000 +0000" channel="TV2">
-    <title lang="en">Cerita Ramadhan Hazim</title>
-    <desc lang="en">Kisah kesungguhan Hazim, memenuhi impian Paksunya untuk mengembalikan kemeriahan ramadan dan syawal seperti ketika arwah datuk dan neneknya masih ada dengan menyatukan keluarganya yang renggang. Lakonan : Harris Latif, Kodi Rasheed, Mia Ahmad, Sariyanti, Syafie Naswip &amp; Adam Shahz.</desc>
+  <programme start="20240326194400 +0000" stop="20240326200000 +0000" channel="TV1">
+    <title lang="en">Kanta 744</title>
+    <desc lang="en">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
   </programme>
-  <programme start="20240318090000 +0000" stop="20240318100000 +0000" channel="TV2">
-    <title lang="en">Korban Kasih</title>
-    <desc lang="en">Kenapa sejak akhir-akhir ini, Fauzi selalu pesan kepada Jalil supaya jaga kebun dan minta Jalil carikan semula keluarga kandung Nor. Semua tu membuatkan Jalil rasa tidak sedap hati. Lakonan : Saharul Ridzwan, Azrel Ismail, Zara Zya, Dynas Mokhtar, Hasnul Rahmat, Ezzaty Abdullah, Ummi Nazeera, Nadiyah Shahab, Dato’ Ahmad Tamimi Siregar dan Sheila Mambo.</desc>
+  <programme start="20240326200000 +0000" stop="20240326203000 +0000" channel="TV1">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan serta berita hiburan.</desc>
   </programme>
-  <programme start="20240318100000 +0000" stop="20240318110000 +0000" channel="TV2">
-    <title lang="en">M1 Shampoo</title>
-    <desc lang="en">Sebuah rancangan membeli belah melalui talian khas untuk anda.</desc>
+  <programme start="20240326203000 +0000" stop="20240326220000 +0000" channel="TV1">
+    <title lang="en">Malaysia Tonight</title>
+    <desc lang="en">Ikuti Malaysia Tonight, berita berbahasa Inggeris yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
   </programme>
-  <programme start="20240318110000 +0000" stop="20240318113000 +0000" channel="TV2">
-    <title lang="en">Bale Balle Chakde</title>
-    <desc lang="en">Rancangan hiburan dan informasi dengan pelbagai segmen mengenai industri hiburan tempatan dan dunia perfileman Bollywood.</desc>
-    <episode-num system="onscreen">E23</episode-num>
-  </programme>
-  <programme start="20240318113000 +0000" stop="20240318120000 +0000" channel="TV2">
-    <title lang="en">Ladies First</title>
-    <desc lang="en">Rancangan majalah yang memaparkan petua untuk meningkatkan tahap keyakinan golongan wanita dari segi fesyen, imej baharu, kesihatan tubuh badan dan pemakanan sihat.</desc>
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20240318120000 +0000" stop="20240318122000 +0000" channel="TV2">
-    <title lang="en">Berita Mandarin</title>
-    <desc lang="en">Ikuti berita berbahasa Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
-  </programme>
-  <programme start="20240318122000 +0000" stop="20240318123000 +0000" channel="TV2">
-    <title lang="en">Galeri Mandarin</title>
-    <desc lang="en">Rancangan berbentuk majalah berbahasa Mandarin yang memaparkan aktiviti dan kegiatan semasa masyarakat.</desc>
-    <episode-num system="onscreen">E56</episode-num>
-  </programme>
-  <programme start="20240318123000 +0000" stop="20240318130000 +0000" channel="TV2">
-    <title lang="en">World Today</title>
-    <desc lang="en">World Today, brings you the latest news of national interest and trending international issues.</desc>
-  </programme>
-  <programme start="20240318130000 +0000" stop="20240318135500 +0000" channel="TV2">
-    <title lang="en">Wasiat dari Jordan</title>
-    <desc lang="en">Dato' Nasir, seorang ahli korporat yang berjaya, memiliki segalanya dan hidup bahagia seperti keluarga lain. Suatu hari doktor mengesahkan dia mengidap kanser, isterinya Khadijah terjumpa sekeping deraf wasiat yang telah mengubah sikap isteri dan anak-anaknya. Mereka tidak dapat menerima hakikat Dato' Nasir mempunyai keluarga lain dan menuduhnya mengkhianati mereka selama ini. Lakonan : Aprena Manrose, Hazman Al-Idrus, Badrul Muhayat, Nissa Rissa &amp; Liza Rafar.</desc>
-  </programme>
-  <programme start="20240318135500 +0000" stop="20240318140000 +0000" channel="TV2">
-    <title lang="en">PENGUMUMAN WAKTU BERBUKA PUASA  (7 RAMADAN)</title>
-    <title lang="xx">PENGUMUMAN WAKTU BERBUKA PUASA (6 RAMADAN)</title>
-  </programme>
-  <programme start="20240318140000 +0000" stop="20240318150000 +0000" channel="TV2">
-    <title lang="en">Teratak Cinta</title>
-    <desc lang="en">Kemunculan semula Daniel Hakim benar-benar bawa keceriaan kepada penghuni Teratak Cahaya Indah. Daniel Hakim sayangkan adik-adik di situ. Ada saja aktiviti yang mereka lakukan bersama. Daniel Hakim bawa anak- anak yatim itu bersiar-siar dengan kereta mewahnya. Lakonan : Dayang Areeda, Ali Reza, Taufiq Hanafi, Shakilla Khoriri, Kuniey Muzani dan Riezman Khuzaimi.</desc>
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20240318150000 +0000" stop="20240318160000 +0000" channel="TV2">
-    <title lang="en">Nijam Thedum Nizhal</title>
-    <desc lang="en">Kisah penyiasatan seorang Pegawai Polis bernama Karthigayen terhadap pelbagai kes-kes jenayah. Lakonan : Gantheeban, Chitambaram, Punitha, Navina, Datuk Jalaluddin Hassan dan Gunasekaran.</desc>
-    <episode-num system="onscreen">E12</episode-num>
-  </programme>
-  <programme start="20240318160000 +0000" stop="20240318170000 +0000" channel="TV2">
-    <title lang="en">Life Without Regret</title>
-    <desc lang="en">Zi Meng bertengkar dengan Wen Long semasa berada di sebuah restoran. Zi Meng mengugut akan membocorkan rahsia kematian Xiau Zhan. You Pang yang tiba-tiba muncul di restoran tersebut terdengar apa yang diperkatakan Zi Meng. You Pang sangat terkejut hingga pengsan. Lakonan : Jordan Voon, Li Yang, Remon Lim dan Joyce Koid.</desc>
-    <episode-num system="onscreen">E11</episode-num>
-  </programme>
-  <programme start="20240318170000 +0000" stop="20240318173000 +0000" channel="TV2">
-    <title lang="en">Oh My Netizen</title>
-    <desc lang="en">Khalid adalah seorang remaja autisma yang disalah anggap oleh orang kampung sebagai gila. Sikap ingin tahunya yang tinggi menyebabkan Khalid pada suatu hari telah bertindak menyelak pakaian Mariam. Akibatnya, Khalid dipukul dan mereka sekeluarga dipaksa berpindah dari kampung. Lakonan : Amar Asyraf, Zeera Azizi, A. Ahnaf A. Bakar dan Nor Zara Sophia Mohamed.</desc>
-  </programme>
-  <programme start="20240318173000 +0000" stop="20240318180000 +0000" channel="TV2">
-    <title lang="en">Borak Tengah Lapar</title>
-    <desc lang="en">Saya sabar... Saya pasrah... Jika tak kena provoke ok! Tapi kalau kita kena provoke, boleh hilang sabar juga kan, lebih-lebih lagi bila perut tengah lapar. Jom borak dengan Ustaz Amin, Atu Zero dan DJ Azwan topik SABAR ITU SEPARUH DARIPADA IMAN.</desc>
-  </programme>
-  <programme start="20240318180000 +0000" stop="20240318185500 +0000" channel="TV2">
-    <title lang="en">Nyawa Berganti Cinta</title>
-    <desc lang="en">Rizwan membuat keputusan untuk menderma buah pingganya kepada Ariana. Namun, bapa Ariana tidak setuju kerana tidak menyukai Rizman. Lakonan : Azlee Khairi, Aishah Azman, Norkhiriah, Azhari Khairudin, Shiela Mambo dan Raja Nur Farhana.</desc>
-  </programme>
-  <programme start="20240318185500 +0000" stop="20240318190000 +0000" channel="TV2">
-    <title lang="en">PENGUMUMAN WAKTU BERBUKA PUASA  (7 RAMADAN)</title>
-    <title lang="xx">PENGUMUMAN WAKTU BERBUKA PUASA (6 RAMADAN)</title>
-  </programme>
-  <programme start="20240318190000 +0000" stop="20240318193000 +0000" channel="TV2">
-    <title lang="en">Berita Mandarin</title>
-    <desc lang="en">Berita berbahasa Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
-  </programme>
-  <programme start="20240318193000 +0000" stop="20240318200000 +0000" channel="TV2">
-    <title lang="en">Berita Tamil</title>
-    <desc lang="en">Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
-  </programme>
-  <programme start="20240318200000 +0000" stop="20240318205500 +0000" channel="TV2">
-    <title lang="en">Jefri Zain</title>
-    <desc lang="en">Sewaktu proses intergasi, pasukan API telah diserang. King telah keluar dari penjara dan dia merancang untuk membuat jenayah wang palsu secara besar-besaran. Lakonan : Ali Reza, Fify Azmin, Dafi dan Rusdi Ramli.</desc>
-  </programme>
-  <programme start="20240318205500 +0000" stop="20240318210000 +0000" channel="TV2">
-    <title lang="en">PENGUMUMAN WAKTU IMSAK (8 RAMADAN)</title>
-    <title lang="xx">PENGUMUMAN WAKTU IMSAK (7 RAMADAN)</title>
-  </programme>
-  <programme start="20240318210000 +0000" stop="20240318230000 +0000" channel="TV2">
-    <title lang="en">Satu Hari Di Bulan Puasa</title>
-    <desc lang="en">Iwan dan isterinya Wati, pulang ke kampung menyambut Ramadan setelah Wati kecewa kerana diberhentikan kerja. Ramlah, ibu Wati yang mengusahakan perniagaan Bahulu gembira dengan kepulangan anak dan menantunya. Ini kerana Ramlah kebetulan mencari pembantu. Ramlah menyuruh anak dan menantunya tinggal sahaja di kampung untuk membantunya. Satu hari, terjadinya kejadian yang tak diingini kepada Bahulu yang mereka hantar hingga terpaksa membuat perjanjian dengan Mamat untuk dapatkan kembali Bahulu tersebut. Lakonan : Fahrin Ahmad, Tunku Hanis dan Zara Zya.</desc>
-  </programme>
-  <programme start="20240318230000 +0000" stop="20240319000000 +0000" channel="TV2">
-    <title lang="en">Tere Bina Jiya Jaye Na</title>
-    <desc lang="en">Kisah mengenai Krisha, seorang graduan hospitaliti yang cuba sedaya upaya untuk membuktikan dirinya dan membantu keluarganya dari segi kewangan dengan bekerja di hotel diraja rakan bapanya, di Udaipur. Kehidupan Krisha amat sempurna dan bahagia apabila dia berkahwin dengan cintanya, Devraj. Walau bagaimanapun, tidak lama kemudian, dia mendapati dirinya terjebak dalam kehidupan yang penuh dengan pembohongan dan penipuan. Lakonan : Avinesh Rekhi, Anjali Tatrari, Rakshanda Khan.</desc>
-    <episode-num system="onscreen">E18</episode-num>
+  <programme start="20240326220000 +0000" stop="20240327000000 +0000" channel="TV1">
+    <title lang="en">Dunia 10</title>
+    <desc lang="en">Memaparkan berita dan peristiwa yang berlaku di seluruh dunia.</desc>
   </programme>
   <programme start="20240319000000 +0000" stop="20240319003000 +0000" channel="TV2">
     <title lang="en">Sudip Pusing Dunia</title>
@@ -2892,211 +2623,178 @@
     <desc lang="en">Kisah mengenai Krisha, seorang graduan hospitaliti yang cuba sedaya upaya untuk membuktikan dirinya dan membantu keluarganya dari segi kewangan dengan bekerja di hotel diraja rakan bapanya, di Udaipur. Kehidupan Krisha amat sempurna dan bahagia apabila dia berkahwin dengan cintanya, Devraj. Walau bagaimanapun, tidak lama kemudian, dia mendapati dirinya terjebak dalam kehidupan yang penuh dengan pembohongan dan penipuan. Lakonan : Avinesh Rekhi, Anjali Tatrari, Rakshanda Khan.</desc>
     <episode-num system="onscreen">E23</episode-num>
   </programme>
-  <programme start="20240318000000 +0000" stop="20240318000500 +0000" channel="Okey">
-    <title lang="en">Waktu Imsak</title>
-    <desc lang="en">Waktu Imsak.</desc>
-  </programme>
-  <programme start="20240318000500 +0000" stop="20240318003000 +0000" channel="Okey">
-    <title lang="en">Klip Video</title>
-    <desc lang="en">Seleksi klip-klip video terbaik untuk anda.</desc>
-  </programme>
-  <programme start="20240318003000 +0000" stop="20240318010000 +0000" channel="Okey">
-    <title lang="en">Cerita Makan RHYS William</title>
-    <desc lang="en">Rhys William akan mengunjungi pelbagai restoran untuk mencuba makanan terbaik.</desc>
-  </programme>
-  <programme start="20240318010000 +0000" stop="20240318013000 +0000" channel="Okey">
-    <title lang="en">Sirah Anbiya</title>
-    <desc lang="en">Sebuah rancangan khas untuk tontonan anda sempena bulan Ramadhan ini.</desc>
-  </programme>
-  <programme start="20240318013000 +0000" stop="20240318020000 +0000" channel="Okey">
-    <title lang="en">Hello Sunset</title>
-    <desc lang="en">Myra dalam eksplorasinya ke destinasi melihat fenomena matahari terbenam yang tercantik di Malaysia dan lokasi-lokasi menarik yang terdapat di sekitarnya.</desc>
-  </programme>
-  <programme start="20240318020000 +0000" stop="20240318023000 +0000" channel="Okey">
-    <title lang="en">Di Sebalik Wajah</title>
-    <desc lang="en">Program ini memaparkan permasalahan kesihatan mental yang semakin meluas di kalangan masyarakat dunia hari ini dilihat daripada perspektif di Malaysia.</desc>
-  </programme>
-  <programme start="20240318023000 +0000" stop="20240318030000 +0000" channel="Okey">
-    <title lang="en">We Live Here</title>
-    <desc lang="en">Sebuah rancangan yang menarik untuk tontonan anda.</desc>
-    <episode-num system="onscreen">E13</episode-num>
-  </programme>
-  <programme start="20240318030000 +0000" stop="20240318040000 +0000" channel="Okey">
-    <title lang="en">Seputih Cinta Rangbulan</title>
-    <desc lang="en">Sebuah drama cinta yang turut meneroka elemen kemasyarakatan, sosio budaya negeri Sabah dilakonkan oleh Fezrul Khan, Dayana Roza, Fasha Sandha dan ramai lagi.</desc>
-    <episode-num system="onscreen">E31</episode-num>
-  </programme>
-  <programme start="20240318040000 +0000" stop="20240318040500 +0000" channel="Okey">
-    <title lang="en">Waktu Imsak</title>
-    <desc lang="en">Waktu Imsak.</desc>
-  </programme>
-  <programme start="20240318040500 +0000" stop="20240318043000 +0000" channel="Okey">
-    <title lang="en">Memberi Tanpa Sempadan</title>
-    <desc lang="en">Sebuah program yang memartabatkan wira-wira yang tidak didendang dalam usaha mereka membantu golongan yang memerlukan tanpa mengharapkan sebarang balasan.</desc>
-  </programme>
-  <programme start="20240318043000 +0000" stop="20240318050000 +0000" channel="Okey">
-    <title lang="en">School Bus Heroes</title>
-    <desc lang="en">Sebuah rancangan berbahasa Inggeris yang memberikan motivasi kepada penonton di rumah.</desc>
-    <episode-num system="onscreen">E21</episode-num>
-  </programme>
-  <programme start="20240318050000 +0000" stop="20240318053000 +0000" channel="Okey">
-    <title lang="en">Secawan Kopi</title>
-    <desc lang="en">Bersama Ruhainies yang akan melawat ke pelbagai lokasi menarik untuk menikmati secawan kopi.</desc>
-  </programme>
-  <programme start="20240318053000 +0000" stop="20240318060000 +0000" channel="Okey">
-    <title lang="en">Dunia Femina</title>
-    <desc lang="en">Bersama Fiza Frizzy yang akan menjemput seorang tetamu untuk berkongsi pelbagai tip kecantikan seorang wanita.</desc>
-  </programme>
-  <programme start="20240318060000 +0000" stop="20240318060500 +0000" channel="Okey">
-    <title lang="en">Klip Video</title>
-    <desc lang="en">Lagu Negaraku dan klip-klip video terbaik untuk anda.</desc>
-  </programme>
-  <programme start="20240318060500 +0000" stop="20240318080000 +0000" channel="Okey">
-    <title lang="en">Tahyatul Akhir</title>
-    <desc lang="en">Sebuah telemovie yang sarat dengan pengajaran untuk tontonan anda.</desc>
-  </programme>
-  <programme start="20240318080000 +0000" stop="20240318090000 +0000" channel="Okey">
-    <title lang="en">Seputih Cinta Rangbulan</title>
-    <desc lang="en">Sebuah drama cinta yang turut meneroka elemen kemasyarakatan, sosio budaya negeri Sabah dilakonkan oleh Fezrul Khan, Dayana Roza, Fasha Sandha dan ramai lagi.</desc>
-    <episode-num system="onscreen">E32</episode-num>
-  </programme>
-  <programme start="20240318090000 +0000" stop="20240318100000 +0000" channel="Okey">
-    <title lang="en">Kelas @ Rumah</title>
-    <desc lang="en">Sebuah program yang membantu pelajar untuk mengulangkaji pelajaran mengikut subjek yang ditetapkan.</desc>
-    <episode-num system="onscreen">E42</episode-num>
-  </programme>
-  <programme start="20240318100000 +0000" stop="20240318103000 +0000" channel="Okey">
-    <title lang="en">Dapur Berkuap</title>
-    <desc lang="en">Melihat keupayaan tetamu jemputan dalam menghasilkan menu yang mudah tapi menyelerakan dan bakal dinilai oleh Chef Dee Dee.</desc>
-  </programme>
-  <programme start="20240318103000 +0000" stop="20240318104500 +0000" channel="Okey">
-    <title lang="en">i Kadazan</title>
-    <desc lang="en">Saksikan berita dalam bahasa Kadazan.</desc>
-  </programme>
-  <programme start="20240318104500 +0000" stop="20240318110000 +0000" channel="Okey">
-    <title lang="en">i-Iban</title>
-    <desc lang="en">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Iban.</desc>
-  </programme>
-  <programme start="20240318110000 +0000" stop="20240318113000 +0000" channel="Okey">
-    <title lang="en">Hidangan Bajet Mewah</title>
-    <desc lang="en">Bersama Fendi Mohammad yang akan berkongsi resepi masakan dengan harga bajet namun dihias dengan mewah yang mengikut tema setiap minggu.</desc>
+  <programme start="20240326000000 +0000" stop="20240326003000 +0000" channel="TV2">
+    <title lang="en">Sudip Pusing Dunia</title>
+    <desc lang="en">Majalah travelog masakan yang dihoskan oleh Jaa Suzuran serta co-hos seorang warganeragara Malaysia yang menetap di United Kingdom dan Sepanyol, memasak beberapa resepi berbuka puasa serta memperkenalkan tempat-tempat menarik serta di lokasi penggambaran.</desc>
     <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20240318113000 +0000" stop="20240318120000 +0000" channel="Okey">
-    <title lang="en">#Laman Bajet</title>
-    <desc lang="en">Berkongsi pelbagai tips bajet untuk menghias laman yang dapat menjadi inspirasi kepada penonton.</desc>
+  <programme start="20240326003000 +0000" stop="20240326012500 +0000" channel="TV2">
+    <title lang="en">Di Hujung Ranting</title>
+    <desc lang="en">Semasa berada di pasaraya, Mawar tiba-tiba pengsan. Amar yang kebetulan berada di situ telah membawanya ke klinik dan Mawar di dapati mengandung. Mawar meminta Amar merahsiakan perkara tersebut. Mawar mendapat tahu bahawa Hakim dan Fatin adalah suami isteri. Dia terkejut dan meminta penjelasan daripada Yanti. Lakonan : Shukri Yahaya, Dayang Areeda, Nad Zainal dan Amar Asyraf.</desc>
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme start="20240326012500 +0000" stop="20240326013000 +0000" channel="TV2">
+    <title lang="en">PENGUMUMAN WAKTU IMSAK (15 RAMADAN)</title>
+    <title lang="xx">PENGUMUMAN WAKTU BERBUKA PUASA (6 RAMADAN)</title>
+  </programme>
+  <programme start="20240326013000 +0000" stop="20240326020000 +0000" channel="TV2">
+    <title lang="en">La Tahzan</title>
+    <desc lang="en">Doku-drama yang memaparkan kisah-kisah kehidupan manusia yang tersasar daripada kebenaran namun cuba untuk memperbaiki sahsiah juga akidah berlandaskan ajaran agama Islam.</desc>
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme start="20240326020000 +0000" stop="20240326023000 +0000" channel="TV2">
+    <title lang="en">Ivara En Appa</title>
+    <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.</desc>
+  </programme>
+  <programme start="20240326023000 +0000" stop="20240326030000 +0000" channel="TV2">
+    <title lang="en">Sekuriti</title>
+    <title lang="xx">Drama Tamil - Sekuriti</title>
+    <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.</desc>
+  </programme>
+  <programme start="20240326030000 +0000" stop="20240326040000 +0000" channel="TV2">
+    <title lang="en">Vengeance Code</title>
+    <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.</desc>
     <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20240318120000 +0000" stop="20240318123000 +0000" channel="Okey">
-    <title lang="en">Masak Sana Sini New York</title>
-    <desc lang="en">Nabila Huda berkelana ke bumi New York bersama rakyat Malaysia yang telah menetap di sana untuk memasak pelbagai juadah bagi berbuka puasa.</desc>
+  <programme start="20240326040000 +0000" stop="20240326043000 +0000" channel="TV2">
+    <title lang="en">Bale Balle Chakde</title>
+    <desc lang="en">Rancangan hiburan dan informasi dengan pelbagai segmen mengenai industri hiburan tempatan dan dunia perfileman Bollywood.</desc>
+    <episode-num system="onscreen">E25</episode-num>
   </programme>
-  <programme start="20240318123000 +0000" stop="20240318130000 +0000" channel="Okey">
-    <title lang="en">Dunia Silat Nusantara</title>
-    <desc lang="en">Sebuah dokumentari mengenai Pertubuhan Seni Silat Gayong Fatani (PSSGF) yang diasaskan oleh Tuan Guru Haji Anuar Abdul Wahab pada tahun 1976.</desc>
+  <programme start="20240326043000 +0000" stop="20240326050000 +0000" channel="TV2">
+    <title lang="en">Ronda-Ronda Ramadan</title>
+    <desc lang="en">Ronda-Ronda Ramadan adalah sebuah program travelog yang mencari apa yang viral, apa yang menarik dan apa yang popular di seluruh Malaysia sepanjang bulan puasa. Nen Tebabo akan membawa penonton menjelajahi tanah air kita dengan juadah berbuka dan sahur yang menarik bersama chef berkaliber dan rakan-rakan artis.</desc>
+    <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20240318130000 +0000" stop="20240318140000 +0000" channel="Okey">
-    <title lang="en">Kelas @ Rumah</title>
-    <desc lang="en">Sebuah program yang membantu pelajar untuk mengulangkaji pelajaran mengikut subjek yang ditetapkan.</desc>
-    <episode-num system="onscreen">E46</episode-num>
+  <programme start="20240326050000 +0000" stop="20240326060000 +0000" channel="TV2">
+    <title lang="en">Geng Tadarus</title>
+    <desc lang="en">Drama komedi yang memaparkan Arlene, bekas ratu cantik yang kehilangan suami dan anak dalam nahas kapal terbang. Arlene sunyi lalu dia menghubungi rakan-rakan sekolahnya melalui media sosial. Arlene yang sudah berhijab 5 tahun lalu sering menghabiskan masa bersama rakan-rakannya. Arlene mahu memantapkan lagi ilmu agama seiring penghijrahannya lalu mereka bersepakat untuk menubuhkan ‘Geng Tadarus’. Lakonan : Reen Rahim, Syakilla Khoriri, Tasya Yong, Ieda Moin, Harris Baba, Liza Abdullah, Tash Yong dan Ashraf Muslim.</desc>
+    <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20240318140000 +0000" stop="20240318141500 +0000" channel="Okey">
-    <title lang="en">i-Bajau</title>
-    <desc lang="en">Memaparkan perkembangan berita dalam bahasa etnik Bajau.</desc>
+  <programme start="20240326060000 +0000" stop="20240326060200 +0000" channel="TV2">
+    <title lang="en">Pembukaan - Negaraku</title>
+    <desc lang="en">Lagu Negaraku.</desc>
   </programme>
-  <programme start="20240318141500 +0000" stop="20240318142000 +0000" channel="Okey">
-    <title lang="en">Waktu Berbuka/Imsak</title>
-    <desc lang="en">Waktu Berbuka/Imsak.</desc>
+  <programme start="20240326060200 +0000" stop="20240326070000 +0000" channel="TV2">
+    <title lang="en">Nyawa Berganti Cinta</title>
+    <desc lang="en">Arianna sedih ibu bapanya menolak tawaran Dr. Izhar yang telah menjumpai penderma buah pinggang untuknya. Lakonan : Azlee Khairi, Aishah Azman, Norkhiriah, Azhari Khairudin, Shiela Mambo dan Nana Shukri.</desc>
+    <episode-num system="onscreen">E14</episode-num>
   </programme>
-  <programme start="20240318142000 +0000" stop="20240318143000 +0000" channel="Okey">
-    <title lang="en">Klip Video</title>
-    <desc lang="en">Seleksi klip-klip video terbaik untuk anda.</desc>
+  <programme start="20240326070000 +0000" stop="20240326073000 +0000" channel="TV2">
+    <title lang="en">Megatik</title>
+    <desc lang="en">Profesor Hitam menggunakan hasil penyelidikannya untuk menghuru-harakan kota Unggas. Walau bagaimanapun tindakannya berjaya dihalang oleh Mat Pos dan Jojo yang bertukar menjadi Megatik iaitu Mega Merah dan Mega Unggu yang mempunyai kuasa luar biasa.</desc>
   </programme>
-  <programme start="20240318143000 +0000" stop="20240318152500 +0000" channel="Okey">
-    <title lang="en">Kasih Nelisa</title>
-    <desc lang="en">Tindakan seorang ayah yang memberikan kesan negatif kepada anaknya yang menyangka ayahnya tidak menyayanginya.</desc>
+  <programme start="20240326073000 +0000" stop="20240326080000 +0000" channel="TV2">
+    <title lang="en">Planet Saga</title>
+    <desc lang="en">Animasi yang mengisahkan kerenah pelbagai makhluk asing yang tinggal di sebuah planet bernama Planet Saga.</desc>
+    <episode-num system="onscreen">E14</episode-num>
   </programme>
-  <programme start="20240318152500 +0000" stop="20240318153000 +0000" channel="Okey">
-    <title lang="en">Waktu Berbuka/Imsak</title>
-    <desc lang="en">Waktu Berbuka/Imsak.</desc>
+  <programme start="20240326080000 +0000" stop="20240326083000 +0000" channel="TV2">
+    <title lang="en">Matt</title>
+    <desc lang="en">Ikuti kisah Tam, Achai, Dad dan Matt yang merupakan motor lumba berkuasa tinggi menangani pelbagai masalah yang sering mengganggu kawasan perumahan mereka.</desc>
+    <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20240318153000 +0000" stop="20240318160000 +0000" channel="Okey">
-    <title lang="en">Mesmerising Malaysia</title>
-    <desc lang="en">Bersama Thanuja Ananthan bersama tetamu jemputan akan melawat ke pelbagai lokasi yang menarik.</desc>
+  <programme start="20240326083000 +0000" stop="20240326090000 +0000" channel="TV2">
+    <title lang="en">Cerita Ramadhan Hazim</title>
+    <desc lang="en">Kisah kesungguhan Hazim, memenuhi impian Paksunya untuk mengembalikan kemeriahan ramadan dan syawal seperti ketika arwah datuk dan neneknya masih ada dengan menyatukan keluarganya yang renggang. Lakonan : Harris Latif, Kodi Rasheed, Mia Ahmad, Sariyanti, Syafie Naswip dan Adam Shahz.</desc>
+    <episode-num system="onscreen">E14</episode-num>
   </programme>
-  <programme start="20240318160000 +0000" stop="20240318163000 +0000" channel="Okey">
-    <title lang="en">Hello Trend</title>
-    <desc lang="en">Cik Manggis akan berkongsi tips dan cara berfesyen di samping berkongsi gaya hidup yang sihat.</desc>
+  <programme start="20240326090000 +0000" stop="20240326100000 +0000" channel="TV2">
+    <title lang="en">Korban Kasih</title>
+    <desc lang="en">Wah! Jamil ada berita gembira. Tapi, kenapa pula Jalil nak pajakkan tanah sawah? Surat apa yang Jalil terima tu? Marah benar Norizah pada Jalil! Apa pula kali ni? Lakonan : Saharul Ridzwan, Azrel Ismail, Zara Zya, Dynas Mokhtar, Hasnul Rahmat, Ezzaty Abdullah, Ummi Nazeera, Nadiyah Shahab, Dato’ Ahmad Tamimi Siregar dan Sheila Mambo.</desc>
+    <episode-num system="onscreen">E12</episode-num>
   </programme>
-  <programme start="20240318163000 +0000" stop="20240318170000 +0000" channel="Okey">
-    <title lang="en">I Love Cake</title>
-    <desc lang="en">Cef Naem bersama selebriti jemputan, Zizi Kirana akan berkongsi ramuan dan resipi untuk membuat kek.</desc>
+  <programme start="20240326100000 +0000" stop="20240326110000 +0000" channel="TV2">
+    <title lang="en">Olive Green Pan</title>
+    <desc lang="en">Sebuah rancangan membeli belah melalui talian khas untuk anda.</desc>
   </programme>
-  <programme start="20240318170000 +0000" stop="20240318173000 +0000" channel="Okey">
-    <title lang="en">Selebriti Balik   Kampung</title>
-    <desc lang="en">Artis terpilih akan bersama peminat setia mereka dan akan melakukan aktiviti-aktiviti unik di kampung halaman artis tersebut.</desc>
+  <programme start="20240326110000 +0000" stop="20240326113000 +0000" channel="TV2">
+    <title lang="en">Bale Balle Chakde</title>
+    <desc lang="en">Rancangan hiburan dan informasi dengan pelbagai segmen mengenai industri hiburan tempatan dan dunia perfileman Bollywood.</desc>
+    <episode-num system="onscreen">E26</episode-num>
   </programme>
-  <programme start="20240318173000 +0000" stop="20240318175500 +0000" channel="Okey">
-    <title lang="en">Glamnista</title>
-    <desc lang="en">Sebuah rancangan yang memberikan inspirasi kepada penonton di rumah.</desc>
-  </programme>
-  <programme start="20240318175500 +0000" stop="20240318180000 +0000" channel="Okey">
-    <title lang="en">Waktu Berbuka/Imsak</title>
-    <desc lang="en">Waktu Berbuka/Imsak.</desc>
-  </programme>
-  <programme start="20240318180000 +0000" stop="20240318183000 +0000" channel="Okey">
-    <title lang="en">Dapur Latino</title>
-    <desc lang="en">Cef Nik Michael dan Daniella menyediakan juadah masakan tempatan negara Argentina iaitu 'Chumichurri' sejenis sos yang terkenal di negara itu.</desc>
-  </programme>
-  <programme start="20240318183000 +0000" stop="20240318184500 +0000" channel="Okey">
-    <title lang="en">i-Iban</title>
-    <desc lang="en">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Iban.</desc>
-  </programme>
-  <programme start="20240318184500 +0000" stop="20240318190000 +0000" channel="Okey">
-    <title lang="en">i-Dusun</title>
-    <desc lang="en">Memaparkan perkembangan berita di Sabah dalam bahasa etnik Dusun.</desc>
-  </programme>
-  <programme start="20240318190000 +0000" stop="20240318193000 +0000" channel="Okey">
-    <title lang="en">Al-Mulk Nusantara</title>
-    <desc lang="en">Saksikan dokumentari Islam yang memaparkan pelbagai maklumat dan informasi.</desc>
-  </programme>
-  <programme start="20240318193000 +0000" stop="20240318200000 +0000" channel="Okey">
-    <title lang="en">Dunia Baharu</title>
-    <desc lang="en">Sebuah program majalah inspirasi dan motivasi yang memaparkan kisah-kisah individu yang bangkit daripada musibah, kemalangan dan kekecewaan.</desc>
-  </programme>
-  <programme start="20240318200000 +0000" stop="20240318203000 +0000" channel="Okey">
-    <title lang="en">Tak Popular Tapi Berbisa</title>
-    <desc lang="en">Menelusuri keindahan dan keunikan yang terdapat di tempat yang dilawati oleh pengacara di mana tempat itu amat jarang dikunjungi oleh orang ramai dan agak tersembunyi.</desc>
-  </programme>
-  <programme start="20240318203000 +0000" stop="20240318210000 +0000" channel="Okey">
-    <title lang="en">Lensa Deko</title>
-    <desc lang="en">Bersama Zoey dah Shahreen akan mengunjungi sebuah rumah untuk mengubahsuai dekorasi dan hiasan dalaman.</desc>
-  </programme>
-  <programme start="20240318210000 +0000" stop="20240318220000 +0000" channel="Okey">
-    <title lang="en">Janji Di Bawah Pokok Ceri</title>
-    <desc lang="en">Mengisahkan tentang seorang pemuda yang ingin mengejar cita-cita menjadi penyanyi terkenal tapi terhalang dek masa lampau.</desc>
+  <programme start="20240326113000 +0000" stop="20240326120000 +0000" channel="TV2">
+    <title lang="en">Ladies First</title>
+    <desc lang="en">Rancangan majalah yang memaparkan petua untuk meningkatkan tahap keyakinan golongan wanita dari segi fesyen, imej baharu, kesihatan tubuh badan dan pemakanan sihat.</desc>
     <episode-num system="onscreen">E13</episode-num>
   </programme>
-  <programme start="20240318220000 +0000" stop="20240318223000 +0000" channel="Okey">
-    <title lang="en">Kan Dah Kena</title>
-    <desc lang="en">Sebuah rancangan menarik untuk tonton anda.</desc>
+  <programme start="20240326120000 +0000" stop="20240326122000 +0000" channel="TV2">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Ikuti berita berbahasa Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
   </programme>
-  <programme start="20240318223000 +0000" stop="20240318223500 +0000" channel="Okey">
-    <title lang="en">Waktu Imsak</title>
-    <desc lang="en">Waktu Imsak.</desc>
+  <programme start="20240326122000 +0000" stop="20240326123000 +0000" channel="TV2">
+    <title lang="en">Galeri Mandarin</title>
+    <desc lang="en">Rancangan berbentuk majalah berbahasa Mandarin yang memaparkan aktiviti dan kegiatan semasa masyarakat.</desc>
+    <episode-num system="onscreen">E62</episode-num>
   </programme>
-  <programme start="20240318223500 +0000" stop="20240318230000 +0000" channel="Okey">
-    <title lang="en">Geokrasi</title>
-    <desc lang="en">Pengembaraan ke 13 Geopark dan Geotapak di seluruh Malaysia serta cuba memahami tentang aspek geologi batuan dan tanah yang terbentuk disitu, fisiologi dan moforlogi.</desc>
-    <episode-num system="onscreen">E10</episode-num>
+  <programme start="20240326123000 +0000" stop="20240326130000 +0000" channel="TV2">
+    <title lang="en">World Today</title>
+    <desc lang="en">World Today, brings you the latest news of national interest and trending international issues.</desc>
   </programme>
-  <programme start="20240318230000 +0000" stop="20240318233000 +0000" channel="Okey">
-    <title lang="en">Selera Milenia</title>
-    <desc lang="en">Eric &amp; Ayie (Floor 88) ke restoran dan lokasi menarik yang terdapat di Malaysia sambil berkongsi resipi-resipi istimewa bersama tetamu/selebriti undangan.</desc>
+  <programme start="20240326130000 +0000" stop="20240326135500 +0000" channel="TV2">
+    <title lang="en">Wasiat dari Jordan</title>
+    <desc lang="en">Dato' Nasir, seorang ahli korporat yang berjaya memiliki segalanya dan hidup bahagia seperti keluarga lain. Suatu hari doktor mengesahkan dia mengidap kanser, isterinya Khadijah terjumpa sekeping deraf wasiat yang telah mengubah sikap isteri dan anak-anaknya. Mereka tidak dapat menerima hakikat Dato' Nasir mempunyai keluarga lain dan menuduhnya mengkhianati mereka selama ini. Lakonan : Aprena Manrose, Hazman Al-Idrus, Badrul Muhayat, Nissa Rissa dan Liza Rafar.</desc>
   </programme>
-  <programme start="20240318233000 +0000" stop="20240319000000 +0000" channel="Okey">
-    <title lang="en">Travel Like Traveller</title>
-    <desc lang="en">Nabila Asyiqin dari Kilometer 0.00, Teluk Melano, Sarawak hingga ke Tip of Borneo, Kudat, Sabah sambil melawat lokasi-lokasi menarik dan bersejarah.</desc>
+  <programme start="20240326135500 +0000" stop="20240326140000 +0000" channel="TV2">
+    <title lang="en">PENGUMUMAN WAKTU BERBUKA PUASA  (15 RAMADAN)</title>
+    <title lang="xx">PENGUMUMAN WAKTU BERBUKA PUASA (6 RAMADAN)</title>
+  </programme>
+  <programme start="20240326140000 +0000" stop="20240326150000 +0000" channel="TV2">
+    <title lang="en">Teratak Cinta</title>
+    <desc lang="en">Haji Ayob berjumpa Sumayyah. Sejak akhir-akhir ini, Sumayyah banyak diamkan diri. Haji Ayob tanya Sumayyah tentang Daniel Hakim. Walaupun Daniel Hakim masih mendalami Islam tapi Haji Ayob yakin Daniel Hakim dapat jadi ketua keluarga yang baik. Sumayyah terkejut. Dah tiba masanya untuk Sumayyah mencari kebahagiaan untuk dirinya sendiri. Hati dan perasaan dicipta untuk saling sayang menyayangi bukan untuk disakiti. Lakonan: Dayang Areeda, Ali Reza, Taufiq Hanafi, Shakilla Khoriri, Kuniey Muzani dan Riezman Khuzaimi.</desc>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20240326150000 +0000" stop="20240326160000 +0000" channel="TV2">
+    <title lang="en">Brindavanam</title>
+    <desc lang="en">Rajan telah kehilangan isterinya, Kalyani namun memori bersama isterinya tidak dapat dilupakan. Satu Ketika dahulu, anaknya Rakesh sentiasa menjaga Rajan dengan penuh kasih sayang. Namun kini, Rajan tinggal bersama rakan-rakan di Brindavanam. Sebelum di hantar ke pusat jagaan, Rajan mengalami gangguan emosi dan beranggapan bahawa isterinya masih bersama dengannya walaupun dia telah meninggal dunia. Lakonan : Gantheeban, Chitambaram, Punitha, Navina, Datuk Jalaluddin Hassan dan Gunasekaran.</desc>
+  </programme>
+  <programme start="20240326160000 +0000" stop="20240326170000 +0000" channel="TV2">
+    <title lang="en">Missing In Possible</title>
+    <desc lang="en">Mengisahkan tentang sepasang adik-beradik seperguruan yang mengusahakan perniagaan fengshui. Guru mereka kemurungan dan meninggal dunia setelah adik seperguruan bongsunya mencuri kitab warisan mereka. Lakonan : Ruby, Wilson Lee dan Eric Chen.</desc>
+  </programme>
+  <programme start="20240326170000 +0000" stop="20240326173000 +0000" channel="TV2">
+    <title lang="en">Oh My Netizen</title>
+    <desc lang="en">Sofia bangga dengan kemewahan hidup yang dijalani dan turut memandang rendah terhadap adiknya yang hidup dalam serba kekurangan. Sofia juga sering menunjuk-nunjuk gaya hidup mewahnya di media sosial sehingga menjadi perbualan ramai. Tanpa disedari, suaminya telah melakukan pecah amanah di syarikat tempatnya bekerja menyebabkan suaminya itu jatuh bankrap dan rumah mereka terpaksa disita. Lakonan : Ku Frida Ku Shafie, Amai Kamarudin, Mimi Ernid dan Shaf Nautas.</desc>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20240326173000 +0000" stop="20240326180000 +0000" channel="TV2">
+    <title lang="en">Borak Tengah Lapar</title>
+    <desc lang="en">Ramadan yang ditunggu- tunggu kini dah tiba dan Borak Tengah Lapar (BTL) menyegarkan puasa anda dengan borak santai yang penuh isi bersama tetamu undangan setiap hari sepanjang bulan Ramadan membincangkan topik yang sangat relevan dengan masyarakat.</desc>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20240326180000 +0000" stop="20240326185500 +0000" channel="TV2">
+    <title lang="en">Nyawa Berganti Cinta</title>
+    <desc lang="en">Ariana dan Rizman gembira apabila Muaz tidak jadi untuk mengahwini Ariana. Namun, ayah Ariana tetap tidak menerima Rizman sebagai menantunya. Nasya merancang menjodohkan Dr. Fatimah dengan sepupunya, Dr. Kamal tetapi Badrol tidak setuju kerana dia menyukai Dr. Fatimah. Lakonan : Azlee Khairi, Aishah Azman, Norkhiriah, Azhari Khairudin, Shiela Mambo dan Nana Shukri.</desc>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20240326185500 +0000" stop="20240326190000 +0000" channel="TV2">
+    <title lang="en">PENGUMUMAN WAKTU BERBUKA PUASA  (15 RAMADAN)</title>
+    <title lang="xx">PENGUMUMAN WAKTU BERBUKA PUASA (6 RAMADAN)</title>
+  </programme>
+  <programme start="20240326190000 +0000" stop="20240326193000 +0000" channel="TV2">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Berita berbahasa Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+  </programme>
+  <programme start="20240326193000 +0000" stop="20240326200000 +0000" channel="TV2">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+  </programme>
+  <programme start="20240326200000 +0000" stop="20240326205500 +0000" channel="TV2">
+    <title lang="en">Jefri Zain</title>
+    <desc lang="en">Pak Hashim memulakan kelas persilatan. Jefri mengesyaki Kapten Azlan terlibat dalam sindiket duit palsu tersebut tapi kekurangan bukti. Ibu dan kakak Jefri datang tiba-tiba ke akademi. Lakonan : Ali Reza, Fify Azmin, Dafi dan Rusdi Ramli.</desc>
+  </programme>
+  <programme start="20240326205500 +0000" stop="20240326210000 +0000" channel="TV2">
+    <title lang="en">PENGUMUMAN WAKTU IMSAK (16 RAMADAN)</title>
+    <title lang="xx">PENGUMUMAN WAKTU BERBUKA PUASA (6 RAMADAN)</title>
+  </programme>
+  <programme start="20240326210000 +0000" stop="20240326230000 +0000" channel="TV2">
+    <title lang="en">Cinta Untukku</title>
+    <desc lang="en">Indah difitnah dan ditangkap khalwat bersama Rizqi yang merupakan kekasih kakaknya, Mawar. Bagi membersihkan nama baik keluarga mereka, Indah dikahwinkan dengan Rizqi. Indah kesal dengan kejadian itu kerana beliau gagal menunaikan amanat kakaknya supaya menjaga Rizqi malah mengambil Rizqi daripada kakaknya. Lakonan : Elfira Loy, Aedy Ashraf dan Husna Mustafa.</desc>
+  </programme>
+  <programme start="20240326230000 +0000" stop="20240327000000 +0000" channel="TV2">
+    <title lang="en">Tere Bina Jiya Jaye Na</title>
+    <desc lang="en">Kisah mengenai Krisha, seorang graduan hospitaliti yang cuba sedaya upaya untuk membuktikan dirinya dan membantu keluarganya dari segi kewangan dengan bekerja di hotel diraja rakan bapanya, di Udaipur. Kehidupan Krisha amat sempurna dan bahagia apabila dia berkahwin dengan cintanya, Devraj. Walau bagaimanapun, tidak lama kemudian, dia mendapati dirinya terjebak dalam kehidupan yang penuh dengan pembohongan dan penipuan. Lakonan : Avinesh Rekhi, Anjali Tatrari, Rakshanda Khan.</desc>
+    <episode-num system="onscreen">E24</episode-num>
   </programme>
   <programme start="20240319000000 +0000" stop="20240319000500 +0000" channel="Okey">
     <title lang="en">Waktu Imsak</title>
@@ -3376,14 +3074,26 @@
     <title lang="en">Pewaris Artifak</title>
     <desc lang="en">Hos akan melihat keindahan artifak dan tinggalan sejarah yang indah di pelbagai lokasi pilihan.</desc>
   </programme>
-  <programme start="20240320130000 +0000" stop="20240320142000 +0000" channel="Okey">
+  <programme start="20240320130000 +0000" stop="20240320140000 +0000" channel="Okey">
     <title lang="en">Kelas @ Rumah</title>
     <desc lang="en">Sebuah program yang membantu pelajar untuk mengulangkaji pelajaran mengikut subjek yang ditetapkan.</desc>
     <episode-num system="onscreen">E49</episode-num>
   </programme>
-  <programme start="20240320142000 +0000" stop="20240320152500 +0000" channel="Okey">
+  <programme start="20240320140000 +0000" stop="20240320141500 +0000" channel="Okey">
+    <title lang="en">i-Bajau</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam bahasa etnik Bajau.</desc>
+  </programme>
+  <programme start="20240320141500 +0000" stop="20240320142000 +0000" channel="Okey">
+    <title lang="en">Waktu Berbuka/Imsak</title>
+    <desc lang="en">Waktu Berbuka/Imsak.</desc>
+  </programme>
+  <programme start="20240320142000 +0000" stop="20240320143000 +0000" channel="Okey">
     <title lang="en">Klip Video</title>
     <desc lang="en">Seleksi klip-klip video terbaik untuk anda.</desc>
+  </programme>
+  <programme start="20240320143000 +0000" stop="20240320152500 +0000" channel="Okey">
+    <title lang="en">Kasih Nelisa</title>
+    <desc lang="en">Tindakan seorang ayah yang memberikan kesan negatif kepada anaknya yang menyangka ayahnya tidak menyayanginya.</desc>
   </programme>
   <programme start="20240320152500 +0000" stop="20240320153000 +0000" channel="Okey">
     <title lang="en">Waktu Berbuka/Imsak</title>
@@ -4300,199 +4010,247 @@
     <title lang="en">Bercuti Bersama Sherry</title>
     <desc lang="en">Bersama Sherry Al Hadad yang akan membawa penonton bercuti ke pelbagai lokasi menarik.</desc>
   </programme>
-  <programme start="20240325000000 +0000" stop="20240325060000 +0000" channel="Okey">
+  <programme start="20240325000000 +0000" stop="20240325000500 +0000" channel="Okey">
+    <title lang="en">Waktu Imsak</title>
+    <desc lang="en">Waktu Imsak.</desc>
+  </programme>
+  <programme start="20240325000500 +0000" stop="20240325003000 +0000" channel="Okey">
     <title lang="en">Klip Video</title>
     <desc lang="en">Seleksi klip-klip video terbaik untuk anda.</desc>
   </programme>
-  <programme start="20240325060000 +0000" stop="20240325103000 +0000" channel="Okey">
+  <programme start="20240325003000 +0000" stop="20240325010000 +0000" channel="Okey">
+    <title lang="en">Cerita Makan RHYS William</title>
+    <desc lang="en">Rhys William akan mengunjungi pelbagai restoran untuk mencuba makanan terbaik.</desc>
+  </programme>
+  <programme start="20240325010000 +0000" stop="20240325013000 +0000" channel="Okey">
+    <title lang="en">Sirah Anbiya</title>
+    <desc lang="en">Sebuah rancangan khas untuk tontonan anda sempena bulan Ramadhan ini.</desc>
+  </programme>
+  <programme start="20240325013000 +0000" stop="20240325020000 +0000" channel="Okey">
+    <title lang="en">Hello Sunset</title>
+    <desc lang="en">Myra dalam eksplorasinya ke destinasi melihat fenomena matahari terbenam yang tercantik di Malaysia dan lokasi-lokasi menarik yang terdapat di sekitarnya.</desc>
+  </programme>
+  <programme start="20240325020000 +0000" stop="20240325023000 +0000" channel="Okey">
+    <title lang="en">Di Sebalik Wajah</title>
+    <desc lang="en">Program ini memaparkan permasalahan kesihatan mental yang semakin meluas di kalangan masyarakat dunia hari ini dilihat daripada perspektif di Malaysia.</desc>
+  </programme>
+  <programme start="20240325023000 +0000" stop="20240325030000 +0000" channel="Okey">
+    <title lang="en">Eksplorasi Seni Kraf</title>
+    <desc lang="en">Mencari ke pelbagai lokasi menarik untuk mengeksplorasi seni kraf.</desc>
+  </programme>
+  <programme start="20240325030000 +0000" stop="20240325040000 +0000" channel="Okey">
+    <title lang="en">Seputih Cinta Rangbulan</title>
+    <desc lang="en">Sebuah drama cinta yang turut meneroka elemen kemasyarakatan, sosio budaya negeri Sabah dilakonkan oleh Fezrul Khan, Dayana Roza, Fasha Sandha dan ramai lagi.</desc>
+    <episode-num system="onscreen">E38</episode-num>
+  </programme>
+  <programme start="20240325040000 +0000" stop="20240325040500 +0000" channel="Okey">
+    <title lang="en">Waktu Imsak</title>
+    <desc lang="en">Waktu Imsak.</desc>
+  </programme>
+  <programme start="20240325040500 +0000" stop="20240325043000 +0000" channel="Okey">
+    <title lang="en">Memberi Tanpa Sempadan</title>
+    <desc lang="en">Sebuah program yang memartabatkan wira-wira yang tidak didendang dalam usaha mereka membantu golongan yang memerlukan tanpa mengharapkan sebarang balasan.</desc>
+  </programme>
+  <programme start="20240325043000 +0000" stop="20240325050000 +0000" channel="Okey">
+    <title lang="en">School Bus Heroes</title>
+    <desc lang="en">Sebuah rancangan berbahasa Inggeris yang memberikan motivasi kepada penonton di rumah.</desc>
+    <episode-num system="onscreen">E22</episode-num>
+  </programme>
+  <programme start="20240325050000 +0000" stop="20240325053000 +0000" channel="Okey">
+    <title lang="en">Secawan Kopi</title>
+    <desc lang="en">Bersama Ruhainies yang akan melawat ke pelbagai lokasi menarik untuk menikmati secawan kopi.</desc>
+  </programme>
+  <programme start="20240325053000 +0000" stop="20240325060000 +0000" channel="Okey">
+    <title lang="en">Dunia Femina</title>
+    <desc lang="en">Bersama Fiza Frizzy yang akan menjemput seorang tetamu untuk berkongsi pelbagai tip kecantikan seorang wanita.</desc>
+  </programme>
+  <programme start="20240325060000 +0000" stop="20240325060500 +0000" channel="Okey">
     <title lang="en">Klip Video</title>
     <desc lang="en">Lagu Negaraku dan klip-klip video terbaik untuk anda.</desc>
+  </programme>
+  <programme start="20240325060500 +0000" stop="20240325080000 +0000" channel="Okey">
+    <title lang="en">5 Hari 3 Dusta</title>
+    <desc lang="en">Mengisahkan rangkuman di sebalik 3 kisah yang berlainan situasi dan penuh dengan konflik, kasih sayang dan keinsafan.</desc>
+  </programme>
+  <programme start="20240325080000 +0000" stop="20240325090000 +0000" channel="Okey">
+    <title lang="en">Seputih Cinta Rangbulan</title>
+    <desc lang="en">Sebuah drama cinta yang turut meneroka elemen kemasyarakatan, sosio budaya negeri Sabah dilakonkan oleh Fezrul Khan, Dayana Roza, Fasha Sandha dan ramai lagi.</desc>
+    <episode-num system="onscreen">E39</episode-num>
+  </programme>
+  <programme start="20240325090000 +0000" stop="20240325100000 +0000" channel="Okey">
+    <title lang="en">Kelas @ Rumah</title>
+    <desc lang="en">Sebuah program yang membantu pelajar untuk mengulangkaji pelajaran mengikut subjek yang ditetapkan.</desc>
+    <episode-num system="onscreen">E96</episode-num>
+  </programme>
+  <programme start="20240325100000 +0000" stop="20240325103000 +0000" channel="Okey">
+    <title lang="en">Dapur Berkuap</title>
+    <desc lang="en">Melihat keupayaan tetamu jemputan dalam menghasilkan menu yang mudah tapi menyelerakan dan bakal dinilai oleh Chef Dee Dee.</desc>
   </programme>
   <programme start="20240325103000 +0000" stop="20240325104500 +0000" channel="Okey">
     <title lang="en">i Kadazan</title>
     <desc lang="en">Saksikan berita dalam bahasa Kadazan.</desc>
   </programme>
-  <programme start="20240325104500 +0000" stop="20240325141500 +0000" channel="Okey">
+  <programme start="20240325104500 +0000" stop="20240325110000 +0000" channel="Okey">
     <title lang="en">i-Iban</title>
     <desc lang="en">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Iban.</desc>
   </programme>
-  <programme start="20240325141500 +0000" stop="20240325183000 +0000" channel="Okey">
+  <programme start="20240325110000 +0000" stop="20240325113000 +0000" channel="Okey">
+    <title lang="en">Hidangan Bajet Mewah</title>
+    <desc lang="en">Bersama Fendi Mohammad yang akan berkongsi resepi masakan dengan harga bajet namun dihias dengan mewah yang mengikut tema setiap minggu.</desc>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20240325113000 +0000" stop="20240325120000 +0000" channel="Okey">
+    <title lang="en">#Laman Bajet</title>
+    <desc lang="en">Berkongsi pelbagai tips bajet untuk menghias laman yang dapat menjadi inspirasi kepada penonton.</desc>
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20240325120000 +0000" stop="20240325123000 +0000" channel="Okey">
+    <title lang="en">Masak Sana Sini New York</title>
+    <desc lang="en">Nabila Huda berkelana ke bumi New York bersama rakyat Malaysia yang telah menetap di sana untuk memasak pelbagai juadah bagi berbuka puasa.</desc>
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20240325123000 +0000" stop="20240325130000 +0000" channel="Okey">
+    <title lang="en">Dunia Silat Nusantara</title>
+    <desc lang="en">Sebuah dokumentari mengenai Pertubuhan Seni Silat Gayong Fatani (PSSGF) yang diasaskan oleh Tuan Guru Haji Anuar Abdul Wahab pada tahun 1976.</desc>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20240325130000 +0000" stop="20240325140000 +0000" channel="Okey">
+    <title lang="en">Kelas @ Rumah</title>
+    <desc lang="en">Sebuah program yang membantu pelajar untuk mengulangkaji pelajaran mengikut subjek yang ditetapkan.</desc>
+    <episode-num system="onscreen">E65</episode-num>
+  </programme>
+  <programme start="20240325140000 +0000" stop="20240325141500 +0000" channel="Okey">
+    <title lang="en">i-Bajau</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam bahasa etnik Bajau.</desc>
+  </programme>
+  <programme start="20240325141500 +0000" stop="20240325142000 +0000" channel="Okey">
+    <title lang="en">Waktu Berbuka/Imsak</title>
+    <desc lang="en">Waktu Berbuka/Imsak.</desc>
+  </programme>
+  <programme start="20240325142000 +0000" stop="20240325143000 +0000" channel="Okey">
     <title lang="en">Klip Video</title>
     <desc lang="en">Seleksi klip-klip video terbaik untuk anda.</desc>
+  </programme>
+  <programme start="20240325143000 +0000" stop="20240325152500 +0000" channel="Okey">
+    <title lang="en">Kasih Nelisa</title>
+    <desc lang="en">Tindakan seorang ayah yang memberikan kesan negatif kepada anaknya yang menyangka ayahnya tidak menyayanginya.</desc>
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme start="20240325152500 +0000" stop="20240325153000 +0000" channel="Okey">
+    <title lang="en">Waktu Berbuka/Imsak</title>
+    <desc lang="en">Waktu Berbuka/Imsak.</desc>
+  </programme>
+  <programme start="20240325153000 +0000" stop="20240325160000 +0000" channel="Okey">
+    <title lang="en">Mesmerising Malaysia</title>
+    <desc lang="en">Bersama Thanuja Ananthan bersama tetamu jemputan akan melawat ke pelbagai lokasi yang menarik.</desc>
+  </programme>
+  <programme start="20240325160000 +0000" stop="20240325163000 +0000" channel="Okey">
+    <title lang="en">Hello Trend</title>
+    <desc lang="en">Cik Manggis akan berkongsi tips dan cara berfesyen di samping berkongsi gaya hidup yang sihat.</desc>
+  </programme>
+  <programme start="20240325163000 +0000" stop="20240325170000 +0000" channel="Okey">
+    <title lang="en">I Love Cake</title>
+    <desc lang="en">Cef Naem bersama selebriti jemputan, Aiman Tino akan berkongsi ramuan dan resipi untuk membuat kek.</desc>
+  </programme>
+  <programme start="20240325170000 +0000" stop="20240325173000 +0000" channel="Okey">
+    <title lang="en">Selebriti Balik   Kampung</title>
+    <desc lang="en">Artis terpilih akan bersama peminat setia mereka dan akan melakukan aktiviti-aktiviti unik di kampung halaman artis tersebut.</desc>
+  </programme>
+  <programme start="20240325173000 +0000" stop="20240325175500 +0000" channel="Okey">
+    <title lang="en">Glamnista</title>
+    <desc lang="en">Sebuah rancangan yang memberikan inspirasi kepada penonton di rumah.</desc>
+  </programme>
+  <programme start="20240325175500 +0000" stop="20240325180000 +0000" channel="Okey">
+    <title lang="en">Waktu Berbuka/Imsak</title>
+    <desc lang="en">Waktu Berbuka/Imsak.</desc>
+  </programme>
+  <programme start="20240325180000 +0000" stop="20240325183000 +0000" channel="Okey">
+    <title lang="en">Dapur Latino</title>
+    <desc lang="en">Cef Nik Micheal dan Asmiriam Yolimar, menyediakan juadah masakan tempatan Negara Colombia iaitu ‘Arepas’, sejenis juadah roti keju.</desc>
+    <episode-num system="onscreen">E11</episode-num>
   </programme>
   <programme start="20240325183000 +0000" stop="20240325184500 +0000" channel="Okey">
     <title lang="en">i-Iban</title>
     <desc lang="en">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Iban.</desc>
   </programme>
-  <programme start="20240325184500 +0000" stop="20240326000000 +0000" channel="Okey">
+  <programme start="20240325184500 +0000" stop="20240325190000 +0000" channel="Okey">
     <title lang="en">i-Dusun</title>
     <desc lang="en">Memaparkan perkembangan berita di Sabah dalam bahasa etnik Dusun.</desc>
   </programme>
-  <programme start="20240318000000 +0000" stop="20240318010000 +0000" channel="Sukan RTM">
-    <title lang="en">Sukan Lejen (Ulangan)</title>
-    <desc lang="en">Sebuah rancangan yang mengimbau kembali detik-detik kegemilangan atlet dan sukan Malaysia.</desc>
+  <programme start="20240325190000 +0000" stop="20240325193000 +0000" channel="Okey">
+    <title lang="en">Al-Mulk Nusantara</title>
+    <desc lang="en">Saksikan dokumentari Islam yang memaparkan pelbagai maklumat dan informasi.</desc>
   </programme>
-  <programme start="20240318010000 +0000" stop="20240318013000 +0000" channel="Sukan RTM">
-    <title lang="en">Extreme E - Electric Odyssey</title>
-    <desc lang="en">Saksikan Extreme E 2024: Qualifying Round, perlumbaan pusingan kelayakan kereta elektrik yang diadakan di beberapa negara.</desc>
+  <programme start="20240325193000 +0000" stop="20240325200000 +0000" channel="Okey">
+    <title lang="en">Dunia Baharu</title>
+    <desc lang="en">Sebuah program majalah inspirasi dan motivasi yang memaparkan kisah-kisah individu yang bangkit daripada musibah, kemalangan dan kekecewaan.</desc>
   </programme>
-  <programme start="20240318013000 +0000" stop="20240318020000 +0000" channel="Sukan RTM">
-    <title lang="en">Ex-Trem</title>
-    <desc lang="en">Sebuah rancangan yang memaparkan sukan lasak dan mencabar untuk para peminatnya. Rasai keterujaan mengendalikan dan beraksi dengan pelbagai jenis sukan lasak yang berbeza setiap minggu.</desc>
+  <programme start="20240325200000 +0000" stop="20240325203000 +0000" channel="Okey">
+    <title lang="en">Tak Popular Tapi Berbisa</title>
+    <desc lang="en">Menelusuri keindahan dan keunikan yang terdapat di tempat yang dilawati oleh pengacara di mana tempat itu amat jarang dikunjungi oleh orang ramai dan agak tersembunyi.</desc>
   </programme>
-  <programme start="20240318020000 +0000" stop="20240318030000 +0000" channel="Sukan RTM">
-    <title lang="en">Badminton Petronas Terbuka Malaysia 2024</title>
-    <desc lang="en">Saksikan Badminton Petronas Terbuka Malaysia 2024 - China VS Denmark (Men's Singles- Final).</desc>
+  <programme start="20240325203000 +0000" stop="20240325210000 +0000" channel="Okey">
+    <title lang="en">Lensa Deko</title>
+    <desc lang="en">Bersama Zoey dah Shahreen akan mengunjungi sebuah rumah untuk mengubahsuai dekorasi dan hiasan dalaman.</desc>
   </programme>
-  <programme start="20240318030000 +0000" stop="20240318033000 +0000" channel="Sukan RTM">
-    <title lang="en">Sembang Sukan</title>
-    <desc lang="en">Program bual bicara santai yang akan menampilkan atlet-atlet negara yang mengupas kisah dan cabaran yang dihadapi sepanjang karier mereka.</desc>
-    <episode-num system="onscreen">E41</episode-num>
+  <programme start="20240325210000 +0000" stop="20240325220000 +0000" channel="Okey">
+    <title lang="en">Janji Di Bawah Pokok Ceri</title>
+    <desc lang="en">Mengisahkan tentang seorang pemuda yang ingin mengejar cita-cita menjadi penyanyi terkenal tapi terhalang dek masa lampau.</desc>
+    <episode-num system="onscreen">E18</episode-num>
   </programme>
-  <programme start="20240318033000 +0000" stop="20240318043000 +0000" channel="Sukan RTM">
-    <title lang="en">Sukan Lejen (Ulangan)</title>
-    <desc lang="en">Sebuah rancangan yang mengimbau kembali detik-detik kegemilangan atlet dan sukan Malaysia.</desc>
-    <episode-num system="onscreen">E14</episode-num>
+  <programme start="20240325220000 +0000" stop="20240325223000 +0000" channel="Okey">
+    <title lang="en">Kan Dah Kena</title>
+    <desc lang="en">Sebuah rancangan menarik untuk tonton anda.</desc>
   </programme>
-  <programme start="20240318043000 +0000" stop="20240318050000 +0000" channel="Sukan RTM">
-    <title lang="en">Jurnal Sukan #Sportpedia</title>
-    <desc lang="en">Rancangan majalah sukan terbaharu bersama tetamu jemputan membincangkan lebih mendalam mengenai sukan.</desc>
-    <episode-num system="onscreen">E10</episode-num>
+  <programme start="20240325223000 +0000" stop="20240325223500 +0000" channel="Okey">
+    <title lang="en">Waktu Imsak</title>
+    <desc lang="en">Waktu Imsak.</desc>
   </programme>
-  <programme start="20240318050000 +0000" stop="20240318053000 +0000" channel="Sukan RTM">
-    <title lang="en">Cub Prix Adrenalin 2023</title>
-    <desc lang="en">Saksikan sorotan perlawanan Cub Prix 2023 dalam Cub Prix Adrenalin.</desc>
-    <episode-num system="onscreen">E24</episode-num>
+  <programme start="20240325223500 +0000" stop="20240325230000 +0000" channel="Okey">
+    <title lang="en">Geokrasi</title>
+    <desc lang="en">Pengembaraan ke 13 Geopark dan Geotapak di seluruh Malaysia serta cuba memahami tentang aspek geologi batuan dan tanah yang terbentuk disitu, fisiologi dan moforlogi.</desc>
+    <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20240318053000 +0000" stop="20240318060000 +0000" channel="Sukan RTM">
-    <title lang="en">Sports Max 2023</title>
-    <desc lang="en">Saksikan rangkuman pelbagai aksi sukan dan perlawanan dari luar negara.</desc>
-    <episode-num system="onscreen">E39</episode-num>
+  <programme start="20240325230000 +0000" stop="20240325233000 +0000" channel="Okey">
+    <title lang="en">Dapur Bujang Duo</title>
+    <desc lang="en">Sebuah rancangan masakan yang memberi idea untuk menyediakan juadah berbuka puasa dengan menu ringkas khususnya untuk golongan bujang.</desc>
   </programme>
-  <programme start="20240318060000 +0000" stop="20240318060500 +0000" channel="Sukan RTM">
-    <title lang="en">Lagu Negaraku/Klip : Setia</title>
-    <desc lang="en">Lagu Negaraku/Klip : Setia.</desc>
+  <programme start="20240325233000 +0000" stop="20240326000000 +0000" channel="Okey">
+    <title lang="en">Travel Like Traveller</title>
+    <desc lang="en">Nabila Asyiqin dari Kilometer 0.00, Teluk Melano, Sarawak hingga ke Tip of Borneo, Kudat, Sabah sambil melawat lokasi-lokasi menarik dan bersejarah.</desc>
   </programme>
-  <programme start="20240318060500 +0000" stop="20240318070000 +0000" channel="Sukan RTM">
-    <title lang="en">Kapsul Sukan RTM</title>
-    <desc lang="en">Memaparkan Info Terkini, Motivasi Inspirasi, Gym, Aksi Rekreasi, Pinggan Diet, i-Sukan dan Inovasi Prestasi.</desc>
+  <programme start="20240326000000 +0000" stop="20240326000500 +0000" channel="Okey">
+    <title lang="en">Waktu Imsak</title>
+    <desc lang="en">Waktu Imsak.</desc>
   </programme>
-  <programme start="20240318070000 +0000" stop="20240318073000 +0000" channel="Sukan RTM">
-    <title lang="en">Memo Cergas</title>
-    <desc lang="en">Bersama Norman Hakim, Kit Mah dan tetamu jemputan berkongsi tip mengenai senaman ringkas di rumah.</desc>
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20240318073000 +0000" stop="20240318074000 +0000" channel="Sukan RTM">
-    <title lang="en">SIARAN LANGSUNG: Berita Sukan - Stadium RTM</title>
-    <desc lang="en">Memaparkan perkembangan terkini berita sukan dari dalam dan luar negara.</desc>
-  </programme>
-  <programme start="20240318074000 +0000" stop="20240318080000 +0000" channel="Sukan RTM">
-    <title lang="en">Inovasi Prestasi</title>
-    <desc lang="en">Inovasi Prestasi sebuah program berkonsepkan majalah membawa penonton mengenai impak pembelajaran sains sukan terhadap individu di peringkat pengajian tinggi dan bidang pekerjaan.</desc>
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20240318080000 +0000" stop="20240318083000 +0000" channel="Sukan RTM">
-    <title lang="en">Sihat, Cantik, Menawan</title>
-    <desc lang="en">Sihat, Cantik &amp; Menawan sebuah program yang menawarkan pelbagai tip berkaitan kecantikan dan kesihatan.</desc>
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20240318083000 +0000" stop="20240318090000 +0000" channel="Sukan RTM">
-    <title lang="en">Sunrise To Health</title>
-    <desc lang="en">Majalah ini bertemakan gaya hidup sihat tentang bagaimana memulakan kehidupan dengan cara yang lebih positif dan bermanfaat. Pengacara: Kavitha Sidhu.</desc>
-  </programme>
-  <programme start="20240318090000 +0000" stop="20240318093000 +0000" channel="Sukan RTM">
-    <title lang="en">Get Fit Get Focus</title>
-    <desc lang="en">Bersama pengacara Soo Wincci dalam rancangan majalah kesihatan dan kecergasan berbahasa Inggeris yang akan berkongsi pelbagai tips daripada pakar-pakar kesihatan.</desc>
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20240318093000 +0000" stop="20240318100000 +0000" channel="Sukan RTM">
-    <title lang="en">Get Fit</title>
-    <desc lang="en">Saksikan rancangan yang menjemput beberapa orang awam untuk turut berlatih bersama atlet jemputan.</desc>
+  <programme start="20240326000500 +0000" stop="20240326060000 +0000" channel="Okey">
+    <title lang="en">Masak Sana Sini New York</title>
+    <desc lang="en">Nabila Huda berkelana ke bumi New York bersama rakyat Malaysia yang telah menetap di sana untuk memasak pelbagai juadah bagi berbuka puasa.</desc>
     <episode-num system="onscreen">E12</episode-num>
   </programme>
-  <programme start="20240318100000 +0000" stop="20240318103000 +0000" channel="Sukan RTM">
-    <title lang="en">Sports Max 2023</title>
-    <desc lang="en">Saksikan rangkuman pelbagai aksi sukan dan perlawanan dari luar negara.</desc>
-    <episode-num system="onscreen">E39</episode-num>
+  <programme start="20240326060000 +0000" stop="20240326103000 +0000" channel="Okey">
+    <title lang="en">Klip Video</title>
+    <desc lang="en">Lagu Negaraku dan klip-klip video terbaik untuk anda.</desc>
   </programme>
-  <programme start="20240318103000 +0000" stop="20240318110000 +0000" channel="Sukan RTM">
-    <title lang="en">Hub Sukan (Ulangan)</title>
-    <desc lang="en">Saksikan sebuah program sukan yang akan membawa pelbagai informasi mengenai sukan-sukan kompetitif dan memahami faktor-faktor tertentu untuk melahirkan juara, bersama pengacara Taufik Hanafi dan personaliti sukan jemputan.</desc>
-    <episode-num system="onscreen">E10</episode-num>
+  <programme start="20240326103000 +0000" stop="20240326104500 +0000" channel="Okey">
+    <title lang="en">i Kadazan</title>
+    <desc lang="en">Saksikan berita dalam bahasa Kadazan.</desc>
   </programme>
-  <programme start="20240318110000 +0000" stop="20240318113000 +0000" channel="Sukan RTM">
-    <title lang="en">Minime</title>
-    <desc lang="en">Jom! bersama Erissa dan Wafiy mengenali atlet muda, Aneesya binti Asmi dan mentornya, Nadzirah binti Mohd Adzeman serta berkongsi tentang aktiviti sukan Lawan Pedang.</desc>
+  <programme start="20240326104500 +0000" stop="20240326141500 +0000" channel="Okey">
+    <title lang="en">i-Iban</title>
+    <desc lang="en">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Iban.</desc>
   </programme>
-  <programme start="20240318113000 +0000" stop="20240318120000 +0000" channel="Sukan RTM">
-    <title lang="en">Aksi 2023</title>
-    <desc lang="en">Keterujaan tanpa batasan aksi-aksi lasak yang mencabar, menguji kemampuan diri, keberanian dan cetusan adrenalin dengan setiap aksi ekstrem.</desc>
-    <episode-num system="onscreen">E25</episode-num>
+  <programme start="20240326141500 +0000" stop="20240326183000 +0000" channel="Okey">
+    <title lang="en">Klip Video</title>
+    <desc lang="en">Seleksi klip-klip video terbaik untuk anda.</desc>
   </programme>
-  <programme start="20240318120000 +0000" stop="20240318123000 +0000" channel="Sukan RTM">
-    <title lang="en">Gelanggang</title>
-    <desc lang="en">Bersama hos Syafiq Nazri dalam mempelajari dan mendalami kepelbagaian perguruan seni bela diri yang terdapat di seluruh Malaysia.</desc>
-    <episode-num system="onscreen">E12</episode-num>
+  <programme start="20240326183000 +0000" stop="20240326184500 +0000" channel="Okey">
+    <title lang="en">i-Iban</title>
+    <desc lang="en">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Iban.</desc>
   </programme>
-  <programme start="20240318123000 +0000" stop="20240318130000 +0000" channel="Sukan RTM">
-    <title lang="en">Buletin MSN</title>
-    <desc lang="en">Sebuah program yang memaparkan perkembangan terkini sukan tanah air.</desc>
-    <episode-num system="onscreen">E30</episode-num>
-  </programme>
-  <programme start="20240318130000 +0000" stop="20240318133000 +0000" channel="Sukan RTM">
-    <title lang="en">Drift King Malaysia</title>
-    <desc lang="en">Jom bersama Hos, Bullzai Hamdan mengenali pemandu-pemandu drift profesional.</desc>
-    <episode-num system="onscreen">E13</episode-num>
-  </programme>
-  <programme start="20240318133000 +0000" stop="20240318140000 +0000" channel="Sukan RTM">
-    <title lang="en">Cub Prix Adrenalin 2023</title>
-    <desc lang="en">Saksikan sorotan perlawanan Cub Prix 2023 dalam Cub Prix Adrenalin.</desc>
-    <episode-num system="onscreen">E25</episode-num>
-  </programme>
-  <programme start="20240318140000 +0000" stop="20240318150000 +0000" channel="Sukan RTM">
-    <title lang="en">Sukan Lejen (Ulangan)</title>
-    <desc lang="en">Saksikan sukan lejen.</desc>
-    <episode-num system="onscreen">E15</episode-num>
-  </programme>
-  <programme start="20240318150000 +0000" stop="20240318160000 +0000" channel="Sukan RTM">
-    <title lang="en">Badminton Petronas Terbuka Malaysia 2024</title>
-    <desc lang="en">Saksikan Badminton Petronas Terbuka Malaysia 2024 -China VS India (Men's Doubles - Final).</desc>
-  </programme>
-  <programme start="20240318160000 +0000" stop="20240318180000 +0000" channel="Sukan RTM">
-    <title lang="en">Adrenalin X</title>
-    <desc lang="en">Penampilan selebriti dan atlet sukan untuk melakukan tugasan yang diberikan.</desc>
-    <episode-num system="onscreen">E13</episode-num>
-  </programme>
-  <programme start="20240318180000 +0000" stop="20240318183000 +0000" channel="Sukan RTM">
-    <title lang="en">Retro : Aksi</title>
-    <desc lang="en">Keterujaan tanpa batasan aksi-aksi lasak yang mencabar, menguji kemampuan diri, keberanian dan cetusan adrenalin dengan setiap aksi ekstrem.</desc>
-    <episode-num system="onscreen">E48</episode-num>
-  </programme>
-  <programme start="20240318183000 +0000" stop="20240318190000 +0000" channel="Sukan RTM">
-    <title lang="en">Khas Ramadhan: A'Fini "Sihatkan Aku"</title>
-    <desc lang="en">Saksikan Khas Ramadhan A'fini Sihatkan Aku.</desc>
-  </programme>
-  <programme start="20240318190000 +0000" stop="20240318190500 +0000" channel="Sukan RTM">
-    <title lang="en">Lima-Lima Bersama Aziz Kota</title>
-    <desc lang="en">Program sembang santai bersama pengamal sukan, jurulatih sukan, atlet dan bekas atlet negara untuk mencungkil kisah dan pengalaman yang belum pihak media war-warkan serta penglibatan awal serta harapan masa hadapan.</desc>
-  </programme>
-  <programme start="20240318190500 +0000" stop="20240318193000 +0000" channel="Sukan RTM">
-    <title lang="en">Kapsul Sukan / PSA</title>
-    <desc lang="en">Memaparkan Info Terkini, Motivasi Inspirasi, Gym, Aksi Rekreasi, Pinggan Diet, i-Sukan dan Inovasi Prestasi.</desc>
-  </programme>
-  <programme start="20240318193000 +0000" stop="20240318200000 +0000" channel="Sukan RTM">
-    <title lang="en">Sports Max 2023</title>
-    <desc lang="en">Saksikan rangkuman pelbagai aksi sukan dan perlawanan dari luar negara.</desc>
-    <episode-num system="onscreen">E45</episode-num>
-  </programme>
-  <programme start="20240318200000 +0000" stop="20240318203000 +0000" channel="Sukan RTM">
-    <title lang="en">Sembang Sukan (Ulangan)</title>
-    <desc lang="en">Program bual bicara santai yang akan menampilkan atlet-atlet negara yang mengupas kisah dan cabaran yang dihadapi sepanjang karier mereka.</desc>
-    <episode-num system="onscreen">E22</episode-num>
-  </programme>
-  <programme start="20240318203000 +0000" stop="20240319021000 +0000" channel="Sukan RTM">
-    <title lang="en">Kejohanan Badminton All England 2024 (Ulangan)</title>
-    <desc lang="en">Saksikan kembali kejohanan badminton All England 2024 - Akhir.</desc>
+  <programme start="20240326184500 +0000" stop="20240327000000 +0000" channel="Okey">
+    <title lang="en">i-Dusun</title>
+    <desc lang="en">Memaparkan perkembangan berita di Sabah dalam bahasa etnik Dusun.</desc>
   </programme>
   <programme start="20240319021000 +0000" stop="20240319022500 +0000" channel="Sukan RTM">
     <title lang="en">Buletin MSN</title>
@@ -5596,177 +5354,166 @@
     <title lang="en">Badminton All England 2024</title>
     <desc lang="en">Saksikan Badminton All England 2024 - Malaysia VS France (Mixed Doubles - RD32).</desc>
   </programme>
-  <programme start="20240318000000 +0000" stop="20240318003000 +0000" channel="Berita RTM">
-    <title lang="en">Berita Tengah Malam</title>
-    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara.</desc>
+  <programme start="20240326010000 +0000" stop="20240326013000 +0000" channel="Sukan RTM">
+    <title lang="en">Prestasi Podium</title>
+    <desc lang="en">Sebuah rancangan bersifat santai tetapi berinformatif yang memaparkan keunggulan serta pencapaian terbaik yang berjaya diraih oleh atlet sukan dan penggiat sukan di Malaysia, yang mana pencapaian mereka juga diiktiraf di peringkat antarabangsa.</desc>
   </programme>
-  <programme start="20240318003000 +0000" stop="20240318010000 +0000" channel="Berita RTM">
-    <title lang="en">Kontra Analisa</title>
-    <desc lang="en">Bersama hos Riz Ismail mengupas isu-isu semasa bersama pakar-pakar jemputan.</desc>
+  <programme start="20240326013000 +0000" stop="20240326014500 +0000" channel="Sukan RTM">
+    <title lang="en">Buletin MSN</title>
+    <desc lang="en">Sebuah program yang memaparkan perkembangan terkini sukan tanah air.</desc>
+    <episode-num system="onscreen">E31</episode-num>
   </programme>
-  <programme start="20240318010000 +0000" stop="20240318013000 +0000" channel="Berita RTM">
-    <title lang="en">Ilmuan Islamiah</title>
-    <desc lang="en">Ilmuan Islamiah membawakan perkembangan cabang-cabang ilmu yang diteroka dan dikembangkan oleh tokoh-tokoh pemikir islam. Setiap episod membawakan 2 figura penting, tokoh silam dan tokoh kontemporari dalam bidang ilmu yang diceburi.</desc>
+  <programme start="20240326014500 +0000" stop="20240326020000 +0000" channel="Sukan RTM">
+    <title lang="en">Kapsul Sukan RTM</title>
+    <desc lang="en">Memaparkan Info Terkini, Motivasi Inspirasi, Gym, Aksi Rekreasi, Pinggan Diet, i-Sukan dan Inovasi Prestasi.</desc>
   </programme>
-  <programme start="20240318013000 +0000" stop="20240318020000 +0000" channel="Berita RTM">
-    <title lang="en">Prospek</title>
-    <desc lang="en">Kejayaan tidak akan datang bergolek. Prospek akan memaparkan saat kejatuhan dan kebangkitan dalam sesebuah perniagaan untuk berjaya.</desc>
+  <programme start="20240326020000 +0000" stop="20240326033000 +0000" channel="Sukan RTM">
+    <title lang="en">Siaran Ulangan : Sorotan Harian Sukan Asia Hangzhou 2022</title>
+    <desc lang="en">Saksikan kembali aksi-aksi menarik dalam Sorotan Harian Sukan Asia Hangzhou 2022.</desc>
   </programme>
-  <programme start="20240318020000 +0000" stop="20240318023000 +0000" channel="Berita RTM">
-    <title lang="en">Bikin</title>
-    <desc lang="en">Saksikan program menarik, Bikin di Saluran Berita RTM.</desc>
+  <programme start="20240326033000 +0000" stop="20240326043000 +0000" channel="Sukan RTM">
+    <title lang="en">Sukan Lejen (Ulangan)</title>
+    <desc lang="en">Sebuah rancangan yang mengimbau kembali detik-detik kegemilangan atlet dan sukan Malaysia.</desc>
+    <episode-num system="onscreen">E22</episode-num>
   </programme>
-  <programme start="20240318023000 +0000" stop="20240318030000 +0000" channel="Berita RTM">
-    <title lang="en">Skrin Kreatif</title>
-    <desc lang="en">Skrin Kreatif merupakan sebuah paparan di balik tabir bidang produksi video dari yang berskala kecil hingga ke skala besar.</desc>
+  <programme start="20240326043000 +0000" stop="20240326050000 +0000" channel="Sukan RTM">
+    <title lang="en">Extreme E: Electric Odyssey 2023</title>
+    <desc lang="en">Saksikan extreme E: Electric Odyssey 2023.</desc>
   </programme>
-  <programme start="20240318030000 +0000" stop="20240318033000 +0000" channel="Berita RTM">
-    <title lang="en">Cabaran Jurutera Muda</title>
-    <desc lang="en">Bersama pengacara, Azura Zainal menyaksikan para peserta bersaing dalam pertandingan reka cipta kejuruteraan yang menguji kebijaksanaan dan ketangkasan dalam menyelesaikan masalah.</desc>
+  <programme start="20240326050000 +0000" stop="20240326053000 +0000" channel="Sukan RTM">
+    <title lang="en">Hub Sukan (Ulangan)</title>
+    <desc lang="en">Saksikan sebuah program sukan yang akan membawa pelbagai informasi mengenai sukan-sukan kompetitif dan memahami faktor-faktor tertentu untuk melahirkan juara, bersama pengacara Taufik Hanafi dan personaliti sukan jemputan.</desc>
+    <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20240318033000 +0000" stop="20240318040000 +0000" channel="Berita RTM">
-    <title lang="en">CEO NEO</title>
-    <desc lang="en">CEO NEO membawakan kisah getir usahawan belia tempatan yang juga Ketua Pegawai Eksekutif (CEO) menerajui bisnes mereka hingga berjaya.</desc>
+  <programme start="20240326053000 +0000" stop="20240326060000 +0000" channel="Sukan RTM">
+    <title lang="en">Sports Max 2023</title>
+    <desc lang="en">Saksikan rangkuman pelbagai aksi sukan dan perlawanan dari luar negara.</desc>
+    <episode-num system="onscreen">E46</episode-num>
   </programme>
-  <programme start="20240318040000 +0000" stop="20240318043000 +0000" channel="Berita RTM">
-    <title lang="en">Langit Biru</title>
-    <desc lang="en">Sejarah dan kehidupan penduduk Daerah Cipatat, Bandung Barat, Indonesia dan tempat-tempat menarik di sana.</desc>
+  <programme start="20240326060000 +0000" stop="20240326060500 +0000" channel="Sukan RTM">
+    <title lang="en">Lagu Negaraku/Klip : Setia</title>
+    <desc lang="en">Lagu Negaraku/Klip : Setia.</desc>
   </programme>
-  <programme start="20240318043000 +0000" stop="20240318053000 +0000" channel="Berita RTM">
-    <title lang="en">Zoom In</title>
-    <desc lang="en">Berhibur dengan rangkaian lagu-lagu popular daripada Kumpulan Kristal serta barisan artis terkenal tanah air lainnya.</desc>
+  <programme start="20240326060500 +0000" stop="20240326070000 +0000" channel="Sukan RTM">
+    <title lang="en">Kapsul Sukan RTM</title>
+    <desc lang="en">Memaparkan Info Terkini, Motivasi Inspirasi, Gym, Aksi Rekreasi, Pinggan Diet, i-Sukan dan Inovasi Prestasi.</desc>
   </programme>
-  <programme start="20240318053000 +0000" stop="20240318060000 +0000" channel="Berita RTM">
-    <title lang="en">Jejak Altruis</title>
-    <desc lang="en">Saksikan program menarik Jejak Altruis di Saluran Berita RTM.</desc>
+  <programme start="20240326070000 +0000" stop="20240326073000 +0000" channel="Sukan RTM">
+    <title lang="en">i-Sihat</title>
+    <desc lang="en">Saksikan cara-cara penjagaan kesihatan bersama hos Nabilah Musa, teknik senaman bahagian kaki bersama Nurhalim Qadri (Jurulatih Kecergasan), Nutrisi pemakanan sunnah bersama Mohd Zaini Zainal Abidin (Aktivis), masalah gastrik bersama Dr. Nik Ritza Kosai dan ikon kesihatan bersama Hasihin Sanawi (Atlet Memanah Paralimpik).</desc>
   </programme>
-  <programme start="20240318060000 +0000" stop="20240318060200 +0000" channel="Berita RTM">
-    <title lang="en">Lagu Negaraku</title>
-    <desc lang="en">Nyanyian lagu Negaraku.</desc>
-  </programme>
-  <programme start="20240318060200 +0000" stop="20240318063000 +0000" channel="Berita RTM">
-    <title lang="en">Syahadah</title>
-    <desc lang="en">Sebuah dokumentari bertemakan Islam Kontemporari dengan rujukan ayat Al-Quran yang berkaitan dengan masyarakat Islam di seluruh negara.</desc>
-  </programme>
-  <programme start="20240318063000 +0000" stop="20240318070000 +0000" channel="Berita RTM">
-    <title lang="en">Ilmuan Islamiah</title>
-    <desc lang="en">Ilmuan Islamiah membawakan perkembangan cabang-cabang ilmu yang diteroka dan dikembangkan oleh tokoh-tokoh pemikir islam. Setiap episod membawakan 2 figura penting, tokoh silam dan tokoh kontemporari dalam bidang ilmu yang diceburi.</desc>
-  </programme>
-  <programme start="20240318070000 +0000" stop="20240318073000 +0000" channel="Berita RTM">
-    <title lang="en">Berita Pagi</title>
-    <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negara.</desc>
-  </programme>
-  <programme start="20240318073000 +0000" stop="20240318074000 +0000" channel="Berita RTM">
-    <title lang="en">Stadium RTM Pagi</title>
+  <programme start="20240326073000 +0000" stop="20240326074000 +0000" channel="Sukan RTM">
+    <title lang="en">SIARAN LANGSUNG: Berita Sukan - Stadium RTM</title>
     <desc lang="en">Memaparkan perkembangan terkini berita sukan dari dalam dan luar negara.</desc>
   </programme>
-  <programme start="20240318074000 +0000" stop="20240318074400 +0000" channel="Berita RTM">
-    <title lang="en">Promo / PSA / Kapsul</title>
-    <desc lang="en">Saksikan paparan promo semasa, PSA, kapsul kenegaraan, kerohanian dan nilai-nilai murni.</desc>
+  <programme start="20240326074000 +0000" stop="20240326080000 +0000" channel="Sukan RTM">
+    <title lang="en">Inovasi Prestasi</title>
+    <desc lang="en">Inovasi Prestasi sebuah program berkonsepkan majalah membawa penonton mengenai impak pembelajaran sains sukan terhadap individu di peringkat pengajian tinggi dan bidang pekerjaan.</desc>
+    <episode-num system="onscreen">E14</episode-num>
   </programme>
-  <programme start="20240318074400 +0000" stop="20240318080000 +0000" channel="Berita RTM">
-    <title lang="en">Kanta 744 (Pagi)</title>
-    <desc lang="en">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
+  <programme start="20240326080000 +0000" stop="20240326083000 +0000" channel="Sukan RTM">
+    <title lang="en">Kalori</title>
+    <desc lang="en">Rancangan majalah masakan pelbagai resepi sihat dan juga perkongsian maklumat tentang panduan mengukur unit kalori yang diperlukan oleh badan.</desc>
   </programme>
-  <programme start="20240318080000 +0000" stop="20240318100000 +0000" channel="Berita RTM">
-    <title lang="en">SIARAN LANGSUNG: Selamat Pagi Malaysia</title>
-    <desc lang="en">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).</desc>
+  <programme start="20240326083000 +0000" stop="20240326090000 +0000" channel="Sukan RTM">
+    <title lang="en">Sunrise To Health</title>
+    <desc lang="en">Majalah ini bertemakan gaya hidup sihat tentang bagaimana memulakan kehidupan dengan cara yang lebih positif dan bermanfaat. Pengacara: Kavitha Sidhu.</desc>
+    <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20240318100000 +0000" stop="20240318100500 +0000" channel="Berita RTM">
-    <title lang="en">Dunia 10</title>
-    <desc lang="en">Memaparkan perkembangan berita luar negara.</desc>
+  <programme start="20240326090000 +0000" stop="20240326093000 +0000" channel="Sukan RTM">
+    <title lang="en">Gyms In School</title>
+    <desc lang="en">Rancangan majalah ini memaparkan amalan senaman asas yang perlu dititikberatkan, mengenali personaliti sukan tempatan dan panduan daripada pakar makanan tentang pemakanan yang sihat dan seimbang. Pengacara: Azlan Iskandar dan Muhammad Ikram.</desc>
   </programme>
-  <programme start="20240318100500 +0000" stop="20240318130000 +0000" channel="Berita RTM">
-    <title lang="en">Langsung Dari Parlimen</title>
-    <desc lang="en">Siaran langsung Mesyuarat Pertama Penggal Ketiga Parlimen Ke-15 2024 - Dewan Rakyat.</desc>
+  <programme start="20240326093000 +0000" stop="20240326100000 +0000" channel="Sukan RTM">
+    <title lang="en">Fit X</title>
+    <desc lang="en">Saksikan pengacara, Zaween berkongsi tentang isu kecergasan dan pendidikan serta perkongsian tip diet harian bersama Kamarul Izzwan (Jurulatih Peribadi).</desc>
   </programme>
-  <programme start="20240318130000 +0000" stop="20240318133000 +0000" channel="Berita RTM">
-    <title lang="en">Berita Tengah Hari</title>
-    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan dan berita hiburan.</desc>
+  <programme start="20240326100000 +0000" stop="20240326103000 +0000" channel="Sukan RTM">
+    <title lang="en">Sports Max 2023</title>
+    <desc lang="en">Saksikan rangkuman pelbagai aksi sukan dan perlawanan dari luar negara.</desc>
   </programme>
-  <programme start="20240318133000 +0000" stop="20240318140000 +0000" channel="Berita RTM">
-    <title lang="en">Etnik Kita</title>
-    <desc lang="en">Etnik Kita memaparkan pengembaraan hos, Alif Hadi dalam melihat kehidupan suku kaum minoriti di seluruh Malaysia.</desc>
+  <programme start="20240326103000 +0000" stop="20240326110000 +0000" channel="Sukan RTM">
+    <title lang="en">Jurnal Sukan #Sportpedia (Ulangan)</title>
+    <desc lang="en">Rancangan majalah sukan terbaharu bersama tetamu jemputan membincangkan lebih mendalam mengenai sukan.</desc>
+    <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20240318140000 +0000" stop="20240318141500 +0000" channel="Berita RTM">
-    <title lang="en">i-Bajau</title>
-    <desc lang="en">Memaparkan perkembangan berita dalam bahasa etnik Bajau.</desc>
+  <programme start="20240326110000 +0000" stop="20240326113000 +0000" channel="Sukan RTM">
+    <title lang="en">Minime</title>
+    <desc lang="en">Jom! bersama Erissa dan Wafiy mengenali atlet muda, Aneesya binti Asmi dan mentornya, Nadzirah binti Mohd Adzeman serta berkongsi tentang aktiviti sukan Lawan Pedang.</desc>
   </programme>
-  <programme start="20240318141500 +0000" stop="20240318143000 +0000" channel="Berita RTM">
-    <title lang="en">Sari Alam</title>
-    <desc lang="en">Ubi kayu yang diusahakan di Sepang Selangor oleh Salihudin Nordin berkongsi tips penanaman yang baik.</desc>
+  <programme start="20240326113000 +0000" stop="20240326114500 +0000" channel="Sukan RTM">
+    <title lang="en">SIARAN LANGSUNG: Konti Sukan - MUTIARAfm</title>
+    <desc lang="en">Memaparkan slot menerusi konti radio MUTIARAfm bagi membincangkan aktiviti sukan lokal, tokoh sukan, pembangunan dan pencapaian sukan di negeri terbabit. Turut menampilkan atlet lokal yang terkenal mahupun atlet baharu yag sedang meningkat naik sebagai tetamu konti.</desc>
+    <episode-num system="onscreen">E67</episode-num>
   </programme>
-  <programme start="20240318143000 +0000" stop="20240318160000 +0000" channel="Berita RTM">
-    <title lang="en">Langsung Dari Parlimen</title>
-    <desc lang="en">Siaran langsung Mesyuarat Pertama Penggal Ketiga Parlimen Ke-15 2024 - Dewan Rakyat.</desc>
+  <programme start="20240326114500 +0000" stop="20240326120000 +0000" channel="Sukan RTM">
+    <title lang="en">Kapsul Sukan RTM</title>
+    <desc lang="en">Memaparkan Info Terkini, Motivasi Inspirasi, Gym, Aksi Rekreasi, Pinggan Diet, i-Sukan dan Inovasi Prestasi.</desc>
   </programme>
-  <programme start="20240318160000 +0000" stop="20240318160500 +0000" channel="Berita RTM">
-    <title lang="en">Parlimen Semasa</title>
-    <desc lang="en">Mesyuarat Pertama Penggal Ketiga Parlimen Ke-15, 2024.</desc>
+  <programme start="20240326120000 +0000" stop="20240326123000 +0000" channel="Sukan RTM">
+    <title lang="en">Prestasi Podium</title>
+    <desc lang="en">Sebuah rancangan bersifat santai tetapi berinformatif yang memaparkan keunggulan serta pencapaian terbaik yang berjaya diraih oleh atlet sukan dan penggiat sukan di Malaysia, yang mana pencapaian mereka juga diiktiraf di peringkat antarabangsa.</desc>
   </programme>
-  <programme start="20240318160500 +0000" stop="20240318170000 +0000" channel="Berita RTM">
-    <title lang="en">Langsung Dari Parlimen</title>
-    <desc lang="en">Mesyuarat Pertama Penggal Ketiga Parlimen Ke-15, 2024.</desc>
+  <programme start="20240326123000 +0000" stop="20240326130000 +0000" channel="Sukan RTM">
+    <title lang="en">Ex-Trem</title>
+    <desc lang="en">Sebuah rancangan yang memaparkan sukan lasak dan mencabar untuk para peminatnya. Rasai keterujaan mengendalikan dan beraksi dengan pelbagai jenis sukan lasak yang berbeza setiap minggu.</desc>
+    <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20240318170000 +0000" stop="20240318180000 +0000" channel="Berita RTM">
-    <title lang="en">Berita Wilayah</title>
-    <desc lang="en">Memaparkan perkembangan berita dari negeri-negeri di seluruh negara.</desc>
+  <programme start="20240326130000 +0000" stop="20240326133000 +0000" channel="Sukan RTM">
+    <title lang="en">Extreme E: Electric Odyssey 2023</title>
+    <desc lang="en">Saksikan extreme E: Electric Odyssey 2023.</desc>
   </programme>
-  <programme start="20240318180000 +0000" stop="20240318183000 +0000" channel="Berita RTM">
-    <title lang="en">Ikhtilaf - Rahmat Berbeza Pendapat</title>
-    <desc lang="en">Sebuah rancangan yang akan mendekati 4 mazhab yang terkenal dalam sejarah peradaban dan tamadun islam dulu hingga sekarang.</desc>
+  <programme start="20240326133000 +0000" stop="20240326140000 +0000" channel="Sukan RTM">
+    <title lang="en">Raja Drift</title>
+    <desc lang="en">Sebuah program majalah realiti yang memaparkan pelumba drift tanah air yang akan berlumba untuk merebut gelaran Raja Drift. Pertandingan dinilai berdasarkan 7 peringkat dengan diadili oleh 3 juri.</desc>
   </programme>
-  <programme start="20240318183000 +0000" stop="20240318184500 +0000" channel="Berita RTM">
-    <title lang="en">i-Iban</title>
-    <desc lang="en">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Iban.</desc>
+  <programme start="20240326140000 +0000" stop="20240326150000 +0000" channel="Sukan RTM">
+    <title lang="en">Sukan Lejen (Ulangan)</title>
+    <desc lang="en">Sebuah rancangan yang mengimbau kembali detik-detik kegemilangan atlet dan sukan Malaysia.</desc>
+    <episode-num system="onscreen">E23</episode-num>
   </programme>
-  <programme start="20240318184500 +0000" stop="20240318190000 +0000" channel="Berita RTM">
-    <title lang="en">i-Dusun</title>
-    <desc lang="en">Memaparkan perkembangan berita di Sabah dalam bahasa etnik Dusun.</desc>
+  <programme start="20240326150000 +0000" stop="20240326163000 +0000" channel="Sukan RTM">
+    <title lang="en">Siaran Ulangan : Sorotan Harian Sukan Asia Hangzhou 2022</title>
+    <desc lang="en">Saksikan kembali aksi-aksi menarik dalam Sorotan Harian Sukan Asia Hangzhou 2022.</desc>
   </programme>
-  <programme start="20240318190000 +0000" stop="20240318193000 +0000" channel="Berita RTM">
-    <title lang="en">Berita Mandarin</title>
-    <desc lang="en">Ikuti berita berbahasa Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+  <programme start="20240326163000 +0000" stop="20240326183000 +0000" channel="Sukan RTM">
+    <title lang="en">FIH Junior World Cup Malaysia 2023 (Ulangan)</title>
+    <desc lang="en">Saksikan kembali FIH Junior World Cup Malaysia 2023 - Netherlands VS India 1st Pool D VS 2nd Pool C.</desc>
   </programme>
-  <programme start="20240318193000 +0000" stop="20240318194400 +0000" channel="Berita RTM">
-    <title lang="en">Berita Tamil</title>
-    <desc lang="en">Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+  <programme start="20240326183000 +0000" stop="20240326190000 +0000" channel="Sukan RTM">
+    <title lang="en">Khas Ramadhan: A'Fini "Sihatkan Aku"</title>
+    <desc lang="en">Saksikan Khas Ramadhan A'fini Sihatkan Aku.</desc>
   </programme>
-  <programme start="20240318194400 +0000" stop="20240318200000 +0000" channel="Berita RTM">
-    <title lang="en">Kanta 744</title>
-    <desc lang="en">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
+  <programme start="20240326190000 +0000" stop="20240326190500 +0000" channel="Sukan RTM">
+    <title lang="en">Lima-Lima Bersama Aziz Kota</title>
+    <desc lang="en">Program sembang santai bersama pengamal sukan, jurulatih sukan, atlet dan bekas atlet negara untuk mencungkil kisah dan pengalaman yang belum pihak media war-warkan serta penglibatan awal serta harapan masa hadapan.</desc>
   </programme>
-  <programme start="20240318200000 +0000" stop="20240318203000 +0000" channel="Berita RTM">
-    <title lang="en">Berita Perdana</title>
-    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan serta berita hiburan.</desc>
+  <programme start="20240326190500 +0000" stop="20240326193000 +0000" channel="Sukan RTM">
+    <title lang="en">Kapsul Sukan / PSA</title>
+    <desc lang="en">Memaparkan Info Terkini, Motivasi Inspirasi, Gym, Aksi Rekreasi, Pinggan Diet, i-Sukan dan Inovasi Prestasi.</desc>
   </programme>
-  <programme start="20240318203000 +0000" stop="20240318210000 +0000" channel="Berita RTM">
-    <title lang="en">Malaysia Tonight</title>
-    <desc lang="en">Bringing the latest updates from across the globe.</desc>
+  <programme start="20240326193000 +0000" stop="20240326200000 +0000" channel="Sukan RTM">
+    <title lang="en">Sports Max 2023</title>
+    <desc lang="en">Saksikan rangkuman pelbagai aksi sukan dan perlawanan dari luar negara.</desc>
+    <episode-num system="onscreen">E45</episode-num>
   </programme>
-  <programme start="20240318210000 +0000" stop="20240318220000 +0000" channel="Berita RTM">
-    <title lang="en">Bicara Naratif</title>
-    <desc lang="en">Program bicarawara bertema Naratif bersama tetamu undangan dan membincangkan isu semasa sebagai topik pilihan.</desc>
+  <programme start="20240326200000 +0000" stop="20240326203000 +0000" channel="Sukan RTM">
+    <title lang="en">Sembang Sukan (Ulangan)</title>
+    <desc lang="en">Program bual bicara santai yang akan menampilkan atlet-atlet negara yang mengupas kisah dan cabaran yang dihadapi sepanjang karier mereka.</desc>
+    <episode-num system="onscreen">E26</episode-num>
   </programme>
-  <programme start="20240318220000 +0000" stop="20240318221500 +0000" channel="Berita RTM">
-    <title lang="en">Dunia 10</title>
-    <desc lang="en">Memaparkan perkembangan berita luar negara.</desc>
+  <programme start="20240326203000 +0000" stop="20240326213000 +0000" channel="Sukan RTM">
+    <title lang="en">Planet Sukan 2024 (Ulangan)</title>
+    <desc lang="en">Program bual bicara santai, isu-isu tempatan dan antarabangsa. Nantikan topik-topik yang dikupas oleh atlet dan tokoh sukan negara.</desc>
+    <episode-num system="onscreen">S11</episode-num>
   </programme>
-  <programme start="20240318221500 +0000" stop="20240318223000 +0000" channel="Berita RTM">
-    <title lang="en">Berita Parlimen</title>
-    <desc lang="en">Memaparkan perkembangan Berita PARLIMEN.</desc>
-  </programme>
-  <programme start="20240318223000 +0000" stop="20240318230000 +0000" channel="Berita RTM">
-    <title lang="en">Taranum - Seni Yang Indah</title>
-    <desc lang="en">Dokumentari taranum membawakan seni membaca Al-Quran dengan lagu yang merdu bersama pakar-pakar taranum di malaysia. Penonton akan disajikan dengan sejarah, teknik lontaran suara dan penggunaannya bersama pakar bidang taranum jemputan.</desc>
-  </programme>
-  <programme start="20240318230000 +0000" stop="20240319000000 +0000" channel="Berita RTM">
-    <title lang="en">Cuit Sikit, Jangan Sentap</title>
-    <desc lang="en">Cuit Sikit Jangan Sentap sebuah rancangan bual bicara santai mengetengahkan isu golongan muda yang menyentuh nilai-nilai murni dan kerohanian. Ada beberapa segmen iaitu Bukan Saya Kata Orang Kata, Tamak Pahala dan Sketsa Sentap.</desc>
+  <programme start="20240326213000 +0000" stop="20240327003000 +0000" channel="Sukan RTM">
+    <title lang="en">SIARAN LANGSUNG: Bola Sepak Kelayakan Piala Dunia 2026</title>
+    <desc lang="en">Saksikan secara langsung Bola Sepak Kelayakan Piala Dunia 2026- Malaysia VS Oman.</desc>
   </programme>
   <programme start="20240319000000 +0000" stop="20240319003000 +0000" channel="Berita RTM">
-    <title lang="en">Berita Tengah Malam</title>
-    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara.</desc>
+    <title lang="en">Bicara Naratif</title>
+    <desc lang="en">Program bicarawara bertema Naratif bersama tetamu undangan dan membincangkan isu semasa sebagai topik pilihan.</desc>
   </programme>
   <programme start="20240319003000 +0000" stop="20240319004500 +0000" channel="Berita RTM">
     <title lang="en">Pastikan Sahih</title>
@@ -6308,7 +6055,8 @@
     <desc lang="en">Hak Wanita yang Termaktub adalah sebuah program bual bicara yang memfokuskan kepada wanita, dalam konteks perundangan di Malaysia.</desc>
   </programme>
   <programme start="20240322043000 +0000" stop="20240322053000 +0000" channel="Berita RTM">
-    <title lang="en">ikhtilaf - Bukan Kerana Nama</title>
+    <title lang="en">Ikhtilaf - Rahmat Berbeza Pendapat</title>
+    <title lang="xx">ikhtilaf - Bukan Kerana Nama</title>
     <desc lang="en">Sebuah rancangan yang akan mendekati 4 mazhab yang terkenal dalam sejarah peradaban dan tamadun islam dulu hingga sekarang.</desc>
   </programme>
   <programme start="20240322053000 +0000" stop="20240322060000 +0000" channel="Berita RTM">
@@ -6516,7 +6264,8 @@
     <desc lang="en">Bersama pengantara, Izzu Yusof merungkai peruntukan undang-undang negara.</desc>
   </programme>
   <programme start="20240323043000 +0000" stop="20240323053000 +0000" channel="Berita RTM">
-    <title lang="en">ikhtilaf - Bukan Kerana Nama</title>
+    <title lang="en">Ikhtilaf - Rahmat Berbeza Pendapat</title>
+    <title lang="xx">ikhtilaf - Bukan Kerana Nama</title>
     <desc lang="en">Sebuah rancangan yang akan mendekati 4 mazhab yang terkenal dalam sejarah peradaban dan tamadun islam dulu hingga sekarang.</desc>
   </programme>
   <programme start="20240323053000 +0000" stop="20240323060000 +0000" channel="Berita RTM">
@@ -6955,13 +6704,9 @@
     <title lang="en">Dunia 10</title>
     <desc lang="en">Memaparkan perkembangan berita luar negara.</desc>
   </programme>
-  <programme start="20240325100500 +0000" stop="20240325104500 +0000" channel="Berita RTM">
+  <programme start="20240325100500 +0000" stop="20240325130000 +0000" channel="Berita RTM">
     <title lang="en">Langsung Dari Parlimen</title>
     <desc lang="en">Siaran langsung Mesyuarat Pertama Penggal Ketiga Parlimen Ke-15 2024 - Dewan Rakyat.</desc>
-  </programme>
-  <programme start="20240325104500 +0000" stop="20240325130000 +0000" channel="Berita RTM">
-    <title lang="en">i-Iban</title>
-    <desc lang="en">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Iban.</desc>
   </programme>
   <programme start="20240325130000 +0000" stop="20240325133000 +0000" channel="Berita RTM">
     <title lang="en">Berita Tengah Hari</title>
@@ -7047,114 +6792,173 @@
     <title lang="en">Cuit Sikit, Jangan Sentap</title>
     <desc lang="en">Cuit Sikit Jangan Sentap sebuah rancangan bual bicara santai mengetengahkan isu golongan muda yang menyentuh nilai-nilai murni dan kerohanian. Ada beberapa segmen iaitu Bukan Saya Kata Orang Kata, Tamak Pahala dan Sketsa Sentap.</desc>
   </programme>
-  <programme start="20240318000000 +0000" stop="20240318010000 +0000" channel="TV6">
-    <title lang="en">DMI: Kemudi Hati</title>
-    <desc lang="en">Sebuah drama yang mengisahkan tentang kekeluargaan dan hubungan percintaan.</desc>
+  <programme start="20240326000000 +0000" stop="20240326003000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Tengah Malam</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara.</desc>
   </programme>
-  <programme start="20240318010000 +0000" stop="20240318020000 +0000" channel="TV6">
-    <title lang="en">Istimewa Bersama</title>
-    <desc lang="en">Saksikan persembahan istimewa dan dendangan lagu-lagu popular daripada Dato' Sheila Majid serta barisan artis jemputan lainnya.</desc>
-    <episode-num system="onscreen">E16</episode-num>
+  <programme start="20240326003000 +0000" stop="20240326004500 +0000" channel="Berita RTM">
+    <title lang="en">Pastikan Sahih</title>
+    <desc lang="en">Rancangan bual bicara santai untuk berkongsi maklumat yang benar dan membetulkan berita-berita palsu yang viral di media sosial.</desc>
   </programme>
-  <programme start="20240318020000 +0000" stop="20240318060000 +0000" channel="TV6">
-    <title lang="en">Penutup</title>
-    <desc lang="en">Siaran tamat.</desc>
+  <programme start="20240326004500 +0000" stop="20240326010000 +0000" channel="Berita RTM">
+    <title lang="en">Biz Malaysia</title>
+    <desc lang="en">Memaparkan perkembangan berita ekonomi, korporat dan perniagaan serta laporan saham.</desc>
   </programme>
-  <programme start="20240318060000 +0000" stop="20240318060200 +0000" channel="TV6">
-    <title lang="en">Pembukaan - Negaraku</title>
-    <desc lang="en">Lagu Negaraku.</desc>
+  <programme start="20240326010000 +0000" stop="20240326013000 +0000" channel="Berita RTM">
+    <title lang="en">Ilmuan Islamiah</title>
+    <desc lang="en">Ilmuan Islamiah membawakan perkembangan cabang-cabang ilmu yang diteroka dan dikembangkan oleh tokoh-tokoh pemikir islam. Setiap episod membawakan 2 figura penting, tokoh silam dan tokoh kontemporari dalam bidang ilmu yang diceburi.</desc>
   </programme>
-  <programme start="20240318060200 +0000" stop="20240318063000 +0000" channel="TV6">
-    <title lang="en">Wadi Rahmah</title>
-    <desc lang="en">Kisah konflik sekumpulan anak muda yang menerajui projek ternakan cacing yang dianggap menggelikan. Mereka cuba merubah persepsi masyarakat dan membuka syarikat Wadi Rahmah Sdn Bhd. Lakonan Faizal Yusup, Ayu Raudhah, Fadilah Mansor dan ramai lagi.</desc>
+  <programme start="20240326013000 +0000" stop="20240326023000 +0000" channel="Berita RTM">
+    <title lang="en">Bicara Naratif</title>
+    <desc lang="en">Program bicarawara bertema Naratif bersama tetamu undangan dan membincangkan isu semasa sebagai topik pilihan.</desc>
   </programme>
-  <programme start="20240318063000 +0000" stop="20240318073000 +0000" channel="TV6">
-    <title lang="en">Seharum Kenanga</title>
-    <desc lang="en">Mengisahkan Dania seorang anak yatim piatu yang dijaga oleh ibu saudaranya. Dania menjadi model dan seterusnya menjadi pelakon terkenal. Lakonan Janet Khoo, Faizal Hussein, Shahruddin Thamby dan ramai lagi.</desc>
+  <programme start="20240326023000 +0000" stop="20240326030000 +0000" channel="Berita RTM">
+    <title lang="en">Langit Borneo</title>
+    <desc lang="en">Program travelog Langit Borneo memaparkan keindahan bumi Borneo dari pelbagai segi seperti pantai, bangunan dan lain-lain.</desc>
   </programme>
-  <programme start="20240318073000 +0000" stop="20240318080000 +0000" channel="TV6">
-    <title lang="en">Menyusur Adat</title>
-    <desc lang="en">Program dokumentari yang meneroka pelbagai budaya dan adat resam tradisional di Malaysia yang menyingkap pelbagai kisah sejarah dan adat bangsa.</desc>
-    <episode-num system="onscreen">E12</episode-num>
+  <programme start="20240326030000 +0000" stop="20240326033000 +0000" channel="Berita RTM">
+    <title lang="en">Bikin</title>
+    <desc lang="en">Saksikan program menarik, Bikin di Saluran Berita RTM.</desc>
   </programme>
-  <programme start="20240318080000 +0000" stop="20240318090000 +0000" channel="TV6">
-    <title lang="en">DMI: Berakit Ke Hulu</title>
-    <desc lang="en">Mengisahkan tentang kehidupan kekeluargaan, cabaran dan dugaan yang perlu dilalui demi sebuah cinta dan kasih sayang. Lakonan Norjie Ali, Mubarak Majid, Ahmad B dan ramai lagi.</desc>
+  <programme start="20240326033000 +0000" stop="20240326040000 +0000" channel="Berita RTM">
+    <title lang="en">My Hawa</title>
+    <desc lang="en">Bersama hos, Azzahra Ahmad mendalami pertubuhan bukan kerajaan (NGO) yang terlibat dalam menyediakan perkhidmatan sosial kepada kaum wanita di Malaysia.</desc>
   </programme>
-  <programme start="20240318090000 +0000" stop="20240318100000 +0000" channel="TV6">
-    <title lang="en">Hiburan Minggu Ini</title>
-    <desc lang="en">Saksikan persembahan istimewa dan dendangan lagu-lagu popular daripada Hetty Koes Endang serta barisan artis jemputan lainnya.</desc>
-    <episode-num system="onscreen">E16</episode-num>
+  <programme start="20240326040000 +0000" stop="20240326043000 +0000" channel="Berita RTM">
+    <title lang="en">Kata Alfa</title>
+    <desc lang="en">Kata Alfa merupakan program bual bicara generasi muda yang menjadi wadah kepada ekspresi golongan alfa.</desc>
   </programme>
-  <programme start="20240318100000 +0000" stop="20240318110000 +0000" channel="TV6">
-    <title lang="en">Bola Cinta</title>
-    <desc lang="en">Haziq mendapat tawaran daripada sebuah kelab bola sepak. Fiza pula meraikan kejayaannya mendapat tawaran belajar di luar negara. Lakonan Shahz Jaszle, Memey Suhaiza, Ainul Aishah dan ramai lagi.</desc>
-    <episode-num system="onscreen">E12</episode-num>
+  <programme start="20240326043000 +0000" stop="20240326053000 +0000" channel="Berita RTM">
+    <title lang="en">Ikhtilaf - Rahmat Berbeza Pendapat</title>
+    <desc lang="en">Sebuah rancangan yang akan mendekati 4 mazhab yang terkenal dalam sejarah peradaban dan tamadun islam dulu hingga sekarang.</desc>
   </programme>
-  <programme start="20240318110000 +0000" stop="20240318130000 +0000" channel="TV6">
-    <title lang="en">Resepi Cinta</title>
-    <desc lang="en">Haikal adalah seorang tukang masak yang mudah jatuh cinta terhadap wanita yang ditemuinya. Apabila dia dilamun cinta barulah dia dapat mnghasilkan masakan yang enak dan lazat. Sama ada wanita itu mencintainya atau tidak itu tidak penting, yang boleh mengembalikan mood Haikal hanyalah perasaan cinta dan sayangnya pada wanita. Lakonan Fahrin Ahmad, Piere Andre, Douglas Lim Yew Sim dan ramai lagi.</desc>
+  <programme start="20240326053000 +0000" stop="20240326060000 +0000" channel="Berita RTM">
+    <title lang="en">Taranum - Seni Yang Indah</title>
+    <desc lang="en">Dokumentari taranum membawakan seni membaca Al-Quran dengan lagu yang merdu bersama pakar-pakar taranum di malaysia. Penonton akan disajikan dengan sejarah, teknik lontaran suara dan penggunaannya bersama pakar bidang taranum jemputan.</desc>
   </programme>
-  <programme start="20240318130000 +0000" stop="20240318133000 +0000" channel="TV6">
-    <title lang="en">Nostalgia</title>
-    <desc lang="en">Rancangan yang akan mengimbau kembali hal-hal yang sering kita lakukan atau sering ada dalam kehidupan kita yang akan mengingatkan kita dengan masa lalu.</desc>
-    <episode-num system="onscreen">E12</episode-num>
+  <programme start="20240326060000 +0000" stop="20240326060200 +0000" channel="Berita RTM">
+    <title lang="en">Lagu Negaraku</title>
+    <desc lang="en">Nyanyian lagu Negaraku.</desc>
   </programme>
-  <programme start="20240318133000 +0000" stop="20240318143000 +0000" channel="TV6">
-    <title lang="en">Bara Yang Ku Genggam</title>
-    <desc lang="en">Konflik diri yang terpaksa Juwita lalui dalam meniti kehidupan sehari-hari. Bahagia yang dikecapi pada awal perkahwinan akhirnya diragut. Lakonan Rozita Che Wan, Ako Mustapha, Catrionna Ross dan ramai lagi.</desc>
-    <episode-num system="onscreen">E12</episode-num>
+  <programme start="20240326060200 +0000" stop="20240326063000 +0000" channel="Berita RTM">
+    <title lang="en">Syahadah</title>
+    <desc lang="en">Sebuah dokumentari bertemakan Islam Kontemporari dengan rujukan ayat Al-Quran yang berkaitan dengan masyarakat Islam di seluruh negara.</desc>
   </programme>
-  <programme start="20240318143000 +0000" stop="20240318150000 +0000" channel="TV6">
-    <title lang="en">Adat Atau Kepercayaan</title>
-    <desc lang="en">Dokumentari tentang pelbagai isu yang berkait rapat dengan kepercayaan masyarakat Melayu lampau yang ditelusuri dengan lebih mendalam.</desc>
+  <programme start="20240326063000 +0000" stop="20240326070000 +0000" channel="Berita RTM">
+    <title lang="en">Ilmuan Islamiah</title>
+    <desc lang="en">Ilmuan Islamiah membawakan perkembangan cabang-cabang ilmu yang diteroka dan dikembangkan oleh tokoh-tokoh pemikir islam. Setiap episod membawakan 2 figura penting, tokoh silam dan tokoh kontemporari dalam bidang ilmu yang diceburi.</desc>
   </programme>
-  <programme start="20240318150000 +0000" stop="20240318170000 +0000" channel="TV6">
-    <title lang="en">Mencari Bidadari</title>
-    <desc lang="en">Hakim seorang arkitek yang mempunyai syarikat sendiri. Hakim sering keluar malam, tetapi keluarganya hairan kenapa Hakim masih belum bertemu jodoh. Lakonan Fiz Fairuz, Rose Iskandar, Razali Buyong dan ramai lagi.</desc>
+  <programme start="20240326070000 +0000" stop="20240326073000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Pagi</title>
+    <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negara.</desc>
   </programme>
-  <programme start="20240318170000 +0000" stop="20240318173000 +0000" channel="TV6">
-    <title lang="en">Aneka Rasa Ramadan</title>
-    <desc lang="en">Memperlihatkan bagaimana penyediaan masakan yang sesuai untuk hidangan ketika berbuka puasa. Menampilkan Chef Liza sebagai pengacara dengan tetamu jemputan, antaranya Haryati Hamzah, Zul Yahya, Kuza, Kismah Johar, Acong (Sweetchild), Nor Albaniah dan Ybhg. Dato' Osman Salleh.</desc>
+  <programme start="20240326073000 +0000" stop="20240326074000 +0000" channel="Berita RTM">
+    <title lang="en">Stadium RTM Pagi</title>
+    <desc lang="en">Memaparkan perkembangan terkini berita sukan dari dalam dan luar negara.</desc>
   </programme>
-  <programme start="20240318173000 +0000" stop="20240318180000 +0000" channel="TV6">
-    <title lang="en">Destinasi Etnik</title>
-    <desc lang="en">Berkongsi tentang latar belakang, keunikan dan tarikan daerah serta pekan-pekan kecil di negeri Sabah yang terkenal dengan pelbagai aktiviti desa. Selain perkongsian tentang makanan tradisi masyarakat setempat.</desc>
+  <programme start="20240326074000 +0000" stop="20240326074400 +0000" channel="Berita RTM">
+    <title lang="en">Promo / PSA / Kapsul</title>
+    <desc lang="en">Saksikan paparan promo semasa, PSA, kapsul kenegaraan, kerohanian dan nilai-nilai murni.</desc>
   </programme>
-  <programme start="20240318180000 +0000" stop="20240318183000 +0000" channel="TV6">
-    <title lang="en">Seru Qasidah</title>
-    <desc lang="en">Sebuah rancangan kembara rohani yang bertujuan menjejaki amalan dan budaya Qasidah yang terdapat di seluruh dunia. Bersama pengacara Pot Amir dan Syed Alwi Syed Mustafa.</desc>
+  <programme start="20240326074400 +0000" stop="20240326080000 +0000" channel="Berita RTM">
+    <title lang="en">Kanta 744 (Pagi)</title>
+    <desc lang="en">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
   </programme>
-  <programme start="20240318183000 +0000" stop="20240318190000 +0000" channel="TV6">
-    <title lang="en">Ramadan Davi</title>
-    <desc lang="en">Sebuah drama berkisahkan tentang ragam kanak-kanak dalam menyambut bulan ramadan. Bermula dengan kisah kehidupan seorang kanak-kanak berbangsa India iaitu Ravi. Ravi terpaksa 1 tinggal bersama bapa saudaranya buat sementara waktu kerana ibunya sedang menjalani rawatan di sebuah hospital. Namun kerana tertekan dan tidak selesa tinggal dengan bapa saudaranya itu, Ravi cuba melarikan diri dan ketika itu dia terserempak dengan makcik Faridah dan anaknya Cikgu Ema. Bermula dari situlah Ravi cuba mengenali dan belajar tentang berpuasa dibulan ramadan. Lakonan Vemalesh a\\l Ganesh, Iliya Buang, Ieda Moin dan ramai lagi.</desc>
+  <programme start="20240326080000 +0000" stop="20240326100000 +0000" channel="Berita RTM">
+    <title lang="en">SIARAN LANGSUNG: Selamat Pagi Malaysia</title>
+    <desc lang="en">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).</desc>
   </programme>
-  <programme start="20240318190000 +0000" stop="20240318193000 +0000" channel="TV6">
-    <title lang="en">Syahadah 2005</title>
-    <desc lang="en">Sebuah dokumentari sejarah Islam yang mengembara menyelusuri perkembangan umat Islam di Kota Madinah dan menjejaki kesan-kesan sejarah serta kecekalan Rasullulah s.a.w bersama para sahabat ketika hijrah mereka ke Madinah Al Munawarah.</desc>
-    <episode-num system="onscreen">E33</episode-num>
+  <programme start="20240326100000 +0000" stop="20240326100500 +0000" channel="Berita RTM">
+    <title lang="en">Dunia 10</title>
+    <desc lang="en">Memaparkan perkembangan berita luar negara.</desc>
   </programme>
-  <programme start="20240318193000 +0000" stop="20240318200000 +0000" channel="TV6">
-    <title lang="en">Nostalgia</title>
-    <desc lang="en">Rancangan yang akan mengimbau kembali hal-hal yang sering kita lakukan atau sering ada dalam kehidupan kita yang akan mengingatkan kita dengan masa lalu.</desc>
-    <episode-num system="onscreen">E12</episode-num>
+  <programme start="20240326100500 +0000" stop="20240326130000 +0000" channel="Berita RTM">
+    <title lang="en">Langsung Dari Parlimen</title>
+    <desc lang="en">Siaran langsung Mesyuarat Pertama Penggal Ketiga Parlimen Ke-15 2024 - Dewan Rakyat.</desc>
   </programme>
-  <programme start="20240318200000 +0000" stop="20240318213000 +0000" channel="TV6">
-    <title lang="en">Jerat</title>
-    <desc lang="en">Kisah seorang remaja bernama Rina bersama datuknya, seorang kapten bersara mambantu polis bagi menangkap perogol kanak-kanak di kawasan perumahan mereka. Rina dijadikan sebagai ‘mangsa’ bagi menjerat penjenayah tersebut. Perangkap mereka berjaya, namun orang yang ditangkap bukan penjenayah yang dicari. Rina telah memperolehi bukti siapa sebenarnya perogol tersebut. Lakonan Sweet Farhana, Rahim Omar, Hasnut Rahmat dan ramai lagi.</desc>
+  <programme start="20240326130000 +0000" stop="20240326133000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan dan berita hiburan.</desc>
   </programme>
-  <programme start="20240318213000 +0000" stop="20240318223000 +0000" channel="TV6">
-    <title lang="en">Hiburan Minggu Ini</title>
-    <desc lang="en">Saksikan persembahan istimewa dan dendangan lagu-lagu popular daripada Hetty Koes Endang serta barisan artis jemputan lainnya.</desc>
-    <episode-num system="onscreen">E16</episode-num>
+  <programme start="20240326133000 +0000" stop="20240326140000 +0000" channel="Berita RTM">
+    <title lang="en">Travelog Abang Adik</title>
+    <desc lang="en">Travelog Abang Adik membawakan pengembaraan Naqiu dan Jaa Suzuran ke tempat-tempat menarik di semenanjung Malaysia. Mereka akan berkelana sambil melengkapkan cabaran-cabaran yang diberikan sepanjang perjalanan mereka.</desc>
   </programme>
-  <programme start="20240318223000 +0000" stop="20240318233000 +0000" channel="TV6">
-    <title lang="en">DMI: Berakit Ke Hulu</title>
-    <desc lang="en">Mengisahkan tentang kehidupan kekeluargaan, cabaran dan dugaan yang perlu dilalui demi sebuah cinta dan kasih sayang. Lakonan Norjie Ali, Mubarak Majid, Ahmad B dan ramai lagi.</desc>
+  <programme start="20240326140000 +0000" stop="20240326141500 +0000" channel="Berita RTM">
+    <title lang="en">i-Bajau</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam bahasa etnik Bajau.</desc>
   </programme>
-  <programme start="20240318233000 +0000" stop="20240319000000 +0000" channel="TV6">
-    <title lang="en">Waktu Imsak &amp; Doa-Doa</title>
-    <desc lang="en">Waktu Imsak serta doa-doa pilihan untuk panduan Muslimin dan Muslimat.</desc>
+  <programme start="20240326141500 +0000" stop="20240326143000 +0000" channel="Berita RTM">
+    <title lang="en">Sari Alam</title>
+    <desc lang="en">Ketahui infomasi berkaitan khasiat, cara menanaman dan penjagaan tanaman kacang botol yang diusahakan di Bukit Tinggi, Pahang bersama pengusaha Mow Mei Yin.</desc>
+  </programme>
+  <programme start="20240326143000 +0000" stop="20240326160000 +0000" channel="Berita RTM">
+    <title lang="en">Langsung Dari Parlimen</title>
+    <desc lang="en">Siaran langsung Mesyuarat Pertama Penggal Ketiga Parlimen Ke-15 2024 - Dewan Rakyat.</desc>
+  </programme>
+  <programme start="20240326160000 +0000" stop="20240326160500 +0000" channel="Berita RTM">
+    <title lang="en">Berita Semasa</title>
+    <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
+  </programme>
+  <programme start="20240326160500 +0000" stop="20240326170000 +0000" channel="Berita RTM">
+    <title lang="en">Langsung Dari Parlimen</title>
+    <desc lang="en">Mesyuarat Pertama Penggal Ketiga Parlimen Ke-15, 2024.</desc>
+  </programme>
+  <programme start="20240326170000 +0000" stop="20240326180000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Memaparkan perkembangan berita dari negeri-negeri di seluruh negara.</desc>
+  </programme>
+  <programme start="20240326180000 +0000" stop="20240326183000 +0000" channel="Berita RTM">
+    <title lang="en">Ikhtilaf - Rahmat Berbeza Pendapat</title>
+    <desc lang="en">Sebuah rancangan yang akan mendekati 4 mazhab yang terkenal dalam sejarah peradaban dan tamadun islam dulu hingga sekarang.</desc>
+  </programme>
+  <programme start="20240326183000 +0000" stop="20240326184500 +0000" channel="Berita RTM">
+    <title lang="en">i-Iban</title>
+    <desc lang="en">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Iban.</desc>
+  </programme>
+  <programme start="20240326184500 +0000" stop="20240326190000 +0000" channel="Berita RTM">
+    <title lang="en">i-Dusun</title>
+    <desc lang="en">Memaparkan perkembangan berita di Sabah dalam bahasa etnik Dusun.</desc>
+  </programme>
+  <programme start="20240326190000 +0000" stop="20240326193000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Ikuti berita berbahasa Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+  </programme>
+  <programme start="20240326193000 +0000" stop="20240326194400 +0000" channel="Berita RTM">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+  </programme>
+  <programme start="20240326194400 +0000" stop="20240326200000 +0000" channel="Berita RTM">
+    <title lang="en">Kanta 744</title>
+    <desc lang="en">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
+  </programme>
+  <programme start="20240326200000 +0000" stop="20240326203000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan serta berita hiburan.</desc>
+  </programme>
+  <programme start="20240326203000 +0000" stop="20240326210000 +0000" channel="Berita RTM">
+    <title lang="en">Malaysia Tonight</title>
+    <desc lang="en">Bringing the latest updates from across the globe.</desc>
+  </programme>
+  <programme start="20240326210000 +0000" stop="20240326220000 +0000" channel="Berita RTM">
+    <title lang="en">Bicara Naratif</title>
+    <desc lang="en">Program bicarawara bertema Naratif bersama tetamu undangan dan membincangkan isu semasa sebagai topik pilihan.</desc>
+  </programme>
+  <programme start="20240326220000 +0000" stop="20240326221500 +0000" channel="Berita RTM">
+    <title lang="en">Dunia 10</title>
+    <desc lang="en">Memaparkan perkembangan berita luar negara.</desc>
+  </programme>
+  <programme start="20240326221500 +0000" stop="20240326223000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Parlimen</title>
+    <desc lang="en">Memaparkan perkembangan Berita PARLIMEN.</desc>
+  </programme>
+  <programme start="20240326223000 +0000" stop="20240326230000 +0000" channel="Berita RTM">
+    <title lang="en">Taranum - Seni Yang Indah</title>
+    <desc lang="en">Dokumentari taranum membawakan seni membaca Al-Quran dengan lagu yang merdu bersama pakar-pakar taranum di malaysia. Penonton akan disajikan dengan sejarah, teknik lontaran suara dan penggunaannya bersama pakar bidang taranum jemputan.</desc>
+  </programme>
+  <programme start="20240326230000 +0000" stop="20240327000000 +0000" channel="Berita RTM">
+    <title lang="en">Vasantham</title>
+    <desc lang="en">Program bual bicara berbahasa Tamil secara langsung yang membincangkan isu-isu semasa tanah air.</desc>
   </programme>
   <programme start="20240319000000 +0000" stop="20240319010000 +0000" channel="TV6">
     <title lang="en">Bola Cinta</title>
@@ -7909,13 +7713,115 @@
     <title lang="en">Waktu Imsak &amp; Doa-Doa</title>
     <desc lang="en">Waktu Imsak serta doa-doa pilihan untuk panduan Muslimin dan Muslimat.</desc>
   </programme>
-  <programme start="20240318100000 +0000" stop="20240318143000 +0000" channel="Dewan Rakyat">
-    <title lang="en">Langsung Dari Parlimen</title>
-    <desc lang="en">Mesyuarat Pertama Penggal Ketiga Parlimen Ke-15, 2024.</desc>
+  <programme start="20240326000000 +0000" stop="20240326010000 +0000" channel="TV6">
+    <title lang="en">Seharum Kenanga</title>
+    <desc lang="en">Mengisahkan Dania seorang anak yatim piatu yang dijaga oleh ibu saudaranya. Dania menjadi model dan seterusnya menjadi pelakon terkenal. Lakonan Janet Khoo, Faizal Hussein, Shahruddin Thamby dan ramai lagi.</desc>
   </programme>
-  <programme start="20240318143000 +0000" stop="20240319100000 +0000" channel="Dewan Rakyat">
-    <title lang="en">Langsung Dari Parlimen</title>
-    <desc lang="en">Mesyuarat Pertama Penggal Ketiga Parlimen Ke-15, 2024.</desc>
+  <programme start="20240326010000 +0000" stop="20240326020000 +0000" channel="TV6">
+    <title lang="en">Mekar Sejambak</title>
+    <desc lang="en">Mekar Sejambak adalah sebuah program hiburan popular sekitar 80an yang menampilkan persembahan menarik gabungan artis-artis popular pada era tersebut.</desc>
+  </programme>
+  <programme start="20240326020000 +0000" stop="20240326060000 +0000" channel="TV6">
+    <title lang="en">Penutup</title>
+    <desc lang="en">Siaran tamat.</desc>
+  </programme>
+  <programme start="20240326060000 +0000" stop="20240326060200 +0000" channel="TV6">
+    <title lang="en">Pembukaan - Negaraku</title>
+    <desc lang="en">Lagu Negaraku.</desc>
+  </programme>
+  <programme start="20240326060200 +0000" stop="20240326063000 +0000" channel="TV6">
+    <title lang="en">Wadi Rahmah</title>
+    <desc lang="en">Kisah konflik sekumpulan anak muda yang menerajui projek ternakan cacing yang dianggap menggelikan. Mereka cuba merubah persepsi masyarakat dan membuka syarikat Wadi Rahmah Sdn Bhd. Lakonan Faizal Yusup, Ayu Raudhah, Fadilah Mansor dan ramai lagi.</desc>
+  </programme>
+  <programme start="20240326063000 +0000" stop="20240326073000 +0000" channel="TV6">
+    <title lang="en">Seharum Kenanga</title>
+    <desc lang="en">Mengisahkan Dania seorang anak yatim piatu yang dijaga oleh ibu saudaranya. Dania menjadi model dan seterusnya menjadi pelakon terkenal. Lakonan Janet Khoo, Faizal Hussein, Shahruddin Thamby dan ramai lagi.</desc>
+  </programme>
+  <programme start="20240326073000 +0000" stop="20240326080000 +0000" channel="TV6">
+    <title lang="en">Menyusur Adat</title>
+    <desc lang="en">Program dokumentari yang meneroka pelbagai budaya dan adat resam tradisional di Malaysia yang menyingkap pelbagai kisah sejarah dan adat bangsa.</desc>
+  </programme>
+  <programme start="20240326080000 +0000" stop="20240326090000 +0000" channel="TV6">
+    <title lang="en">DMI: Bicara</title>
+    <desc lang="en">Kisah yang sarat dengan konflik percintaan, kekeluargaan dan hubungan dalam masyarakat. Lakonan Yalal Chin, Zainab Salleh, Abu Bakar Juah dan ramai lagi.</desc>
+  </programme>
+  <programme start="20240326090000 +0000" stop="20240326100000 +0000" channel="TV6">
+    <title lang="en">Hiburan Minggu Ini</title>
+    <desc lang="en">Saksikan persembahan istimewa daripada Shah Reza dan Uji Rashid serta barisan artis jemputan lainnya.</desc>
+    <episode-num system="onscreen">E20</episode-num>
+  </programme>
+  <programme start="20240326100000 +0000" stop="20240326103000 +0000" channel="TV6">
+    <title lang="en">Ramadhan Tanpamu</title>
+    <desc lang="en">Kisah Sulaiman yang terpaksa menyediakan segala keperluan anak-anaknya di bulan Ramadan selepas isterinya meninggal dunia. Lakonan Hairie Othman, Lisdawati, Afida Es dan ramai lagi.</desc>
+  </programme>
+  <programme start="20240326103000 +0000" stop="20240326110000 +0000" channel="TV6">
+    <title lang="en">Video Klip Patriotik / Kapsul Ramadan</title>
+  </programme>
+  <programme start="20240326110000 +0000" stop="20240326130000 +0000" channel="TV6">
+    <title lang="en">DMI: Silap Menghitung</title>
+    <desc lang="en">Opah berkunjung ke rumah anaknya, Osman di Kuala Lumpur bersama Alang Yassin yang akan menghadiri seminar usahawan. Kebetulan pula sekolah mula bercuti. Telatah Opah bersama cucu-cucunya Bakar dan Borhan menjadikan Timah dan Osman terhibur. Bagaimanapun keadaan bertukar apabila Khaty membawa pulang sahabat baiknya, Alia menumpang seketika di rumah mereka. Lakonan : Opah, Kaza, Liza Abdullah dan ramai lagi.</desc>
+  </programme>
+  <programme start="20240326130000 +0000" stop="20240326133000 +0000" channel="TV6">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Rancangan yang akan mengimbau kembali hal-hal yang sering kita lakukan atau sering ada dalam kehidupan kita yang akan mengingatkan kita dengan masa lalu.</desc>
+    <episode-num system="onscreen">E16</episode-num>
+  </programme>
+  <programme start="20240326133000 +0000" stop="20240326143000 +0000" channel="TV6">
+    <title lang="en">Bara Yang Ku Genggam</title>
+    <desc lang="en">Konflik diri yang terpaksa Juwita lalui dalam meniti kehidupan sehari-hari. Bahagia yang dikecapi pada awal perkahwinan akhirnya diragut. Lakonan Rozita Che Wan, Ako Mustapha, Catrionna Ross dan ramai lagi.</desc>
+    <episode-num system="onscreen">E18</episode-num>
+  </programme>
+  <programme start="20240326143000 +0000" stop="20240326150000 +0000" channel="TV6">
+    <title lang="en">Adat Atau Kepercayaan</title>
+    <desc lang="en">Dokumentari tentang pelbagai isu yang berkait rapat dengan kepercayaan masyarakat Melayu lampau yang ditelusuri dengan lebih mendalam.</desc>
+  </programme>
+  <programme start="20240326150000 +0000" stop="20240326170000 +0000" channel="TV6">
+    <title lang="en">DMI: Cermin 2 Muka</title>
+    <desc lang="en">Konflik keluarga yang tiada kesudahan. Akhirnya dendam yang terpaksa dileraikan demi sebuah kasih saying. Lakonan Zahiril Adzim, Abu Bakar Omar, Anne Ngasri dan ramai lagi.</desc>
+  </programme>
+  <programme start="20240326170000 +0000" stop="20240326173000 +0000" channel="TV6">
+    <title lang="en">Aneka Rasa Ramadan</title>
+    <desc lang="en">Memperlihatkan bagaimana penyediaan masakan yang sesuai untuk hidangan ketika berbuka puasa. Menampilkan Chef Liza sebagai pengacara dengan tetamu jemputan, antaranya Haryati Hamzah, Zul Yahya, Kuza, Kismah Johar, Acong (Sweetchild), Nor Albaniah dan Ybhg. Dato' Osman Salleh.</desc>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20240326173000 +0000" stop="20240326180000 +0000" channel="TV6">
+    <title lang="en">Destinasi Etnik</title>
+    <desc lang="en">Berkongsi tentang latar belakang, keunikan dan tarikan daerah serta pekan-pekan kecil di negeri Sabah yang terkenal dengan pelbagai aktiviti desa. Selain perkongsian tentang makanan tradisi masyarakat setempat.</desc>
+  </programme>
+  <programme start="20240326180000 +0000" stop="20240326183000 +0000" channel="TV6">
+    <title lang="en">Seru Qasidah</title>
+    <desc lang="en">Sebuah rancangan kembara rohani yang bertujuan menjejaki amalan dan budaya Qasidah yang terdapat di seluruh dunia. Bersama pengacara Pot Amir dan Syed Alwi Syed Mustafa.</desc>
+  </programme>
+  <programme start="20240326183000 +0000" stop="20240326190000 +0000" channel="TV6">
+    <title lang="en">Ramadan Ravi</title>
+    <desc lang="en">Sebuah drama berkisahkan tentang ragam kanak-kanak dalam menyambut bulan ramadan. Bermula dengan kisah kehidupan seorang kanak-kanak berbangsa India iaitu Ravi. Ravi terpaksa tinggal bersama bapa saudaranya buat sementara waktu kerana ibunya sedang menjalani rawatan di sebuah hospital. Namun kerana tertekan dan tidak selesa tinggal dengan bapa saudaranya itu, Ravi cuba melarikan diri dan ketika itu dia terserempak dengan makcik Faridah dan anaknya, Cikgu Ema. Bermula dari situlah Ravi cuba mengenali dan belajar tentang berpuasa dibulan ramadan. Lakonan Vemalesh a\\\\l Ganesh, Iliya Buang, Ieda Moin dan ramai lagi.</desc>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20240326190000 +0000" stop="20240326193000 +0000" channel="TV6">
+    <title lang="en">Syahadah 2005</title>
+    <desc lang="en">Sebuah dokumentari sejarah Islam yang mengembara menyelusuri perkembangan umat Islam di Kota Madinah dan menjejaki kesan-kesan sejarah serta kecekalan Rasullulah s.a.w bersama para sahabat ketika hijrah mereka ke Madinah Al Munawarah.</desc>
+  </programme>
+  <programme start="20240326193000 +0000" stop="20240326200000 +0000" channel="TV6">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Rancangan yang akan mengimbau kembali hal-hal yang sering kita lakukan atau sering ada dalam kehidupan kita yang akan mengingatkan kita dengan masa lalu.</desc>
+    <episode-num system="onscreen">E16</episode-num>
+  </programme>
+  <programme start="20240326200000 +0000" stop="20240326213000 +0000" channel="TV6">
+    <title lang="en">Amira</title>
+    <desc lang="en">Kisah percintaan dua darjat. Percintaan Amira bersama Rizal mendapat tentangan daripada ayahnya yang akhirnya menyeksa kehidupan Amira sendiri. Lakonan Erma Fatima, S Romai Noor, Helmi Husaini dan ramai lagi.</desc>
+  </programme>
+  <programme start="20240326213000 +0000" stop="20240326223000 +0000" channel="TV6">
+    <title lang="en">Hiburan Minggu Ini</title>
+    <desc lang="en">Saksikan persembahan istimewa daripada Shah Reza dan Uji Rashid serta barisan artis jemputan lain.</desc>
+    <episode-num system="onscreen">E20</episode-num>
+  </programme>
+  <programme start="20240326223000 +0000" stop="20240326233000 +0000" channel="TV6">
+    <title lang="en">DMI: Bicara</title>
+    <desc lang="en">Kisah yang sarat dengan konflik percintaan, kekeluargaan dan hubungan dalam masyarakat. Lakonan Yalal Chin, Zainab Salleh, Abu Bakar Juah dan ramai lagi.</desc>
+  </programme>
+  <programme start="20240326233000 +0000" stop="20240327000000 +0000" channel="TV6">
+    <title lang="en">Waktu Imsak &amp; Doa-Doa</title>
+    <desc lang="en">Waktu Imsak serta doa-doa pilihan untuk panduan Muslimin dan Muslimat.</desc>
   </programme>
   <programme start="20240319100000 +0000" stop="20240319143000 +0000" channel="Dewan Rakyat">
     <title lang="en">Langsung Dari Parlimen</title>
@@ -7949,37 +7855,13 @@
     <title lang="en">Langsung Dari Parlimen</title>
     <desc lang="en">Mesyuarat Pertama Penggal Ketiga Parlimen Ke-15, 2024.</desc>
   </programme>
-  <programme start="20240318100000 +0000" stop="20240318143000 +0000" channel="Dewan Negara">
+  <programme start="20240326100000 +0000" stop="20240326143000 +0000" channel="Dewan Rakyat">
     <title lang="en">Langsung Dari Parlimen</title>
     <desc lang="en">Mesyuarat Pertama Penggal Ketiga Parlimen Ke-15, 2024.</desc>
   </programme>
-  <programme start="20240318143000 +0000" stop="20240319100000 +0000" channel="Dewan Negara">
+  <programme start="20240326143000 +0000" stop="20240327100000 +0000" channel="Dewan Rakyat">
     <title lang="en">Langsung Dari Parlimen</title>
     <desc lang="en">Mesyuarat Pertama Penggal Ketiga Parlimen Ke-15, 2024.</desc>
-  </programme>
-  <programme start="20240318000000 +0000" stop="20240318060000 +0000" channel="Radio Klasik">
-    <title lang="en">Harmoni Klasik</title>
-    <desc lang="en">Segmen pilihan lagu-lagu menggamit kenangan 6 jam tanpa henti dari era 70-an hingga 2000.</desc>
-  </programme>
-  <programme start="20240318060000 +0000" stop="20240318100000 +0000" channel="Radio Klasik">
-    <title lang="en">Sajian Klasik</title>
-    <desc lang="en">Segmen berinformasi dengan pilihan lagu-lagu hits era 80-an, 90-an dan 2000 serta lagu-lagu rentak irama Melayu yang menggamit kenangan.</desc>
-  </programme>
-  <programme start="20240318100000 +0000" stop="20240318140000 +0000" channel="Radio Klasik">
-    <title lang="en">Melodi Klasik</title>
-    <desc lang="en">Segmen lagu-lagu era 60-an, 70-an dan 80-an serta lagu-lagu filem Melayu klasik dan rakaman piring hitam.</desc>
-  </programme>
-  <programme start="20240318140000 +0000" stop="20240318170000 +0000" channel="Radio Klasik">
-    <title lang="en">Mestika Klasik</title>
-    <desc lang="en">Himpunan lagu-lagu rakaman asal irama kenangan 60-an dan pop yeh-yeh bersama-sama kumpulan gitar rancak (kugiran) juga lagu-lagu kenangan kumpulan-kumpulan terhebat era 70-an dan 80-an.</desc>
-  </programme>
-  <programme start="20240318170000 +0000" stop="20240318210000 +0000" channel="Radio Klasik">
-    <title lang="en">Mutiara Klasik</title>
-    <desc lang="en">Himpunan lagu-lagu hits era 80-an, 90-an dan 2000.</desc>
-  </programme>
-  <programme start="20240318210000 +0000" stop="20240319000000 +0000" channel="Radio Klasik">
-    <title lang="en">Ritma Klasik</title>
-    <desc lang="en">Lagu-lagu kenangan filem Melayu klasik dan rakaman piring hitam serta lagu-lagu hits dari era 70-an hingga 2000.</desc>
   </programme>
   <programme start="20240319000000 +0000" stop="20240319060000 +0000" channel="Radio Klasik">
     <title lang="en">Harmoni Klasik</title>
@@ -8149,29 +8031,29 @@
     <title lang="en">Ritma Klasik</title>
     <desc lang="en">Lagu-lagu kenangan filem Melayu klasik dan rakaman piring hitam serta lagu-lagu hits dari era 70-an hingga 2000.</desc>
   </programme>
-  <programme start="20240318000000 +0000" stop="20240318060000 +0000" channel="Nasional FM">
-    <title lang="en">Nasional 12-6</title>
-    <desc lang="en">Santai malam bersama Geng Burung Hantu dengan pengisian lagu-lagu hits Melayu recurrent, flashback, retro, 80-an hingga terkini serta perkongsian topik semasa dan menarik. Turut disiarkan ulangan program agama Raudhah pada pukul 5.15 pagi.</desc>
+  <programme start="20240326000000 +0000" stop="20240326060000 +0000" channel="Radio Klasik">
+    <title lang="en">Harmoni Klasik</title>
+    <desc lang="en">Segmen pilihan lagu-lagu menggamit kenangan 6 jam tanpa henti dari era 70-an hingga 2000.</desc>
   </programme>
-  <programme start="20240318060000 +0000" stop="20240318100000 +0000" channel="Nasional FM">
-    <title lang="en">Nasional Pagi</title>
-    <desc lang="en">Santai pagi dengan pengisian lagu-lagu terkini dan popular. Turut diselitan lagu-lagu hits yang popular dari tahun 70-an hingga 2019 dan slot muzik bermaklumat tanpa henti. Pelbagai perkongsian berita dan info terkini.</desc>
+  <programme start="20240326060000 +0000" stop="20240326100000 +0000" channel="Radio Klasik">
+    <title lang="en">Sajian Klasik</title>
+    <desc lang="en">Segmen berinformasi dengan pilihan lagu-lagu hits era 80-an, 90-an dan 2000 serta lagu-lagu rentak irama Melayu yang menggamit kenangan.</desc>
   </programme>
-  <programme start="20240318100000 +0000" stop="20240318140000 +0000" channel="Nasional FM">
-    <title lang="en">Nasional 102</title>
-    <desc lang="en">Nasional 102 dengan pengisian lagu-lagu hits dan popular tahunt0-an, 90-an hingga 2000. Pelbagai perkongsian topik dan info semasa disampaikan secara santai. Dengarkan program bual bicara ALFA 102 pada pukul 10.30 pagi.</desc>
+  <programme start="20240326100000 +0000" stop="20240326140000 +0000" channel="Radio Klasik">
+    <title lang="en">Melodi Klasik</title>
+    <desc lang="en">Segmen lagu-lagu era 60-an, 70-an dan 80-an serta lagu-lagu filem Melayu klasik dan rakaman piring hitam.</desc>
   </programme>
-  <programme start="20240318140000 +0000" stop="20240318170000 +0000" channel="Nasional FM">
-    <title lang="en">Nasional Petang</title>
-    <desc lang="en">Santai petang dengan pengisian lagu-lagu hits dan popular tahun 2017 hingga terkini. Pelbagai perkongsian topik dan info semasa disampaikan secara santai.</desc>
+  <programme start="20240326140000 +0000" stop="20240326170000 +0000" channel="Radio Klasik">
+    <title lang="en">Mestika Klasik</title>
+    <desc lang="en">Himpunan lagu-lagu rakaman asal irama kenangan 60-an dan pop yeh-yeh bersama-sama kumpulan gitar rancak (kugiran) juga lagu-lagu kenangan kumpulan-kumpulan terhebat era 70-an dan 80-an.</desc>
   </programme>
-  <programme start="20240318170000 +0000" stop="20240318200000 +0000" channel="Nasional FM">
-    <title lang="en">Nasional 5-8</title>
-    <desc lang="en">Santai petang bersama DJ Duo dengan pengisian lagu-lagu popular 80-an hingga 2010, info semasa dan info trafik. Segmen petang ini turut diserikan dengan sesi interaktif bersama pendengar (Zahirkan Kesyukuran) menerusi FB Live Nasionalfm. Turut disiarkan kapsul agama Adhwa pada pukul 6.05 petang dan program agama Raudhah pada pukul 6.30 petang bersama penceramah terkenal.</desc>
+  <programme start="20240326170000 +0000" stop="20240326210000 +0000" channel="Radio Klasik">
+    <title lang="en">Mutiara Klasik</title>
+    <desc lang="en">Himpunan lagu-lagu hits era 80-an, 90-an dan 2000.</desc>
   </programme>
-  <programme start="20240318200000 +0000" stop="20240319000000 +0000" channel="Nasional FM">
-    <title lang="en">Nasional Malam</title>
-    <desc lang="en">Santai malam dengan pengisian lagu-lagu popular 2020 hingga terkini serta pelbagai topik dan info semasa disampaikan secara santai. Pendengar boleh menyertai segmen Pilihan Bersama untuk permintaan lagu menerusi FB Nasionalfm.</desc>
+  <programme start="20240326210000 +0000" stop="20240327000000 +0000" channel="Radio Klasik">
+    <title lang="en">Ritma Klasik</title>
+    <desc lang="en">Lagu-lagu kenangan filem Melayu klasik dan rakaman piring hitam serta lagu-lagu hits dari era 70-an hingga 2000.</desc>
   </programme>
   <programme start="20240319000000 +0000" stop="20240319060000 +0000" channel="Nasional FM">
     <title lang="en">Nasional 12-6</title>
@@ -8341,29 +8223,29 @@
     <title lang="en">Nasional Malam</title>
     <desc lang="en">Santai malam dengan pengisian lagu-lagu popular 2020 hingga terkini serta pelbagai topik dan info semasa disampaikan secara santai. Pendengar boleh menyertai segmen Pilihan Bersama untuk permintaan lagu menerusi FB Nasionalfm.</desc>
   </programme>
-  <programme start="20240318000000 +0000" stop="20240318060000 +0000" channel="Traxx FM">
-    <title lang="en">Sound Journey</title>
-    <desc lang="en">Memutarkan lagu-lagu hit sepanjang zaman.</desc>
+  <programme start="20240326000000 +0000" stop="20240326060000 +0000" channel="Nasional FM">
+    <title lang="en">Nasional 12-6</title>
+    <desc lang="en">Santai malam bersama Geng Burung Hantu dengan pengisian lagu-lagu hits Melayu recurrent, flashback, retro, 80-an hingga terkini serta perkongsian topik semasa dan menarik. Turut disiarkan ulangan program agama Raudhah pada pukul 5.15 pagi.</desc>
   </programme>
-  <programme start="20240318060000 +0000" stop="20240318071000 +0000" channel="Traxx FM">
-    <title lang="en">The Morning Show</title>
-    <desc lang="en">Memutarkan lagu-lagu hit Top 40, berita terkini, info trafik, ramalan kaji cuaca, berita hiburan, topik pilihan dan gosip hiburan bersama Goss-Girl.</desc>
+  <programme start="20240326060000 +0000" stop="20240326100000 +0000" channel="Nasional FM">
+    <title lang="en">Nasional Pagi</title>
+    <desc lang="en">Santai pagi dengan pengisian lagu-lagu terkini dan popular. Turut diselitan lagu-lagu hits yang popular dari tahun 70-an hingga 2019 dan slot muzik bermaklumat tanpa henti. Pelbagai perkongsian berita dan info terkini.</desc>
   </programme>
-  <programme start="20240318071000 +0000" stop="20240318080300 +0000" channel="Traxx FM">
-    <title lang="en">The Morning Show</title>
-    <desc lang="en">Memutarkan lagu-lagu hit Top 40, berita terkini, info trafik, ramalan kaji cuaca, berita hiburan, topik pilihan dan gosip hiburan bersama Goss-Girl.</desc>
+  <programme start="20240326100000 +0000" stop="20240326140000 +0000" channel="Nasional FM">
+    <title lang="en">Nasional 102</title>
+    <desc lang="en">Nasional 102 dengan pengisian lagu-lagu hits dan popular tahunt0-an, 90-an hingga 2000. Pelbagai perkongsian topik dan info semasa disampaikan secara santai. Dengarkan program bual bicara ALFA 102 pada pukul 10.30 pagi.</desc>
   </programme>
-  <programme start="20240318080300 +0000" stop="20240318091000 +0000" channel="Traxx FM">
-    <title lang="en">The Morning Show</title>
-    <desc lang="en">Memutarkan lagu-lagu hit Top 40, berita terkini, info trafik, ramalan kaji cuaca, berita hiburan, topik pilihan dan gosip hiburan bersama Goss-Girl.</desc>
+  <programme start="20240326140000 +0000" stop="20240326170000 +0000" channel="Nasional FM">
+    <title lang="en">Nasional Petang</title>
+    <desc lang="en">Santai petang dengan pengisian lagu-lagu hits dan popular tahun 2017 hingga terkini. Pelbagai perkongsian topik dan info semasa disampaikan secara santai.</desc>
   </programme>
-  <programme start="20240318091000 +0000" stop="20240318100000 +0000" channel="Traxx FM">
-    <title lang="en">The Morning Show</title>
-    <desc lang="en">Memutarkan lagu-lagu hit Top 40, berita terkini, info trafik, ramalan kaji cuaca, berita hiburan, topik pilihan dan gosip hiburan bersama Goss-Girl.</desc>
+  <programme start="20240326170000 +0000" stop="20240326200000 +0000" channel="Nasional FM">
+    <title lang="en">Nasional 5-8</title>
+    <desc lang="en">Santai petang bersama DJ Duo dengan pengisian lagu-lagu popular 80-an hingga 2010, info semasa dan info trafik. Segmen petang ini turut diserikan dengan sesi interaktif bersama pendengar (Zahirkan Kesyukuran) menerusi FB Live Nasionalfm. Turut disiarkan kapsul agama Adhwa pada pukul 6.05 petang dan program agama Raudhah pada pukul 6.30 petang bersama penceramah terkenal.</desc>
   </programme>
-  <programme start="20240318100000 +0000" stop="20240319000000 +0000" channel="Traxx FM">
-    <title lang="en">Traxx Momentum</title>
-    <desc lang="en">Memutarkan lagu-lagu popular yang dekat di hati pendengar. Mengetengahkan segmen bual bicara berkaitan Health on TRAXX yang memberi fokus kepada isu kesihatan.</desc>
+  <programme start="20240326200000 +0000" stop="20240327000000 +0000" channel="Nasional FM">
+    <title lang="en">Nasional Malam</title>
+    <desc lang="en">Santai malam dengan pengisian lagu-lagu popular 2020 hingga terkini serta pelbagai topik dan info semasa disampaikan secara santai. Pendengar boleh menyertai segmen Pilihan Bersama untuk permintaan lagu menerusi FB Nasionalfm.</desc>
   </programme>
   <programme start="20240319000000 +0000" stop="20240319060000 +0000" channel="Traxx FM">
     <title lang="en">Sound Journey</title>
@@ -8517,25 +8399,29 @@
     <title lang="en">Traxx Momentum</title>
     <desc lang="en">Memutarkan lagu-lagu popular yang dekat di hati pendengar. Mengetengahkan segmen bual bicara berkaitan Health on TRAXX yang memberi fokus kepada isu kesihatan.</desc>
   </programme>
-  <programme start="20240318000000 +0000" stop="20240318063000 +0000" channel="AI FM">
-    <title lang="en">Ai Muzik</title>
-    <desc lang="en">Segmen ini menyediakan pelbagai muzik dan lagu secara automasi.</desc>
+  <programme start="20240326000000 +0000" stop="20240326060000 +0000" channel="Traxx FM">
+    <title lang="en">Sound Journey</title>
+    <desc lang="en">Memutarkan lagu-lagu hit sepanjang zaman.</desc>
   </programme>
-  <programme start="20240318063000 +0000" stop="20240318100500 +0000" channel="AI FM">
-    <title lang="en">Ai Aksi</title>
-    <desc lang="en">Menyalurkan informasi melalui berita terkini dan mengulas tajuk utama semua surat khabar Cina, Melayu dan Inggeris. Perbincangan isu semasa bersama DJ dengan penganalisa politik dan berinteraksi dengan pendengar melalui Whatsapp.</desc>
+  <programme start="20240326060000 +0000" stop="20240326071000 +0000" channel="Traxx FM">
+    <title lang="en">The Morning Show</title>
+    <desc lang="en">Memutarkan lagu-lagu hit Top 40, berita terkini, info trafik, ramalan kaji cuaca, berita hiburan, topik pilihan dan gosip hiburan bersama Goss-Girl.</desc>
   </programme>
-  <programme start="20240318100500 +0000" stop="20240318160000 +0000" channel="AI FM">
-    <title lang="en">Ai Ceria</title>
-    <desc lang="en">Menumpukan kepada rancangan dan temubual tentang kesihatan, masakan , kekeluargaan, kecantikan, kaunseling, kanak-kanak dsb.</desc>
+  <programme start="20240326071000 +0000" stop="20240326080300 +0000" channel="Traxx FM">
+    <title lang="en">The Morning Show</title>
+    <desc lang="en">Memutarkan lagu-lagu hit Top 40, berita terkini, info trafik, ramalan kaji cuaca, berita hiburan, topik pilihan dan gosip hiburan bersama Goss-Girl.</desc>
   </programme>
-  <programme start="20240318160000 +0000" stop="20240318200000 +0000" channel="AI FM">
-    <title lang="en">Ai Sembang</title>
-    <desc lang="en">Bual bicara DJ bersama tetamu jemputan mengenai topik bidang masing-masing.</desc>
+  <programme start="20240326080300 +0000" stop="20240326091000 +0000" channel="Traxx FM">
+    <title lang="en">The Morning Show</title>
+    <desc lang="en">Memutarkan lagu-lagu hit Top 40, berita terkini, info trafik, ramalan kaji cuaca, berita hiburan, topik pilihan dan gosip hiburan bersama Goss-Girl.</desc>
   </programme>
-  <programme start="20240318200000 +0000" stop="20240319000000 +0000" channel="AI FM">
-    <title lang="en">Ai Blog</title>
-    <desc lang="en">Mengadakan kuiz dan \"game show\" untuk berinteraksi dengan remaja.</desc>
+  <programme start="20240326091000 +0000" stop="20240326100000 +0000" channel="Traxx FM">
+    <title lang="en">The Morning Show</title>
+    <desc lang="en">Memutarkan lagu-lagu hit Top 40, berita terkini, info trafik, ramalan kaji cuaca, berita hiburan, topik pilihan dan gosip hiburan bersama Goss-Girl.</desc>
+  </programme>
+  <programme start="20240326100000 +0000" stop="20240327000000 +0000" channel="Traxx FM">
+    <title lang="en">Traxx Momentum</title>
+    <desc lang="en">Memutarkan lagu-lagu popular yang dekat di hati pendengar. Mengetengahkan segmen bual bicara berkaitan Health on TRAXX yang memberi fokus kepada isu kesihatan.</desc>
   </programme>
   <programme start="20240319000000 +0000" stop="20240319063000 +0000" channel="AI FM">
     <title lang="en">Ai Muzik</title>
@@ -8677,29 +8563,25 @@
     <title lang="en">Ai Blog</title>
     <desc lang="en">Mengadakan kuiz dan \"game show\" untuk berinteraksi dengan remaja.</desc>
   </programme>
-  <programme start="20240318000000 +0000" stop="20240318060000 +0000" channel="Minnal FM">
-    <title lang="en">Thaalaatuthey Vanam</title>
-    <desc lang="en">Memainkan lagu-lagu baharu.</desc>
+  <programme start="20240326000000 +0000" stop="20240326063000 +0000" channel="AI FM">
+    <title lang="en">Ai Muzik</title>
+    <desc lang="en">Segmen ini menyediakan pelbagai muzik dan lagu secara automasi.</desc>
   </programme>
-  <programme start="20240318060000 +0000" stop="20240318100000 +0000" channel="Minnal FM">
-    <title lang="en">Kaalai Kathir</title>
-    <desc lang="en">Sinar Pagi - lagu-lagu motivasi, slot Minnalodu Coffee dan lagu baharu. Pelbagai info semasa dikongsikan bersama pendengar.</desc>
+  <programme start="20240326063000 +0000" stop="20240326100500 +0000" channel="AI FM">
+    <title lang="en">Ai Aksi</title>
+    <desc lang="en">Menyalurkan informasi melalui berita terkini dan mengulas tajuk utama semua surat khabar Cina, Melayu dan Inggeris. Perbincangan isu semasa bersama DJ dengan penganalisa politik dan berinteraksi dengan pendengar melalui Whatsapp.</desc>
   </programme>
-  <programme start="20240318100000 +0000" stop="20240318140000 +0000" channel="Minnal FM">
-    <title lang="en">Ullasam Urchagam</title>
-    <desc lang="en">Lagu Hindi baharu, lagu Malayalam, Hari Ini Dalam Sejarah , lagu Baharu dan lagu tempatan disiarkan.</desc>
+  <programme start="20240326100500 +0000" stop="20240326160000 +0000" channel="AI FM">
+    <title lang="en">Ai Ceria</title>
+    <desc lang="en">Menumpukan kepada rancangan dan temubual tentang kesihatan, masakan , kekeluargaan, kecantikan, kaunseling, kanak-kanak dsb.</desc>
   </programme>
-  <programme start="20240318140000 +0000" stop="20240318170000 +0000" channel="Minnal FM">
-    <title lang="en">Ennanggal Vannanggal</title>
-    <desc lang="en">Memainkan lagu-lagu klasik Tamil, lagu Telugu dan lagu Tamil era 70-an.</desc>
+  <programme start="20240326160000 +0000" stop="20240326200000 +0000" channel="AI FM">
+    <title lang="en">Ai Sembang</title>
+    <desc lang="en">Bual bicara DJ bersama tetamu jemputan mengenai topik bidang masing-masing.</desc>
   </programme>
-  <programme start="20240318170000 +0000" stop="20240318200000 +0000" channel="Minnal FM">
-    <title lang="en">Aanantha Thenkaatru</title>
-    <desc lang="en">Memutarkan lagu retro 80-an dan 90-an di samping siaran slot program cakna komuniti #NamakkuNaame.</desc>
-  </programme>
-  <programme start="20240318200000 +0000" stop="20240319000000 +0000" channel="Minnal FM">
-    <title lang="en">Natchatira Megam</title>
-    <desc lang="en">Dendanan lagu retro, lagu baharu, lagu tempatan, lagu Telegu, lagu Malayalam dan koleksi lagu Tamil klasik.</desc>
+  <programme start="20240326200000 +0000" stop="20240327000000 +0000" channel="AI FM">
+    <title lang="en">Ai Blog</title>
+    <desc lang="en">Mengadakan kuiz dan \"game show\" untuk berinteraksi dengan remaja.</desc>
   </programme>
   <programme start="20240319000000 +0000" stop="20240319060000 +0000" channel="Minnal FM">
     <title lang="en">Thaalaatuthey Vanam</title>
@@ -8869,65 +8751,29 @@
     <title lang="en">Natchatira Megam</title>
     <desc lang="en">Dendanan lagu retro, lagu baharu, lagu tempatan, lagu Telegu, lagu Malayalam dan koleksi lagu Tamil klasik.</desc>
   </programme>
-  <programme start="20240318080000 +0000" stop="20240318081000 +0000" channel="Asyik FM">
-    <title lang="en">ID Stesen / Tanda Waktu / Negaraku</title>
-    <desc lang="en">ID stesen / Negaraku / Doa / Intisari Rancangan.</desc>
+  <programme start="20240326000000 +0000" stop="20240326060000 +0000" channel="Minnal FM">
+    <title lang="en">Thaalaatuthey Vanam</title>
+    <desc lang="en">Memainkan lagu-lagu baharu.</desc>
   </programme>
-  <programme start="20240318081000 +0000" stop="20240318090000 +0000" channel="Asyik FM">
-    <title lang="en">Gah Ju Asyik</title>
-    <desc lang="en">Segmen berkongsi tajuk utama akhbar , berita terkini , isu-isu semasa , tinjauan cuaca &amp; info trafik serta lagu-lagu hiburan (lagu-lagu artis Orang Asli , Melayu dan antarabangsa).</desc>
+  <programme start="20240326060000 +0000" stop="20240326100000 +0000" channel="Minnal FM">
+    <title lang="en">Kaalai Kathir</title>
+    <desc lang="en">Sinar Pagi - lagu-lagu motivasi, slot Minnalodu Coffee dan lagu baharu. Pelbagai info semasa dikongsikan bersama pendengar.</desc>
   </programme>
-  <programme start="20240318090000 +0000" stop="20240318091500 +0000" channel="Asyik FM">
-    <title lang="en">Berita Temiar</title>
-    <desc lang="en">Berita dialek Temiar.</desc>
+  <programme start="20240326100000 +0000" stop="20240326140000 +0000" channel="Minnal FM">
+    <title lang="en">Ullasam Urchagam</title>
+    <desc lang="en">Lagu Hindi baharu, lagu Malayalam, Hari Ini Dalam Sejarah , lagu Baharu dan lagu tempatan disiarkan.</desc>
   </programme>
-  <programme start="20240318091500 +0000" stop="20240318110000 +0000" channel="Asyik FM">
-    <title lang="en">Gah Ju Asyik</title>
-    <desc lang="en">Bersama DJ DUO Pagi, borak topik pagi respon pendengar di Medsos, Whatsapp, Phone Call, Info Semasa (lagu-lagu artis Orang Asli , Melayu dan antarabangsa).</desc>
+  <programme start="20240326140000 +0000" stop="20240326170000 +0000" channel="Minnal FM">
+    <title lang="en">Ennanggal Vannanggal</title>
+    <desc lang="en">Memainkan lagu-lagu klasik Tamil, lagu Telugu dan lagu Tamil era 70-an.</desc>
   </programme>
-  <programme start="20240318110000 +0000" stop="20240318130000 +0000" channel="Asyik FM">
-    <title lang="en">Berita Jakun</title>
-    <desc lang="en">Berita dialek Jakun.</desc>
+  <programme start="20240326170000 +0000" stop="20240326200000 +0000" channel="Minnal FM">
+    <title lang="en">Aanantha Thenkaatru</title>
+    <desc lang="en">Memutarkan lagu retro 80-an dan 90-an di samping siaran slot program cakna komuniti #NamakkuNaame.</desc>
   </programme>
-  <programme start="20240318130000 +0000" stop="20240318143000 +0000" channel="Asyik FM">
-    <title lang="en">Berita Semai</title>
-    <desc lang="en">Berita dialek Semai.</desc>
-  </programme>
-  <programme start="20240318143000 +0000" stop="20240318150000 +0000" channel="Asyik FM">
-    <title lang="en">Lagu-lagu Tradisional</title>
-    <desc lang="en">Talkset Info DJ &amp; menyiarkan lagu-lagu tradisional.</desc>
-  </programme>
-  <programme start="20240318150000 +0000" stop="20240318151000 +0000" channel="Asyik FM">
-    <title lang="en">Berita Temuan</title>
-    <desc lang="en">Berita dialek Temuan.</desc>
-  </programme>
-  <programme start="20240318151000 +0000" stop="20240318170000 +0000" channel="Asyik FM">
-    <title lang="en">Rentak Genen</title>
-    <desc lang="en">Menyiarkan lagu-lagu terkini 100% hasil ciptaan artis Orang Asli dan info semasa.</desc>
-  </programme>
-  <programme start="20240318170000 +0000" stop="20240318171000 +0000" channel="Asyik FM">
-    <title lang="en">Berita Utama 5</title>
-    <desc lang="en">Rangkuman berita-berita utama.</desc>
-  </programme>
-  <programme start="20240318171000 +0000" stop="20240318190000 +0000" channel="Asyik FM">
-    <title lang="en">Mateh Mareh</title>
-    <desc lang="en">Segmen isu-isu semasa , tinjauan cuaca dan info trafik serta lagu-lagu hits hiburan (lagu-lagu artis Orang Asli, Melayu dan antarabangsa).</desc>
-  </programme>
-  <programme start="20240318190000 +0000" stop="20240318200000 +0000" channel="Asyik FM">
-    <title lang="en">Asyik Layeq Teh</title>
-    <desc lang="en">Dengarkan Asyik Layeq Teh Imbasan Berita sepanjang hari.</desc>
-  </programme>
-  <programme start="20240318200000 +0000" stop="20240318220000 +0000" channel="Asyik FM">
-    <title lang="en">Pilihan Asyik</title>
-    <desc lang="en">Menyiarkan lagu-lagu permintaan daripada pendengar menerusi Whatsapp / SMS / Phone Call (lagu-lagu artis Orang Asli , Melayu dan antarabangsa).</desc>
-  </programme>
-  <programme start="20240318220000 +0000" stop="20240318230000 +0000" channel="Asyik FM">
-    <title lang="en">Jok 'Healing'</title>
-    <desc lang="en">Dengarkan lagu pilihan DJ.</desc>
-  </programme>
-  <programme start="20240318230000 +0000" stop="20240319080000 +0000" channel="Asyik FM">
-    <title lang="en">Tamat Siaran</title>
-    <desc lang="en">Siaran tamat.</desc>
+  <programme start="20240326200000 +0000" stop="20240327000000 +0000" channel="Minnal FM">
+    <title lang="en">Natchatira Megam</title>
+    <desc lang="en">Dendanan lagu retro, lagu baharu, lagu tempatan, lagu Telegu, lagu Malayalam dan koleksi lagu Tamil klasik.</desc>
   </programme>
   <programme start="20240319080000 +0000" stop="20240319081000 +0000" channel="Asyik FM">
     <title lang="en">ID Stesen / Tanda Waktu / Negaraku</title>
@@ -9357,25 +9203,65 @@
     <title lang="en">Tamat Siaran</title>
     <desc lang="en">Siaran tamat.</desc>
   </programme>
-  <programme start="20240318000000 +0000" stop="20240318210000 +0000" channel="Labuan FM">
-    <title lang="en">Automasi</title>
-    <desc lang="en">Siaran automasi. Sambung siar TRAXXfm.</desc>
+  <programme start="20240326080000 +0000" stop="20240326081000 +0000" channel="Asyik FM">
+    <title lang="en">ID Stesen / Tanda Waktu / Negaraku</title>
+    <desc lang="en">ID stesen / Negaraku / Doa / Intisari Rancangan.</desc>
   </programme>
-  <programme start="20240318210000 +0000" stop="20240318211500 +0000" channel="Labuan FM">
-    <title lang="en">Info dan Hiburan</title>
-    <desc lang="en">Berita tempatan, lagu-lagu hits dan popular. Interaktif dan info-info semasa yang disampaikan dalam bahasa Dusun.</desc>
+  <programme start="20240326081000 +0000" stop="20240326090000 +0000" channel="Asyik FM">
+    <title lang="en">Gah Ju Asyik</title>
+    <desc lang="en">Segmen berkongsi tajuk utama akhbar , berita terkini , isu-isu semasa , tinjauan cuaca &amp; info trafik serta lagu-lagu hiburan (lagu-lagu artis Orang Asli , Melayu dan antarabangsa).</desc>
   </programme>
-  <programme start="20240318211500 +0000" stop="20240318220000 +0000" channel="Labuan FM">
-    <title lang="en">Lagu-Lagu Hiburan</title>
-    <desc lang="en">Lagu-Lagu Hiburan.</desc>
+  <programme start="20240326090000 +0000" stop="20240326091500 +0000" channel="Asyik FM">
+    <title lang="en">Berita Temiar</title>
+    <desc lang="en">Berita dialek Temiar.</desc>
   </programme>
-  <programme start="20240318220000 +0000" stop="20240318230000 +0000" channel="Labuan FM">
-    <title lang="en">Dalam Kenangan</title>
-    <desc lang="en">Dalam Kenangan (Kasarahan).</desc>
+  <programme start="20240326091500 +0000" stop="20240326110000 +0000" channel="Asyik FM">
+    <title lang="en">Gah Ju Asyik</title>
+    <desc lang="en">Bersama DJ DUO Pagi, borak topik pagi respon pendengar di Medsos, Whatsapp, Phone Call, Info Semasa (lagu-lagu artis Orang Asli , Melayu dan antarabangsa).</desc>
   </programme>
-  <programme start="20240318230000 +0000" stop="20240319000000 +0000" channel="Labuan FM">
-    <title lang="en">Lagu-Lagu Hiburan</title>
-    <desc lang="en">Dengarkan secara langsung Lagu-Lagu Hiburan / Salam melalui Whatsapp / FB live / Instagram / Info/ PSA / Jingle / Promo / Hibahan.</desc>
+  <programme start="20240326110000 +0000" stop="20240326130000 +0000" channel="Asyik FM">
+    <title lang="en">Berita Jakun</title>
+    <desc lang="en">Berita dialek Jakun.</desc>
+  </programme>
+  <programme start="20240326130000 +0000" stop="20240326143000 +0000" channel="Asyik FM">
+    <title lang="en">Berita Semai</title>
+    <desc lang="en">Berita dialek Semai.</desc>
+  </programme>
+  <programme start="20240326143000 +0000" stop="20240326150000 +0000" channel="Asyik FM">
+    <title lang="en">Lagu-lagu Tradisional</title>
+    <desc lang="en">Talkset Info DJ &amp; menyiarkan lagu-lagu tradisional.</desc>
+  </programme>
+  <programme start="20240326150000 +0000" stop="20240326151000 +0000" channel="Asyik FM">
+    <title lang="en">Berita Temuan</title>
+    <desc lang="en">Berita dialek Temuan.</desc>
+  </programme>
+  <programme start="20240326151000 +0000" stop="20240326170000 +0000" channel="Asyik FM">
+    <title lang="en">Rentak Genen</title>
+    <desc lang="en">Menyiarkan lagu-lagu terkini 100% hasil ciptaan artis Orang Asli dan info semasa.</desc>
+  </programme>
+  <programme start="20240326170000 +0000" stop="20240326171000 +0000" channel="Asyik FM">
+    <title lang="en">Berita Utama 5</title>
+    <desc lang="en">Rangkuman berita-berita utama.</desc>
+  </programme>
+  <programme start="20240326171000 +0000" stop="20240326190000 +0000" channel="Asyik FM">
+    <title lang="en">Mateh Mareh</title>
+    <desc lang="en">Segmen isu-isu semasa , tinjauan cuaca dan info trafik serta lagu-lagu hits hiburan (lagu-lagu artis Orang Asli, Melayu dan antarabangsa).</desc>
+  </programme>
+  <programme start="20240326190000 +0000" stop="20240326200000 +0000" channel="Asyik FM">
+    <title lang="en">Asyik Layeq Teh</title>
+    <desc lang="en">Dengarkan Asyik Layeq Teh Imbasan Berita sepanjang hari.</desc>
+  </programme>
+  <programme start="20240326200000 +0000" stop="20240326220000 +0000" channel="Asyik FM">
+    <title lang="en">Pilihan Asyik</title>
+    <desc lang="en">Menyiarkan lagu-lagu permintaan daripada pendengar menerusi Whatsapp / SMS / Phone Call (lagu-lagu artis Orang Asli , Melayu dan antarabangsa).</desc>
+  </programme>
+  <programme start="20240326220000 +0000" stop="20240326230000 +0000" channel="Asyik FM">
+    <title lang="en">Jok 'Healing'</title>
+    <desc lang="en">Dengarkan lagu pilihan DJ.</desc>
+  </programme>
+  <programme start="20240326230000 +0000" stop="20240327080000 +0000" channel="Asyik FM">
+    <title lang="en">Tamat Siaran</title>
+    <desc lang="en">Siaran tamat.</desc>
   </programme>
   <programme start="20240319000000 +0000" stop="20240319210000 +0000" channel="Labuan FM">
     <title lang="en">Automasi</title>
@@ -9505,13 +9391,21 @@
     <title lang="en">Lagu-Lagu Hiburan</title>
     <desc lang="en">Dengarkan secara langsung Lagu-Lagu Hiburan / Salam melalui Whatsapp / FB live / Instagram / Info/ PSA / Jingle / Promo / Hibahan.</desc>
   </programme>
-  <programme start="20240318060000 +0000" stop="20240318100000 +0000" channel="Pahang FM">
-    <title lang="en">Ceria Pagi</title>
-    <desc lang="en">Kupasan topik-topik menarik berkaitan perkara-perkara yang berlaku di sekeliling masyarakat hari ini.</desc>
+  <programme start="20240326000000 +0000" stop="20240326210000 +0000" channel="Labuan FM">
+    <title lang="en">Automasi</title>
+    <desc lang="en">Siaran automasi. Sambung siar TRAXXfm.</desc>
   </programme>
-  <programme start="20240318100000 +0000" stop="20240319060000 +0000" channel="Pahang FM">
-    <title lang="en">Zon 10-2</title>
-    <desc lang="en">Perkongsian daripada tetamu undangan di konti diselangi pilihan lagu-lagu menarik pada era 90-an, 2000 dan 2010.</desc>
+  <programme start="20240326210000 +0000" stop="20240326220000 +0000" channel="Labuan FM">
+    <title lang="en">Info dan Hiburan</title>
+    <desc lang="en">Berita tempatan, lagu-lagu hits dan popular. Interaktif dan info-info semasa yang disampaikan dalam bahasa Dusun.</desc>
+  </programme>
+  <programme start="20240326220000 +0000" stop="20240326230000 +0000" channel="Labuan FM">
+    <title lang="en">Teka-Teki</title>
+    <desc lang="en">Teka-Teki (Sundait).</desc>
+  </programme>
+  <programme start="20240326230000 +0000" stop="20240327000000 +0000" channel="Labuan FM">
+    <title lang="en">Lagu-Lagu Hiburan</title>
+    <desc lang="en">Dengarkan secara langsung Lagu-Lagu Hiburan / Salam melalui Whatsapp / FB live / Instagram / Info/ PSA / Jingle / Promo / Hibahan.</desc>
   </programme>
   <programme start="20240319060000 +0000" stop="20240319100000 +0000" channel="Pahang FM">
     <title lang="en">Ceria Pagi</title>
@@ -9569,29 +9463,13 @@
     <title lang="en">Zon 10-2</title>
     <desc lang="en">Perkongsian daripada tetamu undangan di konti diselangi pilihan lagu-lagu menarik pada era 90-an, 2000 dan 2010.</desc>
   </programme>
-  <programme start="20240318000000 +0000" stop="20240318060000 +0000" channel="Negeri FM">
-    <title lang="en">Sambung Siar Nasional FM</title>
-    <desc lang="en">Santai malam bersama Geng Burung Hantu dengan pengisian lagu-lagu hits Melayu recurrent, flashback, retro, 80-an hingga terkini serta perkongsian topik semasa dan menarik.</desc>
+  <programme start="20240326060000 +0000" stop="20240326100000 +0000" channel="Pahang FM">
+    <title lang="en">Ceria Pagi</title>
+    <desc lang="en">Kupasan topik-topik menarik berkaitan perkara-perkara yang berlaku di sekeliling masyarakat hari ini.</desc>
   </programme>
-  <programme start="20240318060000 +0000" stop="20240318100000 +0000" channel="Negeri FM">
-    <title lang="en">Zon Aktif</title>
-    <desc lang="en">Lagu Negaraku / Lagu Negeri Pahang, Utama 7 Pagi, Sembang-Sembang Bersama Pendengar dan Hiburan Pagi.</desc>
-  </programme>
-  <programme start="20240318100000 +0000" stop="20240318140000 +0000" channel="Negeri FM">
-    <title lang="en">Zon Pesona</title>
-    <desc lang="en">Doa Dhuha, Hiburan Santai Sambil Kerja, Marathon Hits, Ceramah Pilihan untuk pendengar.</desc>
-  </programme>
-  <programme start="20240318140000 +0000" stop="20240318180000 +0000" channel="Negeri FM">
-    <title lang="en">Zon Ape Kabo Weh</title>
-    <desc lang="en">Apa Khabor Tik Tokers, Makcik Bawang Potpet, Bersama Tetamu / Cerita Kedai Kopi, Permintaan lagu &amp; Ucapan pendengar, dengarkan Melodi Antarabangsa, Dangdut &amp; Carta La Popo.</desc>
-  </programme>
-  <programme start="20240318180000 +0000" stop="20240318210000 +0000" channel="Negeri FM">
-    <title lang="en">Zon Nurani</title>
-    <desc lang="en">Bacaan Al-Quran, Qunut Nazilah, Tazkirah, Hiburan Nurani, Dengarkan lagu Marathon Hits.</desc>
-  </programme>
-  <programme start="20240318210000 +0000" stop="20240319000000 +0000" channel="Negeri FM">
-    <title lang="en">Zon Inspirasi</title>
-    <desc lang="en">Utama 9 malam, Pilihan lagu-lagu dan hiburan malam.</desc>
+  <programme start="20240326100000 +0000" stop="20240327060000 +0000" channel="Pahang FM">
+    <title lang="en">Zon 10-2</title>
+    <desc lang="en">Perkongsian daripada tetamu undangan di konti diselangi pilihan lagu-lagu menarik pada era 90-an, 2000 dan 2010.</desc>
   </programme>
   <programme start="20240319000000 +0000" stop="20240319060000 +0000" channel="Negeri FM">
     <title lang="en">Sambung Siar Nasional FM</title>
@@ -9761,9 +9639,29 @@
     <title lang="en">Zon Inspirasi</title>
     <desc lang="en">Utama 9 malam, Pilihan lagu-lagu dan hiburan malam.</desc>
   </programme>
-  <programme start="20240318060000 +0000" stop="20240319060000 +0000" channel="Wai FM">
-    <title lang="en">Gegau Pagi MELAKAfm</title>
-    <desc lang="en">Ceriakan pagi anda dengan celoteh-celoteh penyampai MELAKAfm menerusi topik pagi yang menggegarkan. Pendengar boleh berinteraksi bersama penyampai menerusi talian konti MELAKAfm dan nombor whatsapp MELAKAfm. Turut disajikan rancangan berbentuk keagamaan pada setiap Jumaat.</desc>
+  <programme start="20240326000000 +0000" stop="20240326060000 +0000" channel="Negeri FM">
+    <title lang="en">Sambung Siar Nasional FM</title>
+    <desc lang="en">Santai malam bersama Geng Burung Hantu dengan pengisian lagu-lagu hits Melayu recurrent, flashback, retro, 80-an hingga terkini serta perkongsian topik semasa dan menarik.</desc>
+  </programme>
+  <programme start="20240326060000 +0000" stop="20240326100000 +0000" channel="Negeri FM">
+    <title lang="en">Zon Aktif</title>
+    <desc lang="en">Lagu Negaraku / Lagu Negeri Pahang, Utama 7 Pagi, Sembang-Sembang Bersama Pendengar dan Hiburan Pagi.</desc>
+  </programme>
+  <programme start="20240326100000 +0000" stop="20240326140000 +0000" channel="Negeri FM">
+    <title lang="en">Zon Pesona</title>
+    <desc lang="en">Doa Dhuha, Hiburan Santai Sambil Kerja, Marathon Hits, Ceramah Pilihan untuk pendengar.</desc>
+  </programme>
+  <programme start="20240326140000 +0000" stop="20240326180000 +0000" channel="Negeri FM">
+    <title lang="en">Zon Ape Kabo Weh</title>
+    <desc lang="en">Apa Khabor Tik Tokers, Makcik Bawang Potpet, Bersama Tetamu / Cerita Kedai Kopi, Permintaan lagu &amp; Ucapan pendengar, dengarkan Melodi Antarabangsa, Dangdut &amp; Carta La Popo.</desc>
+  </programme>
+  <programme start="20240326180000 +0000" stop="20240326210000 +0000" channel="Negeri FM">
+    <title lang="en">Zon Nurani</title>
+    <desc lang="en">Bacaan Al-Quran, Qunut Nazilah, Tazkirah, Hiburan Nurani, Dengarkan lagu Marathon Hits.</desc>
+  </programme>
+  <programme start="20240326210000 +0000" stop="20240327000000 +0000" channel="Negeri FM">
+    <title lang="en">Zon Inspirasi</title>
+    <desc lang="en">Utama 9 malam, Pilihan lagu-lagu dan hiburan malam.</desc>
   </programme>
   <programme start="20240319060000 +0000" stop="20240320060000 +0000" channel="Wai FM">
     <title lang="en">Gegau Pagi MELAKAfm</title>
@@ -9793,29 +9691,9 @@
     <title lang="en">Gegau Pagi MELAKAfm</title>
     <desc lang="en">Ceriakan pagi anda dengan celoteh-celoteh penyampai MELAKAfm menerusi topik pagi yang menggegarkan. Pendengar boleh berinteraksi bersama penyampai menerusi talian konti MELAKAfm dan nombor whatsapp MELAKAfm. Turut disajikan rancangan berbentuk keagamaan pada setiap Jumaat.</desc>
   </programme>
-  <programme start="20240318060000 +0000" stop="20240318070000 +0000" channel="Miri FM">
-    <title lang="en">ID Stesen / Lagu Patriotik &amp; Lagu Tema Lfm</title>
-    <desc lang="en">ID Stesen / Lagu Patriotik &amp; Lagu Tema Lfm.</desc>
-  </programme>
-  <programme start="20240318070000 +0000" stop="20240318090000 +0000" channel="Miri FM">
-    <title lang="en">UTAMA 7 PAGI</title>
-    <desc lang="en">UTAMA 7 PAGI.</desc>
-  </programme>
-  <programme start="20240318090000 +0000" stop="20240318100000 +0000" channel="Miri FM">
-    <title lang="en">UTAMA 9 PAGI</title>
-    <desc lang="en">UTAMA 9 PAGI.</desc>
-  </programme>
-  <programme start="20240318100000 +0000" stop="20240318110000 +0000" channel="Miri FM">
-    <title lang="en">Berita Semasa</title>
-    <desc lang="en">BES LANGKAWIfm / Hiburan / Temu Bual Eksklusif &amp; Tip tip tip (Sihat).</desc>
-  </programme>
-  <programme start="20240318110000 +0000" stop="20240318150000 +0000" channel="Miri FM">
-    <title lang="en">Activ8</title>
-    <desc lang="en">Rangkaian lagu Inggeris yang hits di samping pelbagai lagu antarabangsa mengikut tema setiap hari selain motivasi santai dan informasi terkini untuk pendengar.</desc>
-  </programme>
-  <programme start="20240318150000 +0000" stop="20240319060000 +0000" channel="Miri FM">
-    <title lang="en">Ekspresi</title>
-    <desc lang="en">ID Stesen / Lagu Patriotik / Langkawi Sana Sini dan Berita Ringkas.</desc>
+  <programme start="20240326060000 +0000" stop="20240327060000 +0000" channel="Wai FM">
+    <title lang="en">Gegau Pagi MELAKAfm</title>
+    <desc lang="en">Ceriakan pagi anda dengan celoteh-celoteh penyampai MELAKAfm menerusi topik pagi yang menggegarkan. Pendengar boleh berinteraksi bersama penyampai menerusi talian konti MELAKAfm dan nombor whatsapp MELAKAfm. Turut disajikan rancangan berbentuk keagamaan pada setiap Jumaat.</desc>
   </programme>
   <programme start="20240319060000 +0000" stop="20240319070000 +0000" channel="Miri FM">
     <title lang="en">ID Stesen / Lagu Patriotik &amp; Lagu Tema Lfm</title>
@@ -9985,17 +9863,29 @@
     <title lang="en">Ekspresi</title>
     <desc lang="en">ID Stesen / Lagu Patriotik / Langkawi Sana Sini dan Berita Ringkas.</desc>
   </programme>
-  <programme start="20240318055000 +0000" stop="20240318110000 +0000" channel="Keningau FM">
-    <title lang="en">EVO</title>
-    <desc lang="en">Negaraku / ID Stesen / Utama 7 Pagi / Berita ringkas / Info &amp; Hebahan.</desc>
+  <programme start="20240326060000 +0000" stop="20240326070000 +0000" channel="Miri FM">
+    <title lang="en">ID Stesen / Lagu Patriotik &amp; Lagu Tema Lfm</title>
+    <desc lang="en">ID Stesen / Lagu Patriotik &amp; Lagu Tema Lfm.</desc>
   </programme>
-  <programme start="20240318110000 +0000" stop="20240318150000 +0000" channel="Keningau FM">
-    <title lang="en">Zoom</title>
-    <desc lang="en">ID Stesen / Lagu Patriotik / Berita ringkas / Hebahan &amp; FB Interaktif.</desc>
+  <programme start="20240326070000 +0000" stop="20240326090000 +0000" channel="Miri FM">
+    <title lang="en">UTAMA 7 PAGI</title>
+    <desc lang="en">UTAMA 7 PAGI.</desc>
   </programme>
-  <programme start="20240318150000 +0000" stop="20240319055000 +0000" channel="Keningau FM">
-    <title lang="en">Santai</title>
-    <desc lang="en">ID Stesen / Lagu Patriotik / Berita ringkas / Hebahan &amp; FB Interaktif / 34 Je (Edisi Jumaat - 15:40).</desc>
+  <programme start="20240326090000 +0000" stop="20240326100000 +0000" channel="Miri FM">
+    <title lang="en">UTAMA 9 PAGI</title>
+    <desc lang="en">UTAMA 9 PAGI.</desc>
+  </programme>
+  <programme start="20240326100000 +0000" stop="20240326110000 +0000" channel="Miri FM">
+    <title lang="en">Berita Semasa</title>
+    <desc lang="en">BES LANGKAWIfm / Hiburan / Temu Bual Eksklusif &amp; Tip tip tip (Sihat).</desc>
+  </programme>
+  <programme start="20240326110000 +0000" stop="20240326150000 +0000" channel="Miri FM">
+    <title lang="en">Activ8</title>
+    <desc lang="en">Rangkaian lagu Inggeris yang hits di samping pelbagai lagu antarabangsa mengikut tema setiap hari selain motivasi santai dan informasi terkini untuk pendengar.</desc>
+  </programme>
+  <programme start="20240326150000 +0000" stop="20240327060000 +0000" channel="Miri FM">
+    <title lang="en">Ekspresi</title>
+    <desc lang="en">ID Stesen / Lagu Patriotik / Langkawi Sana Sini dan Berita Ringkas.</desc>
   </programme>
   <programme start="20240319055000 +0000" stop="20240319110000 +0000" channel="Keningau FM">
     <title lang="en">EVO</title>
@@ -10070,6 +9960,18 @@
     <desc lang="en">ID Stesen / Lagu Patriotik / Berita ringkas / Hebahan &amp; FB Interaktif.</desc>
   </programme>
   <programme start="20240325150000 +0000" stop="20240326055000 +0000" channel="Keningau FM">
+    <title lang="en">Santai</title>
+    <desc lang="en">ID Stesen / Lagu Patriotik / Berita ringkas / Hebahan &amp; FB Interaktif / 34 Je (Edisi Jumaat - 15:40).</desc>
+  </programme>
+  <programme start="20240326055000 +0000" stop="20240326110000 +0000" channel="Keningau FM">
+    <title lang="en">EVO</title>
+    <desc lang="en">Negaraku / ID Stesen / Utama 7 Pagi / Berita ringkas / Info &amp; Hebahan.</desc>
+  </programme>
+  <programme start="20240326110000 +0000" stop="20240326150000 +0000" channel="Keningau FM">
+    <title lang="en">Zoom</title>
+    <desc lang="en">ID Stesen / Lagu Patriotik / Berita ringkas / Hebahan &amp; FB Interaktif.</desc>
+  </programme>
+  <programme start="20240326150000 +0000" stop="20240327055000 +0000" channel="Keningau FM">
     <title lang="en">Santai</title>
     <desc lang="en">ID Stesen / Lagu Patriotik / Berita ringkas / Hebahan &amp; FB Interaktif / 34 Je (Edisi Jumaat - 15:40).</desc>
   </programme>
