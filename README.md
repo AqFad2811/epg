@@ -1,3 +1,5 @@
+Update: StarHub TV EPG's are no longer available due to the release of a brand new interface, see [here](http://webgrabplus.com/content/updating-starhubtvpluscom-ini-file)
+
 ## Information
 Since this is open source, I do not recommend to sell it somewhere else, but you can use it on your playlst for free.
 And I do not allowed people to change the epg name to anything else like [this](https://github.com/AqFad2811/epg/pull/17). Since everyone is using it, renaming it will make the epg source from the orignal name empty.
@@ -74,6 +76,3 @@ From now on, Singapore EPG data will be using channel names as XMLTV ID. These c
 > - Suria
 > - Vasantham
 > - CNA
-
-## StarHub TV
-The XMLTV ID is the channel name, for example: `Astro Sensasi HD` is the Channel ID for `Astro Sensasi HD`.
