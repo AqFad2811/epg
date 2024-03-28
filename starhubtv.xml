@@ -1,0 +1,491 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Preview Channel">
+    <display-name lang="en">Preview Channel</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Channel 5 HD">
+    <display-name lang="en">Channel 5 HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Channel 8 HD">
+    <display-name lang="en">Channel 8 HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Suria HD">
+    <display-name lang="en">Suria HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Vasantham HD">
+    <display-name lang="en">Vasantham HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="CNA HD">
+    <display-name lang="en">CNA HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Channel U HD">
+    <display-name lang="en">Channel U HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Hub E City HD">
+    <display-name lang="en">Hub E City HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Citra Entertainment">
+    <display-name lang="en">Citra Entertainment</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Karisma">
+    <display-name lang="en">Karisma</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Astro Warna HD">
+    <display-name lang="en">Astro Warna HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Astro Sensasi HD">
+    <display-name lang="en">Astro Sensasi HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="ONE (Malay)">
+    <display-name lang="en">ONE (Malay)</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Zee TV">
+    <display-name lang="en">Zee TV</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Sony Entertainment Television">
+    <display-name lang="en">Sony Entertainment Television</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="COLORS">
+    <display-name lang="en">COLORS</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Zee Cinema">
+    <display-name lang="en">Zee Cinema</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="SONY MAX">
+    <display-name lang="en">SONY MAX</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="COLORS Tamil HD">
+    <display-name lang="en">COLORS Tamil HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Sun TV">
+    <display-name lang="en">Sun TV</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Sun Music">
+    <display-name lang="en">Sun Music</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Vijay TV">
+    <display-name lang="en">Vijay TV</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Vannathirai">
+    <display-name lang="en">Vannathirai</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Zee Thirai">
+    <display-name lang="en">Zee Thirai</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Zee Tamil HD">
+    <display-name lang="en">Zee Tamil HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Asianet">
+    <display-name lang="en">Asianet</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Asianet Movies">
+    <display-name lang="en">Asianet Movies</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Kalaignar TV">
+    <display-name lang="en">Kalaignar TV</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="ANC">
+    <display-name lang="en">ANC</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="The Filipino Channel HD">
+    <display-name lang="en">The Filipino Channel HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Cinema One Global">
+    <display-name lang="en">Cinema One Global</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="TV5MONDE HD">
+    <display-name lang="en">TV5MONDE HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="DW (Deutsch)">
+    <display-name lang="en">DW (Deutsch)</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="ADITHYA TV">
+    <display-name lang="en">ADITHYA TV</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="KTV HD">
+    <display-name lang="en">KTV HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Hub Sports 1 HD">
+    <display-name lang="en">Hub Sports 1 HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Hub Sports 2 HD">
+    <display-name lang="en">Hub Sports 2 HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Hub Sports 3 HD">
+    <display-name lang="en">Hub Sports 3 HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Hub Sports 4 HD">
+    <display-name lang="en">Hub Sports 4 HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Hub Sports 5 HD">
+    <display-name lang="en">Hub Sports 5 HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Premier Sports">
+    <display-name lang="en">Premier Sports</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="SPOTV">
+    <display-name lang="en">SPOTV</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="SPOTV2">
+    <display-name lang="en">SPOTV2</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="beIN SPORTS 2 HD">
+    <display-name lang="en">beIN SPORTS 2 HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="beIN SPORTS HD">
+    <display-name lang="en">beIN SPORTS HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="beIN Sports 3">
+    <display-name lang="en">beIN Sports 3</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="beIN Sports 4 HD">
+    <display-name lang="en">beIN Sports 4 HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="beIN Sports 5">
+    <display-name lang="en">beIN Sports 5</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="HubPremier 1">
+    <display-name lang="en">HubPremier 1</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Mola Sport">
+    <display-name lang="en">Mola Sport</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Mola Golf">
+    <display-name lang="en">Mola Golf</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="FIGHT SPORTS HD">
+    <display-name lang="en">FIGHT SPORTS HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Cbeebies HD">
+    <display-name lang="en">Cbeebies HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Nick Jr HD">
+    <display-name lang="en">Nick Jr HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="DreamWorks Channel HD">
+    <display-name lang="en">DreamWorks Channel HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Nickelodeon HD">
+    <display-name lang="en">Nickelodeon HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="en">Cartoon Network</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Cartoonito">
+    <display-name lang="en">Cartoonito</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="HISTORY HD">
+    <display-name lang="en">HISTORY HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Crime + Investigation HD">
+    <display-name lang="en">Crime + Investigation HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="BBC Earth HD">
+    <display-name lang="en">BBC Earth HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Discovery">
+    <display-name lang="en">Discovery</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Travelxp HD">
+    <display-name lang="en">Travelxp HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="BBC Lifestyle HD">
+    <display-name lang="en">BBC Lifestyle HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="HGTV">
+    <display-name lang="en">HGTV</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="FashionTV HD">
+    <display-name lang="en">FashionTV HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="ABC Australia HD">
+    <display-name lang="en">ABC Australia HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="ROCK Entertainment HD">
+    <display-name lang="en">ROCK Entertainment HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="en">AXN HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="HITS MOVIES HD">
+    <display-name lang="en">HITS MOVIES HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Lifetime HD">
+    <display-name lang="en">Lifetime HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Hits HD">
+    <display-name lang="en">Hits HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Animax HD">
+    <display-name lang="en">Animax HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="en">HBO HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="HBO Signature HD">
+    <display-name lang="en">HBO Signature HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="HBO Family HD">
+    <display-name lang="en">HBO Family HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="HBO Hits HD">
+    <display-name lang="en">HBO Hits HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Cinemax HD">
+    <display-name lang="en">Cinemax HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Paramount Network">
+    <display-name lang="en">Paramount Network</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="BBC News HD">
+    <display-name lang="en">BBC News HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Fox News Channel HD">
+    <display-name lang="en">Fox News Channel HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Sky News HD">
+    <display-name lang="en">Sky News HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Euronews HD">
+    <display-name lang="en">Euronews HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="CNBC HD">
+    <display-name lang="en">CNBC HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Bloomberg Television HD">
+    <display-name lang="en">Bloomberg Television HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Bloomberg Originals">
+    <display-name lang="en">Bloomberg Originals</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="CNN HD">
+    <display-name lang="en">CNN HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="SEA Today">
+    <display-name lang="en">SEA Today</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="CGTN">
+    <display-name lang="en">CGTN</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="France24">
+    <display-name lang="en">France24</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="CCTV-4">
+    <display-name lang="en">CCTV-4</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Phoenix Chinese Channel HD">
+    <display-name lang="en">Phoenix Chinese Channel HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Phoenix InfoNews Channel HD">
+    <display-name lang="en">Phoenix InfoNews Channel HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="TVBS-NEWS">
+    <display-name lang="en">TVBS-NEWS</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="NHK World Premium HD">
+    <display-name lang="en">NHK World Premium HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="NHK WORLD - JAPAN HD">
+    <display-name lang="en">NHK WORLD - JAPAN HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="GEM HD">
+    <display-name lang="en">GEM HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="KBS World HD">
+    <display-name lang="en">KBS World HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Arirang TV HD">
+    <display-name lang="en">Arirang TV HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="EBC">
+    <display-name lang="en">EBC</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Now Jelli HD">
+    <display-name lang="en">Now Jelli HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Star Chinese Channel HD">
+    <display-name lang="en">Star Chinese Channel HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="ONE HD">
+    <display-name lang="en">ONE HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="tvN HD">
+    <display-name lang="en">tvN HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="CTI TV HD">
+    <display-name lang="en">CTI TV HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="TVBS Asia">
+    <display-name lang="en">TVBS Asia</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Dragon TV">
+    <display-name lang="en">Dragon TV</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Asia Travel HD">
+    <display-name lang="en">Asia Travel HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="TVB Jade HD">
+    <display-name lang="en">TVB Jade HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Hub VVDrama HD">
+    <display-name lang="en">Hub VVDrama HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="TVB Xing He HD">
+    <display-name lang="en">TVB Xing He HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="SCM HD">
+    <display-name lang="en">SCM HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Celestial Movies HD">
+    <display-name lang="en">Celestial Movies HD</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="CCM">
+    <display-name lang="en">CCM</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Test channel 988">
+    <display-name lang="en">Test channel 988</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Test channel 989">
+    <display-name lang="en">Test channel 989</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="TestChannel 993">
+    <display-name lang="en">TestChannel 993</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="TestChannel1">
+    <display-name lang="en">TestChannel1</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="TestChannel995">
+    <display-name lang="en">TestChannel995</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="TestChannel996">
+    <display-name lang="en">TestChannel996</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="TestChannel2">
+    <display-name lang="en">TestChannel2</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Channel_Test">
+    <display-name lang="en">Channel_Test</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+</tv>
