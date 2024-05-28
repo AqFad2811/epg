@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generated-by="azimabid00 on github - EPG XML Generator V1.0 - EPG Generated for 29-05-2024">
+ <channel id="710.unifi">
+  <display-name lang="en">beIN SPORTS 4 HD</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220812/20220812083713068j19.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="709.unifi">
+  <display-name lang="en">beIN SPORTS 3 HD</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202204/20220422/202204220814593293cl.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="708.unifi">
+  <display-name lang="en">beIN SPORTS 1 HD</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202204/20220422/20220422081431538sc5.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="707.unifi">
+  <display-name lang="en">SPOTV2</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202109/20210930/20210930184626019h4r.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="706.unifi">
+  <display-name lang="en">SPOTV</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202109/20210930/20210930184212950ddn.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="701.unifi">
+  <display-name lang="en">unifi Sports 1</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202304/20230418/202304180833546499vy.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="652.unifi">
+  <display-name lang="en">France 24</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220810/2022081020302200206h.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="643.unifi">
+  <display-name lang="en">NHK WORLD-JAPAN</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/201907160704507932rh.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="642.unifi">
+  <display-name lang="en">DW</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202203/20220316/20220316175409814ggi.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="633.unifi">
+  <display-name lang="en">Parlimen Malaysia</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220810/20220810211708829sbp.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="631.unifi">
+  <display-name lang="en">Bernama TV</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202206/20220630/20220630161651611obe.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="613.unifi">
+  <display-name lang="en">Wion</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202206/20220628/2022062803242680610s.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="612.unifi">
+  <display-name lang="en">Euronews</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202310/20231013/20231013072522178009.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="611.unifi">
+  <display-name lang="en">CNA</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220913/202209131536473499qq.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="610.unifi">
+  <display-name lang="en">CGTN</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202210/20221006/20221006162842151p7y.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="602.unifi">
+  <display-name lang="en">Al Jazeera HD</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201910/20191016/20191016083900196xiv.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="601.unifi">
+  <display-name lang="en">BBC News HD</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202304/20230413/20230413163257115fw9.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="555.unifi">
+  <display-name lang="en">Cartoonito</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202307/20230727/20230727155824262s56.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="553.unifi">
+  <display-name lang="en">CBeebies HD</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716071141326xhe.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="552.unifi">
+  <display-name lang="en">Nick Jr.</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202402/20240215/202402150918186623m3.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="551.unifi">
+  <display-name lang="en">Moonbug</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202305/20230501/20230501030506432ny5.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="550.unifi">
+  <display-name lang="en">Dreamworks HD</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202011/20201125/202011250800095510sa.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="531.unifi">
+  <display-name lang="en">MTV Live</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220831/20220831175807527zfn.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="529.unifi">
+  <display-name lang="en">Luxe.TV HD</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202210/20221006/20221006163125046s4c.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="521.unifi">
+  <display-name lang="en">Travel Channel HD</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202108/20210831/20210831161520835mdk.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="512.unifi">
+  <display-name lang="en">BBC Lifestyle HD</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="502.unifi">
+  <display-name lang="en">Love Nature HD</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202304/20230413/20230413163356887wtt.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="501.unifi">
+  <display-name lang="en">BBC Earth HD</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202310/20231004/202310041609361172yq.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="474.unifi">
+  <display-name lang="en">ROCK Action</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="473.unifi">
+  <display-name lang="en">ROCK Entertainment</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="472.unifi">
+  <display-name lang="en">Animax HD</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220811/20220811020901814w9o.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="471.unifi">
+  <display-name lang="en">GEM</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202109/20210926/20210926024214242p95.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="462.unifi">
+  <display-name lang="en">K-Plus</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202109/20210926/202109260228210903i7.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="461.unifi">
+  <display-name lang="en">ONE</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202212/20221221/20221221082931509b79.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="454.unifi">
+  <display-name lang="en">HITS</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202109/20210930/20210930184050677l5v.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="453.unifi">
+  <display-name lang="en">AXN</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202109/20210927/2021092701574706798y.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="452.unifi">
+  <display-name lang="en">HITS NOW</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202312/20231215/20231215075850694132.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="451.unifi">
+  <display-name lang="en">Warner TV</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="407.unifi">
+  <display-name lang="en">HITS MOVIES</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202110/20211002/202110020531032952nt.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="333.unifi">
+  <display-name lang="en">Colors Cineplex</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="311.unifi">
+  <display-name lang="en">Colors Tamil HD</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/201907160723588691kg.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="303.unifi">
+  <display-name lang="en">Sony YAY!</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202304/20230420/202304200133366766tq.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="289.unifi">
+  <display-name lang="en">CCM</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202110/20211002/20211002075446164wlh.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="288.unifi">
+  <display-name lang="en">Celestial Movies</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202109/20210926/20210926030715748ltd.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="239.unifi">
+  <display-name lang="en">SETI</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190708/20190708073838956juy.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="235.unifi">
+  <display-name lang="en">CCTV-4</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202204/20220428/2022042801453679957n.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="233.unifi">
+  <display-name lang="en">Now Jelli</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/201907160641140646da.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="211.unifi">
+  <display-name lang="en">tvN HD</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="201.unifi">
+  <display-name lang="en">tvN Movies</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202206/20220630/20220630160122105iu5.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="141.unifi">
+  <display-name lang="en">Pesona HD</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="128.unifi">
+  <display-name lang="en">Dunia Sinema HD</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="122.unifi">
+  <display-name lang="en">TVS</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202401/20240108/2024010804385071891k.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="121.unifi">
+  <display-name lang="en">SIAR</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="120.unifi">
+  <display-name lang="en">DEGUP</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="118.unifi">
+  <display-name lang="en">Inspirasi</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="116.unifi">
+  <display-name lang="en">Sensasi</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="114.unifi">
+  <display-name lang="en">TV AlHijrah HD</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="113.unifi">
+  <display-name lang="en">Salam HD</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="109.unifi">
+  <display-name lang="en">TV9</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="108.unifi">
+  <display-name lang="en">8TV</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="107.unifi">
+  <display-name lang="en">DidikTV KPM</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="103.unifi">
+  <display-name lang="en">TV3</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="102.unifi">
+  <display-name lang="en">TV2</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <channel id="101.unifi">
+  <display-name lang="en">TV1</display-name>
+  <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png"/>
+  <url>https://playtv.unifi.com.my</url>
+ </channel>
+ <programme start="20240528120000 +0800" stop="20240528120500 +0800" channel="101.unifi">
+  <title lang="en">Berita Semasa</title>
+  <desc lang="en">Saksikan berita semasa dalam dan luar negara.</desc>
+ </programme>
+ <programme start="20240528120500 +0800" stop="20240528130000 +0800" channel="101.unifi">
+  <title lang="en">World Watch: Mega Marine Machines Ep7</title>
+  <desc lang="en">Dokumentari mengenai kejuruteraan dan teknologi canggih yang digunakan pada kenderaan lautan.</desc>
+ </programme>
+ <programme start="20240528130000 +0800" stop="20240528133000 +0800" channel="101.unifi">
+  <title lang="en">Berita Tengah Hari</title>
+  <desc lang="en">Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+ </programme>
+ <programme start="20240528133000 +0800" stop="20240528140000 +0800" channel="101.unifi">
+  <title lang="en">TV1 Kids: Team Curios Ep13</title>
+  <desc lang="en">Sebuah siri animasi mengisahkan Quincy, seorang kanak-kanak lelaki yang mempunyai rasa ingin tahu dan naluri keadilan yang tinggi. Quincy juga merupakan seorang ketua kepada Pasukan Q, yang turut dianggotai kucingnya, Blitz yang memahami bahasa makhluk asing, AL sebuah robot yang sopan, dan Puteri Deirde seorang makhluk asing yang terdampar di bumi. Kesemua mereka mempunyai lencana khas yang memberikan kuasa luar biasa untuk menyelesaikan masalah di kawasan kejiranan mereka.</desc>
+ </programme>
+ <programme start="20240528140000 +0800" stop="20240528143000 +0800" channel="101.unifi">
+  <title lang="en">Cuit-Cuit: Food Truck Ep4</title>
+  <desc lang="en">Suri telah berkongsi petua ketika memancing. Aiman dan Bro Mael turut berkongsi beberapa petua yang boleh diamalkan dalam kehidupan seharian. Suri yang suka menyanyi ketika memasak terkejut apabila seorang duda kaya telah datang melamarnya. Ini menyebabkan Suri berasa keliru dengan pantang larang menyanyi ketika memasak tersebut.</desc>
+ </programme>
+ <programme start="20240528143000 +0800" stop="20240528150000 +0800" channel="101.unifi">
+  <title lang="en">Dimensi Teknologi Ep4</title>
+  <desc lang="en">Program yang memaparkan teknologi pintar yang memberikan definisi baru kepada kehidupan moden.</desc>
+ </programme>
+ <programme start="20240528150000 +0800" stop="20240528150500 +0800" channel="101.unifi">
+  <title lang="en">Berita Semasa</title>
+  <desc lang="en">Saksikan berita semasa dalam dan luar negara.</desc>
+ </programme>
+ <programme start="20240528150500 +0800" stop="20240528160000 +0800" channel="101.unifi">
+  <title lang="en">Kuppa Kopi Ep13</title>
+  <desc lang="en">Sebuah wadah atau platform untuk memperkasakan dan memartabatkan golongan belia di Malaysia khususnya di Sarawak bersama pengacara, Anding Indrawani.</desc>
+ </programme>
+ <programme start="20240528160000 +0800" stop="20240528160500 +0800" channel="101.unifi">
+  <title lang="en">Berita Semasa</title>
+  <desc lang="en">Saksikan berita semasa dalam dan luar negara.</desc>
+ </programme>
+ <programme start="20240528160500 +0800" stop="20240528161400 +0800" channel="101.unifi">
+  <title lang="en">Rangkuman Lawatan Kerja Perdana Menteri ke Qatar</title>
+  <desc lang="en">Rangkuman Lawatan Kerja Perdana Menteri ke Qatar</desc>
+ </programme>
+ <programme start="20240528161400 +0800" stop="20240528163000 +0800" channel="101.unifi">
+  <title lang="en">Panorama Ep4</title>
+  <desc lang="en">Saksikan tajuk Rezeki kampung sukar didapati namun nikmat dirasa iaitu Ikan Keli Limbat specis yang hidup di kawasan hulu sungai dan berpaya dan buah Ara di pinggir sungai sedap dibuat juadah gulai daging Ara.</desc>
+ </programme>
+ <programme start="20240528163000 +0800" stop="20240528170000 +0800" channel="101.unifi">
+  <title lang="en">Biz Malaysia</title>
+  <desc lang="en">Saksikan perkembangan terkini dunia ekonomi Malaysia dalam Biz Malaysia.</desc>
+ </programme>
+ <programme start="20240528170000 +0800" stop="20240528180000 +0800" channel="101.unifi">
+  <title lang="en">Berita Wilayah</title>
+  <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.</desc>
+ </programme>
+ <programme start="20240528180000 +0800" stop="20240528184500 +0800" channel="101.unifi">
+  <title lang="en">Bismillah</title>
+  <desc lang="en">Saksikan Bismillah menghayati tilawah &amp; tadabbur menceritakan kebesaran Allah pedoman hidup manusia dan damaikan jiwamu.</desc>
+ </programme>
+ <programme start="20240528184500 +0800" stop="20240528194400 +0800" channel="101.unifi">
+  <title lang="en">Seleksi Widuri: Ayat-Ayat Halal Ep26</title>
+  <desc lang="en">Eb tersentak apabila Ulya menyatakan bahawa Murni menyuruhnya menyiasat siapakah gerangan bekas kekasih Eb. Eb akhirnya berterusterang dengan Ulya yang membuatkan Ulya merajuk dan tidak menjawab sebarang panggilan dan mesej yang dihantar oleh Eb. Ulya semakin marah dengan Eb apabila Eb tersilap memanggil Eb dengan nama Murni.</desc>
+ </programme>
+ <programme start="20240528194400 +0800" stop="20240528200000 +0800" channel="101.unifi">
+  <title lang="en">Kanta 744</title>
+  <desc lang="en">Saksikan Kanta 744 berita terkini terus di lokasi , padat bermaklumat, peristiwa dunia intipati semasa #Kanta744</desc>
+ </programme>
+ <programme start="20240528200000 +0800" stop="20240528203000 +0800" channel="101.unifi">
+  <title lang="en">Berita Perdana</title>
+  <desc lang="en">Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+ </programme>
+ <programme start="20240528203000 +0800" stop="20240528204500 +0800" channel="101.unifi">
+  <title lang="en">Promo / PSA / Kapsul</title>
+  <desc lang="en">Promo / PSA / Kapsul</desc>
+ </programme>
+ <programme start="20240528204500 +0800" stop="20240528230000 +0800" channel="101.unifi">
+  <title lang="en">Siaran Langsung: Majlis Tilawah Dan Hafazan Al-Quran Peringkat Kebangsaan (MTHQK) 1445H / 2024M</title>
+  <desc lang="en">Saksikan Siaran Langsung Majlis Tilawah Dan Hafazan Al-Quran Peringkat Kebangsaan (MTHQK) 1445H / 2024M.</desc>
+ </programme>
+ <programme start="20240528230000 +0800" stop="20240528233000 +0800" channel="101.unifi">
+  <title lang="en">Special On 1: Innovation Nation Ep11</title>
+  <desc lang="en">Inovasi dan teknologi serta penghasilan produk serata dunia dan segmen The Mo You Know .</desc>
+ </programme>
+ <programme start="20240528233000 +0800" stop="20240529000000 +0800" channel="101.unifi">
+  <title lang="en">Retro @ RTM (Musim 3) Ep3</title>
+  <desc lang="en">Saksikan Retro@RTM memaparkan kompilasi video-video lama dan retro artis-artis tanah air bersama pengacara Nurul Zamre beserta perkongsian perihal muzik dan lagu pada era 70an, 80an dan 90an.</desc>
+ </programme>
+ <programme start="20240529000000 +0800" stop="20240529003000 +0800" channel="101.unifi">
+  <title lang="en">Berita Tengah Malam</title>
+  <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+ </programme>
+ <programme start="20240529003000 +0800" stop="20240529010000 +0800" channel="101.unifi">
+  <title lang="en">Uniknya Desaku Ep8</title>
+  <desc lang="en">Adib Azman membawa kita merasai susanan keunikkan dan rumah kampung yang unik dan klasik di Homestay Norhalijah Machang Bubuk Pulau Pinang.</desc>
+ </programme>
+ <programme start="20240529010000 +0800" stop="20240529011500 +0800" channel="101.unifi">
+  <title lang="en">Katalog Akuatik Ep14</title>
+  <desc lang="en">Episod kali ini bertopik Laktut bersama Encik Nik Nazli Effendy bin Ramli (Pegawai Penyelidik Institut Penyelidikan Perikanan Langkawi, Kedah).</desc>
+ </programme>
+ <programme start="20240529011500 +0800" stop="20240529013000 +0800" channel="101.unifi">
+  <title lang="en">Promo / PSA / Kapsul</title>
+  <desc lang="en">Promo / PSA / Kapsul</desc>
+ </programme>
+ <programme start="20240529013000 +0800" stop="20240529014500 +0800" channel="101.unifi">
+  <title lang="en">Sari Alam Ep19</title>
+  <desc lang="en">Ketahui infomasi berkaitan khasiat, cara penanaman dan penjagaan tanaman Kunyit terbesar di Sepang, Selangor yang diusahakan oleh Mirnawan Zailani.</desc>
+ </programme>
+ <programme start="20240529014500 +0800" stop="20240529020000 +0800" channel="101.unifi">
+  <title lang="en">Promo / PSA / Kapsul</title>
+  <desc lang="en">Promo / PSA / Kapsul</desc>
+ </programme>
+ <programme start="20240529020000 +0800" stop="20240529023000 +0800" channel="101.unifi">
+  <title lang="en">Agropreneur Muda Ep11</title>
+  <desc lang="en">Saksikan Shah Hazree berkongsi kisah kejayaan Perusahaan Pasar Online bersama Rizal Sidin serta pengusaha Makanan bersama Muhammad Iqbal.</desc>
+ </programme>
+ <programme start="20240529023000 +0800" stop="20240529030000 +0800" channel="101.unifi">
+  <title lang="en">Jelajah Aroma Ep1</title>
+  <desc lang="en">Mengembara ke Bandar Chester di United Kingdom untuk melawat rakan beliau iaitu Cef Brian Mello yang mempunyai pengalaman memasak.</desc>
+ </programme>
+ <programme start="20240529030000 +0800" stop="20240529033000 +0800" channel="101.unifi">
+  <title lang="en">Kisah Mensia Marek Ep1</title>
+  <desc lang="en">Santubong - Saksikan Kesah Mensia Marek - Santubong kisah puteri kayangan bernama puteri santubong dan puteri sejinjang yang turut berkaitan dengan tamadun ke-2 kerajaan melayu. tempat ini juga menjadi bukti perdagangan yang mewujudkan perkampungan orang terengganu sehingga menjadi pusat pelancongan terkemuka di Sarawak.</desc>
+ </programme>
+ <programme start="20240529033000 +0800" stop="20240529040000 +0800" channel="101.unifi">
+  <title lang="en">Jom Muzium Ep10</title>
+  <desc lang="en">Bersama Dazrin Kamaruddin dalam episod Muzium Seni Budaya dengan melawat Muzium Kraf Perbadanan Kemajuan Malaysia dan Muzium Tekstil Negara yang terletak di Kuala Lumpur.</desc>
+ </programme>
+ <programme start="20240529040000 +0800" stop="20240529043000 +0800" channel="101.unifi">
+  <title lang="en">Ekspresi Eko Ep1</title>
+  <desc lang="en">Memaparkan perjalanan ke Hutan Hujan Royal Belum, Grik, Perak dimana pengacara Mas Khan menunjukkan jalan untuk sampai ke situ.</desc>
+ </programme>
+ <programme start="20240529043000 +0800" stop="20240529053000 +0800" channel="101.unifi">
+  <title lang="en">Kelmarin Cinta Ep24</title>
+  <desc lang="en">Kehadiran Adi dari Jerman untuk menyambut hari lahir Mira. Pelakon: Shukri Yahaya, Reen Rahim, Intan Ladyana, Sharifah Husna, dan Aishah Azman.</desc>
+ </programme>
+ <programme start="20240529053000 +0800" stop="20240529060000 +0800" channel="101.unifi">
+  <title lang="en">Bacaan Ar Rahman</title>
+  <desc lang="en">Saksikan siaran bacaan Surah Ar-Rahman.</desc>
+ </programme>
+ <programme start="20240529060000 +0800" stop="20240529060200 +0800" channel="101.unifi">
+  <title lang="en">Negaraku</title>
+  <desc lang="en">Negaraku</desc>
+ </programme>
+ <programme start="20240529060200 +0800" stop="20240529070000 +0800" channel="101.unifi">
+  <title lang="en">Bismillah Ep5</title>
+  <desc lang="en">Saksikan Bismillah menghayati tilawah &amp; tadabbur menceritakan kebesaran Allah pedoman hidup manusia dan damaikan jiwamu.</desc>
+ </programme>
+ <programme start="20240529070000 +0800" stop="20240529071000 +0800" channel="101.unifi">
+  <title lang="en">Berita Pagi Semenanjung</title>
+  <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam dan luar negara.</desc>
+ </programme>
+ <programme start="20240529071000 +0800" stop="20240529072000 +0800" channel="101.unifi">
+  <title lang="en">Berita Pagi Sabah</title>
+  <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negeri Sabah.</desc>
+ </programme>
+ <programme start="20240529072000 +0800" stop="20240529073000 +0800" channel="101.unifi">
+  <title lang="en">Berita Pagi Sarawak</title>
+  <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negeri Sarawak.</desc>
+ </programme>
+ <programme start="20240529073000 +0800" stop="20240529074400 +0800" channel="101.unifi">
+  <title lang="en">Stadium RTM Pagi</title>
+  <desc lang="en">Saksikan berita, laporan sukan dalam dan luar negara.</desc>
+ </programme>
+ <programme start="20240529074400 +0800" stop="20240529080000 +0800" channel="101.unifi">
+  <title lang="en">Kanta 744</title>
+  <desc lang="en">Saksikan Kanta 744 berita terkini terus di lokasi , padat bermaklumat, peristiwa dunia intipati semasa #Kanta744</desc>
+ </programme>
+ <programme start="20240529080000 +0800" stop="20240529100000 +0800" channel="101.unifi">
+  <title lang="en">Siaran Langsung: Selamat Pagi Malaysia</title>
+  <desc lang="en">Program bual bicara secara langsung memaparkan segmen perbincangan bersama panel jemputan seperti topik semasa, info semasa, kesihatan, pendidikan, filem kita dan wanita.</desc>
+ </programme>
+ <programme start="20240529100000 +0800" stop="20240529100500 +0800" channel="101.unifi">
+  <title lang="en">Dunia 10</title>
+  <desc lang="en">Dunia 10</desc>
+ </programme>
+ <programme start="20240529100500 +0800" stop="20240529101500 +0800" channel="101.unifi">
+  <title lang="en">Rangkuman Lawatan Rasmi Perdana Menteri ke Kurgystan</title>
+  <desc lang="en">Rangkuman Lawatan Rasmi Perdana Menteri ke Kurgystan</desc>
+ </programme>
+ <programme start="20240529101500 +0800" stop="20240529103000 +0800" channel="101.unifi">
+  <title lang="en">Dari Meja Doktor Ep3</title>
+  <desc lang="en">Rancangan majalah memaparkan berkenaan pengalaman dan kisah menarik pakar perubatan dalam menguruskan operasi pembedahan.</desc>
+ </programme>
+ <programme start="20240529103000 +0800" stop="20240529110000 +0800" channel="101.unifi">
+  <title lang="en">Uniknya Desaku Ep9</title>
+  <desc lang="en">Adib Azman membawa kita kawasan perkampungan yang terpilih sambil menikmati keunikan dan keistimewaan setiap kawasan yang dilawati.</desc>
+ </programme>
+ <programme start="20240529110000 +0800" stop="20240529113000 +0800" channel="101.unifi">
+  <title lang="en">Teknologi Nano Ep7</title>
+  <desc lang="en">Teknologi Nano membawakan kegunaan terkini teknologi nano dalam peralatan seharian.</desc>
+ </programme>
+ <programme start="20240529113000 +0800" stop="20240529120000 +0800" channel="101.unifi">
+  <title lang="en">A.I.M (Artificial Intelligence of Malaysia) Ep8</title>
+  <desc lang="en">Dokumentari memaparkan tentang AIM dalam melaksanakan projek pembangunan teknologi.</desc>
+ </programme>
+ <programme start="20240529120000 +0800" stop="20240529120500 +0800" channel="101.unifi">
+  <title lang="en">Berita Semasa</title>
+  <desc lang="en">Saksikan berita semasa dalam dan luar negara.</desc>
+ </programme>
+ <programme start="20240529120500 +0800" stop="20240529130000 +0800" channel="101.unifi">
+  <title lang="en">World Watch: Equator – Mega Marine Machines Ep8</title>
+  <desc lang="en">Dokumentari mengenai kejuruteraan dan teknologi canggih yang digunakan pada kenderaan lautan.</desc>
+ </programme>
+ <programme start="20240529130000 +0800" stop="20240529133000 +0800" channel="101.unifi">
+  <title lang="en">Berita Tengah Hari</title>
+  <desc lang="en">Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+ </programme>
+ <programme start="20240529133000 +0800" stop="20240529134000 +0800" channel="101.unifi">
+  <title lang="en">Rangkuman Lawatan Rasmi Perdana Menteri ke Kurgystan</title>
+  <desc lang="en">Rangkuman Lawatan Rasmi Perdana Menteri ke Kurgystan</desc>
+ </programme>
+ <programme start="20240529134000 +0800" stop="20240529140000 +0800" channel="101.unifi">
+  <title lang="en">Kanak-Kanak 1: Bobo Wawa Kura Ep8</title>
+  <desc lang="en">Episod kali ini mengenai cerita Rusa dan Tanduknya, kenali haiwan rusa, kenali buah tin, nyanyian lagu Anak Rusa Nani dan membuat kucing kertas.</desc>
+ </programme>
+ <programme start="20240529140000 +0800" stop="20240529143000 +0800" channel="101.unifi">
+  <title lang="en">Cuit-Cuit: Food Truck Ep5</title>
+  <desc lang="en">Bro Mael mengumumkan mereka akan mengadakan pertandingan karaoke food trak. Pertandingan adalah terbuka kepada para peniaga dan pelanggan yang membeli daripada food trak. Ramai yang memasuki pertandingan untuk menunjukkan bakat. Namun, Radhi yang turut mencuba nasib berasa terkejut apabila dipilih menjadi pemenang.</desc>
+ </programme>
+ <programme start="20240529143000 +0800" stop="20240529150000 +0800" channel="101.unifi">
+  <title lang="en">Apa Hak Anda Ep1</title>
+  <desc lang="en">Dalam episod ini tentang sindiket penipuan kerja di luar negara yang mana ramai rakyat Malaysia yang terjebak akibat pengangguran selepas pandemik covid-19.</desc>
+ </programme>
+ <programme start="20240529150000 +0800" stop="20240529150500 +0800" channel="101.unifi">
+  <title lang="en">Berita Semasa</title>
+  <desc lang="en">Saksikan berita semasa d
