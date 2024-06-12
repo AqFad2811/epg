@@ -1221,13 +1221,9 @@
     <title lang="en">Malaysia Tonight</title>
     <desc lang="en">Ikuti Malaysia Tonight, berita berbahasa Inggeris yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
   </programme>
-  <programme start="20240617210000 +0000" stop="20240617220000 +0000" channel="TV1">
+  <programme start="20240617210000 +0000" stop="20240617230000 +0000" channel="TV1">
     <title lang="en">SIARAN LANGSUNG: Salam Baitullah (Khas Hari Raya)</title>
     <desc lang="en">Saksikan secara langsung Salam Baitullah (Khas Hari Raya).</desc>
-  </programme>
-  <programme start="20240617220000 +0000" stop="20240617230000 +0000" channel="TV1">
-    <title lang="en">Dunia 10</title>
-    <desc lang="en">Memaparkan berita dan peristiwa yang berlaku di seluruh dunia.</desc>
   </programme>
   <programme start="20240617230000 +0000" stop="20240617233000 +0000" channel="TV1">
     <title lang="en">Kafe Kamus</title>
@@ -1493,10 +1489,14 @@
     <title lang="en">Jarang Jumpa Namun Ada</title>
     <desc lang="en">Bersama hos Nida Hanafi menjejak penyakit yang jarang didengari dan informasi tentangnya dalam program Jarang Jumpa Namun Ada.</desc>
   </programme>
-  <programme start="20240619110000 +0000" stop="20240619120000 +0000" channel="TV1">
+  <programme start="20240619110000 +0000" stop="20240619113000 +0000" channel="TV1">
     <title lang="en">Teknologi Nano</title>
     <desc lang="en">Teknologi Nano membawakan kegunaan terkini teknologi nano dalam peralatan seharian.</desc>
     <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20240619113000 +0000" stop="20240619120000 +0000" channel="TV1">
+    <title lang="en">Santri Serumpun</title>
+    <desc lang="en">Bersama Ustaz Nazrul Izwan merantau Jawa Barat Indonesia bagi menjejaki Pondok Pengajian Islam Tahfiz Al-Quran Al-Basyariyah.</desc>
   </programme>
   <programme start="20240619120000 +0000" stop="20240619120500 +0000" channel="TV1">
     <title lang="en">Berita Semasa</title>
@@ -2160,12 +2160,12 @@
     <title lang="en">Rookie Blue</title>
     <desc lang="en">Kisah 5 orang anggota polis yang baru sahaja menamatkan pengajian di akademi kepolisan yang bersama-sama ditempatkan di Unit 15 Polis Toronto, Kanada. Mereka masing-masing mempunyai cita-cita yang tinggi cuba membuktikan diri mereka dalam tugasan. Andy McNally dan empat rakan akademinya, Dov Epstein, Gail Peck, Traci Nash dan Chris Diaz, ketika mereka bersama-sama mengharungi pahit manis bergelar seorang anggota polis yang berkhidmat untuk masyarakat, dan pada masa yang sama kesannya terhadap kehidupan peribadi mereka. Lakonan : Missy Peregrym, Charlotte Sullivan, Ben Bass, Gregory Smith, Priscilla Faia dan Enuka Okuma.</desc>
   </programme>
-  <programme start="20240615210000 +0000" stop="20240615223000 +0000" channel="TV2">
+  <programme start="20240615210000 +0000" stop="20240615230000 +0000" channel="TV2">
     <title lang="en">Konsert Minggu Ini (Kugiran Masdo)</title>
     <title lang="xx">Juara Limbai 2024</title>
     <desc lang="en">Saksikan Juara Limbai 2024 secara langsung di TV2.</desc>
   </programme>
-  <programme start="20240615223000 +0000" stop="20240616003000 +0000" channel="TV2">
+  <programme start="20240615230000 +0000" stop="20240616003000 +0000" channel="TV2">
     <title lang="en">Abang Long Fadil</title>
     <desc lang="en">Fadil tidak mahu lagi terlibat dengan dunia samseng setelah kawannya Malik dijatuhkan hukuman penjara. Dia merayu kepada Shark untuk keluar dari kumpulannya. Tetapi Shark, meletakkan syarat supaya dia mengawasi Kampung Berani dan mengugut penduduk kampung itu menjual tanah mereka. Fadil telah bertemu dengan Adam dan mereka bergabung untuk melawan samseng samseng di kawasan tersebut tanpa Adam ketahui niat sebenar Fadil yang telah bersubahat dengan Shark. Lakonan : Zizan Razak, Kamal Adli, Tauke (Raja Lawak), Soffi Jikan, Syamsul Yusof dan Aaron Aziz.</desc>
   </programme>
@@ -2846,30 +2846,17 @@
     <title lang="en">Sarawak Ekspres 1000</title>
     <desc lang="en">Zainal Ariffin dan Amzarul Rahman dalam eksplorasi mereka melebihi 1000km merentasi bumi kenyalang.</desc>
   </programme>
-  <programme start="20240612193000 +0000" stop="20240612200000 +0000" channel="Okey">
-    <title lang="en">Asing</title>
-    <desc lang="en">Menelusuri keindahan dan keunikan yang terdapat di tempat yang amat jarang dikunjungi oleh orang ramai dan agak tersembunyi.</desc>
+  <programme start="20240612193000 +0000" stop="20240612194500 +0000" channel="Okey">
+    <title lang="en">Promo/Kapsul</title>
+    <desc lang="en">Seleksi klip-klip video terbaik untuk anda.</desc>
   </programme>
-  <programme start="20240612200000 +0000" stop="20240612203000 +0000" channel="Okey">
-    <title lang="en">Cef Barista</title>
-    <desc lang="en">Sharul Kamal menjelajah ke restoran dan kafe yang unik (hipster) menemu bual pemilik restoran sambil menikmati makanan istimewa.</desc>
+  <programme start="20240612194500 +0000" stop="20240612224500 +0000" channel="Okey">
+    <title lang="en">L: BOLA SEPAK PIALA FA</title>
+    <desc lang="en">L: BOLA SEPAK PIALA FA (PDRM FC VS MALAYSIA UNIVERSITY FT).</desc>
   </programme>
-  <programme start="20240612203000 +0000" stop="20240612210000 +0000" channel="Okey">
-    <title lang="en">Pesona Suri</title>
-    <desc lang="en">Berkongsi tips senaman yang boleh dilakukan khususnya kepada golongan wanita yang tidak mempunyai masa untuk bersenam.</desc>
-  </programme>
-  <programme start="20240612210000 +0000" stop="20240612220000 +0000" channel="Okey">
-    <title lang="en">Taufiq Hidayat</title>
-    <desc lang="en">Fatehah memberi amaran kepada Hidayat bahawa Najmi telah mengetahui tentang mereka berdua.</desc>
-    <episode-num system="onscreen">E12</episode-num>
-  </programme>
-  <programme start="20240612220000 +0000" stop="20240612223000 +0000" channel="Okey">
-    <title lang="en">Arena Gamerz</title>
-    <desc lang="en">Bersama Jaa Suzuran yang akan berkongsi tentang sukan permainan (E-Sport) oleh pemain-pemain Malaysia yang telah mewakili negara.</desc>
-  </programme>
-  <programme start="20240612223000 +0000" stop="20240612230000 +0000" channel="Okey">
-    <title lang="en">Holla Tanah Air Ku</title>
-    <desc lang="en">Harris Alif dalam eksplorasinya ke lokasi-lokasi yang menarik dan bersejarah yang terdapat di dalam negara sambil melakukan aktiviti-aktiviti lasak serta mencabar.</desc>
+  <programme start="20240612224500 +0000" stop="20240612230000 +0000" channel="Okey">
+    <title lang="en">Promo/Kapsul</title>
+    <desc lang="en">Seleksi klip-klip video terbaik untuk anda.</desc>
   </programme>
   <programme start="20240612230000 +0000" stop="20240612233000 +0000" channel="Okey">
     <title lang="en">Cef Insta</title>
@@ -4302,13 +4289,13 @@
     <title lang="en">Pantau</title>
     <desc lang="en">Pantau membawakan permasalahan sosial yang berlaku pada masyarakat Malaysia di zaman teknologi ini.</desc>
   </programme>
-  <programme start="20240612140000 +0000" stop="20240612141500 +0000" channel="Berita RTM">
+  <programme start="20240612140000 +0000" stop="20240612141000 +0000" channel="Berita RTM">
     <title lang="en">i-Bajau</title>
     <desc lang="en">Memaparkan perkembangan berita dalam bahasa etnik Bajau.</desc>
   </programme>
-  <programme start="20240612141500 +0000" stop="20240612143000 +0000" channel="Berita RTM">
-    <title lang="en">26 Wad</title>
-    <desc lang="en">26 Wad merupakan sebuah dokumentari perubatan yang membawakan 26 penyakit dari perspektif pakar perubatan dan pesakit.</desc>
+  <programme start="20240612141000 +0000" stop="20240612143000 +0000" channel="Berita RTM">
+    <title lang="en">SIARAN LANGSUNG: Sidang Media Bersama Perdana Menteri Malaysia - Singapura</title>
+    <desc lang="en">Saksikan secara langsung Sidang Media Bersama Perdana Menteri Malaysia - Singapura.</desc>
   </programme>
   <programme start="20240612143000 +0000" stop="20240612150000 +0000" channel="Berita RTM">
     <title lang="en">#4.0 Revolusi Digital</title>
@@ -5100,65 +5087,345 @@
     <title lang="en">Berita Tengah Malam</title>
     <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara.</desc>
   </programme>
-  <programme start="20240617003000 +0000" stop="20240617004500 +0000" channel="Berita RTM">
-    <title lang="en">Pastikan Sahih</title>
-    <desc lang="en">Rancangan bual bicara santai untuk berkongsi maklumat yang benar dan membetulkan berita-berita palsu yang viral di media sosial.</desc>
+  <programme start="20240617003000 +0000" stop="20240617010000 +0000" channel="Berita RTM">
+    <title lang="en">M-Smart</title>
+    <desc lang="en">M-Smart memaparkan kursus-kursus T-Vet (Latihan Bidang Teknikal dan Vokasional) yang ditawarkan oleh pelbagai institusi pengajian tinggi di Malaysia.</desc>
   </programme>
-  <programme start="20240617004500 +0000" stop="20240617060000 +0000" channel="Berita RTM">
-    <title lang="en">Biz Malaysia</title>
-    <desc lang="en">Memaparkan perkembangan berita ekonomi, korporat dan perniagaan serta laporan saham.</desc>
+  <programme start="20240617010000 +0000" stop="20240617023000 +0000" channel="Berita RTM">
+    <title lang="en">Salam Baitullah</title>
+    <desc lang="en">Salam Baitullah bertemakan Kemuncak Ibadah, Satu Ibrah sebuah rancangan yang memaparkan perkongsian topik serta liputan terkini dari Mekah sempena musim Haji 2024M/1445H.</desc>
   </programme>
-  <programme start="20240617060000 +0000" stop="20240617070000 +0000" channel="Berita RTM">
+  <programme start="20240617023000 +0000" stop="20240617030000 +0000" channel="Berita RTM">
+    <title lang="en">Skrin Kreatif</title>
+    <desc lang="en">Skrin Kreatif merupakan sebuah paparan di balik tabir bidang produksi video dari yang berskala kecil hingga ke skala besar.</desc>
+  </programme>
+  <programme start="20240617030000 +0000" stop="20240617033000 +0000" channel="Berita RTM">
+    <title lang="en">Kota Warisan Alam</title>
+    <desc lang="en">Program Travelog menjelajah ke setiap kota warisan di negara ini untuk meninjau tempat-tempat menarik untuk dilawati setiap masyarakat.</desc>
+  </programme>
+  <programme start="20240617033000 +0000" stop="20240617040000 +0000" channel="Berita RTM">
+    <title lang="en">Adiguru</title>
+    <desc lang="en">Di setiap episod, Adiguru akan membawakan tokoh-tokoh kraftangan yang terkenal bagi meneyelami kisah hidup mereka sehingga mereka digelar Adiguru.</desc>
+  </programme>
+  <programme start="20240617040000 +0000" stop="20240617043000 +0000" channel="Berita RTM">
+    <title lang="en">Legasi Maritim Melayu</title>
+    <desc lang="en">Pelajari ilmu pelayaran dan ikuti pengembaraan nakhoda Maritim Melayu ke seluruh samudera dalam rancangan Legasi Maritim Melayu.</desc>
+  </programme>
+  <programme start="20240617043000 +0000" stop="20240617050000 +0000" channel="Berita RTM">
+    <title lang="en">Pantau</title>
+    <desc lang="en">Pantau membawakan permasalahan sosial yang berlaku pada masyarakat Malaysia di zaman teknologi ini.</desc>
+  </programme>
+  <programme start="20240617050000 +0000" stop="20240617053000 +0000" channel="Berita RTM">
+    <title lang="en">Amazing Nano</title>
+    <desc lang="en">Bersama Hos, Amir Rahim membincangkan tentang perkembangan teknologi nano negara dalam pelbagai bidang.</desc>
+  </programme>
+  <programme start="20240617053000 +0000" stop="20240617060000 +0000" channel="Berita RTM">
+    <title lang="en">Solusi Alam</title>
+    <desc lang="en">Solusi Alam Siri 2 menyingkap sejauh mana herba yang dijadikan solusi mampu bertindak sebagai bahan alternatif kepada masyarakat moden kini.</desc>
+  </programme>
+  <programme start="20240617060000 +0000" stop="20240617060200 +0000" channel="Berita RTM">
     <title lang="en">Lagu Negaraku</title>
     <desc lang="en">Nyanyian lagu Negaraku.</desc>
+  </programme>
+  <programme start="20240617060200 +0000" stop="20240617070000 +0000" channel="Berita RTM">
+    <title lang="en">Salam Baitullah</title>
+    <desc lang="en">Salam Baitullah bertemakan Kemuncak Ibadah, Satu Ibrah sebuah rancangan yang memaparkan perkongsian topik serta liputan terkini dari Mekah sempena musim Haji 2024M/1445H.</desc>
   </programme>
   <programme start="20240617070000 +0000" stop="20240617073000 +0000" channel="Berita RTM">
     <title lang="en">Berita Pagi</title>
     <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negara.</desc>
   </programme>
-  <programme start="20240617073000 +0000" stop="20240617074400 +0000" channel="Berita RTM">
+  <programme start="20240617073000 +0000" stop="20240617074000 +0000" channel="Berita RTM">
     <title lang="en">Stadium RTM Pagi</title>
     <desc lang="en">Memaparkan perkembangan terkini berita sukan dari dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20240617074000 +0000" stop="20240617074400 +0000" channel="Berita RTM">
+    <title lang="en">Promo / PSA / Kapsul</title>
+    <desc lang="en">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
   </programme>
   <programme start="20240617074400 +0000" stop="20240617080000 +0000" channel="Berita RTM">
     <title lang="en">Kanta 744 (Pagi)</title>
     <desc lang="en">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
   </programme>
-  <programme start="20240617080000 +0000" stop="20240618000000 +0000" channel="Berita RTM">
-    <title lang="en">SIARAN LANGSUNG: Selamat Pagi Malaysia</title>
-    <desc lang="en">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).</desc>
+  <programme start="20240617080000 +0000" stop="20240617100000 +0000" channel="Berita RTM">
+    <title lang="en">Mekah 2015</title>
+    <desc lang="en">Tragedi kren runtuh semasa musim Haji pada tahun 2015 meninggalkan kesan yang mendalam terhadap jemaah yang terlibat. Ikuti dokumentari Mekah 2015: Iktibar Sebuah Tragedi dalam mengimbau secara mendalam kejadian yang berlaku dan juga kenangan yang ditinggalkan oleh peristiwa tersebut kepada jemaah Haji, terutamanya dari Malaysia.</desc>
+  </programme>
+  <programme start="20240617100000 +0000" stop="20240617100500 +0000" channel="Berita RTM">
+    <title lang="en">Dunia 10</title>
+    <desc lang="en">Memaparkan perkembangan berita luar negara.</desc>
+  </programme>
+  <programme start="20240617100500 +0000" stop="20240617103000 +0000" channel="Berita RTM">
+    <title lang="en">Ikhtilaf - Rahmat Berbeza Pendapat</title>
+    <desc lang="en">Sebuah rancangan yang akan mendekati 4 mazhab yang terkenal dalam sejarah peradaban dan tamadun islam dulu hingga sekarang.</desc>
+  </programme>
+  <programme start="20240617103000 +0000" stop="20240617104500 +0000" channel="Berita RTM">
+    <title lang="en">i-Kadazan</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam bahasa etnik Kadazan.</desc>
+  </programme>
+  <programme start="20240617104500 +0000" stop="20240617110000 +0000" channel="Berita RTM">
+    <title lang="en">i-Iban</title>
+    <desc lang="en">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Iban.</desc>
+  </programme>
+  <programme start="20240617110000 +0000" stop="20240617120000 +0000" channel="Berita RTM">
+    <title lang="en">Kanvas Lebaran</title>
+    <desc lang="en">Kanvas Lebaran membawakan kisah perayaan dari lensa keluarga Imam Yusaini dari Kampung Buloh Poh, Ketereh yang menjadi figura utama di kampung beliau bila tibanya Aidiladha. Selain itu, kupasan mengenai AidilAdha bersama tokoh terkenal seperti Dr. Syed Shahridzan Syed Mohamed, Ustaz Pahrol Mohamad Juoi, Prof. Madya Dr. Ahmad Sanusi Azmi dan Datuk Dr. Luqman Haji Abdullah.</desc>
+  </programme>
+  <programme start="20240617120000 +0000" stop="20240617122000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara berbahasa Mandarin.</desc>
+  </programme>
+  <programme start="20240617122000 +0000" stop="20240617123000 +0000" channel="Berita RTM">
+    <title lang="en">Galeri Nasional Mandarin</title>
+    <desc lang="en">Rancangan berbentuk majalah berbahasa Mandarin yang mengupas kegiatan semasa masyarakat.</desc>
+  </programme>
+  <programme start="20240617123000 +0000" stop="20240617130000 +0000" channel="Berita RTM">
+    <title lang="en">World Today</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara berbahasa Inggeris.</desc>
+  </programme>
+  <programme start="20240617130000 +0000" stop="20240617133000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan dan berita hiburan.</desc>
+  </programme>
+  <programme start="20240617133000 +0000" stop="20240617140000 +0000" channel="Berita RTM">
+    <title lang="en">Kontra Analisa</title>
+    <desc lang="en">Bersama hos Riz Ismail mengupas isu-isu semasa bersama pakar-pakar jemputan.</desc>
+  </programme>
+  <programme start="20240617140000 +0000" stop="20240617141500 +0000" channel="Berita RTM">
+    <title lang="en">i-Bajau</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam bahasa etnik Bajau.</desc>
+  </programme>
+  <programme start="20240617141500 +0000" stop="20240617143000 +0000" channel="Berita RTM">
+    <title lang="en">Senang Rupanya</title>
+    <desc lang="en">Hos, Munaa Bela bertemu dengan pasangan yang memerlukan bantuan dalam membuat projek DIY ringkas dalam setiap episod Senang Rupanya.</desc>
+  </programme>
+  <programme start="20240617143000 +0000" stop="20240617150500 +0000" channel="Berita RTM">
+    <title lang="en">M-Smart</title>
+    <desc lang="en">M-Smart memaparkan kursus-kursus T-Vet (Latihan Bidang Teknikal dan Vokasional) yang ditawarkan oleh pelbagai institusi pengajian tinggi di Malaysia.</desc>
+  </programme>
+  <programme start="20240617150500 +0000" stop="20240617160000 +0000" channel="Berita RTM">
+    <title lang="en">Cuit Sikit, Jangan Sentap</title>
+    <desc lang="en">Cuit Sikit Jangan Sentap sebuah rancangan bual bicara santai mengetengahkan isu golongan muda yang menyentuh nilai-nilai murni dan kerohanian. Ada beberapa segmen iaitu Bukan Saya Kata Orang Kata, Tamak Pahala dan Sketsa Sentap.</desc>
+  </programme>
+  <programme start="20240617160000 +0000" stop="20240617160500 +0000" channel="Berita RTM">
+    <title lang="en">Berita Semasa</title>
+    <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
+  </programme>
+  <programme start="20240617160500 +0000" stop="20240617163000 +0000" channel="Berita RTM">
+    <title lang="en">Bikin</title>
+    <desc lang="en">Saksikan program menarik, Bikin di Saluran Berita RTM.</desc>
+  </programme>
+  <programme start="20240617163000 +0000" stop="20240617170000 +0000" channel="Berita RTM">
+    <title lang="en">Biz Malaysia</title>
+    <desc lang="en">Memaparkan perkembangan berita ekonomi, korporat dan perniagaan serta laporan saham.</desc>
+  </programme>
+  <programme start="20240617170000 +0000" stop="20240617180000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Memaparkan perkembangan berita dari negeri-negeri di seluruh negara.</desc>
+  </programme>
+  <programme start="20240617180000 +0000" stop="20240617183000 +0000" channel="Berita RTM">
+    <title lang="en">Minda Inovatif</title>
+    <desc lang="en">Minda Inovatif memaparkan tentang idea, inovasi dan invensi sambil mempelajari fungsi dan tujuan inovasi tersebut.</desc>
+  </programme>
+  <programme start="20240617183000 +0000" stop="20240617184500 +0000" channel="Berita RTM">
+    <title lang="en">i-Iban</title>
+    <desc lang="en">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Iban.</desc>
+  </programme>
+  <programme start="20240617184500 +0000" stop="20240617190000 +0000" channel="Berita RTM">
+    <title lang="en">i-Dusun</title>
+    <desc lang="en">Memaparkan perkembangan berita di Sabah dalam bahasa etnik Dusun.</desc>
+  </programme>
+  <programme start="20240617190000 +0000" stop="20240617193000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara berbahasa Mandarin.</desc>
+  </programme>
+  <programme start="20240617193000 +0000" stop="20240617194400 +0000" channel="Berita RTM">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+  </programme>
+  <programme start="20240617194400 +0000" stop="20240617200000 +0000" channel="Berita RTM">
+    <title lang="en">Kanta 744</title>
+    <desc lang="en">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
+  </programme>
+  <programme start="20240617200000 +0000" stop="20240617203000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan serta berita hiburan.</desc>
+  </programme>
+  <programme start="20240617203000 +0000" stop="20240617210000 +0000" channel="Berita RTM">
+    <title lang="en">Malaysia Tonight</title>
+    <desc lang="en">Bringing the latest updates from across the globe.</desc>
+  </programme>
+  <programme start="20240617210000 +0000" stop="20240617230000 +0000" channel="Berita RTM">
+    <title lang="en">Salam Baitullah (Khas Hari Raya)</title>
+    <desc lang="en">Saksikan Salam Baitullah (Khas Hari Raya).</desc>
+  </programme>
+  <programme start="20240617230000 +0000" stop="20240618000000 +0000" channel="Berita RTM">
+    <title lang="en">Cuit Sikit, Jangan Sentap</title>
+    <desc lang="en">Cuit Sikit Jangan Sentap sebuah rancangan bual bicara santai mengetengahkan isu golongan muda yang menyentuh nilai-nilai murni dan kerohanian. Ada beberapa segmen iaitu Bukan Saya Kata Orang Kata, Tamak Pahala dan Sketsa Sentap.</desc>
   </programme>
   <programme start="20240618000000 +0000" stop="20240618003000 +0000" channel="Berita RTM">
     <title lang="en">Berita Tengah Malam</title>
     <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara.</desc>
   </programme>
-  <programme start="20240618003000 +0000" stop="20240618004500 +0000" channel="Berita RTM">
-    <title lang="en">Pastikan Sahih</title>
-    <desc lang="en">Rancangan bual bicara santai untuk berkongsi maklumat yang benar dan membetulkan berita-berita palsu yang viral di media sosial.</desc>
-  </programme>
-  <programme start="20240618004500 +0000" stop="20240618060000 +0000" channel="Berita RTM">
+  <programme start="20240618003000 +0000" stop="20240618010000 +0000" channel="Berita RTM">
     <title lang="en">Biz Malaysia</title>
     <desc lang="en">Memaparkan perkembangan berita ekonomi, korporat dan perniagaan serta laporan saham.</desc>
   </programme>
-  <programme start="20240618060000 +0000" stop="20240618070000 +0000" channel="Berita RTM">
+  <programme start="20240618010000 +0000" stop="20240618013000 +0000" channel="Berita RTM">
+    <title lang="en">Puisi Nusantara</title>
+    <desc lang="en">Bersama hos, Shafa' Atussara Silahudin mengenali kepelbagaian seni puisi yang terdapat dalam alam Melayu.</desc>
+  </programme>
+  <programme start="20240618013000 +0000" stop="20240618023000 +0000" channel="Berita RTM">
+    <title lang="en">Kanvas Lebaran</title>
+    <desc lang="en">Kanvas Lebaran membawakan kisah perayaan dari lensa keluarga Imam Yusaini dari Kampung Buloh Poh, Ketereh yang menjadi figura utama di kampung beliau bila tibanya Aidiladha. Selain itu, kupasan mengenai Aidil Adha bersama tokoh terkenal seperti Dr. Syed Shahridzan Syed Mohamed, Ustaz Pahrol Mohamad Juoi, Prof Madya Dr. Ahmad Sanusi Azm dan Datuk Dr. Luqman Haji Abdullah.</desc>
+  </programme>
+  <programme start="20240618023000 +0000" stop="20240618030000 +0000" channel="Berita RTM">
+    <title lang="en">Dimensi Cergas</title>
+    <desc lang="en">Tonton teknik-teknik meningkatkan kecergasan seperti latihan kecergasan rintangan tinggi dan senaman Tabata dalam Dimensi Cergas.</desc>
+  </programme>
+  <programme start="20240618030000 +0000" stop="20240618033000 +0000" channel="Berita RTM">
+    <title lang="en">Etnik Kita</title>
+    <desc lang="en">Etnik Kita memaparkan pengembaraan hos, Alif Hadi dalam melihat kehidupan suku kaum minoriti di seluruh Malaysia.</desc>
+  </programme>
+  <programme start="20240618033000 +0000" stop="20240618040000 +0000" channel="Berita RTM">
+    <title lang="en">Langkah Pertama</title>
+    <desc lang="en">Langkah Pertama membawakan panel dalam kalangan ahli akademik, pakar motivasi, ibu bapa berpengalaman dan personaliti televisyen membincangkan tentang kepentingan pendidikan awal membina modal insan generasi muda.</desc>
+  </programme>
+  <programme start="20240618040000 +0000" stop="20240618043000 +0000" channel="Berita RTM">
+    <title lang="en">Hijau Dot Com</title>
+    <desc lang="en">Hijau Dot Com memaparkan tentang penggunaan sumber alam semula jadi, pengurusan hijau berteraskan konsep mesra alam dan potensi sisa menjadi bahan baharu.</desc>
+  </programme>
+  <programme start="20240618043000 +0000" stop="20240618050000 +0000" channel="Berita RTM">
+    <title lang="en">Kita Cuba</title>
+    <desc lang="en">Hos, Anas Ridzuan bersama tetamu jemputan dalam melakukan pelbagai eksperimen sains.</desc>
+  </programme>
+  <programme start="20240618050000 +0000" stop="20240618060000 +0000" channel="Berita RTM">
+    <title lang="en">Salam Baitullah (Khas Hari Raya)</title>
+    <desc lang="en">Saksikan Salam Baitullah (Khas Hari Raya).</desc>
+  </programme>
+  <programme start="20240618060000 +0000" stop="20240618060200 +0000" channel="Berita RTM">
     <title lang="en">Lagu Negaraku</title>
     <desc lang="en">Nyanyian lagu Negaraku.</desc>
+  </programme>
+  <programme start="20240618060200 +0000" stop="20240618070000 +0000" channel="Berita RTM">
+    <title lang="en">Salam Baitullah (Khas Hari Raya)</title>
+    <desc lang="en">Saksikan Salam Baitullah (Khas Hari Raya).</desc>
   </programme>
   <programme start="20240618070000 +0000" stop="20240618073000 +0000" channel="Berita RTM">
     <title lang="en">Berita Pagi</title>
     <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negara.</desc>
   </programme>
-  <programme start="20240618073000 +0000" stop="20240618074400 +0000" channel="Berita RTM">
+  <programme start="20240618073000 +0000" stop="20240618074000 +0000" channel="Berita RTM">
     <title lang="en">Stadium RTM Pagi</title>
     <desc lang="en">Memaparkan perkembangan terkini berita sukan dari dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20240618074000 +0000" stop="20240618074400 +0000" channel="Berita RTM">
+    <title lang="en">Promo / PSA / Kapsul</title>
+    <desc lang="en">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
   </programme>
   <programme start="20240618074400 +0000" stop="20240618080000 +0000" channel="Berita RTM">
     <title lang="en">Kanta 744 (Pagi)</title>
     <desc lang="en">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
   </programme>
-  <programme start="20240618080000 +0000" stop="20240619000000 +0000" channel="Berita RTM">
+  <programme start="20240618080000 +0000" stop="20240618100000 +0000" channel="Berita RTM">
     <title lang="en">SIARAN LANGSUNG: Selamat Pagi Malaysia</title>
     <desc lang="en">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).</desc>
+  </programme>
+  <programme start="20240618100000 +0000" stop="20240618100500 +0000" channel="Berita RTM">
+    <title lang="en">Dunia 10</title>
+    <desc lang="en">Memaparkan perkembangan berita luar negara.</desc>
+  </programme>
+  <programme start="20240618100500 +0000" stop="20240618103000 +0000" channel="Berita RTM">
+    <title lang="en">Ikhtilaf - Rahmat Berbeza Pendapat</title>
+    <desc lang="en">Sebuah rancangan yang akan mendekati 4 mazhab yang terkenal dalam sejarah peradaban dan tamadun islam dulu hingga sekarang.</desc>
+  </programme>
+  <programme start="20240618103000 +0000" stop="20240618104500 +0000" channel="Berita RTM">
+    <title lang="en">i-Kadazan</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam bahasa etnik Kadazan.</desc>
+  </programme>
+  <programme start="20240618104500 +0000" stop="20240618110000 +0000" channel="Berita RTM">
+    <title lang="en">i-Iban</title>
+    <desc lang="en">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Iban.</desc>
+  </programme>
+  <programme start="20240618110000 +0000" stop="20240618120000 +0000" channel="Berita RTM">
+    <title lang="en">Kanvas Lebaran</title>
+    <desc lang="en">Kanvas Lebaran membawakan kisah perayaan dari lensa keluarga Imam Yusaini dari Kampung Buloh Poh, Ketereh yang menjadi figura utama di kampung beliau bila tibanya Aidiladha. Selain itu, kupasan mengenai Aidil Adha bersama tokoh terkenal seperti Dr. Syed Shahridzan Syed Mohamed, Ustaz Pahrol Mohamad Juoi, Prof Madya Dr. Ahmad Sanusi Azm dan Datuk Dr. Luqman Haji Abdullah.</desc>
+  </programme>
+  <programme start="20240618120000 +0000" stop="20240618122000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara berbahasa Mandarin.</desc>
+  </programme>
+  <programme start="20240618122000 +0000" stop="20240618123000 +0000" channel="Berita RTM">
+    <title lang="en">Galeri Nasional Mandarin</title>
+    <desc lang="en">Rancangan berbentuk majalah berbahasa Mandarin yang mengupas kegiatan semasa masyarakat.</desc>
+  </programme>
+  <programme start="20240618123000 +0000" stop="20240618130000 +0000" channel="Berita RTM">
+    <title lang="en">World Today</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara berbahasa Inggeris.</desc>
+  </programme>
+  <programme start="20240618130000 +0000" stop="20240618133000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan dan berita hiburan.</desc>
+  </programme>
+  <programme start="20240618133000 +0000" stop="20240618140000 +0000" channel="Berita RTM">
+    <title lang="en">Teknologi Nano</title>
+    <desc lang="en">Teknologi Nano membawakan kegunaan terkini teknologi nano dalam peralatan seharian.</desc>
+  </programme>
+  <programme start="20240618140000 +0000" stop="20240618141500 +0000" channel="Berita RTM">
+    <title lang="en">i-Bajau</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam bahasa etnik Bajau.</desc>
+  </programme>
+  <programme start="20240618141500 +0000" stop="20240618143000 +0000" channel="Berita RTM">
+    <title lang="en">Senang Rupanya</title>
+    <desc lang="en">Hos, Munaa Bela bertemu dengan pasangan yang memerlukan bantuan dalam membuat projek DIY ringkas dalam setiap episod Senang Rupanya.</desc>
+  </programme>
+  <programme start="20240618143000 +0000" stop="20240618150000 +0000" channel="Berita RTM">
+    <title lang="en">Hijau Dot Com</title>
+    <desc lang="en">Hijau Dot Com memaparkan tentang penggunaan sumber alam semula jadi, pengurusan hijau berteraskan konsep mesra alam dan potensi sisa menjadi bahan baharu.</desc>
+  </programme>
+  <programme start="20240618150000 +0000" stop="20240618150500 +0000" channel="Berita RTM">
+    <title lang="en">Berita Semasa</title>
+    <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
+  </programme>
+  <programme start="20240618150500 +0000" stop="20240618160000 +0000" channel="Berita RTM">
+    <title lang="en">Ibrah Ibrahim</title>
+    <desc lang="en">Sebuah dokumentari yang akan memaparkan kisah benar masyarakat bertemakan konsep pengorbanan dalam sambutan Aidil Adha. Kisah-kisah tersebut akan diinspirasikan dari kisah dan peristiwa penting melibatkan Nabi Ibrahim AS, puteranya Nabi Ismail AS dan dua isterinya Siti Hajar dan Siti Sarah.</desc>
+  </programme>
+  <programme start="20240618160000 +0000" stop="20240618160500 +0000" channel="Berita RTM">
+    <title lang="en">Berita Semasa</title>
+    <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
+  </programme>
+  <programme start="20240618160500 +0000" stop="20240618163000 +0000" channel="Berita RTM">
+    <title lang="en">Bisikan Dari Kota Pusaka</title>
+    <desc lang="en">Bisikan Dari Kota Pusaka memaparkan kota-kota pentadbiran yang terdapat di seluruh negara.</desc>
+  </programme>
+  <programme start="20240618163000 +0000" stop="20240618170000 +0000" channel="Berita RTM">
+    <title lang="en">Biz Malaysia</title>
+    <desc lang="en">Memaparkan perkembangan berita ekonomi, korporat dan perniagaan serta laporan saham.</desc>
+  </programme>
+  <programme start="20240618170000 +0000" stop="20240618180000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Memaparkan perkembangan berita dari negeri-negeri di seluruh negara.</desc>
+  </programme>
+  <programme start="20240618180000 +0000" stop="20240618183000 +0000" channel="Berita RTM">
+    <title lang="en">Kitar Itu Pintar</title>
+    <desc lang="en">Kitar Itu Pintar memaparkan kebaikan kitar semula untuk kegunaan setiap hari dan inspirasi untuk menggunakannya semula.</desc>
+  </programme>
+  <programme start="20240618183000 +0000" stop="20240618184500 +0000" channel="Berita RTM">
+    <title lang="en">i-Iban</title>
+    <desc lang="en">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Iban.</desc>
+  </programme>
+  <programme start="20240618184500 +0000" stop="20240618190000 +0000" channel="Berita RTM">
+    <title lang="en">i-Dusun</title>
+    <desc lang="en">Memaparkan perkembangan berita di Sabah dalam bahasa etnik Dusun.</desc>
+  </programme>
+  <programme start="20240618190000 +0000" stop="20240618193000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara berbahasa Mandarin.</desc>
+  </programme>
+  <programme start="20240618193000 +0000" stop="20240619000000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
   </programme>
   <programme start="20240619000000 +0000" stop="20240619003000 +0000" channel="Berita RTM">
     <title lang="en">Berita Tengah Malam</title>
