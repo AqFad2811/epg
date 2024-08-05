@@ -350,7 +350,7 @@
     <desc lang="en">Memaparkan perkembangan berita dari negeri-negeri di seluruh negara.</desc>
   </programme>
   <programme start="20240805180000 +0000" stop="20240805184500 +0000" channel="TV1">
-    <title lang="en">Anda Musykil 2024</title>
+    <title lang="en">Anda Musykil</title>
     <title lang="xx">SIARAN LANGSUNG: Anda Musykil</title>
     <desc lang="en">Rancangan yang akan menjawab kemusykilan keagamaan meliputi pebagai tajuk.</desc>
     <episode-num system="onscreen">E15</episode-num>
@@ -570,7 +570,8 @@
     <desc lang="en">Bringing the latest updates from across the globe.</desc>
   </programme>
   <programme start="20240806210000 +0000" stop="20240806220000 +0000" channel="TV1">
-    <title lang="en">SIARAN LANGSUNG: Bicara Naratif</title>
+    <title lang="en">Bicara Naratif</title>
+    <title lang="xx">SIARAN LANGSUNG: Bicara Naratif</title>
     <desc lang="en">Program bicarawara bertema Naratif bersama tetamu undangan dan membincangkan isu semasa sebagai topik pilihan.</desc>
   </programme>
   <programme start="20240806220000 +0000" stop="20240806221500 +0000" channel="TV1">
@@ -1150,7 +1151,8 @@
     <desc lang="en">Memaparkan perkembangan berita dari negeri-negeri di seluruh negara.</desc>
   </programme>
   <programme start="20240809180000 +0000" stop="20240809184500 +0000" channel="TV1">
-    <title lang="en">SIARAN LANGSUNG: My Halal</title>
+    <title lang="en">My Halal</title>
+    <title lang="xx">SIARAN LANGSUNG: My Halal</title>
     <desc lang="en">Ramai pengguna masih keliru hukum halal dan haram produk makanan, kosmetik dan barang gunaan seperti hukum daging kultur, enzim gmo dan lain-lain. Ini merupakan kesan teknologi dan bioteknologi dalam industri halal. Nampak seperti halal tetapi hakikatnya ia adalah diharamkan oleh hukum syarak dan fatwa. Ada yang kata halal dan ada yang kata haram. Apakah hukum sebenar? Ikuti kupasannya, Sekejap Halal Sekejap Haram.</desc>
   </programme>
   <programme start="20240809184500 +0000" stop="20240809194400 +0000" channel="TV1">
@@ -1171,11 +1173,12 @@
     <desc lang="en">Bringing the latest updates from across the globe.</desc>
   </programme>
   <programme start="20240809210000 +0000" stop="20240809213000 +0000" channel="TV1">
-    <title lang="en">SIARAN LANGSUNG: KOPIeKONOMI</title>
+    <title lang="en">KOPIeKONOMI</title>
+    <title lang="xx">SIARAN LANGSUNG: KOPIeKONOMI</title>
     <desc lang="en">Program bual bicara ekonomi santai yang menampilkan panel jemputan di ruang kopi. Sambil mengopi bagi membincangkan pelbagai isu semasa ekonomi, kewangan mahupun perniagaan.</desc>
   </programme>
   <programme start="20240809213000 +0000" stop="20240809220000 +0000" channel="TV1">
-    <title lang="en">Pastikan Sahih</title>
+    <title lang="en">Dokumentari Khas - Sebalik Tabir Pertabalan Agong</title>
     <title lang="xx">SIARAN LANGSUNG: Pastikan Sahih</title>
     <desc lang="en">Saksikan rancangan bual bicara santai untuk berkongsi maklumat yang benar dan membetulkan berita-berita palsu yang viral di media sosial.</desc>
   </programme>
@@ -1915,9 +1918,13 @@
     <desc lang="en">Bakar menghalau Johan dari kumpulannya, Johan telah diperangkap oleh Juita yang memberitahu Bakar, Johan cuba merogolnya. Lakonan : Zaidi Omar, Syazuwan, Faizal Hussein, Fezrul Khan, Qi Razali, Hushairi Hussein dan Edika Yusoff.</desc>
     <episode-num system="onscreen">E16</episode-num>
   </programme>
-  <programme start="20240806210000 +0000" stop="20240806220000 +0000" channel="TV2">
+  <programme start="20240806210000 +0000" stop="20240806214500 +0000" channel="TV2">
     <title lang="en">Bigband Project</title>
     <desc lang="en">Sebuah rancangan hiburan terbitan Unit Hiburan TV, RTM.</desc>
+  </programme>
+  <programme start="20240806214500 +0000" stop="20240806220000 +0000" channel="TV2">
+    <title lang="en">Padamu</title>
+    <desc lang="en">Kisah seorang bapa yang berusaha membuat persembahan di atas pentas sempena hari lahir anaknya. Lakonan : Zahiril Adzim, Akmal Ahmad, Ken Ridzuan, dan Rania Humaira.</desc>
   </programme>
   <programme start="20240806220000 +0000" stop="20240806230000 +0000" channel="TV2">
     <title lang="en">Sut Putih</title>
@@ -3855,12 +3862,12 @@
     <desc lang="en">Saksikan rangkuman pelbagai aksi sukan dan perlawanan dari luar negara.</desc>
     <episode-num system="onscreen">E12</episode-num>
   </programme>
-  <programme start="20240805200000 +0000" stop="20240805210000 +0000" channel="Sukan RTM">
-    <title lang="en">Planet Sukan 2024 (Ulangan)</title>
+  <programme start="20240805200000 +0000" stop="20240805201500 +0000" channel="Sukan RTM">
+    <title lang="en">Promo / PSA / Kapsul</title>
+    <title lang="xx">Planet Sukan 2024 (Ulangan)</title>
     <desc lang="en">Program bual bicara santai, isu-isu tempatan dan antarabangsa. Nantikan topik-topik yang dikupas oleh atlet dan tokoh sukan negara.</desc>
-    <episode-num system="onscreen">S11E25</episode-num>
   </programme>
-  <programme start="20240805210000 +0000" stop="20240806000000 +0000" channel="Sukan RTM">
+  <programme start="20240805201500 +0000" stop="20240806000000 +0000" channel="Sukan RTM">
     <title lang="en">SIARAN LANGSUNG: Laporan Harian Sukan Olimpik Paris 2024</title>
     <desc lang="en">Saksikan penyertaan barisan atlet kontinjen negara dalam Laporan Harian Sukan Olimpik Paris 2024.</desc>
   </programme>
@@ -6220,13 +6227,45 @@
     <title lang="en">Berita Tengah Malam</title>
     <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara.</desc>
   </programme>
-  <programme start="20240812003000 +0000" stop="20240812004500 +0000" channel="Berita RTM">
-    <title lang="en">Pastikan Sahih</title>
-    <desc lang="en">Rancangan bual bicara santai untuk berkongsi maklumat yang benar dan membetulkan berita-berita palsu yang viral di media sosial.</desc>
+  <programme start="20240812003000 +0000" stop="20240812013000 +0000" channel="Berita RTM">
+    <title lang="en">Fresh Brew</title>
+    <desc lang="en">Sebuah rancangan bual bicara bahasa Inggeris yang mengetengahkan pelbagai topik menarik dan terkini bersama tetamu jemputan.</desc>
   </programme>
-  <programme start="20240812004500 +0000" stop="20240812060000 +0000" channel="Berita RTM">
-    <title lang="en">Biz Malaysia</title>
-    <desc lang="en">Memaparkan perkembangan berita ekonomi, korporat dan perniagaan serta laporan saham.</desc>
+  <programme start="20240812013000 +0000" stop="20240812020000 +0000" channel="Berita RTM">
+    <title lang="en">Demi Hijau</title>
+    <desc lang="en">Sebuah dokumentari yang mamaparkan pelbagai usaha dan teknologi untuk membendung masalah global seperti perubahan cuaca, pencemaran alam sekitar, kebakaran hutan dan banjir besar.</desc>
+  </programme>
+  <programme start="20240812020000 +0000" stop="20240812023000 +0000" channel="Berita RTM">
+    <title lang="en">Warna Warni Asia</title>
+    <desc lang="en">Sebuah rancangan travelog membawa penonton melihat tempat-tempat menarik dalam Asia yang berwarna-warni.</desc>
+  </programme>
+  <programme start="20240812023000 +0000" stop="20240812030000 +0000" channel="Berita RTM">
+    <title lang="en">My Hawa</title>
+    <desc lang="en">Bersama hos, Azzahra Ahmad mendalami pertubuhan bukan kerajaan (NGO) yang terlibat dalam menyediakan perkhidmatan sosial kepada kaum wanita di Malaysia.</desc>
+  </programme>
+  <programme start="20240812030000 +0000" stop="20240812033000 +0000" channel="Berita RTM">
+    <title lang="en">Bikin</title>
+    <desc lang="en">Saksikan program menarik Bikin di Saluran Berita RTM.</desc>
+  </programme>
+  <programme start="20240812033000 +0000" stop="20240812040000 +0000" channel="Berita RTM">
+    <title lang="en">Skrin Kreatif</title>
+    <desc lang="en">Skrin Kreatif merupakan sebuah paparan di balik tabir bidang produksi video dari yang berskala kecil hingga ke skala besar.</desc>
+  </programme>
+  <programme start="20240812040000 +0000" stop="20240812043000 +0000" channel="Berita RTM">
+    <title lang="en">Cabaran Jurutera Muda</title>
+    <desc lang="en">Bersama pengacara, Azura Zainal menyaksikan para peserta bersaing dalam pertandingan rekacipta kejurusteraan yang menguji kebijaksanaan dan ketangkasan dalam menyelasaikáh masalah.</desc>
+  </programme>
+  <programme start="20240812043000 +0000" stop="20240812050000 +0000" channel="Berita RTM">
+    <title lang="en">CEO NEO</title>
+    <desc lang="en">CEO NEO membawakan kisah getir usahawan belia tempatan yang juga Ketua Pegawai Eksekutif (CEO) menerajui bisnes mereka hingga berjaya.</desc>
+  </programme>
+  <programme start="20240812050000 +0000" stop="20240812053000 +0000" channel="Berita RTM">
+    <title lang="en">Zoom In</title>
+    <desc lang="en">Zoom In adalah merupakan dokumentari yang membawakan pembuatan barangan harian secara dekat.</desc>
+  </programme>
+  <programme start="20240812053000 +0000" stop="20240812060000 +0000" channel="Berita RTM">
+    <title lang="en">Navigasi</title>
+    <desc lang="en">Navigasi memaparkan aktiviti Maritim membuka ruang kepada masyarakat dari segi ekonomi.</desc>
   </programme>
   <programme start="20240812060000 +0000" stop="20240812070000 +0000" channel="Berita RTM">
     <title lang="en">Lagu Negaraku</title>
