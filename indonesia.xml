@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="VisionPrime.id">
     <display-name lang="id">Vision Prime HD</display-name>
     <icon src="https://mncvision.id/userfiles/image/channel/channel_1.png" />
@@ -4632,11 +4632,11 @@
   <programme start="20240919203000 +0700" stop="20240919213000 +0700" channel="MusicTV.id">
     <title lang="id">K-Hits</title>
   </programme>
-  <programme start="20240919213000 +0700" stop="20240919233000 +0700" channel="MusicTV.id">
-    <title lang="id">ACL Two: DHC Vs JHM (L)</title>
+  <programme start="20240919213000 +0700" stop="20240919234500 +0700" channel="MusicTV.id">
+    <title lang="id">Amazing Dance Indonesia</title>
   </programme>
-  <programme start="20240919233000 +0700" stop="20240920000000 +0700" channel="MusicTV.id">
-    <title lang="id">Music Files</title>
+  <programme start="20240919234500 +0700" stop="20240920014500 +0700" channel="MusicTV.id">
+    <title lang="id">Indonesian Idol X</title>
   </programme>
   <programme start="20240919060000 +0700" stop="20240919070000 +0700" channel="JakTV.id">
     <title lang="id">Berdoa Yuk</title>
@@ -7116,7 +7116,7 @@
     <title lang="id">News (L)</title>
   </programme>
   <programme start="20240919233000 +0700" stop="20240920000000 +0700" channel="AlJazeeraEnglish.id">
-    <title lang="id">Witness: West Bank</title>
+    <title lang="id">Al Jazeera Investigations</title>
   </programme>
   <programme start="20240919043000 +0700" stop="20240919050000 +0700" channel="BBCNews.id">
     <title lang="id">HARDtalk</title>
