@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<tv generator-info-name="azimabid00 on github - EPG XML Generator V1.0 - EPG Generated for 19-09-2024">
  <channel id="710">
   <display-name lang="en">beIN SPORTS 4 HD</display-name>
   <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220812/20220812083713068j19.png"/>
@@ -26,7 +26,7 @@
   <url>https://playtv.unifi.com.my</url>
  </channel>
  <channel id="701">
-  <display-name lang="en" Sports 1</display-name>
+  <display-name lang="en">unifi Sports 1</display-name>
   <icon src="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202304/20230418/202304180833546499vy.png"/>
   <url>https://playtv.unifi.com.my</url>
  </channel>
