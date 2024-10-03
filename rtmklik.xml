@@ -286,9 +286,13 @@
     <title lang="en">Dunia 10</title>
     <desc lang="en">Memaparkan perkembangan berita luar negara.</desc>
   </programme>
-  <programme start="20241003100500 +0000" stop="20241003103000 +0000" channel="TV1">
-    <title lang="en">Kapsul Fisioterapi</title>
-    <desc lang="en">Kapsul Fisioterapi membincangkan kecederaan-kecederaan otot, tulang atau ligamen yang sering berlaku, cara rawatan serta langkah-langkah penjagaan.</desc>
+  <programme start="20241003100500 +0000" stop="20241003101300 +0000" channel="TV1">
+    <title lang="en">Galeri Nasional - Rangkuman Lawatan Kerja Timbalan Perdana Menteri ke Laos</title>
+    <desc lang="en">Ikuti Galeri Nasional: Rangkuman Lawatan Kerja Timbalan Perdana Menteri ke Laos.</desc>
+  </programme>
+  <programme start="20241003101300 +0000" stop="20241003103000 +0000" channel="TV1">
+    <title lang="en">Promo / PSA / Kapsul</title>
+    <desc lang="en">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
   </programme>
   <programme start="20241003103000 +0000" stop="20241003110000 +0000" channel="TV1">
     <title lang="en">3 Ke 5 Jerr</title>
@@ -315,12 +319,16 @@
     <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan dan berita hiburan.</desc>
   </programme>
   <programme start="20241003133000 +0000" stop="20241003133500 +0000" channel="TV1">
-    <title lang="en">Catch Asia</title>
-    <desc lang="en">Sebuah promo tentang pembangunan teknologi, pelancongan dan transformasi digital di Jepun.</desc>
-    <episode-num system="onscreen">E46</episode-num>
+    <title lang="en">Galeri Nasional - Rangkuman Lawatan Kerja Timbalan Perdana Menteri ke Laos</title>
+    <desc lang="en">Ikuti Galeri Nasional: Rangkuman Lawatan Kerja Timbalan Perdana Menteri ke Laos.</desc>
   </programme>
-  <programme start="20241003133500 +0000" stop="20241003140000 +0000" channel="TV1">
+  <programme start="20241003133500 +0000" stop="20241003133800 +0000" channel="TV1">
     <title lang="en">KANAK-KANAK 1: Sipadan</title>
+    <desc lang="en">Kisah seekor anak penyu yang terpisah dari ibunya dan terdampar di pulau Sipadan lalu anak penyu ini di gelar Sipadan.</desc>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20241003133800 +0000" stop="20241003140000 +0000" channel="TV1">
+    <title lang="en">Sipadan</title>
     <desc lang="en">Kisah seekor anak penyu yang terpisah dari ibunya dan terdampar di pulau Sipadan lalu anak penyu ini di gelar Sipadan.</desc>
     <episode-num system="onscreen">E10</episode-num>
   </programme>
@@ -346,10 +354,13 @@
     <title lang="en">Berita Semasa</title>
     <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
   </programme>
-  <programme start="20241003160500 +0000" stop="20241003163000 +0000" channel="TV1">
-    <title lang="en">LENSA: Rona Sabah</title>
-    <desc lang="en">Rancangan yang membawa penonton melihat kehidupan di sekitar Sabah yang menyimpan pelbagai rahsia alam, serta cara hidup penduduk dan ekonomi setempat.</desc>
-    <episode-num system="onscreen">S15</episode-num>
+  <programme start="20241003160500 +0000" stop="20241003161300 +0000" channel="TV1">
+    <title lang="en">Galeri Nasional - Rangkuman Lawatan Kerja Timbalan Perdana Menteri ke Laos</title>
+    <desc lang="en">Ikuti Galeri Nasional: Rangkuman Lawatan Kerja Timbalan Perdana Menteri ke Laos.</desc>
+  </programme>
+  <programme start="20241003161300 +0000" stop="20241003163000 +0000" channel="TV1">
+    <title lang="en">Promo / PSA / Kapsul</title>
+    <desc lang="en">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
   </programme>
   <programme start="20241003163000 +0000" stop="20241003170000 +0000" channel="TV1">
     <title lang="en">Biz Malaysia</title>
@@ -995,17 +1006,287 @@
     <title lang="en">Bacaan Ar-Rahman</title>
     <desc lang="en">Bacaan Ar-Rahman.</desc>
   </programme>
-  <programme start="20241007060000 +0000" stop="20241008000000 +0000" channel="TV1">
+  <programme start="20241007060000 +0000" stop="20241007060200 +0000" channel="TV1">
     <title lang="en">Lagu Negaraku</title>
     <desc lang="en">Nyanyian lagu Negaraku.</desc>
   </programme>
-  <programme start="20241008000000 +0000" stop="20241008060000 +0000" channel="TV1">
+  <programme start="20241007060200 +0000" stop="20241007070000 +0000" channel="TV1">
+    <title lang="en">Musaadah</title>
+    <desc lang="en">Rancangan kerohanian berkaitan misi bantuan dan kemanusiaan. Turut diselitkan tazkirah untuk panduan dan pedoman bersama.</desc>
+  </programme>
+  <programme start="20241007070000 +0000" stop="20241007071000 +0000" channel="TV1">
+    <title lang="en">Berita Pagi Semenanjung</title>
+    <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negara.</desc>
+  </programme>
+  <programme start="20241007071000 +0000" stop="20241007072000 +0000" channel="TV1">
+    <title lang="en">Berita Pagi Sabah</title>
+    <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negeri Sabah.</desc>
+  </programme>
+  <programme start="20241007072000 +0000" stop="20241007073000 +0000" channel="TV1">
+    <title lang="en">Berita Pagi Sarawak</title>
+    <desc lang="en">Memaparkan perkembangan berita di Sarawak.</desc>
+  </programme>
+  <programme start="20241007073000 +0000" stop="20241007074400 +0000" channel="TV1">
+    <title lang="en">Stadium RTM Pagi</title>
+    <desc lang="en">Memaparkan perkembangan sukan negara.</desc>
+  </programme>
+  <programme start="20241007074400 +0000" stop="20241007080000 +0000" channel="TV1">
+    <title lang="en">Kanta 744</title>
+    <desc lang="en">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
+  </programme>
+  <programme start="20241007080000 +0000" stop="20241007100000 +0000" channel="TV1">
+    <title lang="en">SIARAN LANGSUNG: Selamat Pagi Malaysia</title>
+    <desc lang="en">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).</desc>
+  </programme>
+  <programme start="20241007100000 +0000" stop="20241007100500 +0000" channel="TV1">
+    <title lang="en">Dunia 10</title>
+    <desc lang="en">Memaparkan perkembangan berita luar negara.</desc>
+  </programme>
+  <programme start="20241007100500 +0000" stop="20241007103000 +0000" channel="TV1">
+    <title lang="en">Dari Mata Langit</title>
+    <desc lang="en">Sebuah rancangan yang akan memaparkan pemandangan cantik dan menarik di pelbagai lokasi terpilih.</desc>
+  </programme>
+  <programme start="20241007103000 +0000" stop="20241007110000 +0000" channel="TV1">
+    <title lang="en">Makan Untuk Lawan</title>
+    <desc lang="en">Rancangan yang memaparkan maklumat pelbagai jenis penyakit serta cara mengubatinya.</desc>
+  </programme>
+  <programme start="20241007110000 +0000" stop="20241007113000 +0000" channel="TV1">
+    <title lang="en">Mahir Hidup</title>
+    <desc lang="en">Rancangan yang memaparkan pelbagai bidang kursus yang disediakan di institusi pengajian tinggi Malaysia.</desc>
+  </programme>
+  <programme start="20241007113000 +0000" stop="20241007120000 +0000" channel="TV1">
+    <title lang="en">Singgah Sini</title>
+    <desc lang="en">Saksikan Arja Lee berkongsi tentang inap desa yang menarik serta unik juga keindahan dan aktiviti yang boleh dilakukan di PK Heritage di Kiluk, Tamparuli, Sabah.</desc>
+  </programme>
+  <programme start="20241007120000 +0000" stop="20241007120500 +0000" channel="TV1">
+    <title lang="en">Berita Semasa</title>
+    <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
+  </programme>
+  <programme start="20241007120500 +0000" stop="20241007130000 +0000" channel="TV1">
+    <title lang="en">WORLD WATCH: Strangest Things</title>
+    <desc lang="en">Sebuah dokumentari slot WORLD WATCH: Strangest Things.</desc>
+  </programme>
+  <programme start="20241007130000 +0000" stop="20241007133000 +0000" channel="TV1">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan dan berita hiburan.</desc>
+  </programme>
+  <programme start="20241007133000 +0000" stop="20241007140000 +0000" channel="TV1">
+    <title lang="en">TV1 KIDS: Team Curios</title>
+    <desc lang="en">Sebuah siri animasi mengisahkan Quincy, seorang kanak-kanak lelaki yang mempunyai rasa ingin tahu dan naluri keadilan yang tinggi. Quincy juga merupakan seorang ketua kepada Pasukan Q, yang turut dianggotai kucingnya, Blitz yang memahami bahasa makhluk asing, AL sebuah robot yang sopan, dan Puteri Deirde seorang makhluk asing yang terdampar di bumi. Kesemua mereka mempunyai lencana khas yang memberikan kuasa luar biasa untuk menyelesaikan masalah di kawasan kejiranan mereka.</desc>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20241007140000 +0000" stop="20241007143000 +0000" channel="TV1">
+    <title lang="en">CUIT-CUIT: Cinta Pedia</title>
+    <desc lang="en">Saksikan program Cinta Pedia dalam slot Cuit-Cuit.</desc>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20241007143000 +0000" stop="20241007150000 +0000" channel="TV1">
+    <title lang="en">Serbu</title>
+    <desc lang="en">Serbu membawakan perbincangan mengenai peruntukan undang-undang yang dikuatkuasakan oleh pelbagai agensi di Malaysia bersama hos, Meor Addelan dan tetamu.</desc>
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20241007150000 +0000" stop="20241007150500 +0000" channel="TV1">
+    <title lang="en">Berita Semasa</title>
+    <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
+  </programme>
+  <programme start="20241007150500 +0000" stop="20241007160000 +0000" channel="TV1">
+    <title lang="en">SIARAN LANGSUNG: Kami Bah Ini</title>
+    <desc lang="en">Saksikan Siaran Langsung Kami Bah Ini, Informasi dan cerita menarik dan terkini dari pelbagai latarbelakang budaya Negeri Sabah.</desc>
+  </programme>
+  <programme start="20241007160000 +0000" stop="20241007160500 +0000" channel="TV1">
+    <title lang="en">Berita Semasa</title>
+    <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
+  </programme>
+  <programme start="20241007160500 +0000" stop="20241007163000 +0000" channel="TV1">
+    <title lang="en">Agrotek</title>
+    <desc lang="en">Saksikan dokumentari yang memaparkan pelbagai teknologi terkini yang digunakan dalam sektor peladangan mahupun penternakan bagi menyumbang kepada hasil yang lebih baik.</desc>
+  </programme>
+  <programme start="20241007163000 +0000" stop="20241007170000 +0000" channel="TV1">
+    <title lang="en">SIARAN LANGSUNG: Biz Malaysia</title>
+    <desc lang="en">Memaparkan perkembangan berita ekonomi, korporat dan perniagaan serta laporan saham.</desc>
+  </programme>
+  <programme start="20241007170000 +0000" stop="20241007180000 +0000" channel="TV1">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Memaparkan perkembangan berita dari negeri-negeri di seluruh negara.</desc>
+  </programme>
+  <programme start="20241007180000 +0000" stop="20241007184500 +0000" channel="TV1">
+    <title lang="en">SIARAN LANGSUNG: Anda Musykil</title>
+    <desc lang="en">Rancangan yang akan menjawab kemusykilan keagamaan meliputi pebagai tajuk.</desc>
+  </programme>
+  <programme start="20241007184500 +0000" stop="20241007194400 +0000" channel="TV1">
+    <title lang="en">SELEKSI WIDURI: Kopi Sentul Mocha Santorini</title>
+    <desc lang="en">Kisah percintaan, pengorbanan,keluarga dan kerjaya. Alia anak gadis yang pintar yang sentiasa mahu mengembangkan perniagaan En.John. namun dengan setiap yang dilalui dalam hidupnya serta konflik cinta dan keluarga mampu dan berjayakah dia.</desc>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20241007194400 +0000" stop="20241007200000 +0000" channel="TV1">
+    <title lang="en">Kanta 744</title>
+    <desc lang="en">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
+  </programme>
+  <programme start="20241007200000 +0000" stop="20241007203000 +0000" channel="TV1">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan serta berita hiburan.</desc>
+  </programme>
+  <programme start="20241007203000 +0000" stop="20241007204500 +0000" channel="TV1">
+    <title lang="en">Malaysia Tonight</title>
+    <desc lang="en">Bringing the latest updates from across the globe.</desc>
+  </programme>
+  <programme start="20241007204500 +0000" stop="20241007233000 +0000" channel="TV1">
+    <title lang="en">SIARAN LANGSUNG: Majlis Tilawah dan Hafazan Al-Quran Peringkat Antarabangsa (MTHQA) 1446H/2024M</title>
+    <desc lang="en">Saksikan siaran secara langsung Majlis Tilawah dan Hafazan Al-Quran Peringkat Antarabangsa (MTHQA) 1446H/2024M.</desc>
+  </programme>
+  <programme start="20241007233000 +0000" stop="20241008000000 +0000" channel="TV1">
+    <title lang="en">Teratak Tradisi</title>
+    <desc lang="en">Saksikan rancangan menarik untuk tontonan anda sekeluarga di Tv1.</desc>
+  </programme>
+  <programme start="20241008000000 +0000" stop="20241008003000 +0000" channel="TV1">
     <title lang="en">Berita Tengah Malam</title>
     <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara.</desc>
   </programme>
-  <programme start="20241008060000 +0000" stop="20241009000000 +0000" channel="TV1">
+  <programme start="20241008003000 +0000" stop="20241008010000 +0000" channel="TV1">
+    <title lang="en">Jarang Jumpa Namun Ada</title>
+    <desc lang="en">Bersama hos Nida Hanafi menjejak penyakit yang jarang didengari dan informasi tentangnya dalam program Jarang Jumpa Namun Ada.</desc>
+  </programme>
+  <programme start="20241008010000 +0000" stop="20241008013000 +0000" channel="TV1">
+    <title lang="en">Destinasi Hijau</title>
+    <desc lang="en">Pengacara Izzue Islam telah membawa penonton merasai pengalaman flora dan fauna serta pelbagai aktiviti menarik di pelbagai lokasi hijau dalam negara.</desc>
+  </programme>
+  <programme start="20241008013000 +0000" stop="20241008030000 +0000" channel="TV1">
+    <title lang="en">Istimewa Lejen</title>
+    <desc lang="en">Saksikan persembahan dan lagu-lagu istimewa daripada artis popular tanah air.</desc>
+    <episode-num system="onscreen">E17</episode-num>
+  </programme>
+  <programme start="20241008030000 +0000" stop="20241008033000 +0000" channel="TV1">
+    <title lang="en">Panorama</title>
+    <desc lang="en">Rancangan yang akan mengupas pelbagai topik dan juga isu berkaitan alam, kesihatan dan juga isu semasa.</desc>
+  </programme>
+  <programme start="20241008033000 +0000" stop="20241008040000 +0000" channel="TV1">
+    <title lang="en">Sanding</title>
+    <desc lang="en">Sanding menampilkan informasi dan juga tip menarik dalam majlis perkahwinan.</desc>
+  </programme>
+  <programme start="20241008040000 +0000" stop="20241008043000 +0000" channel="TV1">
+    <title lang="en">Impak Aksi</title>
+    <desc lang="en">Memaparkan corak-corak aktiviti dan sukan lasak kegemaran ramai remaja dan individu masa kini.</desc>
+  </programme>
+  <programme start="20241008043000 +0000" stop="20241008053000 +0000" channel="TV1">
+    <title lang="en">Kopi Sentul Mocha Santorini</title>
+    <desc lang="en">Kisah percintaan, pengorbanan,keluarga dan kerjaya. Alia anak gadis yang pintar yang sentiasa mahu mengembangkan perniagaan En.John. namun dengan setiap yang dilalui dalam hidupnya serta konflik cinta dan keluarga mampu dan berjayakah dia.</desc>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20241008053000 +0000" stop="20241008060000 +0000" channel="TV1">
+    <title lang="en">Bacaan Ar-Rahman</title>
+    <desc lang="en">Bacaan Ar-Rahman.</desc>
+  </programme>
+  <programme start="20241008060000 +0000" stop="20241008060200 +0000" channel="TV1">
     <title lang="en">Lagu Negaraku</title>
     <desc lang="en">Nyanyian lagu Negaraku.</desc>
+  </programme>
+  <programme start="20241008060200 +0000" stop="20241008070000 +0000" channel="TV1">
+    <title lang="en">Anda Musykil</title>
+    <desc lang="en">Saksikan program bual bicara bersama tetamu istimewa dalam Anda Musykil.</desc>
+  </programme>
+  <programme start="20241008070000 +0000" stop="20241008071000 +0000" channel="TV1">
+    <title lang="en">Berita Pagi Semenanjung</title>
+    <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negara.</desc>
+  </programme>
+  <programme start="20241008071000 +0000" stop="20241008072000 +0000" channel="TV1">
+    <title lang="en">Berita Pagi Sabah</title>
+    <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negeri Sabah.</desc>
+  </programme>
+  <programme start="20241008072000 +0000" stop="20241008073000 +0000" channel="TV1">
+    <title lang="en">Berita Pagi Sarawak</title>
+    <desc lang="en">Memaparkan perkembangan berita di Sarawak.</desc>
+  </programme>
+  <programme start="20241008073000 +0000" stop="20241008074400 +0000" channel="TV1">
+    <title lang="en">Stadium RTM Pagi</title>
+    <desc lang="en">Memaparkan perkembangan sukan negara.</desc>
+  </programme>
+  <programme start="20241008074400 +0000" stop="20241008080000 +0000" channel="TV1">
+    <title lang="en">Kanta 744</title>
+    <desc lang="en">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
+  </programme>
+  <programme start="20241008080000 +0000" stop="20241008100000 +0000" channel="TV1">
+    <title lang="en">SIARAN LANGSUNG: Selamat Pagi Malaysia</title>
+    <desc lang="en">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).</desc>
+  </programme>
+  <programme start="20241008100000 +0000" stop="20241008100500 +0000" channel="TV1">
+    <title lang="en">Dunia 10</title>
+    <desc lang="en">Memaparkan perkembangan berita luar negara.</desc>
+  </programme>
+  <programme start="20241008100500 +0000" stop="20241008103000 +0000" channel="TV1">
+    <title lang="en">Dari Mata Langit</title>
+    <desc lang="en">Sebuah rancangan yang akan memaparkan pemandangan cantik dan menarik di pelbagai lokasi terpilih.</desc>
+  </programme>
+  <programme start="20241008103000 +0000" stop="20241008110000 +0000" channel="TV1">
+    <title lang="en">Makan Untuk Lawan</title>
+    <desc lang="en">Rancangan yang memaparkan maklumat pelbagai jenis penyakit serta cara mengubatinya.</desc>
+  </programme>
+  <programme start="20241008110000 +0000" stop="20241008113000 +0000" channel="TV1">
+    <title lang="en">Mahir Hidup</title>
+    <desc lang="en">Rancangan yang memaparkan pelbagai bidang kursus yang disediakan di institusi pengajian tinggi Malaysia.</desc>
+  </programme>
+  <programme start="20241008113000 +0000" stop="20241008120000 +0000" channel="TV1">
+    <title lang="en">Singgah Sini</title>
+    <desc lang="en">Saksikan Arja Lee berkongsi tentang inap desa yang menarik serta unik juga keindahan dan aktiviti yang boleh dilakukan di PK Heritage di Kiluk, Tamparuli, Sabah.</desc>
+  </programme>
+  <programme start="20241008120000 +0000" stop="20241008120500 +0000" channel="TV1">
+    <title lang="en">Berita Semasa</title>
+    <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
+  </programme>
+  <programme start="20241008120500 +0000" stop="20241008130000 +0000" channel="TV1">
+    <title lang="en">WORLD WATCH: Strangest Things</title>
+    <desc lang="en">Sebuah dokumentari slot WORLD WATCH: Strangest Things.</desc>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20241008130000 +0000" stop="20241008133000 +0000" channel="TV1">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan dan berita hiburan.</desc>
+  </programme>
+  <programme start="20241008133000 +0000" stop="20241008140000 +0000" channel="TV1">
+    <title lang="en">TV1 KIDS: Team Curios</title>
+    <desc lang="en">Sebuah siri animasi mengisahkan Quincy, seorang kanak-kanak lelaki yang mempunyai rasa ingin tahu dan naluri keadilan yang tinggi. Quincy juga merupakan seorang ketua kepada Pasukan Q, yang turut dianggotai kucingnya, Blitz yang memahami bahasa makhluk asing, AL sebuah robot yang sopan, dan Puteri Deirde seorang makhluk asing yang terdampar di bumi. Kesemua mereka mempunyai lencana khas yang memberikan kuasa luar biasa untuk menyelesaikan masalah di kawasan kejiranan mereka.</desc>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20241008140000 +0000" stop="20241008143000 +0000" channel="TV1">
+    <title lang="en">CUIT-CUIT: Cinta Pedia</title>
+    <desc lang="en">Saksikan program Kampung Pe'el dalam slot Cuit-Cuit.</desc>
+  </programme>
+  <programme start="20241008143000 +0000" stop="20241008150000 +0000" channel="TV1">
+    <title lang="en">Serbu</title>
+    <desc lang="en">Serbu membawakan perbincangan mengenai peruntukan undang-undang yang dikuatkuasakan oleh pelbagai agensi di Malaysia bersama hos, Meor Addelan dan tetamu.</desc>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20241008150000 +0000" stop="20241008150500 +0000" channel="TV1">
+    <title lang="en">Berita Semasa</title>
+    <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
+  </programme>
+  <programme start="20241008150500 +0000" stop="20241008160000 +0000" channel="TV1">
+    <title lang="en">Kuppa Kopi</title>
+    <desc lang="en">Hos dan tetamu undangan akan membincangkan pelbagai topik menarik.</desc>
+  </programme>
+  <programme start="20241008160000 +0000" stop="20241008160500 +0000" channel="TV1">
+    <title lang="en">Berita Semasa</title>
+    <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
+  </programme>
+  <programme start="20241008160500 +0000" stop="20241008163000 +0000" channel="TV1">
+    <title lang="en">Panorama</title>
+    <desc lang="en">Rancangan yang akan mengupas pelbagai topik dan juga isu berkaitan alam, kesihatan dan juga isu semasa.</desc>
+  </programme>
+  <programme start="20241008163000 +0000" stop="20241008170000 +0000" channel="TV1">
+    <title lang="en">SIARAN LANGSUNG: Biz Malaysia</title>
+    <desc lang="en">Memaparkan perkembangan berita ekonomi, korporat dan perniagaan serta laporan saham.</desc>
+  </programme>
+  <programme start="20241008170000 +0000" stop="20241008180000 +0000" channel="TV1">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Memaparkan perkembangan berita dari negeri-negeri di seluruh negara.</desc>
+  </programme>
+  <programme start="20241008180000 +0000" stop="20241008184500 +0000" channel="TV1">
+    <title lang="en">Bismillah</title>
+    <desc lang="en">Saksikan Bismillah menghayati Tilawah &amp; Tadabbur surah al-fatihah yang menceritakan tentang kebesaran Allah dan pedoman hidup manusia dalam damaikan jiwamu dengan bismillah.</desc>
+  </programme>
+  <programme start="20241008184500 +0000" stop="20241009000000 +0000" channel="TV1">
+    <title lang="en">SELEKSI WIDURI: Kopi Sentul Mocha Santorini</title>
+    <desc lang="en">Kisah percintaan, pengorbanan,keluarga dan kerjaya. Alia anak gadis yang pintar yang sentiasa mahu mengembangkan perniagaan En.John. namun dengan setiap yang dilalui dalam hidupnya serta konflik cinta dan keluarga mampu dan berjayakah dia.</desc>
+    <episode-num system="onscreen">E14</episode-num>
   </programme>
   <programme start="20241009000000 +0000" stop="20241009060000 +0000" channel="TV1">
     <title lang="en">Berita Tengah Malam</title>
@@ -3550,9 +3831,14 @@
     <desc lang="en">Program bual bicara santai yang akan menampilkan atlet-atlet negara yang mengupas kisah dan cabaran yang dihadapi sepanjang karier mereka.</desc>
     <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20241003153000 +0000" stop="20241003170000 +0000" channel="Sukan RTM">
+  <programme start="20241003153000 +0000" stop="20241003164500 +0000" channel="Sukan RTM">
     <title lang="en">Kejohanan Hoki Hero Trofi Juara-Juara ASIA 2024 (Ulangan)</title>
     <desc lang="en">Ikuti kembali aksi Kejohanan Hoki Hero Trofi Juara-Juara ASIA 2024 - China menentang Korea.</desc>
+  </programme>
+  <programme start="20241003164500 +0000" stop="20241003170000 +0000" channel="Sukan RTM">
+    <title lang="en">Inovasi Prestasi</title>
+    <desc lang="en">Inovasi Prestasi sebuah program berkonsepkan majalah membawa penonton mengenai impak pembelajaran sains sukan terhadap individu di peringkat pengajian tinggi dan bidang pekerjaan.</desc>
+    <episode-num system="onscreen">E19</episode-num>
   </programme>
   <programme start="20241003170000 +0000" stop="20241003190000 +0000" channel="Sukan RTM">
     <title lang="en">SIARAN LANGSUNG: Kejohanan Hoki TNB Piala Tun Abdul Razak 2024</title>
@@ -6122,13 +6408,141 @@
     <title lang="en">Kanta 744</title>
     <desc lang="en">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
   </programme>
-  <programme start="20241010080000 +0000" stop="20241010220000 +0000" channel="Berita RTM">
+  <programme start="20241010080000 +0000" stop="20241010100000 +0000" channel="Berita RTM">
     <title lang="en">SIARAN LANGSUNG: Selamat Pagi Malaysia</title>
     <desc lang="en">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).</desc>
   </programme>
-  <programme start="20241010220000 +0000" stop="20241011000000 +0000" channel="Berita RTM">
+  <programme start="20241010100000 +0000" stop="20241010100500 +0000" channel="Berita RTM">
     <title lang="en">Dunia 10</title>
     <desc lang="en">Memaparkan perkembangan berita luar negara.</desc>
+  </programme>
+  <programme start="20241010100500 +0000" stop="20241010103000 +0000" channel="Berita RTM">
+    <title lang="en">Hijau Dot Com</title>
+    <desc lang="en">Hijau Dot Com memaparkan tentang penggunaan sumber alam semula jadi, pengurusan hijau berteraskan konsep mesra alam dan potensi sisa menjadi bahan baharu.</desc>
+  </programme>
+  <programme start="20241010103000 +0000" stop="20241010104500 +0000" channel="Berita RTM">
+    <title lang="en">i-Kadazan</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam bahasa etnik Kadazan.</desc>
+  </programme>
+  <programme start="20241010104500 +0000" stop="20241010110000 +0000" channel="Berita RTM">
+    <title lang="en">i-Iban</title>
+    <desc lang="en">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Iban.</desc>
+  </programme>
+  <programme start="20241010110000 +0000" stop="20241010120000 +0000" channel="Berita RTM">
+    <title lang="en">Fresh Brew</title>
+    <desc lang="en">Sebuah rancangan bual bicara bahasa Inggeris yang mengetengahkan pelbagai topik menarik dan terkini bersama tetamu jemputan.</desc>
+  </programme>
+  <programme start="20241010120000 +0000" stop="20241010123000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Berita berbahasa Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+  </programme>
+  <programme start="20241010123000 +0000" stop="20241010130000 +0000" channel="Berita RTM">
+    <title lang="en">World Today</title>
+    <desc lang="en">World Today, brings you the latest news of national interest and trending international issues.</desc>
+  </programme>
+  <programme start="20241010130000 +0000" stop="20241010133000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan dan berita hiburan.</desc>
+  </programme>
+  <programme start="20241010133000 +0000" stop="20241010140000 +0000" channel="Berita RTM">
+    <title lang="en">Jelajah Loghat Negeri</title>
+    <desc lang="en">Jom mengembara bersama kumpulan Cherpen dalam mengenali loghat-loghat bahasa yang terdapat di seluruh Malaysia.</desc>
+  </programme>
+  <programme start="20241010140000 +0000" stop="20241010141500 +0000" channel="Berita RTM">
+    <title lang="en">i-Bajau</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam bahasa etnik Bajau.</desc>
+  </programme>
+  <programme start="20241010141500 +0000" stop="20241010143000 +0000" channel="Berita RTM">
+    <title lang="en">Rahsia Alam</title>
+    <desc lang="en">Memaparkan flora dan fauna yang jarang diketahui umum dan semakin diancam kepupusan akibat perbuatan manusia.</desc>
+  </programme>
+  <programme start="20241010143000 +0000" stop="20241010150000 +0000" channel="Berita RTM">
+    <title lang="en">Inovasi Untuk Alam</title>
+    <desc lang="en">Bersama hos Shazwani Mohamad Shakeri melihat tenaga pakar tempatan membangunkan inovasi demi menjaga kelestarian alam dan pembangunan teknologi hijau.</desc>
+  </programme>
+  <programme start="20241010150000 +0000" stop="20241010150500 +0000" channel="Berita RTM">
+    <title lang="en">Berita Semasa</title>
+    <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
+  </programme>
+  <programme start="20241010150500 +0000" stop="20241010160000 +0000" channel="Berita RTM">
+    <title lang="en">Who Controls Your Money</title>
+    <desc lang="en">Jaswinder Maan picks the minds of academicians and professionals in the areas of economics, finance and business with such thought-provoking topics as 'Investing or Being Invested', 'Can You Fund Yourself Past 60?' and 'Do Trade Wars Affect Us?</desc>
+  </programme>
+  <programme start="20241010160000 +0000" stop="20241010160500 +0000" channel="Berita RTM">
+    <title lang="en">Berita Semasa</title>
+    <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
+  </programme>
+  <programme start="20241010160500 +0000" stop="20241010163000 +0000" channel="Berita RTM">
+    <title lang="en">Bicara Kanser</title>
+    <desc lang="en">Bicara Kanser memaparkan tentang jenis-jenis kanser, Diagnosis dan perawatan melalui tiga segmen.</desc>
+  </programme>
+  <programme start="20241010163000 +0000" stop="20241010170000 +0000" channel="Berita RTM">
+    <title lang="en">Biz Malaysia</title>
+    <desc lang="en">Memaparkan perkembangan berita ekonomi, korporat dan perniagaan serta laporan saham.</desc>
+  </programme>
+  <programme start="20241010170000 +0000" stop="20241010180000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Memaparkan perkembangan berita dari negeri-negeri di seluruh negara.</desc>
+  </programme>
+  <programme start="20241010180000 +0000" stop="20241010181500 +0000" channel="Berita RTM">
+    <title lang="en">My Wira</title>
+    <desc lang="en">My Wira membawakan kisah-kisah wira pekerjaan unik yang sering tidak dipandang sebagai laluan kerjaya.</desc>
+  </programme>
+  <programme start="20241010181500 +0000" stop="20241010183000 +0000" channel="Berita RTM">
+    <title lang="en">My Wira</title>
+    <desc lang="en">My Wira membawakan kisah-kisah wira pekerjaan unik yang sering tidak dipandang sebagai laluan kerjaya.</desc>
+  </programme>
+  <programme start="20241010183000 +0000" stop="20241010184500 +0000" channel="Berita RTM">
+    <title lang="en">i-Iban</title>
+    <desc lang="en">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Iban.</desc>
+  </programme>
+  <programme start="20241010184500 +0000" stop="20241010190000 +0000" channel="Berita RTM">
+    <title lang="en">i-Dusun</title>
+    <desc lang="en">Saksikan berita dalam bahasa Dusun.</desc>
+  </programme>
+  <programme start="20241010190000 +0000" stop="20241010193000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Berita berbahasa Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+  </programme>
+  <programme start="20241010193000 +0000" stop="20241010194400 +0000" channel="Berita RTM">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+  </programme>
+  <programme start="20241010194400 +0000" stop="20241010200000 +0000" channel="Berita RTM">
+    <title lang="en">Kanta 744</title>
+    <desc lang="en">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
+  </programme>
+  <programme start="20241010200000 +0000" stop="20241010203000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan serta berita hiburan.</desc>
+  </programme>
+  <programme start="20241010203000 +0000" stop="20241010210000 +0000" channel="Berita RTM">
+    <title lang="en">Malaysia Tonight</title>
+    <desc lang="en">Bringing the latest updates from across the globe.</desc>
+  </programme>
+  <programme start="20241010210000 +0000" stop="20241010213000 +0000" channel="Berita RTM">
+    <title lang="en">On The Table (OTT)</title>
+    <desc lang="en">A talk show that explores a range of topics, emphasizing Malaysia's current issues and trends. It also seeks to position Malaysia as an appealing investment and business hub for foreign investors, featuring insights from opinion leaders and influential figures.</desc>
+  </programme>
+  <programme start="20241010213000 +0000" stop="20241010220000 +0000" channel="Berita RTM">
+    <title lang="en">World Around Us</title>
+    <desc lang="en">World Around Us is a compilation news program, which brings together content material in the form of features and human interest from ASEAN countries and around the world.</desc>
+  </programme>
+  <programme start="20241010220000 +0000" stop="20241010221500 +0000" channel="Berita RTM">
+    <title lang="en">Dunia 10</title>
+    <desc lang="en">Memaparkan perkembangan berita luar negara.</desc>
+  </programme>
+  <programme start="20241010221500 +0000" stop="20241010223000 +0000" channel="Berita RTM">
+    <title lang="en">Urat Dawai Tulang Besi</title>
+    <desc lang="en">Program dihoskan Fahrin Ahmad ini membawakan informasi mengenai kegunaan dan fungsi pelbagai jentera berat.</desc>
+  </programme>
+  <programme start="20241010223000 +0000" stop="20241010230000 +0000" channel="Berita RTM">
+    <title lang="en">Demi Hijau</title>
+    <desc lang="en">Sebuah dokumentari yang mamaparkan pelbagai usaha dan teknologi untuk membendung masalah global seperti perubahan cuaca, pencemaran alam sekitar, kebakaran hutan dan banjir besar.</desc>
+  </programme>
+  <programme start="20241010230000 +0000" stop="20241011000000 +0000" channel="Berita RTM">
+    <title lang="en">Fresh Brew</title>
+    <desc lang="en">Sebuah rancangan bual bicara bahasa Inggeris yang mengetengahkan pelbagai topik menarik dan terkini bersama tetamu jemputan.</desc>
   </programme>
   <programme start="20241003000000 +0000" stop="20241003010000 +0000" channel="TV6">
     <title lang="en">DMI : Hikayat Si Putra</title>
