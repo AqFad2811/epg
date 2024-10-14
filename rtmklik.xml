@@ -303,9 +303,14 @@
     <title lang="en">Berita Tengah Hari</title>
     <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan dan berita hiburan.</desc>
   </programme>
-  <programme start="20241014133000 +0000" stop="20241014140000 +0000" channel="TV1">
+  <programme start="20241014133000 +0000" stop="20241014133700 +0000" channel="TV1">
+    <title lang="en">Galeri Perdana - Rangkuman Lawatan Kerja PM Ke Bangladesh</title>
+    <desc lang="en">Saksikan Galeri Perdana - Rangkuman Lawatan Kerja PM Ke Bangladesh.</desc>
+  </programme>
+  <programme start="20241014133700 +0000" stop="20241014140000 +0000" channel="TV1">
     <title lang="en">TV1 KIDS: Team Curios</title>
     <desc lang="en">Sebuah siri animasi mengisahkan Quincy, seorang kanak-kanak lelaki yang mempunyai rasa ingin tahu dan naluri keadilan yang tinggi. Quincy juga merupakan seorang ketua kepada Pasukan Q, yang turut dianggotai kucingnya, Blitz yang memahami bahasa makhluk asing, AL sebuah robot yang sopan, dan Puteri Deirde seorang makhluk asing yang terdampar di bumi. Kesemua mereka mempunyai lencana khas yang memberikan kuasa luar biasa untuk menyelesaikan masalah di kawasan kejiranan mereka.</desc>
+    <episode-num system="onscreen">E12</episode-num>
   </programme>
   <programme start="20241014140000 +0000" stop="20241014143000 +0000" channel="TV1">
     <title lang="en">CUIT-CUIT: Kampung Pe'el</title>
@@ -327,10 +332,14 @@
     <title lang="en">Berita Semasa</title>
     <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
   </programme>
-  <programme start="20241014160500 +0000" stop="20241014163000 +0000" channel="TV1">
-    <title lang="en">Agrotek 2022</title>
+  <programme start="20241014160500 +0000" stop="20241014161200 +0000" channel="TV1">
+    <title lang="en">Galeri Perdana - Rangkuman Lawatan Kerja PM Ke Bangladesh</title>
     <title lang="xx">Agrotek</title>
     <desc lang="en">Saksikan dokumentari yang memaparkan pelbagai teknologi terkini yang digunakan dalam sektor peladangan mahupun penternakan bagi menyumbang kepada hasil yang lebih baik.</desc>
+  </programme>
+  <programme start="20241014161200 +0000" stop="20241014163000 +0000" channel="TV1">
+    <title lang="en">Promo / PSA / Kapsul</title>
+    <desc lang="en">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
   </programme>
   <programme start="20241014163000 +0000" stop="20241014170000 +0000" channel="TV1">
     <title lang="en">SIARAN LANGSUNG: Biz Malaysia</title>
@@ -504,7 +513,8 @@
     <desc lang="en">Hos dan tetamu undangan akan membincangkan pelbagai topik menarik.</desc>
   </programme>
   <programme start="20241015160000 +0000" stop="20241015160500 +0000" channel="TV1">
-    <title lang="en">Berita Semasa</title>
+    <title lang="en">Parlimen Semasa</title>
+    <title lang="xx">Berita Semasa</title>
     <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
   </programme>
   <programme start="20241015160500 +0000" stop="20241015163000 +0000" channel="TV1">
@@ -690,7 +700,8 @@
     <desc lang="en">Cuit Sikit Jangan Sentap sebuah rancangan bual bicara secara langsung yang memberi tumpuan kepada isu-isu generasi muda serta menyentuh nilai-nilai murni dan kerohanian. Dihoskan pengacara muda iaitu Hafez Dolson, Syairul Islam Basmullah &amp; Irfan Syahmi Nasution.</desc>
   </programme>
   <programme start="20241016160000 +0000" stop="20241016160500 +0000" channel="TV1">
-    <title lang="en">Berita Semasa</title>
+    <title lang="en">Parlimen Semasa</title>
+    <title lang="xx">Berita Semasa</title>
     <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
   </programme>
   <programme start="20241016160500 +0000" stop="20241016163000 +0000" channel="TV1">
@@ -880,7 +891,8 @@
     <desc lang="en">Saksikan perbincangan bersama pakar kesihatan dan tetamu undangan dengan isu-isu kesihatan terkini di Diari Rawat.</desc>
   </programme>
   <programme start="20241017160000 +0000" stop="20241017160500 +0000" channel="TV1">
-    <title lang="en">Berita Semasa</title>
+    <title lang="en">Parlimen Semasa</title>
+    <title lang="xx">Berita Semasa</title>
     <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
   </programme>
   <programme start="20241017160500 +0000" stop="20241017163000 +0000" channel="TV1">
@@ -1265,7 +1277,7 @@
     <desc lang="en">Bringing the latest updates from across the globe.</desc>
   </programme>
   <programme start="20241019210000 +0000" stop="20241019230000 +0000" channel="TV1">
-    <title lang="en">PANGGUNG RTM: Ah Chong Posmen</title>
+    <title lang="en">Naratif Khas Pasca Belanjawan 2025</title>
     <title lang="xx">Panggung RTM: Bisikan Bella</title>
     <desc lang="en">Bella yang tidak disukai oleh ibu mentuanya, telah didera dengan pelbagai tugasan rumah malah turut dipukul. Apabila diberitahu kepada suaminya, Shah tidak mempercayainya. Bella mengadu pada keluarganya dan mereka telah mengajak Bella pulang ke rumah namun Bella enggan kerana dia sangat menyayangi Shah.</desc>
   </programme>
@@ -2130,7 +2142,7 @@
     <desc lang="en">Kisah kehidupan sebuah keluarga yang berhadapan dengan masalah dan konflik diantara anak-anak dan bapa akibat dari perbezaan pendapat dan pandangan tentang kehidupan remaja kini. Lakonan : Tasha Shilla, Afiq Muiz, Fazlina Ahmad Daud, Khairil Anwar, Veri Kurniawan, Shafiq Bakhri dan Theera Alias.</desc>
   </programme>
   <programme start="20241018150000 +0000" stop="20241018184500 +0000" channel="TV2">
-    <title lang="en">Siaran Langsung  - BELANJAWAN 2025 (ENGLISH)</title>
+    <title lang="en">Live - BUDGET 2025</title>
     <title lang="xx">Tetamu Malam</title>
     <desc lang="en">Kehadiran seorang tetamu begitu dimuliakan dalam masyarakat kita. Namun begitu bagaimana pula sekiranya tetamu yang hadir secara tiba-tiba tanpa diundang itu rupa-rupanya tiba dengan niat jahat? Apatah lagi segala kejahatan itu berjaya disembunyikan penjenayah yang cuba mengaburi mangsanya dengan pelbagai helah. Lakonan : Almy Nadia, Ady Putra, Norman Hakim, Shafiq Samuri, Zaidi Omar, Dian P. Ramlee dan Yalal Chin.</desc>
   </programme>
@@ -2239,7 +2251,7 @@
     <desc lang="en">Ikuti borak santai bersama artis lejen tanah air, Uji Rashid yang akan berkongsi pengalaman dan cerita terbaru beliau.</desc>
   </programme>
   <programme start="20241019113000 +0000" stop="20241019120000 +0000" channel="TV2">
-    <title lang="en">Rangkuman Bintang P. Ramlee (Utara)</title>
+    <title lang="en">Rangkuman Bintang P. Ramlee (Selatan)</title>
     <title lang="xx">Tegar VS Liar</title>
     <desc lang="en">Saksikan pelbagai aksi penuh cabaran para pemancing dalam program realiti memancing.</desc>
   </programme>
@@ -4287,7 +4299,8 @@
     <episode-num system="onscreen">E11</episode-num>
   </programme>
   <programme start="20241015203000 +0000" stop="20241015223000 +0000" channel="Sukan RTM">
-    <title lang="en">Bola Sepak Liga Super 2024 (Ulangan)</title>
+    <title lang="en">Bola Sepak Liga Super 2024/2025 (Ulangan)</title>
+    <title lang="xx">Bola Sepak Liga Super 2024 (Ulangan)</title>
     <desc lang="en">Saksikan kembali perlawanan Bola Sepak Liga super 2024 (LS12) - Johor Darul Ta'zim vs Kuching City FC.</desc>
   </programme>
   <programme start="20241015223000 +0000" stop="20241015233000 +0000" channel="Sukan RTM">
@@ -5214,10 +5227,48 @@
     <title lang="en">Badminton Petronas Terbuka Malaysia 2024 (Ulangan)</title>
     <desc lang="en">Saksikan kembali Badminton Petronas Terbuka Malaysia 2024 - Korea vs Malaysia (Mixed Doubles - RD32).</desc>
   </programme>
-  <programme start="20241021113000 +0000" stop="20241022060000 +0000" channel="Sukan RTM">
+  <programme start="20241021113000 +0000" stop="20241021120000 +0000" channel="Sukan RTM">
     <title lang="en">Aksi 2024</title>
     <desc lang="en">Saksikan pelbagai acara sukan dan aksi menarik setiap minggu dalam Aksi 2024.</desc>
     <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20241021120000 +0000" stop="20241021123000 +0000" channel="Sukan RTM">
+    <title lang="en">Jurnal Sukan #Sportpedia</title>
+    <desc lang="en">Rancangan majalah sukan terbaharu bersama tetamu jemputan membincangkan lebih mendalam mengenai sukan.</desc>
+  </programme>
+  <programme start="20241021123000 +0000" stop="20241021124500 +0000" channel="Sukan RTM">
+    <title lang="en">Buletin MSN</title>
+    <desc lang="en">Sebuah program yang memaparkan perkembangan terkini sukan tanah air.</desc>
+    <episode-num system="onscreen">E47</episode-num>
+  </programme>
+  <programme start="20241021124500 +0000" stop="20241021130000 +0000" channel="Sukan RTM">
+    <title lang="en">Kapsul Sukan RTM</title>
+    <desc lang="en">Memaparkan Info Terkini, Motivasi Inspirasi, Gym, Aksi Rekreasi, Pinggan Diet, i-Sukan dan Inovasi Prestasi.</desc>
+  </programme>
+  <programme start="20241021130000 +0000" stop="20241021133000 +0000" channel="Sukan RTM">
+    <title lang="en">Extreme E: Electric Odyssey 2023</title>
+    <desc lang="en">Saksikan siri perlumbaan 'off-road' yang menggunakan SUV elektrik untuk berlumba di kawasan yang terpencil di dunia. Kesemua lokasi perlumbaan dipilih untuk meningkatkan kesedaran terhadap perubahan iklim.</desc>
+    <episode-num system="onscreen">E18</episode-num>
+  </programme>
+  <programme start="20241021133000 +0000" stop="20241021150000 +0000" channel="Sukan RTM">
+    <title lang="en">Kejohanan Hoki Antarabangsa Piala Sultan Johor 2024 (Ulangan)</title>
+    <desc lang="en">Saksikan kembali Kejohanan Hoki Antarabangsa Piala Sultan Johor 2024 (SOJC 2024) - Japan VS Malaysia.</desc>
+  </programme>
+  <programme start="20241021150000 +0000" stop="20241021153000 +0000" channel="Sukan RTM">
+    <title lang="en">Trek Kembara</title>
+    <desc lang="en">Jom! Rasai keterujaan melakukan pelbagai sukan lasak dan pastinya ekstrem bersama pengacara Siti Nursara, atlet memanjat tembok dan jurulatih scuba. Setiap episod, penonton akan dibawa ke pelbagai lokasi sukan riadah menarik dan pastinya dapat mempromosi aktiviti pelancongan rekreasi untuk semua lapisan masyarakat.</desc>
+  </programme>
+  <programme start="20241021153000 +0000" stop="20241021173000 +0000" channel="Sukan RTM">
+    <title lang="en">Kejohanan Hoki Hero Trofi Juara-Juara Asia 2024 (Ulangan)</title>
+    <desc lang="en">Ikuti kembali aksi Kejohanan Hoki Hero Trofi Juara-Juara Asia 2024 - China vs India (Final).</desc>
+  </programme>
+  <programme start="20241021173000 +0000" stop="20241021190000 +0000" channel="Sukan RTM">
+    <title lang="en">Sukan Olimpik Paris 2024 (Ulangan)</title>
+    <desc lang="en">Saksikan kembali Sukan Olimpik Paris 2024 - Basikal Men &amp; Women Sprint.</desc>
+  </programme>
+  <programme start="20241021190000 +0000" stop="20241022060000 +0000" channel="Sukan RTM">
+    <title lang="en">Rangkuman Aksi</title>
+    <desc lang="en">Sebuah rancangan yang memaparkan rangkuman aksi-aksi motocross dan sukan yang mencabar mental dan fizikal para peserta.</desc>
   </programme>
   <programme start="20241014000000 +0000" stop="20241014003000 +0000" channel="Berita RTM">
     <title lang="en">Berita Tengah Malam</title>
@@ -5307,9 +5358,17 @@
     <title lang="en">Berita Tengah Hari</title>
     <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan dan berita hiburan.</desc>
   </programme>
-  <programme start="20241014133000 +0000" stop="20241014140000 +0000" channel="Berita RTM">
-    <title lang="en">Generasi Kanvas</title>
-    <desc lang="en">Generasi Kanvas membawa pelbagai kisah dan latarbelakang pelajar sekolah.</desc>
+  <programme start="20241014133000 +0000" stop="20241014134000 +0000" channel="Berita RTM">
+    <title lang="en">Galeri Nasional - Rangkuman Lawatan Perdana Menteri ke Bangladesh</title>
+    <desc lang="en">Saksikan Galeri Nasional - Rangkuman Lawatan Perdana Menteri ke Bangladesh.</desc>
+  </programme>
+  <programme start="20241014134000 +0000" stop="20241014134500 +0000" channel="Berita RTM">
+    <title lang="en">Promo / PSA / Kapsul</title>
+    <desc lang="en">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
+  </programme>
+  <programme start="20241014134500 +0000" stop="20241014140000 +0000" channel="Berita RTM">
+    <title lang="en">Jejak altrius</title>
+    <desc lang="en">Jejak altrius.</desc>
   </programme>
   <programme start="20241014140000 +0000" stop="20241014141500 +0000" channel="Berita RTM">
     <title lang="en">i-Bajau</title>
@@ -5323,11 +5382,15 @@
     <title lang="en">Langsung Dari Parlimen</title>
     <desc lang="en">Paparan secara langsung Parlimen Ke-15, Penggal Ke-3 (2024) Dewan Rakyat.</desc>
   </programme>
-  <programme start="20241014160000 +0000" stop="20241014163000 +0000" channel="Berita RTM">
+  <programme start="20241014160000 +0000" stop="20241014160500 +0000" channel="Berita RTM">
     <title lang="en">Parlimen Semasa</title>
     <desc lang="en">Memaparkan perkembangan berita PARLIMEN.</desc>
   </programme>
-  <programme start="20241014163000 +0000" stop="20241014170000 +0000" channel="Berita RTM">
+  <programme start="20241014160500 +0000" stop="20241014161200 +0000" channel="Berita RTM">
+    <title lang="en">Galeri Nasional - Rangkuman Lawatan Perdana Menteri ke Bangladesh</title>
+    <desc lang="en">Saksikan Galeri Nasional - Rangkuman Lawatan Perdana Menteri ke Bangladesh.</desc>
+  </programme>
+  <programme start="20241014161200 +0000" stop="20241014170000 +0000" channel="Berita RTM">
     <title lang="en">Langsung Dari Parlimen</title>
     <desc lang="en">Paparan secara langsung Parlimen Ke-15, Penggal Ke-3 (2024) Dewan Rakyat.</desc>
   </programme>
