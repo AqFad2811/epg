@@ -1,4 +1,12 @@
-Update: StarHub TV EPG's are no longer available due to the release of a brand new interface, see [here](http://webgrabplus.com/content/updating-starhubtvpluscom-ini-file)
+Update: With Astro's restructuring and rebranding of their channels, some XMLTV IDs have changed. These includes:
+| Old XMLV ID | New XMLTV ID |
+|--|--|
+| `AstroVinmeenHD` | `AstroVinmeen` |
+| `ABOThangathirai` | `AstroThangathirai` |
+|  `AstroAODHD` | `AstroAOD` |
+| `BOO` | `AstroBoo` |
+| `Showcase` | `AstroShowcase` |
+
 
 ## Information
 Since this is open source, I do not recommend to sell it somewhere else, but you can use it on your playlst for free.
