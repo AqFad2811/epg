@@ -201,8 +201,9 @@
     <url>http://rtmklik.rtm.gov.my</url>
   </channel>
   <programme start="20250219000000 +0000" stop="20250219003000 +0000" channel="TV1">
-    <title lang="en">Berita Tengah Malam</title>
-    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara.</desc>
+    <title lang="en">Catch Asia</title>
+    <desc lang="en">Sebuah promo tentang pembangunan teknologi, pelancongan dan transformasi digital di Jepun.</desc>
+    <episode-num system="onscreen">E13</episode-num>
   </programme>
   <programme start="20250219003000 +0000" stop="20250219013000 +0000" channel="TV1">
     <title lang="en">Mimpi Yang Sempurna</title>
@@ -1265,16 +1266,21 @@
     <desc lang="en">Sebuah rancangan bersiri khas untuk tontonan anda sekeluarga.</desc>
   </programme>
   <programme start="20250225043000 +0000" stop="20250225053000 +0000" channel="TV1">
-    <title lang="en">National Hockey Stadium</title>
+    <title lang="en">Rumah Kasih Suraya</title>
+    <title lang="xx">National Hockey Stadium</title>
     <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
   </programme>
   <programme start="20250225053000 +0000" stop="20250225060000 +0000" channel="TV1">
     <title lang="en">Bacaan Ar-Rahman</title>
     <desc lang="en">Bacaan Ar-Rahman. (Azan Subuh : 06:18).</desc>
   </programme>
-  <programme start="20250225060000 +0000" stop="20250225070000 +0000" channel="TV1">
+  <programme start="20250225060000 +0000" stop="20250225060200 +0000" channel="TV1">
     <title lang="en">Lagu Negaraku</title>
     <desc lang="en">Nyanyian lagu Negaraku.</desc>
+  </programme>
+  <programme start="20250225060200 +0000" stop="20250225070000 +0000" channel="TV1">
+    <title lang="en">Anda Musykil</title>
+    <desc lang="en">Saksikan program bual bicara bersama tetamu istimewa dalam Anda Musykil.</desc>
   </programme>
   <programme start="20250225070000 +0000" stop="20250225071000 +0000" channel="TV1">
     <title lang="en">Berita Pagi Semenanjung</title>
@@ -1296,17 +1302,73 @@
     <title lang="en">Kanta 744</title>
     <desc lang="en">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
   </programme>
-  <programme start="20250225080000 +0000" stop="20250225130000 +0000" channel="TV1">
+  <programme start="20250225080000 +0000" stop="20250225100000 +0000" channel="TV1">
     <title lang="en">SIARAN LANGSUNG: Selamat Pagi Malaysia</title>
     <desc lang="en">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).</desc>
   </programme>
-  <programme start="20250225130000 +0000" stop="20250225170000 +0000" channel="TV1">
+  <programme start="20250225100000 +0000" stop="20250225100500 +0000" channel="TV1">
+    <title lang="en">Dunia 10</title>
+    <desc lang="en">Memaparkan perkembangan berita luar negara.</desc>
+  </programme>
+  <programme start="20250225100500 +0000" stop="20250225120000 +0000" channel="TV1">
+    <title lang="en">Langsung Dari Parlimen</title>
+    <desc lang="en">Paparan secara langsung Parlimen Ke-15, Penggal Ke-4.</desc>
+  </programme>
+  <programme start="20250225120000 +0000" stop="20250225120500 +0000" channel="TV1">
+    <title lang="en">Berita Semasa</title>
+    <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
+  </programme>
+  <programme start="20250225120500 +0000" stop="20250225130000 +0000" channel="TV1">
+    <title lang="en">WORLD WATCH: Forbidden History</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+  </programme>
+  <programme start="20250225130000 +0000" stop="20250225133000 +0000" channel="TV1">
     <title lang="en">Berita Tengah Hari</title>
     <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan dan berita hiburan.</desc>
   </programme>
-  <programme start="20250225170000 +0000" stop="20250225194400 +0000" channel="TV1">
+  <programme start="20250225133000 +0000" stop="20250225143000 +0000" channel="TV1">
+    <title lang="en">BIDADARI: Rumah Kasih Suraya</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+  </programme>
+  <programme start="20250225143000 +0000" stop="20250225150000 +0000" channel="TV1">
+    <title lang="en">CUIT-CUIT: Resort Kasih Bunga Raya</title>
+    <desc lang="en">Saksikan rancangan menarik khas untuk tontonan anda.</desc>
+  </programme>
+  <programme start="20250225150000 +0000" stop="20250225150500 +0000" channel="TV1">
+    <title lang="en">Berita Semasa</title>
+    <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
+  </programme>
+  <programme start="20250225150500 +0000" stop="20250225160000 +0000" channel="TV1">
+    <title lang="en">Kuppa Kopi</title>
+    <desc lang="en">Hos dan tetamu undangan akan membincangkan pelbagai topik menarik.</desc>
+  </programme>
+  <programme start="20250225160000 +0000" stop="20250225160500 +0000" channel="TV1">
+    <title lang="en">Berita Semasa</title>
+    <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
+  </programme>
+  <programme start="20250225160500 +0000" stop="20250225161500 +0000" channel="TV1">
+    <title lang="en">Senang Rupanya</title>
+    <desc lang="en">Hos, Munaa Bela bertemu dengan pasangan yang memerlukan bantuan dalam membuat projek DIY ringkas dalam setiap episod Senang Rupanya.</desc>
+  </programme>
+  <programme start="20250225161500 +0000" stop="20250225163000 +0000" channel="TV1">
+    <title lang="en">Promo / PSA / Kapsul</title>
+    <desc lang="en">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
+  </programme>
+  <programme start="20250225163000 +0000" stop="20250225170000 +0000" channel="TV1">
+    <title lang="en">SIARAN LANGSUNG: Biz Malaysia</title>
+    <desc lang="en">Memaparkan perkembangan berita ekonomi, korporat dan perniagaan serta laporan saham.</desc>
+  </programme>
+  <programme start="20250225170000 +0000" stop="20250225180000 +0000" channel="TV1">
     <title lang="en">Berita Wilayah</title>
     <desc lang="en">Memaparkan perkembangan berita dari negeri-negeri di seluruh negara.</desc>
+  </programme>
+  <programme start="20250225180000 +0000" stop="20250225184500 +0000" channel="TV1">
+    <title lang="en">Bismillah</title>
+    <desc lang="en">Saksikan Bismillah menghayati Tilawah &amp; Tadabbur surah al-fatihah yang menceritakan tentang kebesaran Allah dan pedoman hidup manusia dalam damaikan jiwamu dengan bismillah.</desc>
+  </programme>
+  <programme start="20250225184500 +0000" stop="20250225194400 +0000" channel="TV1">
+    <title lang="en">SIARAN LANGSUNG: Borak Dulu Baru Buka</title>
+    <desc lang="en">memaparkan program menarik sembang santai Borak Dulu Baru Buka sempena bulan ramadan khas untuk anda.</desc>
   </programme>
   <programme start="20250225194400 +0000" stop="20250225200000 +0000" channel="TV1">
     <title lang="en">Kanta 744</title>
@@ -1316,21 +1378,71 @@
     <title lang="en">Berita Perdana</title>
     <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan serta berita hiburan.</desc>
   </programme>
-  <programme start="20250225203000 +0000" stop="20250225220000 +0000" channel="TV1">
+  <programme start="20250225203000 +0000" stop="20250225210000 +0000" channel="TV1">
     <title lang="en">Malaysia Tonight</title>
     <desc lang="en">Bringing the latest updates from across the globe.</desc>
   </programme>
-  <programme start="20250225220000 +0000" stop="20250226000000 +0000" channel="TV1">
+  <programme start="20250225210000 +0000" stop="20250225220000 +0000" channel="TV1">
+    <title lang="en">SIARAN LANGSUNG: Bicara Naratif</title>
+    <desc lang="en">Program bicarawara bertema Naratif bersama tetamu undangan dan membincangkan isu semasa sebagai topik pilihan.</desc>
+  </programme>
+  <programme start="20250225220000 +0000" stop="20250225221500 +0000" channel="TV1">
     <title lang="en">Dunia 10</title>
     <desc lang="en">Memaparkan perkembangan berita luar negara.</desc>
   </programme>
-  <programme start="20250226000000 +0000" stop="20250226060000 +0000" channel="TV1">
+  <programme start="20250225221500 +0000" stop="20250225223000 +0000" channel="TV1">
+    <title lang="en">Berita Parlimen</title>
+    <desc lang="en">Memaparkan perkembangan berita PARLIMEN.</desc>
+  </programme>
+  <programme start="20250225223000 +0000" stop="20250225233000 +0000" channel="TV1">
+    <title lang="en">SPEKTRA: Kau? C.E.O Aku?</title>
+    <desc lang="en">Mengisahkan Aisya yang berkahwin dengan Danial atas pilihan keluarga namun kehadiran Mila, kawan baik Danial cuba mengganggu perkahwinan mereka. Danial Firdaus adalah C.E.O di tempat kerjanya.</desc>
+    <episode-num system="onscreen">E20</episode-num>
+  </programme>
+  <programme start="20250225233000 +0000" stop="20250226000000 +0000" channel="TV1">
+    <title lang="en">Simfoni Alam</title>
+    <desc lang="en">Saksikan dokumentari menarik berkaitan alam dan kehidupan menerusi Simfoni Alam.</desc>
+  </programme>
+  <programme start="20250226000000 +0000" stop="20250226003000 +0000" channel="TV1">
     <title lang="en">Berita Tengah Malam</title>
     <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara.</desc>
   </programme>
-  <programme start="20250226060000 +0000" stop="20250226070000 +0000" channel="TV1">
+  <programme start="20250226003000 +0000" stop="20250226013000 +0000" channel="TV1">
+    <title lang="en">Catatan Seorang Da'i</title>
+    <desc lang="en">Mengisahkan seorang ustaz muda, Muhammad Syiffa (Syiffa), yang tidak pernah jemu-jemu berdakwah dari satu masjid ke satu masjid. Sebagai pendakwah, Syiffa berusaha menyelesaikan masalah yang berlaku sehinggakan adakalanya nyawanya sendiri hampir menjadi taruhan. Bagaimanapun atas niatnya yang berdakwah kerana Allah S.W.T semata-mata, Syiffa berjaya melalui rintangan demi rintangan yang menghalang usaha dakwahnya.</desc>
+  </programme>
+  <programme start="20250226013000 +0000" stop="20250226020000 +0000" channel="TV1">
+    <title lang="en">Beautiful Semporna</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+  </programme>
+  <programme start="20250226020000 +0000" stop="20250226030000 +0000" channel="TV1">
+    <title lang="en">Kau? C.E.O Aku?</title>
+    <desc lang="en">Mengisahkan Aisya yang berkahwin dengan Danial atas pilihan keluarga namun kehadiran Mila, kawan baik Danial cuba mengganggu perkahwinan mereka. Danial Firdaus adalah C.E.O di tempat kerjanya.</desc>
+    <episode-num system="onscreen">E20</episode-num>
+  </programme>
+  <programme start="20250226030000 +0000" stop="20250226033000 +0000" channel="TV1">
+    <title lang="en">Tamadun Yang Hilang</title>
+    <desc lang="en">Dokumentari terbitan Syndicated Network Sdn. Bhd. ini memaparkan sebuah pengembaraan ilmu sejarah Islam silam, satu tamadun yang hilang. (Maghribi &amp; Andalus).</desc>
+  </programme>
+  <programme start="20250226033000 +0000" stop="20250226043000 +0000" channel="TV1">
+    <title lang="en">Borak Dulu Baru Buka</title>
+    <desc lang="en">Berkongsi pelbagai topik menarik berkenaan ibadah puasa sebelum berbuka bersama personaliti jemputan.</desc>
+  </programme>
+  <programme start="20250226043000 +0000" stop="20250226053000 +0000" channel="TV1">
+    <title lang="en">Rumah Kasih Suraya</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+  </programme>
+  <programme start="20250226053000 +0000" stop="20250226060000 +0000" channel="TV1">
+    <title lang="en">Bacaan Ar-Rahman</title>
+    <desc lang="en">Bacaan Ar-Rahman. (Azan Subuh : 06:18).</desc>
+  </programme>
+  <programme start="20250226060000 +0000" stop="20250226060200 +0000" channel="TV1">
     <title lang="en">Lagu Negaraku</title>
     <desc lang="en">Nyanyian lagu Negaraku.</desc>
+  </programme>
+  <programme start="20250226060200 +0000" stop="20250226070000 +0000" channel="TV1">
+    <title lang="en">Bismillah</title>
+    <desc lang="en">Saksikan Bismillah menghayati Tilawah &amp; Tadabbur surah al-fatihah yang menceritakan tentang kebesaran Allah dan pedoman hidup manusia dalam damaikan jiwamu dengan bismillah.</desc>
   </programme>
   <programme start="20250226070000 +0000" stop="20250226071000 +0000" channel="TV1">
     <title lang="en">Berita Pagi Semenanjung</title>
@@ -1352,17 +1464,73 @@
     <title lang="en">Kanta 744</title>
     <desc lang="en">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
   </programme>
-  <programme start="20250226080000 +0000" stop="20250226130000 +0000" channel="TV1">
+  <programme start="20250226080000 +0000" stop="20250226100000 +0000" channel="TV1">
     <title lang="en">SIARAN LANGSUNG: Selamat Pagi Malaysia</title>
     <desc lang="en">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).</desc>
   </programme>
-  <programme start="20250226130000 +0000" stop="20250226170000 +0000" channel="TV1">
+  <programme start="20250226100000 +0000" stop="20250226100500 +0000" channel="TV1">
+    <title lang="en">Dunia 10</title>
+    <desc lang="en">Memaparkan perkembangan berita luar negara.</desc>
+  </programme>
+  <programme start="20250226100500 +0000" stop="20250226120000 +0000" channel="TV1">
+    <title lang="en">Langsung Dari Parlimen</title>
+    <desc lang="en">Paparan secara langsung Parlimen Ke-15, Penggal Ke-4.</desc>
+  </programme>
+  <programme start="20250226120000 +0000" stop="20250226120500 +0000" channel="TV1">
+    <title lang="en">Berita Semasa</title>
+    <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
+  </programme>
+  <programme start="20250226120500 +0000" stop="20250226130000 +0000" channel="TV1">
+    <title lang="en">WORLD WATCH: Forbidden History</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+  </programme>
+  <programme start="20250226130000 +0000" stop="20250226133000 +0000" channel="TV1">
     <title lang="en">Berita Tengah Hari</title>
     <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan dan berita hiburan.</desc>
   </programme>
-  <programme start="20250226170000 +0000" stop="20250226194400 +0000" channel="TV1">
+  <programme start="20250226133000 +0000" stop="20250226143000 +0000" channel="TV1">
+    <title lang="en">BIDADARI: Rumah Kasih Suraya</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+  </programme>
+  <programme start="20250226143000 +0000" stop="20250226150000 +0000" channel="TV1">
+    <title lang="en">CUIT-CUIT: Resort Kasih Bunga Raya</title>
+    <desc lang="en">Saksikan rancangan menarik khas untuk tontonan anda.</desc>
+  </programme>
+  <programme start="20250226150000 +0000" stop="20250226150500 +0000" channel="TV1">
+    <title lang="en">Berita Semasa</title>
+    <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
+  </programme>
+  <programme start="20250226150500 +0000" stop="20250226160000 +0000" channel="TV1">
+    <title lang="en">Cuit Sikit, Jangan Sentap</title>
+    <desc lang="en">Cuit Sikit Jangan Sentap sebuah rancangan bual bicara santai mengetengahkan isu golongan muda yang menyentuh nilai-nilai murni dan kerohanian. Ada beberapa segmen iaitu Bukan Saya Kata Orang Kata, Tamak Pahala dan Sketsa Sentap.</desc>
+  </programme>
+  <programme start="20250226160000 +0000" stop="20250226160500 +0000" channel="TV1">
+    <title lang="en">Berita Semasa</title>
+    <desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
+  </programme>
+  <programme start="20250226160500 +0000" stop="20250226161500 +0000" channel="TV1">
+    <title lang="en">Senang Rupanya</title>
+    <desc lang="en">Hos, Munaa Bela bertemu dengan pasangan yang memerlukan bantuan dalam membuat projek DIY ringkas dalam setiap episod Senang Rupanya.</desc>
+  </programme>
+  <programme start="20250226161500 +0000" stop="20250226163000 +0000" channel="TV1">
+    <title lang="en">Promo / PSA / Kapsul</title>
+    <desc lang="en">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
+  </programme>
+  <programme start="20250226163000 +0000" stop="20250226170000 +0000" channel="TV1">
+    <title lang="en">SIARAN LANGSUNG: Biz Malaysia</title>
+    <desc lang="en">Memaparkan perkembangan berita ekonomi, korporat dan perniagaan serta laporan saham.</desc>
+  </programme>
+  <programme start="20250226170000 +0000" stop="20250226180000 +0000" channel="TV1">
     <title lang="en">Berita Wilayah</title>
     <desc lang="en">Memaparkan perkembangan berita dari negeri-negeri di seluruh negara.</desc>
+  </programme>
+  <programme start="20250226180000 +0000" stop="20250226184500 +0000" channel="TV1">
+    <title lang="en">Fikrah</title>
+    <desc lang="en">Bersama pengacara dan tetamu undangan membincangkan isu-isu semasa.</desc>
+  </programme>
+  <programme start="20250226184500 +0000" stop="20250226194400 +0000" channel="TV1">
+    <title lang="en">SIARAN LANGSUNG: Borak Dulu Baru Buka</title>
+    <desc lang="en">memaparkan program menarik sembang santai Borak Dulu Baru Buka sempena bulan ramadan khas untuk anda.</desc>
   </programme>
   <programme start="20250226194400 +0000" stop="20250226200000 +0000" channel="TV1">
     <title lang="en">Kanta 744</title>
@@ -1372,13 +1540,30 @@
     <title lang="en">Berita Perdana</title>
     <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan serta berita hiburan.</desc>
   </programme>
-  <programme start="20250226203000 +0000" stop="20250226220000 +0000" channel="TV1">
+  <programme start="20250226203000 +0000" stop="20250226210000 +0000" channel="TV1">
     <title lang="en">Malaysia Tonight</title>
     <desc lang="en">Bringing the latest updates from across the globe.</desc>
   </programme>
-  <programme start="20250226220000 +0000" stop="20250227000000 +0000" channel="TV1">
+  <programme start="20250226210000 +0000" stop="20250226220000 +0000" channel="TV1">
+    <title lang="en">Skuad JPJ</title>
+    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+  </programme>
+  <programme start="20250226220000 +0000" stop="20250226221500 +0000" channel="TV1">
     <title lang="en">Dunia 10</title>
     <desc lang="en">Memaparkan perkembangan berita luar negara.</desc>
+  </programme>
+  <programme start="20250226221500 +0000" stop="20250226223000 +0000" channel="TV1">
+    <title lang="en">Berita Parlimen</title>
+    <desc lang="en">Memaparkan perkembangan berita PARLIMEN.</desc>
+  </programme>
+  <programme start="20250226223000 +0000" stop="20250226233000 +0000" channel="TV1">
+    <title lang="en">SPEKTRA: Kau? C.E.O Aku?</title>
+    <desc lang="en">Mengisahkan Aisya yang berkahwin dengan Danial atas pilihan keluarga namun kehadiran Mila, kawan baik Danial cuba mengganggu perkahwinan mereka. Danial Firdaus adalah C.E.O di tempat kerjanya.</desc>
+    <episode-num system="onscreen">E21</episode-num>
+  </programme>
+  <programme start="20250226233000 +0000" stop="20250227000000 +0000" channel="TV1">
+    <title lang="en">Agrotek</title>
+    <desc lang="en">Saksikan dokumentari yang memaparkan pelbagai teknologi terkini yang digunakan dalam sektor peladangan mahupun penternakan bagi menyumbang kepada hasil yang lebih baik.</desc>
   </programme>
   <programme start="20250219000000 +0000" stop="20250219003000 +0000" channel="TV2">
     <title lang="en">Saathanai Penn</title>
@@ -1918,7 +2103,8 @@
     <desc lang="en">Detektif James Gordon berusaha untuk membenteras aktiviti jenayah di bandar Gotham yang korup dan berbahaya, yang secara konsisten memisahkan antara golongan orang yang baik dan yang jahat. Lakonan : David Albert Mazouz, Benjamin McKenzie, Robin Lord Taylor, Camren Renee Bicondova, Erin Richards, Donal Francis Logue dan ramai lagi.</desc>
   </programme>
   <programme start="20250222210000 +0000" stop="20250222223000 +0000" channel="TV2">
-    <title lang="en">Hiburan Minggu Ini - The Best Of Dato' Sudirman</title>
+    <title lang="en">The Best Of Dato' Sudirman Haji Arshad</title>
+    <title lang="xx">Hiburan Minggu Ini - The Best Of Dato' Sudirman</title>
     <desc lang="en">Kompilasi lagu-lagu allahyarham Dato' Sudirman Haji Arshad.</desc>
   </programme>
   <programme start="20250222223000 +0000" stop="20250223003000 +0000" channel="TV2">
@@ -7051,9 +7237,309 @@
     <title lang="en">Kasih Jasmin</title>
     <desc lang="en">Berkongsi kisah tentang Jasmin, seorang gadis cekal yang berjuang nasib hidupnya dan keluarganya yang dibelenggu kemiskinan. Lakonan : Zarina Zainoordin, Dazrin Kamaruddin, Fizz Fairuz dan Wan Hanafi Su.</desc>
   </programme>
-  <programme start="20250224020000 +0000" stop="20250307020000 +0000" channel="TV6">
+  <programme start="20250224020000 +0000" stop="20250224060000 +0000" channel="TV6">
     <title lang="en">Penutup</title>
     <desc lang="en">Siaran tamat.</desc>
+  </programme>
+  <programme start="20250224060000 +0000" stop="20250224060200 +0000" channel="TV6">
+    <title lang="en">Pembukaan - Negaraku</title>
+    <desc lang="en">Lagu Negaraku.</desc>
+  </programme>
+  <programme start="20250224060200 +0000" stop="20250224063000 +0000" channel="TV6">
+    <title lang="en">Dari Hulu Ke Muara</title>
+    <desc lang="en">Dokumentari yang mengisahkan perjalanan menyusuri sungai yang memperlihatkan keindahan alam, budaya tempatan dan sejarah yang ditinggalkan.</desc>
+  </programme>
+  <programme start="20250224063000 +0000" stop="20250224073000 +0000" channel="TV6">
+    <title lang="en">Dari Mata Arisa</title>
+    <desc lang="en">Maliah dan Marina, kembar tidak seiras yang mempunyai perwatakan yang berbeza. Ikuti kisah seterusnya bagaimana perjalanan kehidupan mereka dalam mengharungi konflik dalam kehidupan mereka. Lakonan : Ayu Raudhah, Syed Aiman dan Ashraf Muslim.</desc>
+    <episode-num system="onscreen">E38</episode-num>
+  </programme>
+  <programme start="20250224073000 +0000" stop="20250224080000 +0000" channel="TV6">
+    <title lang="en">Destinasi Etnik</title>
+    <desc lang="en">Berkongsi tentang latar belakang, keunikan dan tarikan daerah serta pekan-pekan kecil di Negeri Sabah.</desc>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20250224080000 +0000" stop="20250224090000 +0000" channel="TV6">
+    <title lang="en">Roh Naterah</title>
+    <desc lang="en">Pasangan suami isteri yang hidup susah disebuah kampung, Puteh mempunyai 2 anak lelaki dan bayi perempuan bernama Naterah. Jiran mereka yang tidak mempunyai anak, telah berhasrat untuk mengambil Naterah sebagai anak angkat. Lakonan : Nadia Mustafa, Nurul Elfira dan Wan Norazlin.</desc>
+  </programme>
+  <programme start="20250224090000 +0000" stop="20250224100000 +0000" channel="TV6">
+    <title lang="en">Bintang Pujaan</title>
+    <desc lang="en">Saksikan persembahan nyanyian daripada artis solo berkumpulan terkenal tanah air.</desc>
+  </programme>
+  <programme start="20250224100000 +0000" stop="20250224110000 +0000" channel="TV6">
+    <title lang="en">DMI : Bayangan</title>
+    <desc lang="en">Drama minggu ini terbitan RTM yang sarat dengan nilai-nilai murni, konflik dalam kekeluargaan, percintaan dan persahabatan.</desc>
+  </programme>
+  <programme start="20250224110000 +0000" stop="20250224130000 +0000" channel="TV6">
+    <title lang="en">Aku Punya Kamu</title>
+    <desc lang="en">Telefilem yang memaparkan kisah-kisah kemasyarakatan dengan pelbagai konflik dan dilema tentang hubungan kekeluargaan, persahabatan dan percintaan. Lakonan : Cat Farish, Eja, Marisa Yasmin dan Khairul Anwar.</desc>
+  </programme>
+  <programme start="20250224130000 +0000" stop="20250224133000 +0000" channel="TV6">
+    <title lang="en">3 T 3 Dara</title>
+    <desc lang="en">Sebuah drama komedi yang mengisahkan pelbagai latar cerita masyarakat di Malaysia. Lakonan : Amyza Aznan,Norseha dan Zul Huzaimy.</desc>
+  </programme>
+  <programme start="20250224133000 +0000" stop="20250224140000 +0000" channel="TV6">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Rancangan yang akan mengimbau kembali hal - hal yang sering kita lakukan atau sering ada dalam kehidupan kita yang akan mengingatkan kita dengan masa lalu.</desc>
+    <episode-num system="onscreen">E22</episode-num>
+  </programme>
+  <programme start="20250224140000 +0000" stop="20250224150000 +0000" channel="TV6">
+    <title lang="en">Silir Kasih</title>
+    <desc lang="en">Drama kemasyarakatan yang memaparkan tentang hubungan kekeluargaan, persahabatan dan percintaan. Lakonan : Cristina Suzanne, Shah Jazale, Wan Raja dan Julia Ziegler.</desc>
+    <episode-num system="onscreen">E20</episode-num>
+  </programme>
+  <programme start="20250224150000 +0000" stop="20250224160000 +0000" channel="TV6">
+    <title lang="en">Istimewa Bersama</title>
+    <desc lang="en">Saksikan persembahan istimewa dan dendangan lagu-lagu malar segar daripada barisan artis popular tanah air.</desc>
+  </programme>
+  <programme start="20250224160000 +0000" stop="20250224173000 +0000" channel="TV6">
+    <title lang="en">Antara Hemisfera</title>
+    <desc lang="en">Cinta yang direbut ibarat dua jiwa satu hati. Pelbagai konflik hadir tatkala bahagia mula ingin dirasa. Lakonan : Zamarul Hisham, Lisdawati, Jalaluddin Hassan dan ramai lagi.</desc>
+  </programme>
+  <programme start="20250224173000 +0000" stop="20250224180000 +0000" channel="TV6">
+    <title lang="en">Cinta Nan Satu</title>
+    <desc lang="en">Drama bersiri yang memaparkan tentang hubungan kekeluargaan, persahabatan dan percintaan. Lakonan : Bell Ngasri, Eiyra Nabella, Redzuan Hashim dan Rosnah Johari.</desc>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20250224180000 +0000" stop="20250224183000 +0000" channel="TV6">
+    <title lang="en">Destinasi Etnik</title>
+    <desc lang="en">Berkongsi tentang latar belakang, keunikan dan tarikan daerah serta pekan-pekan kecil di Negeri Sabah.</desc>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20250224183000 +0000" stop="20250224190000 +0000" channel="TV6">
+    <title lang="en">Klip Video</title>
+    <desc lang="en">Seleksi klip-klip video terbaik untuk anda.</desc>
+  </programme>
+  <programme start="20250224190000 +0000" stop="20250224193000 +0000" channel="TV6">
+    <title lang="en">3 T 3 Dara</title>
+    <desc lang="en">Sebuah drama komedi yang mengisahkan pelbagai latar cerita masyarakat di Malaysia. Lakonan : Amyza Aznan, Norseha dan Zul Huzaimy.</desc>
+  </programme>
+  <programme start="20250224193000 +0000" stop="20250224200000 +0000" channel="TV6">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Rancangan yang akan mengimbau kembali hal - hal yang sering kita lakukan atau sering ada dalam kehidupan kita yang akan mengingatkan kita dengan masa lalu.</desc>
+    <episode-num system="onscreen">E22</episode-num>
+  </programme>
+  <programme start="20250224200000 +0000" stop="20250224210000 +0000" channel="TV6">
+    <title lang="en">Silir Kasih</title>
+    <desc lang="en">Drama kemasyarakatan yang memaparkan tentang hubungan kekeluargaan, persahabatan dan percintaan. Lakonan : Cristina Suzanne, Shah Jazale, Wan Raja dan Julia Ziegler.</desc>
+    <episode-num system="onscreen">E20</episode-num>
+  </programme>
+  <programme start="20250224210000 +0000" stop="20250224230000 +0000" channel="TV6">
+    <title lang="en">Suamiku Di Seberang</title>
+    <desc lang="en">Mengisahkan tentang seorang suami yang terpaksa berpisah dengan isterinya demi mencari nafkah di negara orang. Lakonan : Elly Mazelin, Didie Alias.</desc>
+  </programme>
+  <programme start="20250224230000 +0000" stop="20250225000000 +0000" channel="TV6">
+    <title lang="en">Bintang Pujaan</title>
+    <desc lang="en">Saksikan persembahan istimewa dan dendangan lagu-lagu malar segar daripada artis-artis popular tanah air.</desc>
+  </programme>
+  <programme start="20250225000000 +0000" stop="20250225010000 +0000" channel="TV6">
+    <title lang="en">DMI : Bayangan</title>
+    <desc lang="en">Drama minggu ini terbitan RTM yang sarat dengan nilai-nilai murni, konflik dalam kekeluargaan, percintaan dan persahabatan.</desc>
+  </programme>
+  <programme start="20250225010000 +0000" stop="20250225020000 +0000" channel="TV6">
+    <title lang="en">Roh Naterah</title>
+    <desc lang="en">Pasangan suami isteri yang hidup susah disebuah kampung, Puteh mempunyai 2 anak lelaki dan bayi perempuan bernama Naterah. Jiran mereka yang tidak mempunyai anak, telah berhasrat untuk mengambil Naterah sebagai anak angkat. Lakonan : Nadia Mustafa, Nurul Elfira dan Wan Norazlin.</desc>
+  </programme>
+  <programme start="20250225020000 +0000" stop="20250225060000 +0000" channel="TV6">
+    <title lang="en">Penutup</title>
+    <desc lang="en">Siaran tamat.</desc>
+  </programme>
+  <programme start="20250225060000 +0000" stop="20250225060200 +0000" channel="TV6">
+    <title lang="en">Pembukaan - Negaraku</title>
+    <desc lang="en">Lagu Negaraku.</desc>
+  </programme>
+  <programme start="20250225060200 +0000" stop="20250225063000 +0000" channel="TV6">
+    <title lang="en">Dari Hulu Ke Muara</title>
+    <desc lang="en">Dokumentari yang mengisahkan perjalanan menyusuri sungai yang memperlihatkan keindahan alam, budaya tempatan dan sejarah yang ditinggalkan.</desc>
+  </programme>
+  <programme start="20250225063000 +0000" stop="20250225073000 +0000" channel="TV6">
+    <title lang="en">Dari Mata Arisa</title>
+    <desc lang="en">Maliah dan Marina, kembar tidak seiras yang mempunyai perwatakan yang berbeza. Ikuti kisah seterusnya bagaimana perjalanan kehidupan mereka dalam mengharungi konflik dalam kehidupan mereka. Lakonan : Ayu Raudhah, Syed Aiman dan Ashraf Muslim.</desc>
+    <episode-num system="onscreen">E39</episode-num>
+  </programme>
+  <programme start="20250225073000 +0000" stop="20250225080000 +0000" channel="TV6">
+    <title lang="en">Syahadah 2005</title>
+    <desc lang="en">Dokumentari yang membawa penonton menerokai kepelbagaian intipati bagi menyusuri keindahan Islam dalam konteks Kembara bukan sahaja di Malaysia malah turut merentasi sempadan hingga ke luar negara.</desc>
+  </programme>
+  <programme start="20250225080000 +0000" stop="20250225090000 +0000" channel="TV6">
+    <title lang="en">Roh Naterah</title>
+    <desc lang="en">Pasangan suami isteri yang hidup susah disebuah kampung, Puteh mempunyai 2 anak lelaki dan bayi perempuan bernama Naterah. Jiran mereka yang tidak mempunyai anak, telah berhasrat untuk mengambil Naterah sebagai anak angkat. Lakonan : Nadia Mustafa, Nurul Elfira dan Wan Norazlin.</desc>
+  </programme>
+  <programme start="20250225090000 +0000" stop="20250225100000 +0000" channel="TV6">
+    <title lang="en">Hiburan Minggu Ini</title>
+    <desc lang="en">Saksikan persembahan nyanyian daripada artis solo/berkumpulan terkenal tanah air.</desc>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20250225100000 +0000" stop="20250225110000 +0000" channel="TV6">
+    <title lang="en">DMI: Takut Sendiri</title>
+    <desc lang="en">Drama minggu ini terbitan RTM yang sarat dengan nilai-nilai murni, konflik dalam kekeluargaan, percintaan dan persahabatan.</desc>
+  </programme>
+  <programme start="20250225110000 +0000" stop="20250225130000 +0000" channel="TV6">
+    <title lang="en">Subjek</title>
+    <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan. Lakonan : Rusdi Ramli, Rozita Che Wan dan Muhd Fadzrin Danial.</desc>
+  </programme>
+  <programme start="20250225130000 +0000" stop="20250225133000 +0000" channel="TV6">
+    <title lang="en">3 T 3 Dara</title>
+    <desc lang="en">Sebuah drama komedi yang mengisahkan pelbagai latar cerita masyarakat di Malaysia. Lakonan : Amyza Aznan, Norseha dan Zul Huzaimy.</desc>
+  </programme>
+  <programme start="20250225133000 +0000" stop="20250225140000 +0000" channel="TV6">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Rancangan yang akan mengimbau kembali hal - hal yang sering kita lakukan atau sering ada dalam kehidupan kita yang akan mengingatkan kita dengan masa lalu.</desc>
+    <episode-num system="onscreen">E23</episode-num>
+  </programme>
+  <programme start="20250225140000 +0000" stop="20250225150000 +0000" channel="TV6">
+    <title lang="en">Silir Kasih</title>
+    <desc lang="en">Drama kemasyarakatan yang memaparkan tentang hubungan kekeluargaan, persahabatan dan percintaan. Lakonan : Cristina Suzanne, Shah Jazale, Wan Raja dan Julia Ziegler.</desc>
+    <episode-num system="onscreen">E21</episode-num>
+  </programme>
+  <programme start="20250225150000 +0000" stop="20250225160000 +0000" channel="TV6">
+    <title lang="en">Gala 2</title>
+    <desc lang="en">Saksikan persembahan nyanyian daripada artis solo/berkumpulan terkenal tanah air.</desc>
+  </programme>
+  <programme start="20250225160000 +0000" stop="20250225173000 +0000" channel="TV6">
+    <title lang="en">Dalam Rahsia Ada Cinta</title>
+    <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.</desc>
+  </programme>
+  <programme start="20250225173000 +0000" stop="20250225180000 +0000" channel="TV6">
+    <title lang="en">Cinta Nan Satu</title>
+    <desc lang="en">Drama bersiri yang memaparkan tentang hubungan kekeluargaan, persahabatan dan percintaan. Lakonan : Bell Ngasri, Eiyra Nabella, Redzuan Hashim dan Rosnah Johari.</desc>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20250225180000 +0000" stop="20250225183000 +0000" channel="TV6">
+    <title lang="en">Syahadah 2005</title>
+    <desc lang="en">Dokumentari yang membawa penonton menerokai kepelbagaian intipati bagi menyusuri keindahan Islam dalam konteks kembara bukan sahaja di Malaysia malah turut merentasi sempadan hingga ke luar negara.</desc>
+  </programme>
+  <programme start="20250225183000 +0000" stop="20250225190000 +0000" channel="TV6">
+    <title lang="en">Klip Video</title>
+    <desc lang="en">Seleksi klip-klip video terbaik untuk anda.</desc>
+  </programme>
+  <programme start="20250225190000 +0000" stop="20250225193000 +0000" channel="TV6">
+    <title lang="en">3 T 3 Dara</title>
+    <desc lang="en">Sebuah drama komedi yang mengisahkan pelbagai latar cerita masyarakat di Malaysia. Lakonan : Amyza Aznan, Norseha dan Zul Huzaimy.</desc>
+  </programme>
+  <programme start="20250225193000 +0000" stop="20250225200000 +0000" channel="TV6">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Rancangan yang akan mengimbau kembali hal - hal yang sering kita lakukan atau sering ada dalam kehidupan kita yang akan mengingatkan kita dengan masa lalu.</desc>
+    <episode-num system="onscreen">E23</episode-num>
+  </programme>
+  <programme start="20250225200000 +0000" stop="20250225210000 +0000" channel="TV6">
+    <title lang="en">Silir Kasih</title>
+    <desc lang="en">Drama kemasyarakatan yang memaparkan tentang hubungan kekeluargaan, persahabatan dan percintaan. Lakonan : Cristina Suzanne, Shah Jazale, Wan Raja dan Julia Ziegler.</desc>
+    <episode-num system="onscreen">E21</episode-num>
+  </programme>
+  <programme start="20250225210000 +0000" stop="20250225230000 +0000" channel="TV6">
+    <title lang="en">Ruang Rindu</title>
+    <desc lang="en">Kisah cinta Nisha dan Ferdi yang dihalang oleh bapa Nisha kerana Ferdi tidak mempunyai masa depan. Nisha lari dari rumah kerana tidak mahu berkahwin dengan lelaki pilhan bapanya. Lakonan : Gambit Saifullah, Faezah Elai, Rozie Rashid dan Balkish.</desc>
+  </programme>
+  <programme start="20250225230000 +0000" stop="20250226000000 +0000" channel="TV6">
+    <title lang="en">Hiburan Minggu Ini</title>
+    <desc lang="en">Saksikan persembahan nyanyian daripada artis solo/berkumpulan terkenal tanah air.</desc>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20250226000000 +0000" stop="20250226010000 +0000" channel="TV6">
+    <title lang="en">DMI: Takut Sendiri</title>
+    <desc lang="en">Drama minggu ini terbitan RTM yang sarat dengan nilai-nilai murni, konflik dalam kekeluargaan, percintaan dan persahabatan.</desc>
+  </programme>
+  <programme start="20250226010000 +0000" stop="20250226020000 +0000" channel="TV6">
+    <title lang="en">Roh Naterah</title>
+    <desc lang="en">Pasangan suami isteri yang hidup susah disebuah kampung, Puteh mempunyai 2 anak lelaki dan bayi perempuan bernama Naterah. Jiran mereka yang tidak mempunyai anak, telah berhasrat untuk mengambil Naterah sebagai anak angkat. Lakonan : Nadia Mustafa, Nurul Elfira dan Wan Norazlin.</desc>
+  </programme>
+  <programme start="20250226020000 +0000" stop="20250226060000 +0000" channel="TV6">
+    <title lang="en">Penutup</title>
+    <desc lang="en">Siaran tamat.</desc>
+  </programme>
+  <programme start="20250226060000 +0000" stop="20250226060200 +0000" channel="TV6">
+    <title lang="en">Pembukaan - Negaraku</title>
+    <desc lang="en">Lagu Negaraku.</desc>
+  </programme>
+  <programme start="20250226060200 +0000" stop="20250226063000 +0000" channel="TV6">
+    <title lang="en">1001 Malaysia</title>
+    <desc lang="en">Sebuah dokumentari yang menelusuri usaha masyarakat setempat di serata tempat dalam membina dan membangun ekonomi setempat.</desc>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20250226063000 +0000" stop="20250226073000 +0000" channel="TV6">
+    <title lang="en">Dari Mata Arisa</title>
+    <desc lang="en">Maliah dan Marina, kembar tidak seiras yang mempunyai perwatakan yang berbeza. Ikuti kisah seterusnya bagaimana perjalanan kehidupan mereka dalam mengharungi konflik dalam kehidupan mereka. Lakonan : Ayu Raudhah, Syed Aiman dan Ashraf Muslim.</desc>
+    <episode-num system="onscreen">E40</episode-num>
+  </programme>
+  <programme start="20250226073000 +0000" stop="20250226080000 +0000" channel="TV6">
+    <title lang="en">Syahadah 2005</title>
+    <desc lang="en">Dokumentari yang membawa penonton menerokai kepelbagaian intipati bagi menyusuri keindahan Islam dalam konteks kembara bukan sahaja di Malaysia malah turut merentasi sempadan hingga ke luar negara.</desc>
+  </programme>
+  <programme start="20250226080000 +0000" stop="20250226090000 +0000" channel="TV6">
+    <title lang="en">Seteguh Impian</title>
+    <desc lang="en">Hafiz anak desa Kampung Teratak yang kehilangan ibu di usia remaja. Nakal, berani dan bijak namun gagal menamatkan persekelohan kerana desakan hidup. Lakonan : Shahronizam, Marissa, Pekin Ibrahim dan ramai lagi.</desc>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20250226090000 +0000" stop="20250226100000 +0000" channel="TV6">
+    <title lang="en">Hiburan Minggu Ini</title>
+    <desc lang="en">Saksikan persembahan nyanyian daripada artis solo/berkumpulan terkenal tanah air.</desc>
+    <episode-num system="onscreen">E27</episode-num>
+  </programme>
+  <programme start="20250226100000 +0000" stop="20250226110000 +0000" channel="TV6">
+    <title lang="en">DMI: Mencari Arus</title>
+    <desc lang="en">Drama minggu ini terbitan RTM yang sarat dengan nilai-nilai murni, konflik dalam kekeluargaan, percintaan dan persahabatan.</desc>
+  </programme>
+  <programme start="20250226110000 +0000" stop="20250226130000 +0000" channel="TV6">
+    <title lang="en">Kasih Tania 2</title>
+    <desc lang="en">Sebuah telemovie komedi yang mengisahkan tentang seorang pengusaha ternakan kambing telah mendapat formula untuk ubat kecantikan berasaskan susu kambing. Pelbagai peristiwa terjadi sepanjang usahanya ini.</desc>
+  </programme>
+  <programme start="20250226130000 +0000" stop="20250226133000 +0000" channel="TV6">
+    <title lang="en">3 T 3 Dara</title>
+    <desc lang="en">Sebuah drama komedi yang mengisahkan pelbagai latar cerita masyarakat di Malaysia. Lakonan : Amyza Aznan, Norseha dan Zul Huzaimy.</desc>
+  </programme>
+  <programme start="20250226133000 +0000" stop="20250226140000 +0000" channel="TV6">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Rancangan yang akan mengimbau kembali hal - hal yang sering kita lakukan atau sering ada dalam kehidupan kita yang akan mengingatkan kita dengan masa lalu.</desc>
+    <episode-num system="onscreen">E24</episode-num>
+  </programme>
+  <programme start="20250226140000 +0000" stop="20250226150000 +0000" channel="TV6">
+    <title lang="en">Opah</title>
+    <desc lang="en">Sebuah drama bersiri terbitan RTM yang mengisahkan tentang liku-liku kehidupan, cabaran dan rintangan yang harus dilalui oleh Opah (Zaiton Hussain), seorang ibu tunggal dalam membesarkan anak-anaknya. Lakonan : Zaiton Hussain, Khatijah Abu Hassan, Zami Ismail, Radzali Buyung dan Normala Omar.</desc>
+  </programme>
+  <programme start="20250226150000 +0000" stop="20250226160000 +0000" channel="TV6">
+    <title lang="en">Hiburan Minggu Ini</title>
+    <desc lang="en">Saksikan persembahan nyanyian daripada artis solo/berkumpulan terkenal tanah air.</desc>
+    <episode-num system="onscreen">E16</episode-num>
+  </programme>
+  <programme start="20250226160000 +0000" stop="20250226173000 +0000" channel="TV6">
+    <title lang="en">Sentuhan Isabella</title>
+    <desc lang="en">Kisah Isabella seorang pelarian perang Bosnia berusaha menjejaki anaknya di Malaysia. Lakonan : Julia Ziegler, Cris Cempaka, Zamarul Hisham dan ramai lagi.</desc>
+  </programme>
+  <programme start="20250226173000 +0000" stop="20250226180000 +0000" channel="TV6">
+    <title lang="en">Tertawan</title>
+    <desc lang="en">Kisah Randa, seorang wanita yatim piatu yang pernah diperkosa sewaktu remajanya berusaha untuk bangkit daripada pengalaman hitamnya menjadi wanita berjaya. Lakonan : Eman Manan, Faizal Hussein, Mardiana Alwi dan ramai lagi.</desc>
+  </programme>
+  <programme start="20250226180000 +0000" stop="20250226183000 +0000" channel="TV6">
+    <title lang="en">Syahadah 2005</title>
+    <desc lang="en">Dokumentari yang membawa penonton menerokai kepelbagaian intipati bagi menyusuri keindahan Islam dalam konteks kembara bukan sahaja di Malaysia malah turut merentasi sempadan hingga ke luar negara.</desc>
+  </programme>
+  <programme start="20250226183000 +0000" stop="20250226190000 +0000" channel="TV6">
+    <title lang="en">Klip Video</title>
+    <desc lang="en">Seleksi klip-klip video terbaik untuk anda.</desc>
+  </programme>
+  <programme start="20250226190000 +0000" stop="20250226193000 +0000" channel="TV6">
+    <title lang="en">3 T 3 Dara</title>
+    <desc lang="en">Sebuah drama komedi yang mengisahkan pelbagai latar cerita masyarakat di Malaysia. Lakonan : Amyza Aznan, Norseha dan Zul Huzaimy.</desc>
+  </programme>
+  <programme start="20250226193000 +0000" stop="20250226200000 +0000" channel="TV6">
+    <title lang="en">Nostalgia</title>
+    <desc lang="en">Rancangan yang akan mengimbau kembali hal - hal yang sering kita lakukan atau sering ada dalam kehidupan kita yang akan mengingatkan kita dengan masa lalu.</desc>
+    <episode-num system="onscreen">E24</episode-num>
+  </programme>
+  <programme start="20250226200000 +0000" stop="20250226210000 +0000" channel="TV6">
+    <title lang="en">Opah</title>
+    <desc lang="en">Sebuah drama bersiri terbitan RTM yang mengisahkan tentang liku-liku kehidupan, cabaran dan rintangan yang harus dilalui oleh Opah (Zaiton Hussain), seorang ibu tunggal dalam membesarkan anak-anaknya. Lakonan : Zaiton Hussain, Khatijah Abu Hassan, Zami Ismail, Radzali Buyung dan Normala Omar.</desc>
+  </programme>
+  <programme start="20250226210000 +0000" stop="20250226230000 +0000" channel="TV6">
+    <title lang="en">Lambretta Pak Lang Husin</title>
+    <desc lang="en">Telemovie kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan. Lakonan : Zul Huzaimy, Aman Graseka, Norseha, Idris Md Diah dan Ozlyn Waty.</desc>
+  </programme>
+  <programme start="20250226230000 +0000" stop="20250227000000 +0000" channel="TV6">
+    <title lang="en">Hiburan Minggu Ini</title>
+    <desc lang="en">Saksikan persembahan nyanyian daripada artis solo/berkumpulan terkenal tanah air.</desc>
+    <episode-num system="onscreen">E27</episode-num>
   </programme>
   <programme start="20250219100000 +0000" stop="20250219143000 +0000" channel="Dewan Rakyat">
     <title lang="en">Parlimen Kelima Belas 2025 (Penggal Keempat): Mesyuarat Pertama</title>
