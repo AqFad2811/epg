@@ -1,11 +1,4 @@
-Update: With Astro's restructuring and rebranding of their channels, some XMLTV IDs have changed. These includes:
-| Old XMLV ID | New XMLTV ID |
-|--|--|
-| `AstroVinmeenHD` | `AstroVinmeen` |
-| `ABOThangathirai` | `AstroThangathirai` |
-|  `AstroAODHD` | `AstroAOD` |
-| `BOO` | `AstroBoo` |
-| `Showcase` | `AstroShowcase` |
+Update: **Introducing... Sooka EPG's! Now available here.**
 
 
 ## Information
@@ -24,7 +17,7 @@ If you have a playlist to use with this XMLTV EPG data, add `tvg-id="(XMLTV ID H
 ## EPG
 Mixxed files of all epg files except for Unifi TV.
 
-## Astro
+## Astro & Sooka
 The XMLTV ID is the channel name, for example: `TV1` is the Channel ID for `TV1 HD`.
 
 ## Indonesia
