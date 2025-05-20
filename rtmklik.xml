@@ -22,7 +22,7 @@
   </channel>
   <channel id="Berita RTM">
     <display-name lang="en">Berita RTM</display-name>
-    <icon src="https://rtm-images.glueapi.io/480x0live_channel/berita_bckg.jpg" />
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
     <url>http://rtmklik.rtm.gov.my</url>
   </channel>
   <channel id="TV6">
@@ -32,7 +32,7 @@
   </channel>
   <channel id="Dewan Rakyat">
     <display-name lang="en">Dewan Rakyat</display-name>
-    <icon src="https://rtm-images.glueapi.io/480x0live_channel/7.png" />
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/7.png" />
     <url>http://rtmklik.rtm.gov.my</url>
   </channel>
   <channel id="Dewan Negara">
