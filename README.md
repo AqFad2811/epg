@@ -1,4 +1,4 @@
-Update: **Introducing... Sooka EPG's! Now available here.**
+Update: **After few months of not updating the Indonesia EPG channels, I have finally started to updating most of the channels including the brand new one. See the Indonesia section for more info.**
 
 
 ## Information
@@ -21,7 +21,7 @@ Mixxed files of all epg files except for Unifi TV.
 The XMLTV ID is the channel name, for example: `TV1` is the Channel ID for `TV1 HD`.
 
 ## Indonesia
-Sometimes, the XMLTV id will have the alpha-2 country codes for where the channel belongs or simply `.id` at the end, for example `tvNMovies.kr` is the Channel ID for `tvN Movies` or `ROCKAction.id` is the Channel ID for `ROCK Action`.
+The XMLTV id will have the alpha-2 country code `.id` at the end, for example `tvNMovies.id` is the Channel ID for `tvN Movies` or `ROCKAction.id` is the Channel ID for `ROCK Action`.
 
 ## unifi TV
 The XMLTV ID is the channel number itself, for example: `101` is the Channel ID for `TV1`.
