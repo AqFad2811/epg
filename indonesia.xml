@@ -90,11 +90,6 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_39.png" />
     <url>http://www.mncvision.id</url>
   </channel>
-  <channel id="Moonbug.id">
-    <display-name lang="id">Moonbug</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_40.png" />
-    <url>http://www.mncvision.id</url>
-  </channel>
   <channel id="CBeebies.id">
     <display-name lang="id">CBeebies</display-name>
     <icon src="https://mncvision.id/userfiles/image/channel/cbeebies_150.png" />
@@ -1322,57 +1317,6 @@
   <programme start="20250705233000 +0700" stop="20250706000000 +0700" channel="ZooMoo.id">
     <title lang="id">ZooMoo's Wild Friends</title>
     <episode-num system="onscreen">S1 E66</episode-num>
-  </programme>
-  <programme start="20250705162400 +0700" stop="20250705170000 +0700" channel="Moonbug.id">
-    <title lang="id">Dance Party</title>
-  </programme>
-  <programme start="20250705170000 +0700" stop="20250705173000 +0700" channel="Moonbug.id">
-    <title lang="id">CoComelon</title>
-  </programme>
-  <programme start="20250705173000 +0700" stop="20250705180000 +0700" channel="Moonbug.id">
-    <title lang="id">CoComelon</title>
-  </programme>
-  <programme start="20250705180000 +0700" stop="20250705182800 +0700" channel="Moonbug.id">
-    <title lang="id">T-Rex Ranch</title>
-  </programme>
-  <programme start="20250705182800 +0700" stop="20250705184800 +0700" channel="Moonbug.id">
-    <title lang="id">Morphle</title>
-  </programme>
-  <programme start="20250705184800 +0700" stop="20250705192100 +0700" channel="Moonbug.id">
-    <title lang="id">Go Buster</title>
-  </programme>
-  <programme start="20250705192100 +0700" stop="20250705194800 +0700" channel="Moonbug.id">
-    <title lang="id">Little Angel</title>
-  </programme>
-  <programme start="20250705194800 +0700" stop="20250705201100 +0700" channel="Moonbug.id">
-    <title lang="id">Rob The Robot</title>
-  </programme>
-  <programme start="20250705201100 +0700" stop="20250705203400 +0700" channel="Moonbug.id">
-    <title lang="id">Rob The Robot</title>
-  </programme>
-  <programme start="20250705203400 +0700" stop="20250705211200 +0700" channel="Moonbug.id">
-    <title lang="id">JJ's Animal Time</title>
-  </programme>
-  <programme start="20250705211200 +0700" stop="20250705213300 +0700" channel="Moonbug.id">
-    <title lang="id">CoComelon</title>
-  </programme>
-  <programme start="20250705213300 +0700" stop="20250705220600 +0700" channel="Moonbug.id">
-    <title lang="id">CoComelon</title>
-  </programme>
-  <programme start="20250705220600 +0700" stop="20250705223600 +0700" channel="Moonbug.id">
-    <title lang="id">Little Angel</title>
-  </programme>
-  <programme start="20250705223600 +0700" stop="20250705230100 +0700" channel="Moonbug.id">
-    <title lang="id">Little Angel</title>
-  </programme>
-  <programme start="20250705230100 +0700" stop="20250705233000 +0700" channel="Moonbug.id">
-    <title lang="id">Oddbods</title>
-  </programme>
-  <programme start="20250705233000 +0700" stop="20250705235100 +0700" channel="Moonbug.id">
-    <title lang="id">Oddbods</title>
-  </programme>
-  <programme start="20250705235100 +0700" stop="20250706000800 +0700" channel="Moonbug.id">
-    <title lang="id">Oddbods: Short</title>
   </programme>
   <programme start="20250705162800 +0700" stop="20250705163500 +0700" channel="CBeebies.id">
     <title lang="id">Bluey</title>
