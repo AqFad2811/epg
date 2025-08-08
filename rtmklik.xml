@@ -477,8 +477,9 @@
     <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
   </programme>
   <programme start="20250809043000 +0000" stop="20250809050000 +0000" channel="TV1">
-    <title lang="en">SIARAN LANGSUNG: Majlis Penutupan MADANI Rakyat 2025 Kelantan</title>
-    <desc lang="en">Ikuti secara langsung Majlis Penutupan Madani Rakyat 2025 Kelantan.</desc>
+    <title lang="en">Resepi Tok</title>
+    <desc lang="en">Masakan turun-temurun penuh rasa dan nostalgia! Resepi Tok membawa anda menyelami warisan dapur tradisi dengan hidangan istimewa yang menghubungkan generasi.</desc>
+    <episode-num system="onscreen">E24</episode-num>
   </programme>
   <programme start="20250809050000 +0000" stop="20250809053000 +0000" channel="TV1">
     <title lang="en">Berita Tengah Hari</title>
@@ -490,8 +491,8 @@
     <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
   </programme>
   <programme start="20250809063000 +0000" stop="20250809070000 +0000" channel="TV1">
-    <title lang="en">SAMBUNG MEMORI: Suara Azan</title>
-    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+    <title lang="en">SIARAN LANGSUNG: Majlis Penutupan MADANI Rakyat 2025 Kelantan</title>
+    <desc lang="en">Ikuti secara langsung Majlis Penutupan Madani Rakyat 2025 Kelantan.</desc>
   </programme>
   <programme start="20250809070000 +0000" stop="20250809070500 +0000" channel="TV1">
     <title lang="en">Berita Semasa</title>
@@ -543,20 +544,16 @@
     <title lang="en">Kanta 744</title>
     <desc lang="en">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
   </programme>
-  <programme start="20250809120000 +0000" stop="20250809123000 +0000" channel="TV1">
+  <programme start="20250809120000 +0000" stop="20250809122500 +0000" channel="TV1">
     <title lang="en">Berita Perdana</title>
     <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan serta berita hiburan.</desc>
   </programme>
-  <programme start="20250809123000 +0000" stop="20250809124500 +0000" channel="TV1">
-    <title lang="en">Malaysia Tonight</title>
-    <desc lang="en">Bringing the latest updates from across the globe.</desc>
-  </programme>
-  <programme start="20250809124500 +0000" stop="20250809140000 +0000" channel="TV1">
+  <programme start="20250809122500 +0000" stop="20250809140000 +0000" channel="TV1">
     <title lang="en">SIARAN LANGSUNG: Majlis Penutup Dan Pengurniaan Hadiah Majlis Tilawah Dan Hafazan Al-Quran Peringkat Antarabangsa 1447H/2025M</title>
     <desc lang="en">Ikuti secara langsung Majlis Penutup Dan Pengurniaan Hadiah Majlis Tilawah Dan Hafazan Al-Quran Peringkat Antarabangsa 1447H/2025M.</desc>
   </programme>
   <programme start="20250809140000 +0000" stop="20250809160000 +0000" channel="TV1">
-    <title lang="en">Tepat Waktu</title>
+    <title lang="en">PANGGUNG RTM: Tepat Waktu</title>
     <title lang="xx">Diari Rawat</title>
     <desc lang="en">Saksikan perbincangan bersama pakar kesihatan dan tetamu undangan dengan isu-isu kesihatan terkini di Diari Rawat.</desc>
   </programme>
@@ -782,8 +779,10 @@
     <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
   </programme>
   <programme start="20250810223000 +0000" stop="20250810230000 +0000" channel="TV1">
-    <title lang="en">Iqra'</title>
+    <title lang="en">Iqra' 2025</title>
+    <title lang="xx">Iqra'</title>
     <desc lang="en">Jom Adik-Adik, Saksikan Rancangan Iqra’ dan bersama-Sama Bertalaqqi dalam Surah Al-Maun bersama Ustazah Aisyah Baa’in.</desc>
+    <episode-num system="onscreen">E18</episode-num>
   </programme>
   <programme start="20250810230000 +0000" stop="20250810231000 +0000" channel="TV1">
     <title lang="en">Berita Pagi Semenanjung</title>
@@ -849,7 +848,8 @@
     <desc lang="en">Rancangan bual bicara dengan topik bersama tetamu jemputan secara langsung dari Kota Kinabalu, Sabah.</desc>
   </programme>
   <programme start="20250811080000 +0000" stop="20250811080500 +0000" channel="TV1">
-    <title lang="en">Parlimen Semasa</title>
+    <title lang="en">Berita Semasa</title>
+    <title lang="xx">Parlimen Semasa</title>
     <desc lang="en">Memaparkan perkembangan berita PARLIMEN.</desc>
   </programme>
   <programme start="20250811080500 +0000" stop="20250811082000 +0000" channel="TV1">
@@ -890,7 +890,8 @@
     <desc lang="en">Bringing the latest updates from across the globe.</desc>
   </programme>
   <programme start="20250811130000 +0000" stop="20250811140000 +0000" channel="TV1">
-    <title lang="en">SIARAN LANGSUNG: Bicara Naratif</title>
+    <title lang="en">Bicara Naratif 2025</title>
+    <title lang="xx">SIARAN LANGSUNG: Bicara Naratif</title>
     <desc lang="en">Program bicarawara bertema Naratif bersama tetamu undangan dan membincangkan isu semasa sebagai topik pilihan.</desc>
   </programme>
   <programme start="20250811140000 +0000" stop="20250811141500 +0000" channel="TV1">
@@ -898,7 +899,8 @@
     <desc lang="en">Memaparkan perkembangan berita luar negara.</desc>
   </programme>
   <programme start="20250811141500 +0000" stop="20250811143000 +0000" channel="TV1">
-    <title lang="en">Berita Parlimen</title>
+    <title lang="en">Promo / PSA / Kapsul</title>
+    <title lang="xx">Berita Parlimen</title>
     <desc lang="en">Mesyuarat Kedua, Penggal Keempat, Parlimen Malaysia ke-15 akan disiarkan secara langsung dengan Dewan Rakyat bermula dari 21Julai hingga 28 Ogos 2025, manakala Dewan Negara dari 25 Ogos hingga 10 September 2025.</desc>
   </programme>
   <programme start="20250811143000 +0000" stop="20250811153000 +0000" channel="TV1">
@@ -909,6 +911,7 @@
   <programme start="20250811153000 +0000" stop="20250811160000 +0000" channel="TV1">
     <title lang="en">Petronas Malaysian Cubprix Highlight 2025</title>
     <desc lang="en">Saksikan perkembangan Petronas Malaysian Cub Prix Highlight 2025, perlumbaan penuh aksi yang menampilkan bakat-bakat tempatan bersaing dalam kejohanan motosikal paling berprestij di Malaysia. Ikuti detik-detik mendebarkan.</desc>
+    <episode-num system="onscreen">E10</episode-num>
   </programme>
   <programme start="20250811160000 +0000" stop="20250811163000 +0000" channel="TV1">
     <title lang="en">Berita Tengah Malam</title>
@@ -1022,7 +1025,8 @@
     <desc lang="en">Saksikan program bual bicara bersama tetamu istimewa.</desc>
   </programme>
   <programme start="20250812080000 +0000" stop="20250812080500 +0000" channel="TV1">
-    <title lang="en">Parlimen Semasa</title>
+    <title lang="en">Berita Semasa</title>
+    <title lang="xx">Parlimen Semasa</title>
     <desc lang="en">Memaparkan perkembangan berita PARLIMEN.</desc>
   </programme>
   <programme start="20250812080500 +0000" stop="20250812082000 +0000" channel="TV1">
@@ -1063,7 +1067,8 @@
     <desc lang="en">Bringing the latest updates from across the globe.</desc>
   </programme>
   <programme start="20250812130000 +0000" stop="20250812140000 +0000" channel="TV1">
-    <title lang="en">SIARAN LANGSUNG: Bicara Naratif</title>
+    <title lang="en">Bicara Naratif 2025</title>
+    <title lang="xx">SIARAN LANGSUNG: Bicara Naratif</title>
     <desc lang="en">Program bicarawara bertema Naratif bersama tetamu undangan dan membincangkan isu semasa sebagai topik pilihan.</desc>
   </programme>
   <programme start="20250812140000 +0000" stop="20250812141500 +0000" channel="TV1">
@@ -1071,7 +1076,8 @@
     <desc lang="en">Memaparkan perkembangan berita luar negara.</desc>
   </programme>
   <programme start="20250812141500 +0000" stop="20250812143000 +0000" channel="TV1">
-    <title lang="en">Berita Parlimen</title>
+    <title lang="en">Promo / PSA / Kapsul</title>
+    <title lang="xx">Berita Parlimen</title>
     <desc lang="en">Mesyuarat Kedua, Penggal Keempat, Parlimen Malaysia ke-15 akan disiarkan secara langsung dengan Dewan Rakyat bermula dari 21Julai hingga 28 Ogos 2025, manakala Dewan Negara dari 25 Ogos hingga 10 September 2025.</desc>
   </programme>
   <programme start="20250812143000 +0000" stop="20250812153000 +0000" channel="TV1">
@@ -1192,7 +1198,8 @@
     <desc lang="en">Cuit Sikit Jangan Sentap sebuah rancangan bual bicara secara langsung yang memberi tumpuan kepada isu-isu generasi muda serta menyentuh nilai-nilai murni dan kerohanian. Dihoskan pengacara muda iaitu Hafez Dolson, Syairul Islam Basmullah &amp; Irfan Syahmi Nasution.</desc>
   </programme>
   <programme start="20250813080000 +0000" stop="20250813080500 +0000" channel="TV1">
-    <title lang="en">Parlimen Semasa</title>
+    <title lang="en">Berita Semasa</title>
+    <title lang="xx">Parlimen Semasa</title>
     <desc lang="en">Memaparkan perkembangan berita PARLIMEN.</desc>
   </programme>
   <programme start="20250813080500 +0000" stop="20250813082000 +0000" channel="TV1">
@@ -1241,7 +1248,8 @@
     <desc lang="en">Memaparkan perkembangan berita luar negara.</desc>
   </programme>
   <programme start="20250813141500 +0000" stop="20250813143000 +0000" channel="TV1">
-    <title lang="en">Berita Parlimen</title>
+    <title lang="en">Promo / PSA / Kapsul</title>
+    <title lang="xx">Berita Parlimen</title>
     <desc lang="en">Mesyuarat Kedua, Penggal Keempat, Parlimen Malaysia ke-15 akan disiarkan secara langsung dengan Dewan Rakyat bermula dari 21Julai hingga 28 Ogos 2025, manakala Dewan Negara dari 25 Ogos hingga 10 September 2025.</desc>
   </programme>
   <programme start="20250813143000 +0000" stop="20250813153000 +0000" channel="TV1">
@@ -1362,7 +1370,8 @@
     <desc lang="en">Saksikan perbincangan bersama pakar kesihatan dan tetamu undangan dengan isu-isu kesihatan terkini di Diari Rawat.</desc>
   </programme>
   <programme start="20250814080000 +0000" stop="20250814080500 +0000" channel="TV1">
-    <title lang="en">Parlimen Semasa</title>
+    <title lang="en">Berita Semasa</title>
+    <title lang="xx">Parlimen Semasa</title>
     <desc lang="en">Memaparkan perkembangan berita PARLIMEN.</desc>
   </programme>
   <programme start="20250814080500 +0000" stop="20250814082000 +0000" channel="TV1">
@@ -1411,7 +1420,8 @@
     <desc lang="en">Memaparkan perkembangan berita luar negara.</desc>
   </programme>
   <programme start="20250814141500 +0000" stop="20250814143000 +0000" channel="TV1">
-    <title lang="en">Berita Parlimen</title>
+    <title lang="en">Promo / PSA / Kapsul</title>
+    <title lang="xx">Berita Parlimen</title>
     <desc lang="en">Mesyuarat Kedua, Penggal Keempat, Parlimen Malaysia ke-15 akan disiarkan secara langsung dengan Dewan Rakyat bermula dari 21Julai hingga 28 Ogos 2025, manakala Dewan Negara dari 25 Ogos hingga 10 September 2025.</desc>
   </programme>
   <programme start="20250814143000 +0000" stop="20250814153000 +0000" channel="TV1">
@@ -1510,8 +1520,10 @@
     <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
   </programme>
   <programme start="20250815033000 +0000" stop="20250815040000 +0000" channel="TV1">
-    <title lang="en">Persada Jurnal</title>
+    <title lang="en">Persada Jurnal 2025</title>
+    <title lang="xx">Persada Jurnal</title>
     <desc lang="en">Ikuti pengacara melihat perkembangan Islam di seluruh dunia.</desc>
+    <episode-num system="onscreen">E17</episode-num>
   </programme>
   <programme start="20250815040000 +0000" stop="20250815041500 +0000" channel="TV1">
     <title lang="en">Berita Tengah Hari</title>
@@ -1524,6 +1536,7 @@
   <programme start="20250815043000 +0000" stop="20250815051600 +0000" channel="TV1">
     <title lang="en">Lisanul Haq 2025</title>
     <desc lang="en">Saksikan Lisanul Haq Dakwah dengan gaya jalanan secara santai kepada orang awam.</desc>
+    <episode-num system="onscreen">E14</episode-num>
   </programme>
   <programme start="20250815051600 +0000" stop="20250815063000 +0000" channel="TV1">
     <title lang="en">SIARAN LANGSUNG: Solat Jumaat</title>
@@ -1555,8 +1568,10 @@
     <desc lang="en">Saksikan kompilasi bacaan peserta-peserta hafazan dalam pertandingan Majlis Tilawah &amp; Hafazan Al-Quran Peringkat Kebangsaan. Hayati bacaan Al-Quran.</desc>
   </programme>
   <programme start="20250815083000 +0000" stop="20250815090000 +0000" channel="TV1">
-    <title lang="en">Persada Jurnal</title>
+    <title lang="en">Persada Jurnal 2025</title>
+    <title lang="xx">Persada Jurnal</title>
     <desc lang="en">Ikuti pengacara melihat perkembangan Islam di seluruh dunia.</desc>
+    <episode-num system="onscreen">E18</episode-num>
   </programme>
   <programme start="20250815090000 +0000" stop="20250815100000 +0000" channel="TV1">
     <title lang="en">Berita Wilayah</title>
@@ -1588,7 +1603,8 @@
     <desc lang="en">Saksikan dokumentari menarik berkaitan alam dan kehidupan menerusi Simfoni Alam menerusi slot LENSA.</desc>
   </programme>
   <programme start="20250815133000 +0000" stop="20250815140000 +0000" channel="TV1">
-    <title lang="en">SIARAN LANGSUNG: KOPIeKONOMI</title>
+    <title lang="en">KOPIeKONOMI</title>
+    <title lang="xx">SIARAN LANGSUNG: KOPIeKONOMI</title>
     <desc lang="en">Program bual bicara ekonomi santai yang menampilkan panel jemputan di ruang kopi. Sambil mengopi bagi membincangkan pelbagai isu semasa ekonomi, kewangan mahupun perniagaan.</desc>
   </programme>
   <programme start="20250815140000 +0000" stop="20250815141500 +0000" channel="TV1">
@@ -1610,7 +1626,7 @@
   <programme start="20250815153000 +0000" stop="20250815160000 +0000" channel="TV1">
     <title lang="en">Rona Sabah</title>
     <desc lang="en">Membawa penonton melihat kehidupan di sekitar Sabah yang menyimpan pelbagai rahsia alam, serta cara hidup penduduk dan ekonomi setempat.</desc>
-    <episode-num system="onscreen">S16</episode-num>
+    <episode-num system="onscreen">S16E13</episode-num>
   </programme>
   <programme start="20250807160000 +0000" stop="20250807163000 +0000" channel="TV2">
     <title lang="en">Arusuvai Aayiram</title>
@@ -3021,11 +3037,35 @@
     <title lang="en">13 Hari Miri - Sibuti</title>
     <desc lang="en">Sebuah rancangan yang membawa penonton menyelam di tempat terpilih.</desc>
   </programme>
-  <programme start="20250809113000 +0000" stop="20250809150000 +0000" channel="Okey">
-    <title lang="en">Siaran Langsung - BOLA SEPAK LIGA SUPER 2025-2026</title>
+  <programme start="20250809113000 +0000" stop="20250809120000 +0000" channel="Okey">
+    <title lang="en">Rumah Viral</title>
     <title lang="xx">Siaran Langsung - BOLA SEPAK PIALA MALAYSIA 2024 - 2025 AKHIR</title>
     <desc lang="en">PERLAWANAN BOLA SEPAK PIALA MALAYSIA 2024 - 2025 AKHIR (KUCHING CITY FC VS KELANTAN THE REAL WARRIOR FC).</desc>
-    <episode-num system="onscreen">E25</episode-num>
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20250809120000 +0000" stop="20250809123000 +0000" channel="Okey">
+    <title lang="en">Trivia Malaysia</title>
+    <desc lang="en">Meneroka 3 subjek yang mencerminkan kekayaan budaya dan khazanah bumi Malaysia.</desc>
+  </programme>
+  <programme start="20250809123000 +0000" stop="20250809130000 +0000" channel="Okey">
+    <title lang="en">Pastri Siapa Sedap</title>
+    <desc lang="en">Firdaus Hanan akan menjemput seorang selebriti untuk berkongsi resipi pastri yang enak.</desc>
+  </programme>
+  <programme start="20250809130000 +0000" stop="20250809133000 +0000" channel="Okey">
+    <title lang="en">Sis Travel</title>
+    <desc lang="en">Saree dan Qila akan mengunjungi pelbagai lokasi menarik di Semenanjung Malaysia, Sabah dan Sarawak.</desc>
+  </programme>
+  <programme start="20250809133000 +0000" stop="20250809140000 +0000" channel="Okey">
+    <title lang="en">La Fusion</title>
+    <desc lang="en">Ikuti Chef Fikree Aznan yang akan menyediakan resepi – resepi istimewa berasaskan masakan kotemporari.</desc>
+  </programme>
+  <programme start="20250809140000 +0000" stop="20250809143000 +0000" channel="Okey">
+    <title lang="en">Kaki Mendaki</title>
+    <desc lang="en">Pengembaraan &amp; pendakian Sharifah Sofia ke pelbagai lokasi gunung yang menarik.</desc>
+  </programme>
+  <programme start="20250809143000 +0000" stop="20250809150000 +0000" channel="Okey">
+    <title lang="en">Kopi-Kopi</title>
+    <desc lang="en">Mencari kopi terbaik di Malaysia sambil melawat ke tempat-tempat menarik dan bersejarah di dalam negeri.</desc>
   </programme>
   <programme start="20250809150000 +0000" stop="20250809153000 +0000" channel="Okey">
     <title lang="en">Klip Video</title>
@@ -3123,9 +3163,38 @@
     <title lang="en">i-Bajau</title>
     <desc lang="en">Memaparkan perkembangan berita dalam bahasa etnik Bajau.</desc>
   </programme>
-  <programme start="20250810061500 +0000" stop="20250810103000 +0000" channel="Okey">
+  <programme start="20250810061500 +0000" stop="20250810063000 +0000" channel="Okey">
     <title lang="en">Klip Video</title>
     <desc lang="en">Seleksi klip-klip video terbaik untuk anda.</desc>
+  </programme>
+  <programme start="20250810063000 +0000" stop="20250810073000 +0000" channel="Okey">
+    <title lang="en">P.A Lelaki Kerek</title>
+    <desc lang="en">Sebuah drama penuh konflik yang menarik untuk tontonan. Hafzan, kenalan Irdina sejak kecil sudah berkali-kali meluahkan perasaan cinta dan ingin melamar Irdina.</desc>
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20250810073000 +0000" stop="20250810080000 +0000" channel="Okey">
+    <title lang="en">Hias Laman #perangpasu</title>
+    <desc lang="en">Sebuah rancangan realiti majalah dekorasi laman berkonsepkan urban, youth dan millenia yang dihoskan oleh Awen Ismail.Kali ini pelajar dari Landscape Architect akan berentap dengan tema Bahan Kitar Semula.</desc>
+  </programme>
+  <programme start="20250810080000 +0000" stop="20250810083000 +0000" channel="Okey">
+    <title lang="en">Klip Video</title>
+    <desc lang="en">Seleksi klip-klip video terbaik untuk anda.</desc>
+  </programme>
+  <programme start="20250810083000 +0000" stop="20250810090000 +0000" channel="Okey">
+    <title lang="en">The Singing Chef</title>
+    <desc lang="en">Sebuah rancangan masakan yang akan menjemput seorang selebriti undangan untuk memasak dan menyanyi bersama hos, Cef Tiah Ridhwani.Cef kali ini akan menjemput Harris Anuar dengan resipi Vietnamese Rice Paper Rolls.</desc>
+  </programme>
+  <programme start="20250810090000 +0000" stop="20250810093000 +0000" channel="Okey">
+    <title lang="en">#CARISAMPAIJUMPA</title>
+    <desc lang="en">Nadia Hasnan meneroka dan mengembara serata Malaysia dengan misi mencari batu kilometer “0”. Hos akan berada di Selangor dalam episod kali ini.</desc>
+  </programme>
+  <programme start="20250810093000 +0000" stop="20250810100000 +0000" channel="Okey">
+    <title lang="en">Keluarga Nuaim</title>
+    <desc lang="en">Sebuah rancangan animasi mengisahkan tentang keluarga Nuaim yang banyak memberikan pengajaran.Episod kali ini bertajuk Scammer Pergi Jauh-Jauh.</desc>
+  </programme>
+  <programme start="20250810100000 +0000" stop="20250810103000 +0000" channel="Okey">
+    <title lang="en">Wild Wheels</title>
+    <desc lang="en">Bersama Teejay Marquez meneroka Laos dan pelbagai tempat menarik.Bersama Nia yang akan berkongsi cabaran memasak nasi kandar dan juga menaiki beca mencari barang tersembunyi.</desc>
   </programme>
   <programme start="20250810103000 +0000" stop="20250810104500 +0000" channel="Okey">
     <title lang="en">i-Iban</title>
@@ -3135,21 +3204,83 @@
     <title lang="en">i-Dusun</title>
     <desc lang="en">Memaparkan perkembangan berita di Sabah dalam bahasa etnik Dusun.</desc>
   </programme>
-  <programme start="20250810110000 +0000" stop="20250810160000 +0000" channel="Okey">
+  <programme start="20250810110000 +0000" stop="20250810113000 +0000" channel="Okey">
     <title lang="en">Diari Karavan Dari Scotland</title>
     <desc lang="en">Menaiki karavan di negara Scotland untuk menikmati panorama menarik di sana bersama Cef Sabri Hassan.Master Cef Sabri hassan akan berkongsi resipi Salmon Panggang Dengan Sos Mentega &amp; Spageti Sos Tomato.</desc>
+  </programme>
+  <programme start="20250810113000 +0000" stop="20250810120000 +0000" channel="Okey">
+    <title lang="en">Better Than Home</title>
+    <desc lang="en">Rizal Khalif membawa penonton mengenali pengembara luar yang memilih untuk menetap di Malaysia dan melakukan aktiviti menarik.Rizal Khalif akan membawa Alena Belozertseva di Sungai Besar..</desc>
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20250810120000 +0000" stop="20250810130000 +0000" channel="Okey">
+    <title lang="en">Jejak</title>
+    <desc lang="en">Mengisahkan tentang Rania, seoang bekas Pegawai Unit Khas, ATM yang kini bekerja sebagai pembantu kedai kerepek demi kelangsungan hidup.Rania cuba membongkar segala rahsia mengenai kehilangan orang.</desc>
+  </programme>
+  <programme start="20250810130000 +0000" stop="20250810133000 +0000" channel="Okey">
+    <title lang="en">Tiga Abdul La</title>
+    <desc lang="en">Sebuah program realiti yang dihoskan oleh Atu Zero, Joe Aziz dan Dewa Arteh yang akan menjemput tetamu beserta cabaran setiap minggu. Hos kali ini akan menjemput Mek Yun di Triangle Farm Cottage. Sasaran ikan kali ini adalah Ikan Puyu.</desc>
+  </programme>
+  <programme start="20250810133000 +0000" stop="20250810153000 +0000" channel="Okey">
+    <title lang="en">Nyawa</title>
+    <desc lang="en">Mengisahkan Adam, Anita dan Alina yang terlibat dalam kemalangan akibat dari pemandu mabuk. Adam tidak dapat menerima kematian Anita.</desc>
+  </programme>
+  <programme start="20250810153000 +0000" stop="20250810160000 +0000" channel="Okey">
+    <title lang="en">Bakugan 2.0 : Evolution</title>
+    <desc lang="en">Kumpulan Awesome Brawlers dijemput untuk menyertai sebuah akademi khas yang dibangunkan untuk melatih pahlawan-pahlawan bakugan yang hebat.</desc>
+    <episode-num system="onscreen">E19</episode-num>
   </programme>
   <programme start="20250810160000 +0000" stop="20250810163000 +0000" channel="Okey">
     <title lang="en">Klip Video</title>
     <desc lang="en">Seleksi klip-klip video terbaik untuk anda.</desc>
   </programme>
-  <programme start="20250810163000 +0000" stop="20250810190000 +0000" channel="Okey">
+  <programme start="20250810163000 +0000" stop="20250810170000 +0000" channel="Okey">
     <title lang="en">Wow, Enaknya</title>
     <desc lang="en">Pengacara dan cef jemputan menyajikan masakan sihat yang dimasak mengikut diet bersesuaian.</desc>
   </programme>
-  <programme start="20250810190000 +0000" stop="20250810233000 +0000" channel="Okey">
+  <programme start="20250810170000 +0000" stop="20250810173000 +0000" channel="Okey">
+    <title lang="en">Masak Nyaman-Nyaman</title>
+    <desc lang="en">Sebuah rancangan menarik untuk tontonan anda.</desc>
+  </programme>
+  <programme start="20250810173000 +0000" stop="20250810180000 +0000" channel="Okey">
+    <title lang="en">Percutian Solo Ke London</title>
+    <desc lang="en">Melawat ke sekitar kota London dan melihat reka bentuk bangunan yang menarik di sana. Membawa penonton ke dua buah Muzium Bola Sepak yang terkenal iaitu Chelsea Football Club Museum dan Arsenal Football Stadium.</desc>
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20250810180000 +0000" stop="20250810183000 +0000" channel="Okey">
+    <title lang="en">Wild Wheels</title>
+    <desc lang="en">Bersama Teejay Marquez meneroka Laos dan pelbagai tempat menarik.Bersama Nia yang akan berkongsi cabaran memasak nasi kandar dan juga menaiki beca mencari barang tersembunyi.</desc>
+  </programme>
+  <programme start="20250810183000 +0000" stop="20250810190000 +0000" channel="Okey">
+    <title lang="en">The Singing Chef</title>
+    <desc lang="en">Sebuah rancangan masakan yang akan menjemput seorang selebriti undangan untuk memasak dan menyanyi bersama hos, Cef Tiah Ridhwani.Cef kali ini akan menjemput Harris Anuar dengan resipi Vietnamese Rice Paper Rolls.</desc>
+  </programme>
+  <programme start="20250810190000 +0000" stop="20250810200000 +0000" channel="Okey">
     <title lang="en">Ratu Lori</title>
     <desc lang="en">Mengisahkan tentang Shima yang membantu abangnya telah patah kaki akibat kemalangan untuk menguruskan perniagaan lori kerana memenuhi jadual tempahan.Yusuf patah kaki akibat kemalangan.Shima sering menjadi saingan kepada kumpulan pemandu lori bawah pokok.</desc>
+  </programme>
+  <programme start="20250810200000 +0000" stop="20250810203000 +0000" channel="Okey">
+    <title lang="en">#CARISAMPAIJUMPA</title>
+    <desc lang="en">Nadia Hasnan meneroka dan mengembara serata Malaysia dengan misi mencari batu kilometer “0”. Hos akan berada di Selangor dalam episod kali ini.</desc>
+  </programme>
+  <programme start="20250810203000 +0000" stop="20250810210000 +0000" channel="Okey">
+    <title lang="en">Better Than Home</title>
+    <desc lang="en">Rizal Khalif membawa penonton mengenali pengembara luar yang memilih untuk menetap di Malaysia dan melakukan aktiviti menarik.Rizal Khalif akan membawa Alena Belozertseva di Sungai Besar..</desc>
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20250810210000 +0000" stop="20250810220500 +0000" channel="Okey">
+    <title lang="en">P.A Lelaki Kerek</title>
+    <desc lang="en">Sebuah drama penuh konflik yang menarik untuk tontonan. Hafzan, kenalan Irdina sejak kecil sudah berkali-kali meluahkan perasaan cinta dan ingin melamar Irdina.</desc>
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20250810220500 +0000" stop="20250810223000 +0000" channel="Okey">
+    <title lang="en">Be Your Best Self</title>
+    <desc lang="en">Memahami masalah yang dihadapi golongan remaja serta memberi panduan untuk mengatasi situasi tertentu dalam mencapai matlamat hidup. Hos kali ini akan menjemput seorang pakar motivasi iaitu Lisa Wong beserta beberapa orang pelajar universiti dengan topik How Shall I View Schoo; And Make The Most Out Of It.</desc>
+  </programme>
+  <programme start="20250810223000 +0000" stop="20250810233000 +0000" channel="Okey">
+    <title lang="en">Fresh Brew 2025</title>
+    <desc lang="en">Sebuah rancangan bual bicara yang mengupas pelbagai topik dan isu-isu terkini.</desc>
+    <episode-num system="onscreen">E13</episode-num>
   </programme>
   <programme start="20250810233000 +0000" stop="20250811023000 +0000" channel="Okey">
     <title lang="en">Klip Video</title>
@@ -3637,6 +3768,10 @@
     <title lang="en">Salah Atau Tidak</title>
     <desc lang="en">Salah Atau Tidak merungkai pelbagai kekeliruan berkaitan peruntukan undang-undang dalam kehidupan seharian manusia. Salah Atau Tidak pada episod kali ini membincangkan tajuk Orang Awam Tangkap Penjenayah.</desc>
   </programme>
+  <programme start="20250807180000 +0000" stop="20250807180000 +0000" channel="Berita RTM">
+    <title lang="en">Khazanah Borneo</title>
+    <desc lang="en">Majalah pengkajian peninggalan sejarah di Sabah dan Sarawak yang menghasilkan banyak kesan-kesan sejarah.</desc>
+  </programme>
   <programme start="20250807180000 +0000" stop="20250807183000 +0000" channel="Berita RTM">
     <title lang="en">Khazanah Borneo</title>
     <desc lang="en">Majalah pengkajian peninggalan sejarah di Sabah dan Sarawak yang menghasilkan banyak kesan-kesan sejarah.</desc>
@@ -3951,7 +4086,8 @@
     <desc lang="en">Hanya jauhari mengenal manikam. Jauhari membawakan cerita tentang pencarian, pembentukan dan penilaian batu-batu berharga yang terdapat di pasaran.</desc>
   </programme>
   <programme start="20250809063000 +0000" stop="20250809070000 +0000" channel="Berita RTM">
-    <title lang="en">Hoondo : Dari Korea Ke Sabah</title>
+    <title lang="en">SIARAN LANGSUNG: Majlis Penutupan Madani Rakyat 2025 Kelantan</title>
+    <title lang="xx">Hoondo : Dari Korea Ke Sabah</title>
     <desc lang="en">Hoondoo: Dari Korea ke Sabah memaparkan perjalanan duo artis Korea, Lee Seung Hoon dan Doo Jin Soo mengembara ke tempat-tempat menarik di Negeri Sabah. Episod kali ini membawa mereka mengembara ke Tamparuli sambil melakukan aktiviti merasa Pizza Tuhau, melawat Jambatan Tamparuli, Tarian Anggalang dan membuat Alat Muzik Buluh. Pada episod ini Hoondoo akan ditemani oleh Kuhim @ Ebin Ugat (Presiden Persatuan Seni Budaya Tuaran (Pesta)).</desc>
   </programme>
   <programme start="20250809070000 +0000" stop="20250809070500 +0000" channel="Berita RTM">
@@ -3971,7 +4107,8 @@
     <desc lang="en">Rancangan bual bicara santai untuk berkongsi maklumat yang benar dan membetulkan berita-berita palsu yang viral di media sosial.</desc>
   </programme>
   <programme start="20250809083000 +0000" stop="20250809090000 +0000" channel="Berita RTM">
-    <title lang="en">#GrupPeduliAlam</title>
+    <title lang="en">Hoondo : Dari Korea Ke Sabah</title>
+    <title lang="xx">#GrupPeduliAlam</title>
     <desc lang="en">#gruppedulialam memaparkan usaha yang dijalankan oleh pertubuhan pencinta alam yang merupakan pelindung kepada khazanah yang tidak ternilai ini. Episod kali ini memaparkan usaha Pusat Penyelamatan Hidupan Liar - Ungka.</desc>
   </programme>
   <programme start="20250809090000 +0000" stop="20250809100000 +0000" channel="Berita RTM">
@@ -4506,9 +4643,21 @@
     <title lang="en">Memo Lestari</title>
     <desc lang="en">Memo Lestari memaparkan usaha yang dilakukan oleh pertubuhan dan komuniti dalam menyediakan solusi lestari berbanding kaedah tradisional.</desc>
   </programme>
-  <programme start="20250812103000 +0000" stop="20250812114400 +0000" channel="Berita RTM">
+  <programme start="20250812103000 +0000" stop="20250812104500 +0000" channel="Berita RTM">
     <title lang="en">i-Iban</title>
     <desc lang="en">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Iban.</desc>
+  </programme>
+  <programme start="20250812104500 +0000" stop="20250812110000 +0000" channel="Berita RTM">
+    <title lang="en">i-Dusun</title>
+    <desc lang="en">Memaparkan perkembangan berita di Sabah dalam bahasa etnik Dusun.</desc>
+  </programme>
+  <programme start="20250812110000 +0000" stop="20250812113000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara berbahasa Mandarin.</desc>
+  </programme>
+  <programme start="20250812113000 +0000" stop="20250812114400 +0000" channel="Berita RTM">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara berbahasa Tamil.</desc>
   </programme>
   <programme start="20250812114400 +0000" stop="20250812120000 +0000" channel="Berita RTM">
     <title lang="en">Kanta 744</title>
@@ -4518,17 +4667,85 @@
     <title lang="en">Berita Perdana</title>
     <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan serta berita hiburan.</desc>
   </programme>
-  <programme start="20250812123000 +0000" stop="20250812160000 +0000" channel="Berita RTM">
+  <programme start="20250812123000 +0000" stop="20250812130000 +0000" channel="Berita RTM">
     <title lang="en">Malaysia Tonight</title>
     <desc lang="en">Bringing the latest updates from across the globe.</desc>
   </programme>
-  <programme start="20250812160000 +0000" stop="20250812220000 +0000" channel="Berita RTM">
+  <programme start="20250812130000 +0000" stop="20250812133000 +0000" channel="Berita RTM">
+    <title lang="en">On The Table (OTT)</title>
+    <desc lang="en">'On The Table' is a talk show that explores a range of topics, emphasizing Malaysia's current issues and trends. It also seeks to position Malaysia as an appealing investment and business hub for foreign investors, featuring insights from opinion leaders and influential figures.</desc>
+  </programme>
+  <programme start="20250812133000 +0000" stop="20250812140000 +0000" channel="Berita RTM">
+    <title lang="en">World Around Us</title>
+    <desc lang="en">World Around Us is a compilation news program, which brings together content material in the form of features and human interest from ASEAN countries and around the world.</desc>
+  </programme>
+  <programme start="20250812140000 +0000" stop="20250812143000 +0000" channel="Berita RTM">
+    <title lang="en">Behind The Mic</title>
+    <desc lang="en">'Behind The Mic' is an interview program by a radio channel broadcast to a television platform that discusses a wide range of current issues both locally and internationally, including culture, health, education, and much more. In addition to featuring prominent and influential personalities, the show also explores key topics that impact global society. Each episode offers in-depth insights from special guests who are experts in their fields, providing viewers with an opportunity to gain a broader perspective on the world around them.</desc>
+  </programme>
+  <programme start="20250812143000 +0000" stop="20250812150000 +0000" channel="Berita RTM">
+    <title lang="en">Global Voices</title>
+    <desc lang="en">'Global Voices' is a mixed-slot program featuring a blend of engaging content, including both previously aired shows and fresh new programs that resonate with a global audience. Focusing on current issues, culture, technology, and international harmony, Global Voices aims to connect viewers with a broader perspective of the world. The program also offers inspiring stories and discussions from diverse cultural backgrounds, bringing audiences closer to the realities of our increasingly interconnected global community.</desc>
+  </programme>
+  <programme start="20250812150000 +0000" stop="20250812160000 +0000" channel="Berita RTM">
+    <title lang="en">Fresh Brew</title>
+    <desc lang="en">A talk show about hobbies, interests and activities that highlighting figures and icons who are successful in the fields they are interested in outside of their respective duties.</desc>
+  </programme>
+  <programme start="20250812160000 +0000" stop="20250812163000 +0000" channel="Berita RTM">
     <title lang="en">Berita Tengah Malam</title>
     <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara.</desc>
   </programme>
-  <programme start="20250812220000 +0000" stop="20250812230000 +0000" channel="Berita RTM">
+  <programme start="20250812163000 +0000" stop="20250812173000 +0000" channel="Berita RTM">
+    <title lang="en">Bicara Naratif</title>
+    <desc lang="en">Program bicarawara bertema Naratif bersama tetamu undangan dan membincangkan isu semasa sebagai topik pilihan.</desc>
+  </programme>
+  <programme start="20250812173000 +0000" stop="20250812180000 +0000" channel="Berita RTM">
+    <title lang="en">Kontra Analisa</title>
+    <desc lang="en">Sebuah rancangan yang merungkaikan permasalahan sosial yang dihadapi pada zaman ini terutamanya remaja. Bersama hos Riz Ismail mengupas isu anak durhaka yang berlaku dikalangan remaja.</desc>
+  </programme>
+  <programme start="20250812180000 +0000" stop="20250812183000 +0000" channel="Berita RTM">
+    <title lang="en">Jejak Halal ASEAN</title>
+    <desc lang="en">Sebuah travelog yang meneroka kepelbagaian budaya dan kehidupan masyarakat islam di negara-negara ASEAN. Episod kali ini, Jejak Halal Asean menjejaki Ho Chi Minh City, Vietnam.</desc>
+  </programme>
+  <programme start="20250812183000 +0000" stop="20250812190000 +0000" channel="Berita RTM">
+    <title lang="en">Singgah Rasa</title>
+    <desc lang="en">Singgah Rasa ialah sebuah rancangan majalah masakan yang berkonsepkan travelog dihoskan oleh seorang chef selebriti iaitu Master Chef Sabri Hassan yang mempunyai 28 tahun pengalaman dalam bidang masakan antarabangsa. Beliau membawa penonton bersama-sama meninjau keunikan masakan menu resipi turun-temurun yang terdapat di Malaysia yang menarik dan kelainan rasa yang mungkin menjadi kegemaran rakyat Malaysia dan amat sesuai dijadikan menu hidang seisi keluarga.</desc>
+  </programme>
+  <programme start="20250812190000 +0000" stop="20250812193000 +0000" channel="Berita RTM">
+    <title lang="en">Warna-Warni Asia</title>
+    <desc lang="en">Sebuah rancangan travelog membawa penonton melihat tempat-tempat menarik dalam Asia yang berwarna-warni. Pada episod kali ini, hos Nik Michael Imran akan membawa anda meneroka tempat-tempat menarik di Tokyo, Jepun.</desc>
+  </programme>
+  <programme start="20250812193000 +0000" stop="20250812200000 +0000" channel="Berita RTM">
+    <title lang="en">Zoom In</title>
+    <desc lang="en">Zoom In adalah merupakan dokumentari yang membawakan pembuatan barangan harian secara dekat. Pada episod kali ini, Zoom In melihat cara pembuatan popia dan penggunaan stevia dalam penghasilan minuman.</desc>
+  </programme>
+  <programme start="20250812200000 +0000" stop="20250812203000 +0000" channel="Berita RTM">
+    <title lang="en">Pantau</title>
+    <desc lang="en">Dokumentari Pantau yang mendalami teknologi keselamatan masa kini bersama Yusmal Ghazali. Episod kali ini mendalami Isu Pemantauan Gempa Bumi.</desc>
+  </programme>
+  <programme start="20250812203000 +0000" stop="20250812210000 +0000" channel="Berita RTM">
+    <title lang="en">CEO NEO</title>
+    <desc lang="en">CEO NEO membawakan kisah getir usahawan belia tempatan yang juga Ketua Pegawai Eksekutif (CEO) menerajui bisnes mereka hingga berjaya. CEO Neo episod ini memaparkan perjalanan CEO muda, Hairul Nizam dalam membangunkan jenama Perniagaan Murah Jimat.</desc>
+  </programme>
+  <programme start="20250812210000 +0000" stop="20250812213000 +0000" channel="Berita RTM">
+    <title lang="en">Travelog Dikir</title>
+    <desc lang="en">Jom mengembara bersama Zul Afkar bersama kumpulan dikir beliau dalam mencari seni-seni tradisi yang terdapat di seluruh Malaysia. Episod kali ini membawakan Tokoh, Dato' Aripin Said (Tokoh Budayawan Negara). Sheikh Badrul Shah Hamidi dan Sheikh Hussin (Generasi Seni Gerus) pula akan berkongsi Seni Pembuatan. Bagi segmen Seni Warisan, mereka akan bertemu dengan Nur Iffah Syazwani (Penari Joget Pahang).</desc>
+  </programme>
+  <programme start="20250812213000 +0000" stop="20250812220000 +0000" channel="Berita RTM">
+    <title lang="en">Kerja Apa Tu?</title>
+    <desc lang="en">Kerja Apa Tu? berkongsi perspektif mengenai kepelbagaian peluang kerjaya yang ada dalam pasaran kerja tempatan. Episod kali ini memaparkan tentang kerjaya Pencipta Mainan Islamik dan Pembuat Lesung dan Kukur.</desc>
+  </programme>
+  <programme start="20250812220000 +0000" stop="20250812220200 +0000" channel="Berita RTM">
     <title lang="en">Lagu Negaraku</title>
     <desc lang="en">Nyanyian lagu Negaraku.</desc>
+  </programme>
+  <programme start="20250812220200 +0000" stop="20250812223000 +0000" channel="Berita RTM">
+    <title lang="en">Bisikan Dari Kota Pusaka</title>
+    <desc lang="en">Bisikan Dari Kota Pusaka memaparkan kota-kota pentadbiran yang terdapat di seluruh negara.</desc>
+  </programme>
+  <programme start="20250812223000 +0000" stop="20250812230000 +0000" channel="Berita RTM">
+    <title lang="en">Kita Cuba</title>
+    <desc lang="en">Hos, Anas Ridzuan bersama tetamu jemputan dalam melakukan pelbagai eksperimen sains. Pada episod kali ini, Kita Cuba akan melakuan pelbagai experiment menarik bersama tetamu jemputan Faiz Subri.</desc>
   </programme>
   <programme start="20250812230000 +0000" stop="20250812233000 +0000" channel="Berita RTM">
     <title lang="en">Berita Pagi Semenanjung</title>
@@ -4546,17 +4763,61 @@
     <title lang="en">Kanta 744</title>
     <desc lang="en">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
   </programme>
-  <programme start="20250813000000 +0000" stop="20250813050000 +0000" channel="Berita RTM">
+  <programme start="20250813000000 +0000" stop="20250813020000 +0000" channel="Berita RTM">
     <title lang="en">SIARAN LANGSUNG: Selamat Pagi Malaysia</title>
     <desc lang="en">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).</desc>
   </programme>
-  <programme start="20250813050000 +0000" stop="20250813090000 +0000" channel="Berita RTM">
+  <programme start="20250813020000 +0000" stop="20250813020500 +0000" channel="Berita RTM">
+    <title lang="en">Dunia 10</title>
+    <desc lang="en">Memaparkan perkembangan berita luar negara.</desc>
+  </programme>
+  <programme start="20250813020500 +0000" stop="20250813050000 +0000" channel="Berita RTM">
+    <title lang="en">Langsung Dari Parlimen</title>
+    <desc lang="en">Mesyuarat Kedua, Penggal Keempat, Parlimen Malaysia Ke-15 akan disiarkan secara langsung dengan Dewan Rakyat bermula dari 21Julai hingga 28 Ogos 2025, manakala Dewan Negara dari 25 Ogos hingga 10 September 2025.</desc>
+  </programme>
+  <programme start="20250813050000 +0000" stop="20250813053000 +0000" channel="Berita RTM">
     <title lang="en">Berita Tengah Hari</title>
     <desc lang="en">Memaparkan perkembangan terkini mengenai berita dalam dan luar negara, serta berita sukan dan hiburan.</desc>
   </programme>
-  <programme start="20250813090000 +0000" stop="20250813114400 +0000" channel="Berita RTM">
+  <programme start="20250813053000 +0000" stop="20250813060000 +0000" channel="Berita RTM">
+    <title lang="en">Siri Inovasi</title>
+    <desc lang="en">Siri Inovasi membawakan perkembangan teknologi terkini dalam pelbagai bidang. Episod ini membawa kita melihat Teknologi Dron dalam pertanian dapat memudahkan urusan pengurusan ladang serta pengenalan terhadap System Lidar dalam pemetaan. Penggunaan dron oleh Unit Udara Polis dalam urusan mengesan kesalahanan trafik dan keselamatan di perbatasan negara.</desc>
+  </programme>
+  <programme start="20250813060000 +0000" stop="20250813061500 +0000" channel="Berita RTM">
+    <title lang="en">i-Bajau</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam bahasa etnik Bajau.</desc>
+  </programme>
+  <programme start="20250813061500 +0000" stop="20250813063000 +0000" channel="Berita RTM">
+    <title lang="en">Toksik &amp; Cantik</title>
+    <desc lang="en">Selamatkah produk kecantikan harian yang kita gunakan setiap hari? Toksik &amp; Cantik membongkarkan bahan toksik yang biasa dijumpai dalam produk kosmetik.</desc>
+  </programme>
+  <programme start="20250813063000 +0000" stop="20250813090000 +0000" channel="Berita RTM">
+    <title lang="en">Langsung Dari Parlimen</title>
+    <desc lang="en">Mesyuarat Kedua, Penggal Keempat, Parlimen Malaysia Ke-15 akan disiarkan secara langsung dengan Dewan Rakyat bermula dari 21Julai hingga 28 Ogos 2025, manakala Dewan Negara dari 25 Ogos hingga 10 September 2025.</desc>
+  </programme>
+  <programme start="20250813090000 +0000" stop="20250813100000 +0000" channel="Berita RTM">
     <title lang="en">Berita Wilayah</title>
     <desc lang="en">Memaparkan perkembangan berita dari negeri-negeri di seluruh negara.</desc>
+  </programme>
+  <programme start="20250813100000 +0000" stop="20250813103000 +0000" channel="Berita RTM">
+    <title lang="en">Diari Kemanusiaan Jariah</title>
+    <desc lang="en">Ada segelintir manusia yang apabila hidupnya semakin dihimpit kesusahan, semakin banyak dia memberikan khidmat kebajikan kepada orang lain. Apakah jariah yang boleh dia amalkan? Saksikan Diari Kemanusiaan Jariah, amalan tanpa sempadan.</desc>
+  </programme>
+  <programme start="20250813103000 +0000" stop="20250813104500 +0000" channel="Berita RTM">
+    <title lang="en">i-Iban</title>
+    <desc lang="en">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Iban.</desc>
+  </programme>
+  <programme start="20250813104500 +0000" stop="20250813110000 +0000" channel="Berita RTM">
+    <title lang="en">i-Dusun</title>
+    <desc lang="en">Memaparkan perkembangan berita di Sabah dalam bahasa etnik Dusun.</desc>
+  </programme>
+  <programme start="20250813110000 +0000" stop="20250813113000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara berbahasa Mandarin.</desc>
+  </programme>
+  <programme start="20250813113000 +0000" stop="20250813114400 +0000" channel="Berita RTM">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara berbahasa Tamil.</desc>
   </programme>
   <programme start="20250813114400 +0000" stop="20250813120000 +0000" channel="Berita RTM">
     <title lang="en">Kanta 744</title>
@@ -4566,17 +4827,85 @@
     <title lang="en">Berita Perdana</title>
     <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan serta berita hiburan.</desc>
   </programme>
-  <programme start="20250813123000 +0000" stop="20250813160000 +0000" channel="Berita RTM">
+  <programme start="20250813123000 +0000" stop="20250813130000 +0000" channel="Berita RTM">
     <title lang="en">Malaysia Tonight</title>
     <desc lang="en">Bringing the latest updates from across the globe.</desc>
   </programme>
-  <programme start="20250813160000 +0000" stop="20250813220000 +0000" channel="Berita RTM">
+  <programme start="20250813130000 +0000" stop="20250813133000 +0000" channel="Berita RTM">
+    <title lang="en">On The Table (OTT)</title>
+    <desc lang="en">'On The Table' is a talk show that explores a range of topics, emphasizing Malaysia's current issues and trends. It also seeks to position Malaysia as an appealing investment and business hub for foreign investors, featuring insights from opinion leaders and influential figures.</desc>
+  </programme>
+  <programme start="20250813133000 +0000" stop="20250813140000 +0000" channel="Berita RTM">
+    <title lang="en">World Around Us</title>
+    <desc lang="en">World Around Us is a compilation news program, which brings together content material in the form of features and human interest from ASEAN countries and around the world.</desc>
+  </programme>
+  <programme start="20250813140000 +0000" stop="20250813143000 +0000" channel="Berita RTM">
+    <title lang="en">Behind The Mic</title>
+    <desc lang="en">'Behind The Mic' is an interview program by a radio channel broadcast to a television platform that discusses a wide range of current issues both locally and internationally, including culture, health, education, and much more. In addition to featuring prominent and influential personalities, the show also explores key topics that impact global society. Each episode offers in-depth insights from special guests who are experts in their fields, providing viewers with an opportunity to gain a broader perspective on the world around them.</desc>
+  </programme>
+  <programme start="20250813143000 +0000" stop="20250813150000 +0000" channel="Berita RTM">
+    <title lang="en">Global Voices</title>
+    <desc lang="en">'Global Voices' is a mixed-slot program featuring a blend of engaging content, including both previously aired shows and fresh new programs that resonate with a global audience. Focusing on current issues, culture, technology, and international harmony, Global Voices aims to connect viewers with a broader perspective of the world. The program also offers inspiring stories and discussions from diverse cultural backgrounds, bringing audiences closer to the realities of our increasingly interconnected global community.</desc>
+  </programme>
+  <programme start="20250813150000 +0000" stop="20250813160000 +0000" channel="Berita RTM">
+    <title lang="en">Fresh Brew</title>
+    <desc lang="en">A talk show about hobbies, interests and activities that highlighting figures and icons who are successful in the fields they are interested in outside of their respective duties.</desc>
+  </programme>
+  <programme start="20250813160000 +0000" stop="20250813163000 +0000" channel="Berita RTM">
     <title lang="en">Berita Tengah Malam</title>
     <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara.</desc>
   </programme>
-  <programme start="20250813220000 +0000" stop="20250813230000 +0000" channel="Berita RTM">
+  <programme start="20250813163000 +0000" stop="20250813173000 +0000" channel="Berita RTM">
+    <title lang="en">Vasantham</title>
+    <desc lang="en">Sebuah program bicarawara yang membincangkan mengenai isu semasa berkaitan komuniti India tempatan.</desc>
+  </programme>
+  <programme start="20250813173000 +0000" stop="20250813180000 +0000" channel="Berita RTM">
+    <title lang="en">Bisikan Dari Kota Pusaka</title>
+    <desc lang="en">Bisikan Dari Kota Pusaka memaparkan kota-kota pentadbiran yang terdapat di seluruh negara.</desc>
+  </programme>
+  <programme start="20250813180000 +0000" stop="20250813183000 +0000" channel="Berita RTM">
+    <title lang="en">Singgah Rasa</title>
+    <desc lang="en">Singgah Rasa ialah sebuah rancangan majalah masakan yang berkonsepkan travelog dihoskan oleh seorang chef selebriti iaitu Master Chef Sabri Hassan yang mempunyai 28 tahun pengalaman dalam bidang masakan antarabangsa. Beliau membawa penonton bersama-sama meninjau keunikan masakan menu resipi turun-temurun yang terdapat di Malaysia yang menarik dan kelainan rasa yang mungkin menjadi kegemaran rakyat Malaysia dan amat sesuai dijadikan menu hidang seisi keluarga.</desc>
+  </programme>
+  <programme start="20250813183000 +0000" stop="20250813190000 +0000" channel="Berita RTM">
+    <title lang="en">Khazanah Borneo</title>
+    <desc lang="en">Majalah pengkajian peninggalan sejarah di Sabah dan Sarawak yang menghasilkan banyak kesan-kesan sejarah.</desc>
+  </programme>
+  <programme start="20250813190000 +0000" stop="20250813193000 +0000" channel="Berita RTM">
+    <title lang="en">Langit Borneo</title>
+    <desc lang="en">Program travelog Langit Borneo memaparkan keindahan bumi Borneo dari pelbagai segi seperti pantai, bangunan dan lain-lain. Episod kali ini, memaparkan pantai dan pulau yang menarik di Borneo.</desc>
+  </programme>
+  <programme start="20250813193000 +0000" stop="20250813200000 +0000" channel="Berita RTM">
+    <title lang="en">Solusi Lestari</title>
+    <desc lang="en">Solusi Lestari adalah sebuah program yang memaparkan inovasi serta teknologi baharu yang diaplikasikan di Malaysia sebagai penyelesaian kepada ancaman masalah alam sekitar dan bencana bersama hos, Vanessa Mering. Episod kali ini memaparkan Bio Diesel Teknologi.</desc>
+  </programme>
+  <programme start="20250813200000 +0000" stop="20250813203000 +0000" channel="Berita RTM">
+    <title lang="en">Etnik Kita</title>
+    <desc lang="en">Etnik Kita memaparkan pengembaraan hos, Alif Hadi dalam melihat kehidupan suku kaum minoriti di seluruh Malaysia. Pengembaraan Alif minggu ini membawa beliau ke Kuala Krau, Pahang dalam mengenali etnik orang asli Suku Kaum Jahut.</desc>
+  </programme>
+  <programme start="20250813203000 +0000" stop="20250813210000 +0000" channel="Berita RTM">
+    <title lang="en">Zoom In</title>
+    <desc lang="en">Zoom In adalah merupakan dokumentari yang membawakan pembuatan barangan harian secara dekat. Pada episod kali ini, Zoom In melihat cara pembuatan popia dan penggunaan stevia dalam penghasilan minuman.</desc>
+  </programme>
+  <programme start="20250813210000 +0000" stop="20250813213000 +0000" channel="Berita RTM">
+    <title lang="en">Pantau</title>
+    <desc lang="en">Dokumentari Pantau yang mendalami teknologi keselamatan masa kini bersama Yusmal Ghazali. Episod kali ini mendalami Isu Pemantauan Gempa Bumi.</desc>
+  </programme>
+  <programme start="20250813213000 +0000" stop="20250813220000 +0000" channel="Berita RTM">
+    <title lang="en">CEO NEO</title>
+    <desc lang="en">CEO NEO membawakan kisah getir usahawan belia tempatan yang juga Ketua Pegawai Eksekutif (CEO) menerajui bisnes mereka hingga berjaya. CEO Neo episod ini memaparkan perjalanan CEO muda, Hairul Nizam dalam membangunkan jenama Perniagaan Murah Jimat.</desc>
+  </programme>
+  <programme start="20250813220000 +0000" stop="20250813220200 +0000" channel="Berita RTM">
     <title lang="en">Lagu Negaraku</title>
     <desc lang="en">Nyanyian lagu Negaraku.</desc>
+  </programme>
+  <programme start="20250813220200 +0000" stop="20250813223000 +0000" channel="Berita RTM">
+    <title lang="en">Salah Atau Tidak</title>
+    <desc lang="en">Salah Atau Tidak merungkai pelbagai kekeliruan berkaitan peruntukan undang-undang dalam kehidupan seharian manusia. Salah Atau Tidak pada episod kali ini membincangkan tajuk Orang Awam Tangkap Penjenayah.</desc>
+  </programme>
+  <programme start="20250813223000 +0000" stop="20250813230000 +0000" channel="Berita RTM">
+    <title lang="en">Navigasi</title>
+    <desc lang="en">Navigasi memaparkan aktiviti Maritim membuka ruang kepada masyarakat dari segi ekonomi. Navigasi episod ini membincangkan tentang Kedaulatan Maritim Malaysia.</desc>
   </programme>
   <programme start="20250813230000 +0000" stop="20250813233000 +0000" channel="Berita RTM">
     <title lang="en">Berita Pagi Semenanjung</title>
@@ -4594,17 +4923,61 @@
     <title lang="en">Kanta 744</title>
     <desc lang="en">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
   </programme>
-  <programme start="20250814000000 +0000" stop="20250814050000 +0000" channel="Berita RTM">
+  <programme start="20250814000000 +0000" stop="20250814020000 +0000" channel="Berita RTM">
     <title lang="en">SIARAN LANGSUNG: Selamat Pagi Malaysia</title>
     <desc lang="en">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).</desc>
   </programme>
-  <programme start="20250814050000 +0000" stop="20250814090000 +0000" channel="Berita RTM">
+  <programme start="20250814020000 +0000" stop="20250814020500 +0000" channel="Berita RTM">
+    <title lang="en">Dunia 10</title>
+    <desc lang="en">Memaparkan perkembangan berita luar negara.</desc>
+  </programme>
+  <programme start="20250814020500 +0000" stop="20250814050000 +0000" channel="Berita RTM">
+    <title lang="en">Langsung Dari Parlimen</title>
+    <desc lang="en">Mesyuarat Kedua, Penggal Keempat, Parlimen Malaysia Ke-15 akan disiarkan secara langsung dengan Dewan Rakyat bermula dari 21Julai hingga 28 Ogos 2025, manakala Dewan Negara dari 25 Ogos hingga 10 September 2025.</desc>
+  </programme>
+  <programme start="20250814050000 +0000" stop="20250814053000 +0000" channel="Berita RTM">
     <title lang="en">Berita Tengah Hari</title>
     <desc lang="en">Memaparkan perkembangan terkini mengenai berita dalam dan luar negara, serta berita sukan dan hiburan.</desc>
   </programme>
-  <programme start="20250814090000 +0000" stop="20250814114400 +0000" channel="Berita RTM">
+  <programme start="20250814053000 +0000" stop="20250814060000 +0000" channel="Berita RTM">
+    <title lang="en">Meneroka Aeroangkasa</title>
+    <desc lang="en">Meneroka Aeroangkasa membawakan perkembangan negara dalam industri aeroangkasa. Kejayaan-kejayaan yang dipaparkan oleh syarikat tempatan Malaysia dari segi pembuatan komponen dan komposit aeroangkasa telah membuktikan bahawa negara kita mampu bersaing dengan syarikat antarabangsa lain.</desc>
+  </programme>
+  <programme start="20250814060000 +0000" stop="20250814061500 +0000" channel="Berita RTM">
+    <title lang="en">i-Bajau</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam bahasa etnik Bajau.</desc>
+  </programme>
+  <programme start="20250814061500 +0000" stop="20250814063000 +0000" channel="Berita RTM">
+    <title lang="en">Toksik &amp; Cantik</title>
+    <desc lang="en">Selamatkah produk kecantikan harian yang kita gunakan setiap hari? Toksik &amp; Cantik membongkarkan bahan toksik yang biasa dijumpai dalam produk kosmetik.</desc>
+  </programme>
+  <programme start="20250814063000 +0000" stop="20250814090000 +0000" channel="Berita RTM">
+    <title lang="en">Langsung Dari Parlimen</title>
+    <desc lang="en">Mesyuarat Kedua, Penggal Keempat, Parlimen Malaysia Ke-15 akan disiarkan secara langsung dengan Dewan Rakyat bermula dari 21Julai hingga 28 Ogos 2025, manakala Dewan Negara dari 25 Ogos hingga 10 September 2025.</desc>
+  </programme>
+  <programme start="20250814090000 +0000" stop="20250814100000 +0000" channel="Berita RTM">
     <title lang="en">Berita Wilayah</title>
     <desc lang="en">Memaparkan perkembangan berita dari negeri-negeri di seluruh negara.</desc>
+  </programme>
+  <programme start="20250814100000 +0000" stop="20250814103000 +0000" channel="Berita RTM">
+    <title lang="en">Bisikan Dari Kota Pusaka</title>
+    <desc lang="en">Bisikan Dari Kota Pusaka memaparkan kota-kota pentadbiran yang terdapat di seluruh negara.</desc>
+  </programme>
+  <programme start="20250814103000 +0000" stop="20250814104500 +0000" channel="Berita RTM">
+    <title lang="en">i-Iban</title>
+    <desc lang="en">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Iban.</desc>
+  </programme>
+  <programme start="20250814104500 +0000" stop="20250814110000 +0000" channel="Berita RTM">
+    <title lang="en">i-Dusun</title>
+    <desc lang="en">Memaparkan perkembangan berita di Sabah dalam bahasa etnik Dusun.</desc>
+  </programme>
+  <programme start="20250814110000 +0000" stop="20250814113000 +0000" channel="Berita RTM">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara berbahasa Mandarin.</desc>
+  </programme>
+  <programme start="20250814113000 +0000" stop="20250814114400 +0000" channel="Berita RTM">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara berbahasa Tamil.</desc>
   </programme>
   <programme start="20250814114400 +0000" stop="20250814120000 +0000" channel="Berita RTM">
     <title lang="en">Kanta 744</title>
@@ -4614,13 +4987,45 @@
     <title lang="en">Berita Perdana</title>
     <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan serta berita hiburan.</desc>
   </programme>
-  <programme start="20250814123000 +0000" stop="20250814160000 +0000" channel="Berita RTM">
+  <programme start="20250814123000 +0000" stop="20250814130000 +0000" channel="Berita RTM">
     <title lang="en">Malaysia Tonight</title>
     <desc lang="en">Bringing the latest updates from across the globe.</desc>
   </programme>
-  <programme start="20250814160000 +0000" stop="20250814220000 +0000" channel="Berita RTM">
+  <programme start="20250814130000 +0000" stop="20250814133000 +0000" channel="Berita RTM">
+    <title lang="en">On The Table (OTT)</title>
+    <desc lang="en">'On The Table' is a talk show that explores a range of topics, emphasizing Malaysia's current issues and trends. It also seeks to position Malaysia as an appealing investment and business hub for foreign investors, featuring insights from opinion leaders and influential figures.</desc>
+  </programme>
+  <programme start="20250814133000 +0000" stop="20250814140000 +0000" channel="Berita RTM">
+    <title lang="en">World Around Us</title>
+    <desc lang="en">World Around Us is a compilation news program, which brings together content material in the form of features and human interest from ASEAN countries and around the world.</desc>
+  </programme>
+  <programme start="20250814140000 +0000" stop="20250814143000 +0000" channel="Berita RTM">
+    <title lang="en">Behind The Mic</title>
+    <desc lang="en">'Behind The Mic' is an interview program by a radio channel broadcast to a television platform that discusses a wide range of current issues both locally and internationally, including culture, health, education, and much more. In addition to featuring prominent and influential personalities, the show also explores key topics that impact global society. Each episode offers in-depth insights from special guests who are experts in their fields, providing viewers with an opportunity to gain a broader perspective on the world around them.</desc>
+  </programme>
+  <programme start="20250814143000 +0000" stop="20250814150000 +0000" channel="Berita RTM">
+    <title lang="en">Global Voices</title>
+    <desc lang="en">'Global Voices' is a mixed-slot program featuring a blend of engaging content, including both previously aired shows and fresh new programs that resonate with a global audience. Focusing on current issues, culture, technology, and international harmony, Global Voices aims to connect viewers with a broader perspective of the world. The program also offers inspiring stories and discussions from diverse cultural backgrounds, bringing audiences closer to the realities of our increasingly interconnected global community.</desc>
+  </programme>
+  <programme start="20250814150000 +0000" stop="20250814160000 +0000" channel="Berita RTM">
+    <title lang="en">Fresh Brew</title>
+    <desc lang="en">A talk show about hobbies, interests and activities that highlighting figures and icons who are successful in the fields they are interested in outside of their respective duties.</desc>
+  </programme>
+  <programme start="20250814160000 +0000" stop="20250814163000 +0000" channel="Berita RTM">
     <title lang="en">Berita Tengah Malam</title>
     <desc lang="en">Memaparkan perkembangan berita dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20250814163000 +0000" stop="20250814170000 +0000" channel="Berita RTM">
+    <title lang="en">Citra Budaya</title>
+    <desc lang="en">Citra Budaya merupakan sebuah dokumentari mengenai keunikan kepelbagaian budaya di negara ini dan keupayaan masyarakatnya untuk meraikan perbezaan atas nama perpaduan.</desc>
+  </programme>
+  <programme start="20250814170000 +0000" stop="20250814173000 +0000" channel="Berita RTM">
+    <title lang="en">Jejak Halal ASEAN</title>
+    <desc lang="en">Sebuah travelog yang meneroka kepelbagaian budaya dan kehidupan masyarakat islam di negara-negara ASEAN. Episod kali ini, Jejak Halal Asean menjejaki Ho Chi Minh City, Vietnam.</desc>
+  </programme>
+  <programme start="20250814173000 +0000" stop="20250814220000 +0000" channel="Berita RTM">
+    <title lang="en">Salah Atau Tidak</title>
+    <desc lang="en">Salah Atau Tidak merungkai pelbagai kekeliruan berkaitan peruntukan undang-undang dalam kehidupan seharian manusia. Salah Atau Tidak pada episod kali ini membincangkan tajuk Guru Denda Pelajar.</desc>
   </programme>
   <programme start="20250814220000 +0000" stop="20250814230000 +0000" channel="Berita RTM">
     <title lang="en">Lagu Negaraku</title>
@@ -5488,6 +5893,9 @@
     <title lang="en">Istimewa Bersama</title>
     <desc lang="en">Berhibur bersama barisan penyanyi popular tanah air dengan lagu-lagu malar segar popular.</desc>
     <episode-num system="onscreen">E19</episode-num>
+  </programme>
+  <programme start="20250810100000 +0000" stop="20250810143000 +0000" channel="Dewan Rakyat">
+    <title lang="en">Parlimen Kelima Belas 2025 (Penggal Keempat) : Mesyuarat Kedua</title>
   </programme>
   <programme start="20250810180000 +0000" stop="20250810223000 +0000" channel="Dewan Rakyat">
     <title lang="en">Parlimen Kelima Belas 2025 (Penggal Keempat) : Mesyuarat Kedua</title>
@@ -6521,7 +6929,7 @@
     <desc lang="en">Songs from 90's to latest.</desc>
   </programme>
   <programme start="20250812050000 +0000" stop="20250812051000 +0000" channel="Traxx FM">
-    <title lang="en">Prime @ 1 pm</title>
+    <title lang="en">Prime @ 9 pm</title>
     <desc lang="en">Live from RTM News Centre.</desc>
   </programme>
   <programme start="20250812051000 +0000" stop="20250812060000 +0000" channel="Traxx FM">
@@ -6677,7 +7085,7 @@
     <desc lang="en">Songs from 90's to latest.</desc>
   </programme>
   <programme start="20250813050000 +0000" stop="20250813051000 +0000" channel="Traxx FM">
-    <title lang="en">Prime @ 1 pm</title>
+    <title lang="en">Prime @ 9 pm</title>
     <desc lang="en">Live from RTM News Centre.</desc>
   </programme>
   <programme start="20250813051000 +0000" stop="20250813060000 +0000" channel="Traxx FM">
@@ -6833,7 +7241,7 @@
     <desc lang="en">Songs from 90's to latest.</desc>
   </programme>
   <programme start="20250814050000 +0000" stop="20250814051000 +0000" channel="Traxx FM">
-    <title lang="en">Prime @ 1 pm</title>
+    <title lang="en">Prime @ 9 pm</title>
     <desc lang="en">Live from RTM News Centre.</desc>
   </programme>
   <programme start="20250814051000 +0000" stop="20250814060000 +0000" channel="Traxx FM">
@@ -6981,7 +7389,7 @@
     <desc lang="en">Songs from 90's to latest.</desc>
   </programme>
   <programme start="20250815050000 +0000" stop="20250815051000 +0000" channel="Traxx FM">
-    <title lang="en">Prime @ 1 pm</title>
+    <title lang="en">Prime @ 9 pm</title>
     <desc lang="en">Live from RTM News Centre.</desc>
   </programme>
   <programme start="20250815051000 +0000" stop="20250815060000 +0000" channel="Traxx FM">
@@ -12330,7 +12738,7 @@
     <title lang="en">RPKL-AMBIL TAHU</title>
   </programme>
   <programme start="20250811224500 +0000" stop="20250811230000 +0000" channel="KLFM">
-    <title lang="en">Al-Zikra</title>
+    <title lang="en">AL-ZIKRA</title>
     <desc lang="en">Program bicara agama bersama personaliti undangan terbitan DJ Ridz.</desc>
   </programme>
   <programme start="20250811230000 +0000" stop="20250811233000 +0000" channel="KLFM">
@@ -12352,13 +12760,18 @@
     <desc lang="en">Sambungsiar Nasionalfm.</desc>
   </programme>
   <programme start="20250812011500 +0000" stop="20250812014000 +0000" channel="KLFM">
-    <title lang="en">RPKL-UNDI LAGU DI TIKTOK</title>
+    <title lang="en">RPKL- SEMBANG SANTAI</title>
+    <title lang="xx">RPKL-UNDI LAGU DI TIKTOK</title>
   </programme>
   <programme start="20250812014000 +0000" stop="20250812020000 +0000" channel="KLFM">
-    <title lang="en">KAROK BERSAMA #DOUBLE A</title>
+    <title lang="en">BILIK KAROAKE 972</title>
+    <title lang="xx">KAROK BERSAMA #DOUBLE A</title>
     <desc lang="en">Layan lagu-lagu terbaik 90-an dan awal 2000-an.</desc>
   </programme>
-  <programme start="20250812020000 +0000" stop="20250812032000 +0000" channel="KLFM">
+  <programme start="20250812020000 +0000" stop="20250812021500 +0000" channel="KLFM">
+    <title lang="en">BERITA- UTAMA 10 PAGI</title>
+  </programme>
+  <programme start="20250812021500 +0000" stop="20250812032000 +0000" channel="KLFM">
     <title lang="en">HAI-HAI KL</title>
     <desc lang="en">Segmen santai permintaan lagu-lagu pilihan pendengar 10.00 pagi hingga 1.00 Tengah Hari.</desc>
   </programme>
@@ -12371,16 +12784,16 @@
   <programme start="20250812044900 +0000" stop="20250812050000 +0000" channel="KLFM">
     <title lang="en">KLFM EXTRA SAMA TAK SERUPA</title>
   </programme>
-  <programme start="20250812050000 +0000" stop="20250812054500 +0000" channel="KLFM">
+  <programme start="20250812050000 +0000" stop="20250812051500 +0000" channel="KLFM">
     <title lang="en">BERITA -UTAMA 1 TENGAH HARI</title>
     <desc lang="en">Sambungsiar Nasionalfm.</desc>
   </programme>
-  <programme start="20250812054500 +0000" stop="20250812060000 +0000" channel="KLFM">
-    <title lang="en">MUZIK EXPRESS</title>
-  </programme>
-  <programme start="20250812060000 +0000" stop="20250812063000 +0000" channel="KLFM">
-    <title lang="en">Nadi Kota KL</title>
+  <programme start="20250812051500 +0000" stop="20250812054500 +0000" channel="KLFM">
+    <title lang="en">NADI KOTA KL</title>
     <desc lang="en">Nadi Kota KL dalam rancangan Temubual Sembang KL, diskusi terbaik membincangkan isu semasa warga kota.</desc>
+  </programme>
+  <programme start="20250812054500 +0000" stop="20250812063000 +0000" channel="KLFM">
+    <title lang="en">MUZIK EXPRESS</title>
   </programme>
   <programme start="20250812063000 +0000" stop="20250812080000 +0000" channel="KLFM">
     <title lang="en">SEMBANG KL</title>
@@ -12393,10 +12806,10 @@
     <title lang="en">BERITA -UTAMA 5 PETANG</title>
     <desc lang="en">Sambungsiar Nasionalfm.</desc>
   </programme>
-  <programme start="20250812091500 +0000" stop="20250812100000 +0000" channel="KLFM">
+  <programme start="20250812091500 +0000" stop="20250812093000 +0000" channel="KLFM">
     <title lang="en">LAGU ARTIS LEJEN KLKL</title>
   </programme>
-  <programme start="20250812100000 +0000" stop="20250812120000 +0000" channel="KLFM">
+  <programme start="20250812093000 +0000" stop="20250812120000 +0000" channel="KLFM">
     <title lang="en">JTK (JANGAN TURUN KERETA)</title>
     <desc lang="en">Pilihan lagu-lagu malar segar yang popular tanpa henti.</desc>
   </programme>
@@ -12423,7 +12836,7 @@
     <title lang="en">RPKL-AMBIL TAHU</title>
   </programme>
   <programme start="20250812224500 +0000" stop="20250812230000 +0000" channel="KLFM">
-    <title lang="en">Al-Zikra</title>
+    <title lang="en">AL-ZIKRA</title>
     <desc lang="en">Program bicara agama bersama personaliti undangan terbitan DJ Ridz.</desc>
   </programme>
   <programme start="20250812230000 +0000" stop="20250812233000 +0000" channel="KLFM">
@@ -12445,13 +12858,18 @@
     <desc lang="en">Sambungsiar Nasionalfm.</desc>
   </programme>
   <programme start="20250813011500 +0000" stop="20250813014000 +0000" channel="KLFM">
-    <title lang="en">RPKL-UNDI LAGU DI TIKTOK</title>
+    <title lang="en">RPKL-SEMBANG KL</title>
+    <title lang="xx">RPKL-UNDI LAGU DI TIKTOK</title>
   </programme>
   <programme start="20250813014000 +0000" stop="20250813020000 +0000" channel="KLFM">
-    <title lang="en">KAROK BERSAMA #DOUBLE A</title>
+    <title lang="en">BILIK KARAOKE 972</title>
+    <title lang="xx">KAROK BERSAMA #DOUBLE A</title>
     <desc lang="en">Layan lagu-lagu terbaik 90-an dan awal 2000-an.</desc>
   </programme>
-  <programme start="20250813020000 +0000" stop="20250813032000 +0000" channel="KLFM">
+  <programme start="20250813020000 +0000" stop="20250813021500 +0000" channel="KLFM">
+    <title lang="en">BERITA -UTAMA 10 PAGI</title>
+  </programme>
+  <programme start="20250813021500 +0000" stop="20250813032000 +0000" channel="KLFM">
     <title lang="en">HAI-HAI KL</title>
     <desc lang="en">Segmen santai permintaan lagu-lagu pilihan pendengar 10.00 pagi hingga 1.00 Tengah Hari.</desc>
   </programme>
@@ -12464,16 +12882,16 @@
   <programme start="20250813044900 +0000" stop="20250813050000 +0000" channel="KLFM">
     <title lang="en">KLFM EXTRA SAMA TAK SERUPA</title>
   </programme>
-  <programme start="20250813050000 +0000" stop="20250813054500 +0000" channel="KLFM">
+  <programme start="20250813050000 +0000" stop="20250813051500 +0000" channel="KLFM">
     <title lang="en">BERITA -UTAMA 1 TENGAH HARI</title>
     <desc lang="en">Sambungsiar Nasionalfm.</desc>
   </programme>
-  <programme start="20250813054500 +0000" stop="20250813060000 +0000" channel="KLFM">
-    <title lang="en">MUZIK EXPRESS</title>
-  </programme>
-  <programme start="20250813060000 +0000" stop="20250813063000 +0000" channel="KLFM">
-    <title lang="en">Nadi Kota KL</title>
+  <programme start="20250813051500 +0000" stop="20250813054500 +0000" channel="KLFM">
+    <title lang="en">NADI KOTA KL</title>
     <desc lang="en">Nadi Kota KL dalam rancangan Temubual Sembang KL, diskusi terbaik membincangkan isu semasa warga kota.</desc>
+  </programme>
+  <programme start="20250813054500 +0000" stop="20250813063000 +0000" channel="KLFM">
+    <title lang="en">MUZIK EXPRESS</title>
   </programme>
   <programme start="20250813063000 +0000" stop="20250813080000 +0000" channel="KLFM">
     <title lang="en">SEMBANG KL</title>
@@ -12486,10 +12904,10 @@
     <title lang="en">BERITA -UTAMA 5 PETANG</title>
     <desc lang="en">Sambungsiar Nasionalfm.</desc>
   </programme>
-  <programme start="20250813091500 +0000" stop="20250813100000 +0000" channel="KLFM">
+  <programme start="20250813091500 +0000" stop="20250813093000 +0000" channel="KLFM">
     <title lang="en">LAGU ARTIS LEJEN KLKL</title>
   </programme>
-  <programme start="20250813100000 +0000" stop="20250813120000 +0000" channel="KLFM">
+  <programme start="20250813093000 +0000" stop="20250813120000 +0000" channel="KLFM">
     <title lang="en">JTK (JANGAN TURUN KERETA)</title>
     <desc lang="en">Pilihan lagu-lagu malar segar yang popular tanpa henti.</desc>
   </programme>
@@ -12516,7 +12934,7 @@
     <title lang="en">RPKL-AMBIL TAHU</title>
   </programme>
   <programme start="20250813224500 +0000" stop="20250813230000 +0000" channel="KLFM">
-    <title lang="en">Al-Zikra</title>
+    <title lang="en">AL-ZIKRA</title>
     <desc lang="en">Program bicara agama bersama personaliti undangan terbitan DJ Ridz.</desc>
   </programme>
   <programme start="20250813230000 +0000" stop="20250813233000 +0000" channel="KLFM">
@@ -12538,13 +12956,18 @@
     <desc lang="en">Sambungsiar Nasionalfm.</desc>
   </programme>
   <programme start="20250814011500 +0000" stop="20250814014000 +0000" channel="KLFM">
-    <title lang="en">RPKL-UNDI LAGU DI TIKTOK</title>
+    <title lang="en">RPKL-SEMBANG SANTAI</title>
+    <title lang="xx">RPKL-UNDI LAGU DI TIKTOK</title>
   </programme>
   <programme start="20250814014000 +0000" stop="20250814020000 +0000" channel="KLFM">
-    <title lang="en">KAROK BERSAMA #DOUBLE A</title>
+    <title lang="en">BILIK KARAOKE 972</title>
+    <title lang="xx">KAROK BERSAMA #DOUBLE A</title>
     <desc lang="en">Layan lagu-lagu terbaik 90-an dan awal 2000-an.</desc>
   </programme>
-  <programme start="20250814020000 +0000" stop="20250814032000 +0000" channel="KLFM">
+  <programme start="20250814020000 +0000" stop="20250814021500 +0000" channel="KLFM">
+    <title lang="en">BERITA-UTAMA 10 PAGI</title>
+  </programme>
+  <programme start="20250814021500 +0000" stop="20250814032000 +0000" channel="KLFM">
     <title lang="en">HAI-HAI KL</title>
     <desc lang="en">Segmen santai permintaan lagu-lagu pilihan pendengar 10.00 pagi hingga 1.00 Tengah Hari.</desc>
   </programme>
@@ -12557,16 +12980,16 @@
   <programme start="20250814044900 +0000" stop="20250814050000 +0000" channel="KLFM">
     <title lang="en">KLFM EXTRA SAMA TAK SERUPA</title>
   </programme>
-  <programme start="20250814050000 +0000" stop="20250814054500 +0000" channel="KLFM">
+  <programme start="20250814050000 +0000" stop="20250814051500 +0000" channel="KLFM">
     <title lang="en">BERITA -UTAMA 1 TENGAH HARI</title>
     <desc lang="en">Sambungsiar Nasionalfm.</desc>
   </programme>
-  <programme start="20250814054500 +0000" stop="20250814060000 +0000" channel="KLFM">
-    <title lang="en">MUZIK EXPRESS</title>
-  </programme>
-  <programme start="20250814060000 +0000" stop="20250814063000 +0000" channel="KLFM">
-    <title lang="en">Nadi Kota KL</title>
+  <programme start="20250814051500 +0000" stop="20250814054500 +0000" channel="KLFM">
+    <title lang="en">NADI KOTA KL</title>
     <desc lang="en">Nadi Kota KL dalam rancangan Temubual Sembang KL, diskusi terbaik membincangkan isu semasa warga kota.</desc>
+  </programme>
+  <programme start="20250814054500 +0000" stop="20250814063000 +0000" channel="KLFM">
+    <title lang="en">MUZIK EXPRESS</title>
   </programme>
   <programme start="20250814063000 +0000" stop="20250814080000 +0000" channel="KLFM">
     <title lang="en">SEMBANG KL</title>
@@ -12579,10 +13002,10 @@
     <title lang="en">BERITA -UTAMA 5 PETANG</title>
     <desc lang="en">Sambungsiar Nasionalfm.</desc>
   </programme>
-  <programme start="20250814091500 +0000" stop="20250814100000 +0000" channel="KLFM">
+  <programme start="20250814091500 +0000" stop="20250814093000 +0000" channel="KLFM">
     <title lang="en">LAGU ARTIS LEJEN KLKL</title>
   </programme>
-  <programme start="20250814100000 +0000" stop="20250814120000 +0000" channel="KLFM">
+  <programme start="20250814093000 +0000" stop="20250814120000 +0000" channel="KLFM">
     <title lang="en">JTK (JANGAN TURUN KERETA)</title>
     <desc lang="en">Pilihan lagu-lagu malar segar yang popular tanpa henti.</desc>
   </programme>
@@ -12590,11 +13013,11 @@
     <title lang="en">NEON-NEON KL</title>
     <desc lang="en">NNKL 8.00 malam hingga 12 tengah malam membolehkan pendengar membuat pilihan lagu jiwang karat.</desc>
   </programme>
-  <programme start="20250814130000 +0000" stop="20250814131700 +0000" channel="KLFM">
+  <programme start="20250814130000 +0000" stop="20250814131500 +0000" channel="KLFM">
     <title lang="en">BERITA-UTAMA 9 MALAM</title>
     <desc lang="en">Sambungsiar Nasionalfm.</desc>
   </programme>
-  <programme start="20250814131700 +0000" stop="20250814160000 +0000" channel="KLFM">
+  <programme start="20250814131500 +0000" stop="20250814160000 +0000" channel="KLFM">
     <title lang="en">PILIHAN JIWANG KARAT</title>
   </programme>
   <programme start="20250814160000 +0000" stop="20250814220000 +0000" channel="KLFM">
@@ -12609,7 +13032,7 @@
     <title lang="en">RPKL-AMBIL TAHU</title>
   </programme>
   <programme start="20250814224500 +0000" stop="20250814230000 +0000" channel="KLFM">
-    <title lang="en">Al-Zikra</title>
+    <title lang="en">AL-ZIKRA</title>
     <desc lang="en">Program bicara agama bersama personaliti undangan terbitan DJ Ridz.</desc>
   </programme>
   <programme start="20250814230000 +0000" stop="20250814233000 +0000" channel="KLFM">
@@ -12631,18 +13054,28 @@
     <desc lang="en">Sambungsiar Nasionalfm.</desc>
   </programme>
   <programme start="20250815011500 +0000" stop="20250815014000 +0000" channel="KLFM">
-    <title lang="en">RPKL-UNDI LAGU DI TIKTOK</title>
+    <title lang="en">RPKL-SEMBANG SANTAI</title>
+    <title lang="xx">RPKL-UNDI LAGU DI TIKTOK</title>
   </programme>
   <programme start="20250815014000 +0000" stop="20250815020000 +0000" channel="KLFM">
-    <title lang="en">KAROK BERSAMA #DOUBLE A</title>
+    <title lang="en">BILIK KARAOKE 972</title>
+    <title lang="xx">KAROK BERSAMA #DOUBLE A</title>
     <desc lang="en">Layan lagu-lagu terbaik 90-an dan awal 2000-an.</desc>
   </programme>
-  <programme start="20250815020000 +0000" stop="20250815032000 +0000" channel="KLFM">
+  <programme start="20250815020000 +0000" stop="20250815021500 +0000" channel="KLFM">
+    <title lang="en">BERITA-UTAMA 10 PAGI</title>
+  </programme>
+  <programme start="20250815021500 +0000" stop="20250815032000 +0000" channel="KLFM">
     <title lang="en">HAI-HAI KL</title>
     <desc lang="en">Segmen santai permintaan lagu-lagu pilihan pendengar 10.00 pagi hingga 1.00 Tengah Hari.</desc>
   </programme>
-  <programme start="20250815032000 +0000" stop="20250815041500 +0000" channel="KLFM">
+  <programme start="20250815032000 +0000" stop="20250815040000 +0000" channel="KLFM">
     <title lang="en">LAGU PERMINTAAN HHKL</title>
+  </programme>
+  <programme start="20250815040000 +0000" stop="20250815041500 +0000" channel="KLFM">
+    <title lang="en">BERITA - UTAMA 12 TENGAH HARI</title>
+    <title lang="xx">BERITA -UTAMA 1 TENGAH HARI</title>
+    <desc lang="en">Sambungsiar Nasionalfm.</desc>
   </programme>
   <programme start="20250815041500 +0000" stop="20250815044900 +0000" channel="KLFM">
     <title lang="en">HHKL-LAGU LEPAS GERAM</title>
@@ -12651,18 +13084,15 @@
     <title lang="en">KLFM EXTRA SAMA TAK SERUPA</title>
   </programme>
   <programme start="20250815050000 +0000" stop="20250815054500 +0000" channel="KLFM">
-    <title lang="en">BERITA -UTAMA 1 TENGAH HARI</title>
-    <desc lang="en">Sambungsiar Nasionalfm.</desc>
-  </programme>
-  <programme start="20250815054500 +0000" stop="20250815060000 +0000" channel="KLFM">
-    <title lang="en">MUZIK EXPRESS</title>
-  </programme>
-  <programme start="20250815060000 +0000" stop="20250815063000 +0000" channel="KLFM">
-    <title lang="en">Nadi Kota KL</title>
+    <title lang="en">NADI KOTA KL</title>
     <desc lang="en">Nadi Kota KL dalam rancangan Temubual Sembang KL, diskusi terbaik membincangkan isu semasa warga kota.</desc>
   </programme>
+  <programme start="20250815054500 +0000" stop="20250815063000 +0000" channel="KLFM">
+    <title lang="en">MUZIK EXPRESS</title>
+  </programme>
   <programme start="20250815063000 +0000" stop="20250815070000 +0000" channel="KLFM">
-    <title lang="en">SEMBANG KL</title>
+    <title lang="en">NADI KOTA KL</title>
+    <title lang="xx">SEMBANG KL</title>
   </programme>
   <programme start="20250815070000 +0000" stop="20250815080000 +0000" channel="KLFM">
     <title lang="en">SUARA 34-PUNCAK PRESTASI (KLFM XTRA)</title>
@@ -12675,10 +13105,10 @@
     <title lang="en">BERITA -UTAMA 5 PETANG</title>
     <desc lang="en">Sambungsiar Nasionalfm.</desc>
   </programme>
-  <programme start="20250815091500 +0000" stop="20250815100000 +0000" channel="KLFM">
+  <programme start="20250815091500 +0000" stop="20250815093000 +0000" channel="KLFM">
     <title lang="en">LAGU ARTIS LEJEN KLKL</title>
   </programme>
-  <programme start="20250815100000 +0000" stop="20250815120000 +0000" channel="KLFM">
+  <programme start="20250815093000 +0000" stop="20250815120000 +0000" channel="KLFM">
     <title lang="en">JTK (JANGAN TURUN KERETA)</title>
     <desc lang="en">Pilihan lagu-lagu malar segar yang popular tanpa henti.</desc>
   </programme>
@@ -12686,11 +13116,11 @@
     <title lang="en">NEON-NEON KL</title>
     <desc lang="en">NNKL 8.00 malam hingga 12 tengah malam membolehkan pendengar membuat pilihan lagu jiwang karat.</desc>
   </programme>
-  <programme start="20250815130000 +0000" stop="20250815131700 +0000" channel="KLFM">
+  <programme start="20250815130000 +0000" stop="20250815131500 +0000" channel="KLFM">
     <title lang="en">BERITA-UTAMA 9 MALAM</title>
     <desc lang="en">Sambungsiar Nasionalfm.</desc>
   </programme>
-  <programme start="20250815131700 +0000" stop="20250815160000 +0000" channel="KLFM">
+  <programme start="20250815131500 +0000" stop="20250815160000 +0000" channel="KLFM">
     <title lang="en">PILIHAN JIWANG KARAT</title>
   </programme>
   <programme start="20250807160000 +0000" stop="20250807161000 +0000" channel="Kelantan FM">
@@ -13736,6 +14166,10 @@
     <title lang="en">SUARA 34-PUNCAK PRESTASI</title>
     <desc lang="en">Rancangan yang menampilkan peristiwa dan tetamu menarik untuk memberi ilmu pengetahuan kepada pendengar.</desc>
   </programme>
+  <programme start="20250808220000 +0000" stop="20250808220000 +0000" channel="Negeri Sembilan FM">
+    <title lang="en">NEON MALAM (6.00 PETANG-12.00 TENGAH MALAM)</title>
+    <desc lang="en">Segmen pada hujung minggu yang mengajak pendengar menikmati alunan lagu lama serta baharu di samping dapat berinteraksi melalui media sosial.</desc>
+  </programme>
   <programme start="20250808220000 +0000" stop="20250809020000 +0000" channel="Negeri Sembilan FM">
     <title lang="en">RADAR XTRA (6.00 PAGI-12.00 TENGAH HARI)</title>
     <desc lang="en">Segmen hiburan hujung minggu yang mengajak para pendengar mendengar gabungan tiga stesen radio negeri selatan tanah air, menyerlahkan bakat berpantun serta mengetahui lagu hit terkini.</desc>
@@ -13767,10 +14201,6 @@
   <programme start="20250809151000 +0000" stop="20250809220000 +0000" channel="Negeri Sembilan FM">
     <title lang="en">HIBURAN TANPA HENTI XPRESI MALAM</title>
     <desc lang="en">Menyiarkan lagu-lagu yang pelbagai genre tanpa henti untuk hiburan pendengar.</desc>
-  </programme>
-  <programme start="20250809220000 +0000" stop="20250809220000 +0000" channel="Negeri Sembilan FM">
-    <title lang="en">RADAR XTRA (6.00 PAGI-12.00 TENGAH HARI)</title>
-    <desc lang="en">Segmen hiburan hujung minggu yang mengajak para pendengar mendengar gabungan tiga stesen radio negeri selatan tanah air, menyerlahkan bakat berpantun serta mengetahui lagu hit terkini.</desc>
   </programme>
   <programme start="20250809220000 +0000" stop="20250810020000 +0000" channel="Negeri Sembilan FM">
     <title lang="en">NEON MALAM (6.00 PETANG-12.00 TENGAH MALAM)</title>
@@ -18877,6 +19307,29 @@
     <title lang="en">RINGKAS @10 PAGI</title>
     <desc lang="en">Berita berita jam 10 Pagi.</desc>
   </programme>
+  <programme start="20250807160000 +0000" stop="20250807163000 +0000" channel="Sandakan FM">
+    <title lang="en">BERITA SABAHfm - 8 PAGI</title>
+  </programme>
+  <programme start="20250807163000 +0000" stop="20250807170000 +0000" channel="Sandakan FM">
+    <title lang="en">DIARI SANA SINI</title>
+  </programme>
+  <programme start="20250807170000 +0000" stop="20250807173000 +0000" channel="Sandakan FM">
+    <title lang="en">BERITA - UTAMA 9 PAGI</title>
+    <desc lang="en">Sambung siar Nasionalfm.</desc>
+  </programme>
+  <programme start="20250807173000 +0000" stop="20250807180000 +0000" channel="Sandakan FM">
+    <title lang="en">SAMBUNG AYAT BERSAMA GENK AGAI</title>
+  </programme>
+  <programme start="20250807180000 +0000" stop="20250807190000 +0000" channel="Sandakan FM">
+    <title lang="en">ZON MUZIK</title>
+    <desc lang="en">Hiburan tanpa henti selama 1 jam dengan seleksi lagu-lagu terbaik yang terus menceriakan hari anda.</desc>
+  </programme>
+  <programme start="20250807190000 +0000" stop="20250807213000 +0000" channel="Sandakan FM">
+    <title lang="en">ZOOM 11-3 SANDAKANfm</title>
+  </programme>
+  <programme start="20250807213000 +0000" stop="20250807220000 +0000" channel="Sandakan FM">
+    <title lang="en">BERITA SABAHfm 1:30 TENGAH HARI</title>
+  </programme>
   <programme start="20250807220000 +0000" stop="20250807221500 +0000" channel="Sandakan FM">
     <title lang="en">EVO 6-11 SANDAKANfm</title>
   </programme>
@@ -19653,10 +20106,6 @@
   <programme start="20250809003000 +0000" stop="20250809004500 +0000" channel="Tawau FM">
     <title lang="en">APA CERITA KAMU URANG</title>
     <desc lang="en">MENGGABUNGKAN LIMA STESEN YANG MENGUPAS ISU-ISU SEMASA.</desc>
-  </programme>
-  <programme start="20250809004500 +0000" stop="20250809004500 +0000" channel="Tawau FM">
-    <title lang="en">INGIN TAHU</title>
-    <desc lang="en">PERKARA YANG MENARIK / LAIN DARI YANG LAIN YANG ADA ATAU BERLAKU DI SESUATU TEMPAT.</desc>
   </programme>
   <programme start="20250809004500 +0000" stop="20250809005000 +0000" channel="Tawau FM">
     <title lang="en">DARI FAIL 1001</title>
