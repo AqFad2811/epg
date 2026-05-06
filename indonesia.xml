@@ -840,11 +840,17 @@
   <programme start="20260506043000 +0700" stop="20260506060500 +0700" channel="GALAXYPremium.id">
     <title lang="id">Mythica: A Quest For Heroes</title>
   </programme>
+  <programme start="20260506203500 +0700" stop="20260506221000 +0700" channel="GALAXYPremium.id">
+    <title lang="id">The Call</title>
+  </programme>
   <programme start="20260507012500 +0700" stop="20260507025000 +0700" channel="GALAXYPremium.id">
     <title lang="id">The Folks</title>
   </programme>
   <programme start="20260507053500 +0700" stop="20260507070000 +0700" channel="GALAXYPremium.id">
     <title lang="id">The One</title>
+  </programme>
+  <programme start="20260507210000 +0700" stop="20260507222500 +0700" channel="GALAXYPremium.id">
+    <title lang="id">A Thousand Words</title>
   </programme>
   <programme start="20260508021000 +0700" stop="20260508034000 +0700" channel="GALAXYPremium.id">
     <title lang="id">I Spy</title>
@@ -852,17 +858,26 @@
   <programme start="20260508060500 +0700" stop="20260508074000 +0700" channel="GALAXYPremium.id">
     <title lang="id">Spread</title>
   </programme>
+  <programme start="20260508221000 +0700" stop="20260508233500 +0700" channel="GALAXYPremium.id">
+    <title lang="id">Broadcast</title>
+  </programme>
   <programme start="20260509025000 +0700" stop="20260509044500 +0700" channel="GALAXYPremium.id">
     <title lang="id">The Fourth State</title>
   </programme>
   <programme start="20260509070000 +0700" stop="20260509090500 +0700" channel="GALAXYPremium.id">
     <title lang="id">Spider-Man: Homecoming</title>
   </programme>
+  <programme start="20260509222500 +0700" stop="20260510001000 +0700" channel="GALAXYPremium.id">
+    <title lang="id">28 Days Later</title>
+  </programme>
   <programme start="20260510034000 +0700" stop="20260510053000 +0700" channel="GALAXYPremium.id">
     <title lang="id">War Of The Worlds</title>
   </programme>
   <programme start="20260510074000 +0700" stop="20260510091500 +0700" channel="GALAXYPremium.id">
     <title lang="id">Detachment</title>
+  </programme>
+  <programme start="20260510233500 +0700" stop="20260511011000 +0700" channel="GALAXYPremium.id">
+    <title lang="id">A Mermaid's Tale</title>
   </programme>
   <programme start="20260511044500 +0700" stop="20260511062000 +0700" channel="GALAXYPremium.id">
     <title lang="id">The Courier</title>
@@ -990,6 +1005,9 @@
   <programme start="20260506074000 +0700" stop="20260506092000 +0700" channel="Thrill.id">
     <title lang="id">Open�The Coffin</title>
   </programme>
+  <programme start="20260506205000 +0700" stop="20260506221500 +0700" channel="Thrill.id">
+    <title lang="id">Behave</title>
+  </programme>
   <programme start="20260507011500 +0700" stop="20260507020000 +0700" channel="Thrill.id">
     <title lang="id">Trans7</title>
   </programme>
@@ -1002,6 +1020,9 @@
   <programme start="20260507083000 +0700" stop="20260507093000 +0700" channel="Thrill.id">
     <title lang="id">FYP (For Your Pagi)</title>
   </programme>
+  <programme start="20260507213000 +0700" stop="20260507224500 +0700" channel="Thrill.id">
+    <title lang="id">Trans7</title>
+  </programme>
   <programme start="20260508022500 +0700" stop="20260508040000 +0700" channel="Thrill.id">
     <title lang="id">Paper Man</title>
   </programme>
@@ -1010,6 +1031,9 @@
   </programme>
   <programme start="20260508063000 +0700" stop="20260508073000 +0700" channel="Thrill.id">
     <title lang="id">Trans7</title>
+  </programme>
+  <programme start="20260508221500 +0700" stop="20260508235000 +0700" channel="Thrill.id">
+    <title lang="id">Red Rain</title>
   </programme>
   <programme start="20260509023000 +0700" stop="20260509030000 +0700" channel="Thrill.id">
     <title lang="id">Trans7</title>
@@ -1028,6 +1052,12 @@
   <programme start="20260509071000 +0700" stop="20260509085000 +0700" channel="Thrill.id">
     <title lang="id">Mid-Night Two</title>
   </programme>
+  <programme start="20260509224500 +0700" stop="20260509233000 +0700" channel="Thrill.id">
+    <title lang="id">Trans7</title>
+  </programme>
+  <programme start="20260509233000 +0700" stop="20260510001500 +0700" channel="Thrill.id">
+    <title lang="id">Trans7</title>
+  </programme>
   <programme start="20260510044500 +0700" stop="20260510053000 +0700" channel="Thrill.id">
     <title lang="id">Trans7</title>
   </programme>
@@ -1036,6 +1066,9 @@
   </programme>
   <programme start="20260510083000 +0700" stop="20260510101500 +0700" channel="Thrill.id">
     <title lang="id">Trans7</title>
+  </programme>
+  <programme start="20260510235000 +0700" stop="20260511012000 +0700" channel="Thrill.id">
+    <title lang="id">Creepy Pasta</title>
   </programme>
   <programme start="20260511045500 +0700" stop="20260511063000 +0700" channel="Thrill.id">
     <title lang="id">Mama Ghost</title>
@@ -3130,11 +3163,11 @@
   <programme start="20260506190000 +0700" stop="20260506203000 +0700" channel="GTV.id">
     <title lang="id">GTV</title>
   </programme>
-  <programme start="20260506203000 +0700" stop="20260506230000 +0700" channel="GTV.id">
-    <title lang="id">GTV</title>
+  <programme start="20260506203000 +0700" stop="20260506223000 +0700" channel="GTV.id">
+    <title lang="id">Giants Snake Events...</title>
   </programme>
-  <programme start="20260506230000 +0700" stop="20260507000000 +0700" channel="GTV.id">
-    <title lang="id">GTV</title>
+  <programme start="20260506223000 +0700" stop="20260507010000 +0700" channel="GTV.id">
+    <title lang="id">AFC U17: AUS Vs IND (L)</title>
   </programme>
   <programme start="20260506000000 +0700" stop="20260506020000 +0700" channel="MNCTV.id">
     <title lang="id">Suparman Reborn</title>
@@ -3514,10 +3547,10 @@
   <programme start="20260506200000 +0700" stop="20260506213000 +0700" channel="SCTV.id">
     <title lang="id">Beri Cinta Waktu</title>
   </programme>
-  <programme start="20260506213000 +0700" stop="20260506230000 +0700" channel="SCTV.id">
+  <programme start="20260506213500 +0700" stop="20260506230200 +0700" channel="SCTV.id">
     <title lang="id">Jejak Duka Diandra</title>
   </programme>
-  <programme start="20260506230000 +0700" stop="20260507003000 +0700" channel="SCTV.id">
+  <programme start="20260506230200 +0700" stop="20260507003800 +0700" channel="SCTV.id">
     <title lang="id">Misi Cinta Bridesmaid</title>
   </programme>
   <programme start="20260506013000 +0700" stop="20260506020000 +0700" channel="HanacarakaTV.id">
@@ -4847,22 +4880,22 @@
     <title lang="id">Metro TV</title>
   </programme>
   <programme start="20260506220000 +0700" stop="20260506220500 +0700" channel="MetroTV.id">
-    <title lang="id">Metro TV</title>
+    <title lang="id">Headline News</title>
   </programme>
   <programme start="20260506220500 +0700" stop="20260506223000 +0700" channel="MetroTV.id">
-    <title lang="id">Metro TV</title>
+    <title lang="id">Metro Xinwen</title>
   </programme>
   <programme start="20260506223000 +0700" stop="20260506230000 +0700" channel="MetroTV.id">
-    <title lang="id">Metro TV</title>
+    <title lang="id">Prioritas Indonesia</title>
   </programme>
   <programme start="20260506230000 +0700" stop="20260506230500 +0700" channel="MetroTV.id">
-    <title lang="id">Metro TV</title>
+    <title lang="id">Headline News</title>
   </programme>
   <programme start="20260506230500 +0700" stop="20260506233000 +0700" channel="MetroTV.id">
-    <title lang="id">Metro TV</title>
+    <title lang="id">Metro Hari Ini</title>
   </programme>
   <programme start="20260506233000 +0700" stop="20260507000000 +0700" channel="MetroTV.id">
-    <title lang="id">Metro TV</title>
+    <title lang="id">Metro Hari Ini</title>
   </programme>
   <programme start="20260506013000 +0700" stop="20260506020000 +0700" channel="Trans7.id">
     <title lang="id">Best Fishing</title>
@@ -5176,14 +5209,14 @@
   <programme start="20260506202000 +0700" stop="20260506211500 +0700" channel="MDTV.id">
     <title lang="id">Keluarga Yang Tak Dirindukan</title>
   </programme>
-  <programme start="20260506211500 +0700" stop="20260506221000 +0700" channel="MDTV.id">
-    <title lang="id">Hot Drama</title>
+  <programme start="20260506213000 +0700" stop="20260506223000 +0700" channel="MDTV.id">
+    <title lang="id">Top Spot</title>
   </programme>
-  <programme start="20260506221000 +0700" stop="20260506231000 +0700" channel="MDTV.id">
+  <programme start="20260506223000 +0700" stop="20260506233500 +0700" channel="MDTV.id">
     <title lang="id">Jatanras</title>
   </programme>
-  <programme start="20260506231000 +0700" stop="20260507000500 +0700" channel="MDTV.id">
-    <title lang="id">86</title>
+  <programme start="20260506233500 +0700" stop="20260507002000 +0700" channel="MDTV.id">
+    <title lang="id">Customs Protection</title>
   </programme>
   <programme start="20260506000000 +0700" stop="20260506020000 +0700" channel="TVRI.id">
     <title lang="id">TVRI</title>
@@ -7495,11 +7528,8 @@
   <programme start="20260506213000 +0700" stop="20260506220000 +0700" channel="AlJazeeraEnglish.id">
     <title lang="id">The Listening Post</title>
   </programme>
-  <programme start="20260506220000 +0700" stop="20260506230000 +0700" channel="AlJazeeraEnglish.id">
+  <programme start="20260506220000 +0700" stop="20260506233000 +0700" channel="AlJazeeraEnglish.id">
     <title lang="id">NewsHour</title>
-  </programme>
-  <programme start="20260506230000 +0700" stop="20260506233000 +0700" channel="AlJazeeraEnglish.id">
-    <title lang="id">News (L)</title>
   </programme>
   <programme start="20260506233000 +0700" stop="20260507000000 +0700" channel="AlJazeeraEnglish.id">
     <title lang="id">The Bottom Line</title>
