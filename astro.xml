@@ -234,6 +234,11 @@
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
+  <channel id="AstroDaebak">
+    <display-name lang="en">Astro Daebak</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/609_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
   <channel id="tvN">
     <display-name lang="en">tvN</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" />
@@ -302,6 +307,10 @@
   <channel id="CGTN">
     <display-name lang="en">CGTN</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/426_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="BeritaRTM">
+    <display-name lang="en">Berita RTM</display-name>
     <url>http://www.astro.com.my</url>
   </channel>
   <channel id="CNN">
@@ -484,6 +493,10 @@
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
+  <channel id="Sukan+">
+    <display-name lang="en">Sukan+</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
   <channel id="AstroGrandstand">
     <display-name lang="en">Astro Grandstand</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" />
@@ -517,6 +530,10 @@
   <channel id="AstroSportsPlus">
     <display-name lang="en">Astro Sports Plus</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroTennis">
+    <display-name lang="en">Astro Tennis</display-name>
     <url>http://www.astro.com.my</url>
   </channel>
   <channel id="W-Sport">
